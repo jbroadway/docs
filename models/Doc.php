@@ -155,7 +155,7 @@ class Doc {
 	/**
 	 * Make the HTML for a `[[Linked page]]` style link.
 	 */
-	public function make_link ($match, $type = null) {
+	public function make_link ($regs) {
 		$match = (is_array ($regs) && isset ($regs[2])) ? $regs[2] : $regs;
 		$type = (is_array ($regs) && isset ($regs[1])) ? $regs[1] : null;
 
