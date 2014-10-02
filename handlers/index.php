@@ -17,6 +17,7 @@ if (preg_match ('|^/docs/([0-9]+\.[0-9]+)$|', $_SERVER['REQUEST_URI'], $regs)) {
 
 $page->id = 'docs';
 $page->title = $doc->title ();
+$page->layout = Appconf::docs ('Docs', 'layout');
 $page->add_style ('/apps/docs/css/style.css');
 $page->add_script ('/js/jquery.cookie.js');
 $page->add_script ('/apps/docs/js/targets.js');

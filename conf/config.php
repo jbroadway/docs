@@ -10,6 +10,10 @@ title = Documentation
 
 include_in_nav = /docs
 
+; Layout to use for the docs.
+
+layout = default
+
 ; Default version to redirect to.
 
 default_version = 1.0
