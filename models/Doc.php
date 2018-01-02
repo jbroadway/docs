@@ -123,6 +123,13 @@ class Doc {
 			$out = preg_replace ('/^# ' . preg_quote ($this->title (), '/') . '/', '', $out);
 		}
 
+		// parse table macros
+		$out = preg_replace_callback (
+			'/^:(table|col|row|endtable)/im',
+			array ($this, 'make_table'),
+			$out
+		);
+
 		require_once ('apps/blog/lib/markdown.php');
 		$out = Markdown ($out);
 		
@@ -182,6 +189,24 @@ class Doc {
 		}
 		
 		return sprintf ('<a href="%s">%s</a>', $href, $text);
+	}
+	
+	/**
+	 * Make the HTML for the table macros (`:table`, `:row`, `:col`, and `:endtable`).
+	 */
+	public function make_table ($regs) {
+		switch (strtolower ($regs[0])) {
+			case ':table':
+				return '<table><tr><td>';
+			case ':row':
+				return '</td></tr><tr><td>';
+			case ':col':
+				return '</td><td>';
+			case ':endtable':
+				return '</td></tr></table>';
+			default:
+				return '';
+		}
 	}
 
 	/**
