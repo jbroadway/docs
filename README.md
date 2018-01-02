@@ -112,3 +112,40 @@ type of target, following by the target name.
 
 The first one is the default selected for new visitors, but it will set a
 cookie to remember your preferences across site visits in the same browser.
+
+### Tables
+
+Tables are very common in laying out documentation, but Markdown relying on
+raw HTML isn't very user friendly. We've added several macros that convert to
+HTML table tags:
+
+    :table
+    	First row, first column contents...
+    :col
+    	First row, second column contents...
+    :row
+    	Second row, first column contents...
+    :col
+    	Second row, second column contents...
+    :endtable
+
+This will be converted to the following HTML:
+
+	<table>
+		<tr>
+			<td>
+    			First row, first column contents...
+    		</td>
+    		<td>
+    			First row, second column contents...
+    		</td>
+    	</tr>
+    	<tr>
+    		<td>
+    			Second row, first column contents...
+    		</td>
+    		<td>
+    			Second row, second column contents...
+    		</td>
+    	</tr>
+    </table>
