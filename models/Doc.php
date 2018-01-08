@@ -123,15 +123,22 @@ class Doc {
 			$out = preg_replace ('/^# ' . preg_quote ($this->title (), '/') . '/', '', $out);
 		}
 
+		require_once ('apps/blog/lib/markdown.php');
+		$out = Markdown ($out);
+
 		// parse table macros
 		$out = preg_replace_callback (
-			'/^:(table|col|row|endtable)/im',
+			'/^\<p\>:(table|col|row|endtable)\<\/p\>/im',
 			array ($this, 'make_table'),
 			$out
 		);
-
-		require_once ('apps/blog/lib/markdown.php');
-		$out = Markdown ($out);
+		
+		// add anchors to headings
+		$out = preg_replace_callback (
+			'/^\<h([1-6])\>(.*)\<\/h[1-6]\>/im',
+			array ($this, 'anchor_headings'),
+			$out
+		);
 		
 		$targets = $this->targets ();
 
@@ -195,18 +202,25 @@ class Doc {
 	 * Make the HTML for the table macros (`:table`, `:row`, `:col`, and `:endtable`).
 	 */
 	public function make_table ($regs) {
-		switch (strtolower ($regs[0])) {
-			case ':table':
+		switch (strtolower ($regs[1])) {
+			case 'table':
 				return '<table><tr><td>';
-			case ':row':
+			case 'row':
 				return '</td></tr><tr><td>';
-			case ':col':
+			case 'col':
 				return '</td><td>';
-			case ':endtable':
+			case 'endtable':
 				return '</td></tr></table>';
 			default:
 				return '';
 		}
+	}
+	
+	/**
+	 * Add id attribute for #heading anchor links within pages.
+	 */
+	public function anchor_headings ($regs) {
+		return '<h' . $regs[1] . ' id="' . URLify::filter (trim ($regs[2])) . '">' . $regs[2] . '</h' . $regs[1] . '>';
 	}
 
 	/**
