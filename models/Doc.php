@@ -122,6 +122,13 @@ class Doc {
 		if ($strip_title) {
 			$out = preg_replace ('/^# ' . preg_quote ($this->title (), '/') . '/', '', $out);
 		}
+		
+		// parse simple macros
+		$out = preg_replace_callback (
+			'/^\s?:(nbsp|p) ?(.*?)/im',
+			array ($this, 'simple_macros'),
+			$out
+		);
 
 		require_once ('apps/blog/lib/markdown.php');
 		$out = Markdown ($out);
@@ -199,23 +206,39 @@ class Doc {
 	}
 	
 	/**
+	 * Render the HTML for simple macros (`:p`, `:nbsp`) which are parsed _before_ the
+	 * Markdown syntax is parsed.
+	 */
+	public function simple_macros ($regs) {
+		switch (strtolower ($regs[1])) {
+			case 'p':
+				return "\n<p>" . $regs[2] . "</p>\n";
+			case 'nbsp':
+				return "\n&nbsp;\n";
+			default:
+				return '';
+		}
+	}
+	
+	/**
 	 * Render the HTML for any macros (`:table`, `:row`, `:col`, `:endtable`, and `:gif`).
+	 * Regular macros are parsed _after_ the Markdown syntax is parsed.
 	 */
 	public function render_macros ($regs) {
 		switch (strtolower ($regs[2])) {
 			case 'table':
-				return '<table><tr><td>';
+				return '<table><tr><td ' . $regs[3] . '>' . PHP_EOL;
 			case 'row':
-				return '</td></tr><tr><td>';
+				return '</td></tr><tr><td ' . $regs[3] . '>' . PHP_EOL;
 			case 'col':
-				return '</td><td>';
+				return '</td><td ' . $regs[3] . '>' . PHP_EOL;
 			case 'endtable':
-				return '</td></tr></table>';
+				return '</td></tr></table>' . PHP_EOL;
 			case 'gif':
 				if (preg_match ('/\.mp4$/i', $regs[3])) {
-					return '<video autoplay loop muted><source src="' . $regs[3] . '" type="video/mp4" /></video>';
+					return '<video autoplay loop muted><source src="' . $regs[3] . '" type="video/mp4" /></video>' . PHP_EOL;
 				} else if (preg_match ('/\.gif$/i', $regs[3])) {
-					return '<img src="' . $regs[3] . '" />';
+					return '<img src="' . $regs[3] . '" />' . PHP_EOL;
 				}
 			default:
 				return '';
