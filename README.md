@@ -149,3 +149,19 @@ This will be converted to the following HTML:
     		</td>
     	</tr>
     </table>
+
+### Gifs
+
+Animated gifs are another common element in documentation, so we've added a `:gif`
+macro to make it easier to embed both regular `.gif` files as well as the more
+optimal `.mp4` versions via:
+
+	:gif /files/some-example.mp4
+	
+	:gif /files/some-example.gif
+
+The former will convert to an HTML5 `<video>` tag that plays muted, looping, and
+without player controls, to simulate a gif using an mp4 file which are often
+substantially smaller and more efficient.
+
+The latter will convert to a traditional `<img>` tag for the regular gif file.
