@@ -126,10 +126,10 @@ class Doc {
 		require_once ('apps/blog/lib/markdown.php');
 		$out = Markdown ($out);
 
-		// parse table macros
+		// parse macros
 		$out = preg_replace_callback (
-			'/^\<p\>:(table|col|row|endtable)\<\/p\>/im',
-			array ($this, 'make_table'),
+			'/^\<p\>:(table|col|row|endtable|gif) ?(.*)\<\/p\>/im',
+			array ($this, 'render_macros'),
 			$out
 		);
 		
@@ -199,9 +199,9 @@ class Doc {
 	}
 	
 	/**
-	 * Make the HTML for the table macros (`:table`, `:row`, `:col`, and `:endtable`).
+	 * Render the HTML for any macros (`:table`, `:row`, `:col`, `:endtable`, and `:gif`).
 	 */
-	public function make_table ($regs) {
+	public function render_macros ($regs) {
 		switch (strtolower ($regs[1])) {
 			case 'table':
 				return '<table><tr><td>';
@@ -211,6 +211,12 @@ class Doc {
 				return '</td><td>';
 			case 'endtable':
 				return '</td></tr></table>';
+			case 'gif':
+				if (preg_match ('/\.mp4$/i', $regs[2])) {
+					return '<video autoplay loop muted><source src="' . $regs[2] . '" type="video/mp4" /></video>';
+				} else if (preg_match ('/\.gif$/i', $regs[2])) {
+					return '<img src="' . $regs[2] . '" />';
+				}
 			default:
 				return '';
 		}
