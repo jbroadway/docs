@@ -128,7 +128,7 @@ class Doc {
 
 		// parse macros
 		$out = preg_replace_callback (
-			'/^\<p\>:(table|col|row|endtable|gif) ?(.*)\<\/p\>/im',
+			'/^(<p>)?:(table|col|row|endtable|gif) ?([^<]*)?(<\/p>)?/im',
 			array ($this, 'render_macros'),
 			$out
 		);
@@ -202,7 +202,7 @@ class Doc {
 	 * Render the HTML for any macros (`:table`, `:row`, `:col`, `:endtable`, and `:gif`).
 	 */
 	public function render_macros ($regs) {
-		switch (strtolower ($regs[1])) {
+		switch (strtolower ($regs[2])) {
 			case 'table':
 				return '<table><tr><td>';
 			case 'row':
@@ -212,10 +212,10 @@ class Doc {
 			case 'endtable':
 				return '</td></tr></table>';
 			case 'gif':
-				if (preg_match ('/\.mp4$/i', $regs[2])) {
-					return '<video autoplay loop muted><source src="' . $regs[2] . '" type="video/mp4" /></video>';
-				} else if (preg_match ('/\.gif$/i', $regs[2])) {
-					return '<img src="' . $regs[2] . '" />';
+				if (preg_match ('/\.mp4$/i', $regs[3])) {
+					return '<video autoplay loop muted><source src="' . $regs[3] . '" type="video/mp4" /></video>';
+				} else if (preg_match ('/\.gif$/i', $regs[3])) {
+					return '<img src="' . $regs[3] . '" />';
 				}
 			default:
 				return '';
