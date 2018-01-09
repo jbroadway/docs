@@ -150,6 +150,34 @@ This will be converted to the following HTML:
     	</tr>
     </table>
 
+You can also specify `<td>` attributes like this:
+
+	:table style="width: 25%"
+		Column one...
+	:col style="width: 75%"
+		Column two...
+	:endtable
+
+Two additional simple macros can also help with formatting tables. Here's a more
+complex table example:
+
+	:table style="width: 25%"
+		![Alt text](/path/to/reference-image.png)
+	:col style="width: 5%"
+		:nbsp
+	:col style="width: 70%"
+		:p Explanatory text goes here...
+	:endtable
+
+* `:nbsp` is converted to a non-breaking space (`&nbsp;`) with newlines padded around it.
+* `:p Some text` forces the line to be converted to a paragraph (`<p>`) tag even when Markdown
+  may not interpret it as such due to limited padding.
+
+Notice too that unlike the other macros, these macros can be indented. The reason is
+that these macros are parsed before the rest of the Markdown parsing, but the
+others are all parsed afterwards in order to allow Markdown to parse itself within
+the table cells.
+
 ### Gifs
 
 Animated gifs are another common element in documentation, so we've added a `:gif`
@@ -165,3 +193,6 @@ without player controls, to simulate a gif using an mp4 file which are often
 substantially smaller and more efficient.
 
 The latter will convert to a traditional `<img>` tag for the regular gif file.
+
+### Extra macros
+
