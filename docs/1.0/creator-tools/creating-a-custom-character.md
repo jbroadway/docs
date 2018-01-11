@@ -10,16 +10,29 @@ be made in character creation tools like [Adobe Fuse](http://www.adobe.com/ca/pr
 and [Mixamo](https://www.mixamo.com/#/), or in any 3D modelling program such as
 [Blender](https://www.blender.org/) or [Maya](https://www.autodesk.ca/en/products/maya/overview).
 
-## Importing the character into Flipside
+Character models must be exported in the FBX file format.
 
-1. Import your character model as an FBX by dragging the FBX file into your Unity project's **Project** pane.
-2. Select the character model in Unity's **Project** pane, and click on the **Rig** tab in the **Inspector** pane.
-3. In the **Animation Type** selection, choose **Humanoid** then click **Apply**.
-4. With your character selected in Unity's **Project** pane, go to Flipside Creator Tools > Create Character With Selected Model in the main menu.
-5. Go to Window > AssetBundle Browser and select the **Build** tab. Click **Build** to generate the asset bundle for your character.
-6. Log into your Flipside Creator Account at [www.flipsidexr.com/user](https://www.flipsidexr.com/user) and click on the **Characters** link.
-7. Find and upload the generated asset bundle file for your character.
-8. Relaunch the Flipside app to see your new character in the **Characters** palette.
+## Importing your character into Flipside
+
+1. Import your character's 3D model by dragging the FBX file into your Unity project's
+   **Project** pane.
+2. Select the character model in Unity's **Project** pane, then click on the **Rig** tab
+   in the **Inspector** pane.
+3. Set the **Animation Type** setting to **Humanoid** then click **Apply**.
+4. Select the character model in Unity's **Project** pane, then go to _Flipside Creator
+   Tools > Create Character With Selected Model_ in the application menu.
+5. Select your newly-generated character in Unity's **Hierarchy** pane then look at
+   the **Inspector** pane for the _Avatar Model References_ component. If it lists
+   any **TO DO List** items, follow the instructions for each one and click
+   **Fix References** after each to-do has been done.
+6. Go to _Window > AssetBundle Browser_ and select the **Build** tab. Click **Build**
+   to generate the asset bundle for your character.
+7. Log into your Flipside Creator Account at [www.flipsidexr.com/user](https://www.flipsidexr.com/user)
+   and click on the **Characters** link.
+8. Find and upload the generated asset bundle file for your character. It should be
+   in your project under the folder _AssetBundles/StandaloneWindows_ and named
+   something like _avatar-123-character-name_.
+9. Relaunch the Flipside app to see your new character in the **Characters** palette.
 
 ## Need help?
 
