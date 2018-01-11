@@ -21,6 +21,10 @@ and [Mixamo](https://www.mixamo.com/#/), or in any 3D modelling program such as
 7. Find and upload the generated asset bundle file for your character.
 8. Relaunch the Flipside app to see your new character in the **Characters** palette.
 
+## Need help?
+
+[Contact us](/contact) to help you create and import your own custom characters.
+
 ---
 
 Next: [[:Creating a custom set]]

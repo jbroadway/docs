@@ -11,28 +11,32 @@ area than your VR tracking space.
 
 ## Camera
 
-When you grab the camera from your right holster, it will open the handheld camera for
-you to use to capture footage and photos in Flipside.
+:table style="width: 25%"
 
-For more info, see the [[Handheld camera]] page.
+![Camera](/files/docs/graphics/model_selfie-camera.png)
 
-## Puppeteering
+:col style="width: 75%"
 
-When you grab the puppet from your left holster, you can use it to enter puppet mode.
-Squeeze the **index trigger** to enter puppet mode, and **release it** to exit puppet mode.
-When you exit puppet mode, you will immediately jump back into first-person perspective
-and control of your character.
+The handheld camera enables you capture footage and photos in Flipside. It is attached to your right holster.
 
-Let go of the puppet and it will disappear, but you can always grab it again from your
-left holster.
+See [[Handheld camera]].
 
-While puppeteering, your puppet hand controls the position of your character. Your head and
-free hand continue to control your character's head and other hand as usual, and your lip
-syncing and facial expressions continue to work as expected too.
+:endtable
 
-You can use your puppetting hand to jump or move around, and the feet will try to mimic
-walking as you move your character around the set.
+## Puppet
 
-You can also pick up and use props while puppeteering, and any props held in your free hand
-should continue to be held by the puppet and back to your full-body character after you
-leave puppet mode too.
+:table style="width: 25%"
+
+![Puppet](/files/docs/graphics/model_puppet.png)
+
+:col style="width: 75%"
+
+The puppet enables you to control your avatar as a miniature while you’re recording a show. It is attached to your left holster.
+
+See [[Puppeteering]].
+
+:endtable
+
+---
+
+Next: [[ Characters ]]
