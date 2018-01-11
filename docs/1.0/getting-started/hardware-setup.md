@@ -36,4 +36,4 @@ Visit [www.vive.com/us/enterprise](https://www.vive.com/us/enterprise/) for more
 
 ---
 
-Next: [[ Controller basics ]]
+Next: [[ What's new ]]
