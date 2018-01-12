@@ -1,6 +1,8 @@
 # What's new
 
-TO DO
+Check back here to learn about all the latest changes to Flipside.
+
+* [Alpha Update #1](/blog/post/14/flipside-alpha-update-1)
 
 ---
 
