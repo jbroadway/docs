@@ -10,9 +10,9 @@
       * [[> Dressing your set / Interactive props / Magic pencil ]]
     * [[> Dressing your set / Skies ]]
   * [[> Show tools ]]
-    * [[> Show tools / Video camera ]]
-    * [[> Show tools / Preview monitor ]]
-    * [[> Show tools / Teleprompter ]]
+    * [Video camera](/docs/1.0/building-your-set/show-tools#video-camera)
+    * [Preview monitors](/docs/1.0/building-your-set/show-tools#preview-monitors)
+    * [Teleprompter](/docs/1.0/building-your-set/show-tools#teleprompter)
   * [[> Using your own props ]]
     * [[> Using your own props / How to import props ]]
     * [[> Using your own props / How to import props ]]
