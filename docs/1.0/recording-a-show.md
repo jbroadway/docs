@@ -5,7 +5,7 @@
 * [[> Viewing your takes ]]
 * [[> Editing your show ]]
     * [[> Editing your show / Setting up OBS Studio ]]
-    * [[> Editing your show / Live edit mode ]]
+    * [[> Editing your show / Live Edit mode ]]
     * [[> Editing your show / Cutting cameras ]]
     * [[> Editing your show / Monitoring with external headphones ]]
     * [[> Editing your show / How to access your video files ]]
