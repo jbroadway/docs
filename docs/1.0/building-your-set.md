@@ -1,12 +1,12 @@
 # Building your set
 
   * [[> Dressing your set ]]
-    * [ Placing objects ](/docs/1.0/building-your-set/dressing-your-set#placing-objects)
-    * [ Resizing objects ](/docs/1.0/building-your-set/dressing-your-set#resizing-objects)
-    * [ Changing properties ](/docs/1.0/building-your-set/dressing-your-set#changing-properties)
-    * [ Deleting objects ](/docs/1.0/building-your-set/dressing-your-set#deleting-objects)
-    * [ Interactive props ](/docs/1.0/building-your-set/dressing-your-set#interactive-props)
-    * [ Skies ](/docs/1.0/building-your-set/dressing-your-set#skies)
+    * [[> Dressing your set / Placing objects ]]
+    * [[> Dressing your set / Resizing objects ]]
+    * [[> Dressing your set / Changing properties ]]
+    * [[> Dressing your set / Deleting objects ]]
+    * [[> Dressing your set / Interactive props ]]
+    * [[> Dressing your set / Skies ]]
   * [[> Show tools ]]
     * [[> Show tools / Video camera ]]
     * [[> Show tools / Preview monitor ]]
