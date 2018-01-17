@@ -15,8 +15,8 @@
     * [Teleprompter](/docs/1.0/building-your-set/show-tools#teleprompter)
   * [[> Using your own props ]]
     * [[> Using your own props / How to import props ]]
-    * [[> Using your own props / How to import props ]]
+    * [[> Using your own props / How to remove an imported props ]]
   * [[> How to make set building easy ]]
+    * [[> How to make set building easy / Moving your set ]]
     * [[> How to make set building easy / Scaling your set ]]
     * [[> How to make set building easy / Rotating your set ]]
-    * [[> How to make set building easy / Moving your set ]]
