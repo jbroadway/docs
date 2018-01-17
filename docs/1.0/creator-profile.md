@@ -15,7 +15,7 @@ Used to associate the custom characters and sets created through the
 
 ## Custom props
 
-Upload your own custom props as 3D models from any program.
+Upload your own custom props as 3D models from any program. See [[Building your set / Using your own props / How to import props]].
 
 ## Custom characters
 
@@ -27,16 +27,18 @@ Upload your own custom sets created with the [Flipside Creator Tools](/docs/1.0/
 
 ## Slideshow links
 
-Enter links to photos and videos for use in Flipside's slideshow feature.
+Enter links to photos and videos for use in Flipside's slideshow feature. See [[Building your set / Dressing your set / Interactive props / Slideshow ]].
 
 ## Teleprompter text
 
-Enter your script for use in Flipside's teleprompter feature.
+Enter your script for use in Flipside's teleprompter feature. See [Teleprompter](/docs/1.0/building-your-set/show-tools#teleprompter).
 
 ## Creator community
 
 A place where Flipside creators can report bugs, learn from each other, and share your
 ideas and creations with the community.
+
+[https://www.flipsidexr.com/community](https://www.flipsidexr.com/community)
 
 ---
 
