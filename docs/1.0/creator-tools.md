@@ -6,7 +6,7 @@ that enable creators to create custom characters and sets for their Flipside sho
 ## Installation
 
 1. Download and install the latest version of the [Unity game engine](https://unity3d.com/).
-2. [Click here to download the Flipside Creator Tools](/files/downloads/FlipsideCreatorTools-v0.3.unitypackage) (latest version is v0.3).
+2. [Click here to download the Flipside Creator Tools](/files/downloads/FlipsideCreatorTools-v0.4.unitypackage) (latest version is v0.4).
 3. Open Unity and create a new 3D project. The same project can be used to create all
    of your custom characters and sets.
 4. Import the Flipside Creator Tools package from step 2 by choosing _Assets > Import
@@ -14,6 +14,10 @@ that enable creators to create custom characters and sets for their Flipside sho
 
 After installing the Unity package, you should see a new **Flipside Creator Tools** menu
 item appear in Unity's application menu.
+
+## Upgrading
+
+To upgrade to a new version of the Flipside Creator Tools, download the latest version and import it into your Unity project via _Assets > Import Package > Custom Package_ in the Unity application menu.
 
 ## Setting your Flipside Creator ID
 
