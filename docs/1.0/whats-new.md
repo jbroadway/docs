@@ -3,7 +3,7 @@
 Check back here to learn about all the latest changes to Flipside.
 
 [Alpha Update #3](/blog/post/18/flipside-alpha-update-3)<br>
-<small><em>Feb 20, 2018</em></small><br>
+<small><em>Feb 21, 2018</em></small><br>
 Slideshow video fixes, eye movement fixes, magic pencil defaults to black, Unity upgrade to project and [[Creator Tools]], minor improvements.
 
 [Alpha Update #2](/blog/post/17/flipside-alpha-update-2)<br>
