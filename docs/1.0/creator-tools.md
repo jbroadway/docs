@@ -5,7 +5,7 @@ that enable creators to create custom characters and sets for their Flipside sho
 
 ## Installation
 
-1. Download and install the latest version of the [Unity game engine](https://unity3d.com/).
+1. Download and install version `2017.3.1p1` of the [Unity game engine](https://unity3d.com/unity/qa/patch-releases) (released on February 2nd, 2018).
 2. [Click here to download the Flipside Creator Tools](/files/downloads/FlipsideCreatorTools-v0.4.unitypackage) (latest version is v0.4).
 3. Open Unity and create a new 3D project. The same project can be used to create all
    of your custom characters and sets.
