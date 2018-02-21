@@ -1,7 +1,6 @@
 # Creator tools
 
-The Flipside Creator Tools are an extension for the [Unity game engine](https://unity3d.com/)
-that enable creators to create custom characters and sets for their Flipside shows.
+The Flipside Creator Tools are an extension for the Unity game engine that enable creators to create custom characters and sets for their Flipside shows.
 
 ## Installation
 
