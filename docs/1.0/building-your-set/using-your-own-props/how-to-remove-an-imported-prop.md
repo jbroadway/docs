@@ -15,4 +15,4 @@ include the removed props.
 
 ---
 
-Next: [[ Dressing your set / How to make set building easy ]]
+Next: [[ Building your set / How to make set building easy ]]
