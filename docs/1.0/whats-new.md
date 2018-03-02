@@ -2,6 +2,10 @@
 
 Check back here to learn about all the latest changes to Flipside.
 
+[Alpha Update #5](/blog/post/22/flipside-alpha-update-5)<br>
+<small><em>March 6, 2018</em></small><br>
+Major character importer improvements, texture fixes on imported props, three new characters, and other fixes/improvements.
+
 [Alpha Update #4](/blog/post/19/flipside-alpha-update-4)<br>
 <small><em>Feb 27, 2018</em></small><br>
 Two new characters, object highlighting, various bug fixes.
