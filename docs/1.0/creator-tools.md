@@ -17,6 +17,8 @@ After installing the Unity package, you should see a wizard appear over the **Sc
 
 ## Upgrading
 
+First, make sure you're on the correct version of Unity. You should be using version `2017.3.1p1` which can be [downloaded here](https://unity3d.com/unity/qa/patch-releases).
+
 To upgrade to a new version of the Flipside Creator Tools, download the latest version and import it into your Unity project via _Assets > Import Package > Custom Package_ in the Unity application menu.
 
 ## Setting your Flipside Creator ID
