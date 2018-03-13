@@ -4,7 +4,7 @@ The Flipside Creator Tools are an extension for the Unity game engine that enabl
 
 ## Installation
 
-1. Download and install version `2017.3.1p1` of the [Unity game engine](https://unity3d.com/unity/qa/patch-releases) (released on February 2nd, 2018).
+1. Download and install version `2017.3.1p1` of the [Unity game engine](https://unity3d.com/unity/qa/patch-releases) (released on February 2nd, 2018). _Note: If you're not on Windows, at the Choose Components selection of the installation make sure you check off Windows Build Support._
 2. [Click here to download the Flipside Creator Tools](/files/downloads/FlipsideCreatorTools-v0.5.unitypackage) (latest version is v0.5).
 3. Open Unity and create a new 3D project. The same project can be used to create all
    of your custom characters and sets.
