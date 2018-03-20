@@ -5,7 +5,7 @@ The Flipside Creator Tools are an extension for the Unity game engine that enabl
 ## Installation
 
 1. Download and install version `2017.3.1p1` of the [Unity game engine](https://unity3d.com/unity/qa/patch-releases) (released on February 2nd, 2018). _Note: If you're not on Windows, at the Choose Components selection of the installation make sure you check off Windows Build Support._
-2. [Click here to download the Flipside Creator Tools](/files/downloads/FlipsideCreatorTools-v0.5.unitypackage) (latest version is v0.5).
+2. [Click here to download the Flipside Creator Tools](/files/downloads/FlipsideCreatorTools-v0.6.unitypackage) (latest version is v0.6).
 3. Open Unity and create a new 3D project. The same project can be used to create all
    of your custom characters and sets.
 4. Import the Flipside Creator Tools package from step 2 by choosing _Assets > Import
@@ -19,7 +19,7 @@ After installing the Unity package, you should see a wizard appear over the **Sc
 
 First, make sure you're on the correct version of Unity. You should be using version `2017.3.1p1` which can be [downloaded here](https://unity3d.com/unity/qa/patch-releases).
 
-To upgrade to a new version of the Flipside Creator Tools, [download the latest version](/files/downloads/FlipsideCreatorTools-v0.5.unitypackage) (v0.5) and import it into your Unity project via _Assets > Import Package > Custom Package_ in the Unity application menu.
+To upgrade to a new version of the Flipside Creator Tools, [download the latest version](/files/downloads/FlipsideCreatorTools-v0.6.unitypackage) (v0.6) and import it into your Unity project via _Assets > Import Package > Custom Package_ in the Unity application menu.
 
 ## Setting your Flipside Creator ID
 
