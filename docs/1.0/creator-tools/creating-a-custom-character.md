@@ -29,6 +29,16 @@ Character models must be exported in the FBX file format.
    something like _avatar-123-character-name_.
 9. Relaunch the Flipside app to see your new character in the **Characters** palette.
 
+## Previewing your character before uploading
+
+In Unity, you can press Play at any time to preview your character in VR. You'll see your character standing in front of you in a T-pose. You can also test its movement to look for any issues with your rig, weight painting, or scale. The controls are as follows:
+
+* Keyboard: Press the spacebar to toggle animation
+* Oculus Touch: Press A or X to toggle animation
+* HTC Vive: Press the Application Menu button on either controller to toggle animation
+
+This helps reduce the time it takes to test your characters and see how they will feel in VR.
+
 ## Need help?
 
 [Contact us](/contact) to help you create and import your own custom characters.
