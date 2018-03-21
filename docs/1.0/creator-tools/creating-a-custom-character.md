@@ -14,20 +14,31 @@ Character models must be exported in the FBX file format.
 
 ## Importing your character into Flipside
 
-1. Import your character's 3D model by dragging the FBX file into your Unity project's
-   **Project** pane.
-2. Select the character model in Unity's **Project** pane, then click on the **Rig** tab
-   in the **Inspector** pane.
-3. Set the **Animation Type** setting to **Humanoid** then click **Apply**.
-4. Select the character model in Unity's **Project** pane, then click **Continue** in the **Import Your Character** wizard.
-5. Look for any instructions in the **Build Character** wizard and follow them to finish the setup of your character (e.g., lip syncing setup).
-6. Click **Continue** in the **Build Character** wizard to generate the asset bundle for your character.
-7. Log into your Flipside Creator Account at [www.flipsidexr.com/user](https://www.flipsidexr.com/user)
-   and click on the **Characters** link.
-8. Find and upload the generated asset bundle file for your character. It should be
-   in your project under the folder _AssetBundles/StandaloneWindows_ and named
-   something like _avatar-123-character-name_.
-9. Relaunch the Flipside app to see your new character in the **Characters** palette.
+1\. Import your character's 3D model by dragging the FBX file into your Unity project's **Project** pane.
+
+![Flipside Creator Tools - Set Humanoid](https://www.flipsidexr.com/files/docs/screenshots/1-set-humanoid.png)
+
+2\. Select the character model in Unity's **Project** pane, then click on the **Rig** tab in the **Inspector** pane.
+
+3\. Set the **Animation Type** setting to **Humanoid** then click **Apply**.
+
+![Flipside Creator Tools - Import Character](https://www.flipsidexr.com/files/docs/screenshots/2-import-character.png)
+
+4\. Select the character model in Unity's **Project** pane, then click **Continue** in the **Import Your Character** wizard.
+
+5\. Look for any instructions in the **Build Character** wizard and follow them to finish the setup of your character (e.g., lip syncing setup).
+
+![Flipside Creator Tools - Build Character](https://www.flipsidexr.com/files/docs/screenshots/3-build-character.png)
+
+6\. Click **Continue** in the **Build Character** wizard to generate the asset bundle for your character.
+
+![Flipside Creator Tools - Continue to Website](https://www.flipsidexr.com/files/docs/screenshots/4-continue-to-website.png)
+
+7\. Click **Continue to Website** in the **You're Done!** wizard to launch the Flipside Creator Dashboard. Log into your Flipside Creator Account to continue.
+
+8\. Click the **Add Character** link to add a new character. You can find your generated character file at the path specified in the **All Done!** wizard pane, which is in the __AssetBundles__ subfolder of your Unity project with a name like __avatar-123-character-name__ with no file extension.
+
+9\. Relaunch the Flipside app to see your new character in the **Characters** palette.
 
 ## Previewing your character before uploading
 
