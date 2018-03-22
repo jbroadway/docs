@@ -1,12 +1,12 @@
 # Installing Flipside Studio
 
---- Platform: Oculus Rift ---
-
-As an alpha tester, we have automatically added Flipside Studio to your Oculus account.  If your Oculus account does not use the same email that you signed up for early access with or you do not see Flipside Studio in your Oculus Home library, please contact [lesley@flipsidexr.com](mailto:lesley@flipsidexr.com).
-
 --- Platform: HTC Vive ---
 
 Flipside Studio is now available for free on [Steam Early Access](http://store.steampowered.com/app/495800/Flipside_Studio/).
+
+--- Platform: Oculus Rift ---
+
+As an alpha tester, we have automatically added Flipside Studio to your Oculus account.  If your Oculus account does not use the same email that you signed up for early access with or you do not see Flipside Studio in your Oculus Home library, please contact [lesley@flipsidexr.com](mailto:lesley@flipsidexr.com).
 
 --- /Platform ---
 
