@@ -1,9 +1,6 @@
 # Getting started
 
-Welcome to the Flipside user manual. Flipside is an animation studio that uses virtual
-reality hardware as a motion capture system. It is currently available in
-[early access](/early-access) and is compatible with the Oculus Rift and HTC Vive
-headsets.
+Welcome to the Flipside user manual. Flipside is a real-time animation studio that uses virtual reality hardware as a motion capture system. It is currently available on [Steam Early Access](http://store.steampowered.com/app/495800/Flipside_Studio/) and is compatible with the Oculus Rift, HTC Vive, and Windows Mixed Reality headsets.
 
 * [[> Notice to reader ]]
 * [[> Installing Flipside ]]
