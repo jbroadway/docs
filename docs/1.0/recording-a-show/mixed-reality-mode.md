@@ -1,6 +1,12 @@
 # Mixed Reality mode
 
-> Please note that this feature is currently only available on the HTC Vive.
+--- Platform: Oculus Rift ---
+
+> Note: Mixed Reality mode is only supported on the HTC Vive at this time.
+
+--- Platform: HTC Vive ---
+
+--- /Platform ---
 
 Mixed Reality mode lets you incorporate green screened actors and other real world elements into your Flipside video output. It does this by aligning an HTC Vive Tracker with a real-world camera, so that footage from both sources can be combined.
 
