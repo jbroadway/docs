@@ -9,3 +9,4 @@
     * [[> Editing your show / Cutting cameras ]]
     * [[> Editing your show / Monitoring with external headphones ]]
     * [[> Editing your show / How to access your video files ]]
+* [[> Mixed Reality mode ]]
