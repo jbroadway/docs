@@ -47,7 +47,7 @@ On the bottom-right, you'll see the regular Flipside Studio camera output. Using
 
 ## Re-calibrating your other Vive Trackers
 
-If you have additional Vive Trackers that you want to use to track your lower body, follow the [[ Characters / full-body tracking ]] instructions after you've entered Mixed Reality mode, so that Flipside Studio knows to exclude the camera tracker from the list of body trackers.
+If you have additional Vive Trackers that you want to use to track your lower body, follow the [[ Characters / full-body tracking ]] instructions _after you've entered Mixed Reality mode_, so that Flipside Studio knows to exclude the camera tracker from the list of body trackers.
 
 ---
 
