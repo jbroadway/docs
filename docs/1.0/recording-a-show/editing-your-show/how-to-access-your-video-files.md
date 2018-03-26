@@ -6,4 +6,4 @@ location.
 
 ---
 
-Next: [[ Handheld camera ]]
+Next: [[ Recording a show / Mixed Reality mode ]]
