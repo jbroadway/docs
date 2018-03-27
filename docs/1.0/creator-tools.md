@@ -2,10 +2,14 @@
 
 The Flipside Creator Tools are an extension for the Unity game engine that enable creators to create custom characters and sets for their Flipside shows.
 
+## Download
+
+Latest version: **[Flipside Creator Tools v0.7](/files/downloads/FlipsideCreatorTools-v0.7.unitypackage)**
+
 ## Installation
 
 1. Download and install version `2017.3.1p1` of the Unity game engine (downloads: [Windows](https://beta.unity3d.com/download/6c5ba423732e/UnityDownloadAssistant-2017.3.1p1.exe), [Mac](https://beta.unity3d.com/download/6c5ba423732e/UnityDownloadAssistant-2017.3.1p1.dmg)). _Note: If you're not on Windows, at the Choose Components selection of the installation make sure you check off Windows Build Support._
-2. [Click here to download the Flipside Creator Tools](/files/downloads/FlipsideCreatorTools-v0.6.unitypackage) (latest version is v0.6).
+2. Download the latest version of the Flipside Creator Tools.
 3. Open Unity and create a new 3D project. The same project can be used to create all
    of your custom characters and sets.
 4. Import the Flipside Creator Tools package from step 2 by choosing _Assets > Import
@@ -19,7 +23,7 @@ After installing the Unity package, you should see a wizard appear over the **Sc
 
 First, make sure you're on the correct version of Unity. You should be using version `2017.3.1p1` (downloads: [Windows](https://beta.unity3d.com/download/6c5ba423732e/UnityDownloadAssistant-2017.3.1p1.exe), [Mac](https://beta.unity3d.com/download/6c5ba423732e/UnityDownloadAssistant-2017.3.1p1.dmg)).
 
-To upgrade to a new version of the Flipside Creator Tools, [download the latest version](/files/downloads/FlipsideCreatorTools-v0.6.unitypackage) (v0.6) and import it into your Unity project via _Assets > Import Package > Custom Package_ in the Unity application menu.
+To upgrade to a new version of the Flipside Creator Tools, download the latest version and import it into your Unity project via _Assets > Import Package > Custom Package_ in the Unity application menu.
 
 ## Setting your Flipside Creator ID
 
