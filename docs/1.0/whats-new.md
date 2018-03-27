@@ -2,6 +2,14 @@
 
 Check back here to learn about all the latest changes to Flipside.
 
+[Alpha Update #7](/blog/post/25/flipside-alpha-update-7)<br>
+<small><em>March 27, 2018</em></small><br>
+Mixed Reality mode (preview), viking props, bug fixes, Oculus controls improved through SteamVR, updated [[Creator Tools]] with scale fixes.
+
+[Alpha Update #6](/blog/post/23/flipside-alpha-update-6)<br>
+<small><em>March 20, 2018</em></small><br>
+Stickman characters, character importer movement previews, character importer texture fixes.
+
 [Alpha Update #5](/blog/post/22/flipside-alpha-update-5)<br>
 <small><em>March 6, 2018</em></small><br>
 Major character importer improvements, texture fixes on imported props, three new characters, and other fixes/improvements.
