@@ -56,4 +56,4 @@ This helps reduce the time it takes to test your characters and see how they wil
 
 ---
 
-Next: [[:Creating a custom set]]
+Next: [[:Mapping facial expressions]]

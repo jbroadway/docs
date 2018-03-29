@@ -39,4 +39,5 @@ You should now be ready to begin using the Flipside Creator Tools.
 
 * [Using Adobe Mixamo to Rig a Character](https://www.youtube.com/watch?v=wgqLy_VgsFU)
 * [[> Creating a custom character ]]
+* [[> Mapping facial expressions ]]
 * _Creating a custom set_ (coming soon)
