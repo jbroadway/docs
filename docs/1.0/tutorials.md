@@ -56,6 +56,13 @@
 
 ## Creator Tools
 
+
+### Using the Creator tools
+
+<div class="video-wrapper"><iframe width="100%" height="100%" src="https://www.youtube.com/embed/b7znrpZHVzQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
+
+:nbsp
+
 ### Using Adobe Mixamo to rig a character
 
 <div class="video-wrapper"><iframe width="100%" height="100%" src="https://www.youtube.com/embed/wgqLy_VgsFU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
