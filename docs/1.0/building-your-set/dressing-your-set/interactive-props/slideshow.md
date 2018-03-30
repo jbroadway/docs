@@ -51,6 +51,24 @@ To go to the previous image/video in your slideshow, **press the left arrow key 
 
 --- /Platform ---
 
+## Supported formats
+
+Photo:
+
+* JPG
+* PNG
+
+Video:
+
+* MP4
+* OGG
+* WEBM
+* RTMP (Live stream)
+* RTSP (Live stream)
+* YouTube (Use the short format `https://youtu.be/pSldv8oOGgw` from the Share button. Private and live videos not supported.)
+
+> Note: YouTube links and live streams incur an additional delay, making precise timing difficult.
+
 ---
 
 Next: [[: Magic pencil ]]
