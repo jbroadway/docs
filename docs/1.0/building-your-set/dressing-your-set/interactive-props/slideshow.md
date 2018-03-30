@@ -65,7 +65,7 @@ Video:
 * WEBM
 * RTMP (Live stream)
 * RTSP (Live stream)
-* YouTube (Use the short format, e.g., `https://youtu.be/pSldv8oOGgw`, from the Share button. Private and live videos not supported.)
+* YouTube (Use the short format, e.g., `https://youtu.be/pSldv8oOGgw`, available via the Share button. Private and live videos not supported.)
 
 > Note: YouTube links and live streams incur an additional delay, making precise timing difficult.
 
