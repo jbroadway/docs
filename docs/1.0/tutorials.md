@@ -69,6 +69,12 @@
 
 :nbsp
 
+### Preparing an Adobe Fuse model for Flipside Studio
+
+<div class="video-wrapper"><iframe width="100%" height="100%" src="https://www.youtube.com/embed/DAC3bVOC4iw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
+
+:nbsp
+
 ---
 
 Next: [[ Controller basics ]]
