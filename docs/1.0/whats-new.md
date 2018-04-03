@@ -2,6 +2,10 @@
 
 Check back here to learn about all the latest changes to Flipside.
 
+[Alpha Update #8](/blog/post/26/flipside-alpha-update-8)<br>
+<small><em>April 3, 2018</em></small><br>
+Slideshow plays YouTube, live streams, hand fixes, holding props on start of recordings, Twitter sharing improved, and other bug fixes.
+
 [Alpha Update #7](/blog/post/25/flipside-alpha-update-7)<br>
 <small><em>March 27, 2018</em></small><br>
 Mixed Reality mode (preview), viking props, bug fixes, Oculus controls improved through SteamVR, updated [[Creator Tools]] with scale fixes.
