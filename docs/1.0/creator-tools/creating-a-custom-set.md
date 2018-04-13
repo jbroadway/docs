@@ -13,9 +13,7 @@ even automatically triggered animations and sounds.
 
 Sets have a specific scene hierarchy, which looks like this:
 
-    Set Name
-        Contents
-            Your Set Elements Go Here
+![Set hierarchy](https://www.flipsidexr.com/files/docs/screenshots/set-hierarchy.png)
 
 This is all that's technically needed for a set to work, but we'll go over several features
 that make it more useful for you.
