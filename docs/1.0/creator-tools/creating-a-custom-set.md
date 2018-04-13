@@ -47,6 +47,13 @@ in Windows Explorer so you can more easily find it when uploading it to your Cre
 
 There are several aspects of customizing a set, which are broken down into the following sections:
 
+### Set name and attribution
+
+Click on the root object of your set in the **Hierarchy** window and over in the **Inspector** window
+you'll see the **Set Info** component. Here you can change the name of your set, as well as settings
+like attribution and lighting. The set name and attribution fields are displayed on the set's card
+in the Sets palette in Flipside Studio.
+
 ### Teleport area
 
 Flipside defines where you can teleport within your set using Unity's NavMesh feature. If you look
@@ -105,7 +112,35 @@ scene hierarchy:
 
 ![SetInfo component](https://www.flipsidexr.com/files/docs/screenshots/setinfo-component.png)
 
-...
+#### Sky ID
+
+Skies in Flipside are separated from sets so that you can do things like change from day to night
+on the same physical set. The **Sky ID** field sets the default sky to use when first loading the
+set.
+
+You can find the ID for each of your custom skies, as well as Flipside's built-in skies, on the
+[skies page](https://www.flipsidexr.com/skies) of your Creator Dashboard.
+
+#### Lighting mode
+
+There are three supported options for **Lighting Mode**, which determine the scene's ambient lighting source:
+
+1. Flat - A single flat color affects the ambient lighting.
+2. Trilight - Three colors that make up the sky, equator, and ground affect the ambient lighting.
+3. Skybox - The current sky affects the ambient lighting.
+
+The next section, **Flat Ambient Light Color**, lets you set the flat color value, which will only affect
+your set if **Lighting Mode** is set to **Flat**.
+
+The **Triling Ambient Colors** section lets you specify your sky, equator, and ground colors, and will
+also only affect your set if **Lighting Mode** is set to **Trilight**.
+
+Lastly, there is an **Ambient Intensity** setting, which can contain any value from 0 to 1. This
+affects how intense the ambient lighting should appear.
+
+> Note: Unity has its own lighting settings in the **Lighting** window, but the settings above
+> will automatically override the settings found in the **Lighting** window on import, and whenever
+> you press **Play** to preview your set.
 
 ---
 
