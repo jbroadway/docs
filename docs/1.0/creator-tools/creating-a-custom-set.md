@@ -15,7 +15,7 @@ Sets have a specific scene hierarchy, which looks like this:
 
     Set Name
         Contents
-		    Your Set Elements Go Here
+            Your Set Elements Go Here
 
 This is all that's technically needed for a set to work, but we'll go over several features
 that make it more useful for you.
