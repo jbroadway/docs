@@ -138,9 +138,9 @@ also only affect your set if **Lighting Mode** is set to **Trilight**.
 Lastly, there is an **Ambient Intensity** setting, which can contain any value from 0 to 1. This
 affects how intense the ambient lighting should appear.
 
-> Note: Unity has its own lighting settings in the **Lighting** window, but the settings above
-> will automatically override the settings found in the **Lighting** window on import, and whenever
-> you press **Play** to preview your set.
+> **Note:** Unity has its own lighting settings in the **Lighting** window, but the settings above will
+> automatically override the settings found in the **Lighting** window on import into Flipside Studio,
+> and when you press **Play** to preview your set.
 
 ---
 
