@@ -13,8 +13,8 @@ even automatically triggered animations and sounds.
 
 Sets have a specific scene hierarchy, which looks like this:
 
-    Scene Name (SetInfo)
-        Contents (NavMeshSurface)
+    Set Name
+        Contents
 		    Your Set Elements Go Here
 
 This is all that's technically needed for a set to work, but we'll go over several features
@@ -83,6 +83,18 @@ window, then choose the type of element that it is. There are four static elemen
 4. Seat
 
 ### Prop elements
+
+The Flipside Creator Tools also let you specify certain movable elements of your set. These act like
+props that are built right into your set.
+
+![PropElement component](https://www.flipsidexr.com/files/docs/screenshots/prop-elements.png)
+
+To mark an object as a prop element, add a **Prop Element** component to it in the **Inspector**
+window. Currently the only option a prop has is whether it is affected by gravity or not.
+
+You'll also notice that when you add a **Prop Element** component, a **Nav Mesh Modifier** is also
+added for you automatically with its **Ignore From Build** setting checked. This ensures that props
+won't accidentally be included in your teleport area.
 
 ### Lighting and sky
 
