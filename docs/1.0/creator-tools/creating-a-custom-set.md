@@ -96,6 +96,17 @@ won't accidentally be included in your teleport area.
 
 ### Lighting and sky
 
+Lighting is a complex topic that's too big to cover here, but we will go over the available lighting
+options in the Flipside Creator Tools. You are free to use Unity's baked lighting to control how
+your sets look to a great degree, but not every lighting setting will import into Flipside just yet.
+
+Here are the lighting settings, found on the **Set Info** component on the root set object in your
+scene hierarchy:
+
+![SetInfo component](https://www.flipsidexr.com/files/docs/screenshots/setinfo-component.png)
+
+...
+
 ---
 
 Next: [[ Tips and tricks ]]
