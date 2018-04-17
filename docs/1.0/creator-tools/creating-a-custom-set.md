@@ -101,6 +101,14 @@ You'll also notice that when you add a **Prop Element** component, a **Nav Mesh 
 added for you automatically with its **Ignore From Build** setting checked. This ensures that props
 won't accidentally be included in your teleport area.
 
+### Audience
+
+Sets in Flipside include an **Audience** object that marks where your in-VR audience will appear when
+that feature of Flipside Studio is added. You can adjust its position to appear anywhere on set, but
+you can only rotate it so it remains upright in order to maintain audience comfort. You can also adjust
+its scale so the audience can be larger or smaller than the set, creating an interesting effect for
+your viewers.
+
 ### Lighting and sky
 
 Lighting is a complex topic that's too big to cover here, but we will go over the available lighting
