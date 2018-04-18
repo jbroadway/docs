@@ -101,6 +101,12 @@ You'll also notice that when you add a **Prop Element** component, a **Nav Mesh 
 added for you automatically with its **Ignore From Build** setting checked. This ensures that props
 won't accidentally be included in your teleport area.
 
+> Note: Props brought in as part of a set behave a little differently than props imported on their own.
+> They don't appear in the Set Builder palette, but rather where you placed them in the set itself,
+> however you _can_ move them around in the Set Builder within Flipside Studio and it will remember their
+> new location. But you can't remove them from the set, or add more instances of them like you can with
+> imported props. This may change in a future update.
+
 ### Audience
 
 Sets in Flipside include an **Audience** object that marks where your in-VR audience will appear when
