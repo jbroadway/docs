@@ -113,6 +113,19 @@ type of target, following by the target name.
 The first one is the default selected for new visitors, but it will set a
 cookie to remember your preferences across site visits in the same browser.
 
+To link directly to a target, which will set that target as the user's chosen
+default, add the following to your links:
+
+    ?docs:platform=windows
+
+Make both sides lowercase, and if your values contain spaces then replace them
+with hyphens, for example:
+
+    <a href="/docs/1.0/hardware-setup?docs:hardware=oculus-rift">Oculus Rift setup</a>
+
+If your target is defined as `--- Hardware: Oculus Rift ---`, the above link
+will set that choice for your users.
+
 ### Tables
 
 Tables are very common in laying out documentation, but Markdown relying on

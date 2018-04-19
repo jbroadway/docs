@@ -21,8 +21,18 @@ var targets = (function ($) {
 		self.opts = $.extend (defaults, opts);
 		
 		for (var label in self.opts.targets) {
+
 			var lower = self.make_id (label),
 				selected = $.cookie (self.opts.cookie_prefix + lower);
+
+			// Check for targets in URL
+			var url = new URL (window.location.href);
+			var val = url.searchParams.get ('docs:' + lower);
+			if (val) {
+				$.cookie (self.opts.cookie_prefix + lower, val, { expires: 90, path: '/' });
+				window.location = window.location.href.substring (0, window.location.href.indexOf ('?'));
+				return;
+			}
 
 			select = '<p><span id="target-select-label-' + lower + '" class="target-select-label">' + label + ':</span> '
 				+ '<select id="target-select-' + lower + '" class="target-select" data-label="' + lower + '">';
@@ -48,7 +58,7 @@ var targets = (function ($) {
 			var label = $(this).data ('label'),
 				value = $(this).val ();
 
-			$.cookie (self.opts.cookie_prefix + label, value, { expires: 90, path: '/' });
+			$.cookie (self.opts.cookie_prefix + lower, value, { expires: 90, path: '/' });
 
 			$('.target-' + label).fadeOut ('fast', function () {
 				$('#target-' + label + '-' + value).fadeIn ('fast');
