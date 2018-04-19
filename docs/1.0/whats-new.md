@@ -2,6 +2,10 @@
 
 Check back here to learn about all the latest changes to Flipside.
 
+[Alpha Update #9](/blog/post/28/flipside-alpha-update-9)<br>
+<small><em>April 10, 2018</em></small><br>
+Import 360 photos as custom skies, improved keyboard camera controls, transparency on imported props, slideshow fixes for real-time streaming, and other fixes.
+
 [Alpha Update #8](/blog/post/26/flipside-alpha-update-8)<br>
 <small><em>April 3, 2018</em></small><br>
 Slideshow plays YouTube, live streams, hand fixes, holding props on start of recordings, Twitter sharing improved, and other bug fixes.

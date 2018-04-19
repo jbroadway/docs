@@ -37,7 +37,7 @@ To upgrade to a new version of the Flipside Creator Tools, download the latest v
 
 You should now be ready to begin using the Flipside Creator Tools.
 
-* [Using Adobe Mixamo to rig a character](https://www.youtube.com/watch?v=wgqLy_VgsFU)
+* [Using Adobe Mixamo to rig a character](/blog/post/30/using-adobe-mixamo-rig-custom-character-flipside)
 * [[> Creating a custom character ]]
 * [[> Mapping facial expressions ]]
-* _Creating a custom set_ (coming soon)
+* [[> Creating a custom set ]]
