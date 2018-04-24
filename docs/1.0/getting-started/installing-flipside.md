@@ -6,7 +6,7 @@ Flipside Studio is now available for free on [Steam Early Access](http://store.s
 
 --- Platform: Oculus Rift ---
 
-As an alpha tester, we have automatically added Flipside Studio to your Oculus account.  If your Oculus account does not use the same email that you signed up for early access with or you do not see Flipside Studio in your Oculus Home library, please contact [lesley@flipsidexr.com](mailto:lesley@flipsidexr.com).
+Flipside Studio is now available for free on [Oculus Early Access](https://www.oculus.com/experiences/rift/750910405009643/).
 
 --- /Platform ---
 
