@@ -27,7 +27,9 @@ Software:
 
 The first step is to attach the Vive Tracker to your camera. Once attached, you can use the LIV VIVR app to calibrate the position and rotation offset between the Vive Tracker and your camera. This helps align your real and virtual cameras.
 
-Once you've run through the VIVR setup, launch the LIV Client app and go to _Camera > Edit > Calibration_ and paste the contents of the **externalcamera.cfg** file that VIVR generated. This will ensure that the camera calibration data is carried over into the next steps.
+Once you've run through the VIVR setup, VIVR will have generated an **externalcamera.cfg** file for you. Copy this file into your _SteamLibrary/steamapps/common/Flipside_ folder so that Flipside Studio can read your camera configuration data.
+
+You can also enter the contents of this file into the LIV Client app under _Camera > Edit > Calibration_ as an optional step.
 
 ## Starting Mixed Reality mode
 
