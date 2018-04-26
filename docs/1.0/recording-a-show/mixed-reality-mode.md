@@ -51,6 +51,15 @@ On the bottom-right, you'll see the regular Flipside Studio camera output. Using
 
 If you have additional Vive Trackers that you want to use to track your lower body, follow the [[ Characters / full-body tracking ]] instructions _after you've entered Mixed Reality mode_, so that Flipside Studio knows to exclude the camera tracker from the list of body trackers.
 
+## Troubleshooting
+
+If you don't see the **Mixed Reality** button on the underside of the Recordings palette, double-che
+ck the following things:
+
+1. Make sure your Vive Tracker is turned on before launching Flipside Studio.
+2. Make sure the **externalcamera.cfg** file is in the same folder as the **Flipside - HTC Vive.exe** file in your Steam library.
+3. Make sure you're on the **Recordings** palette, since the options change depending on the palette that's active.
+
 ---
 
 Next: [[ Handheld camera ]]
