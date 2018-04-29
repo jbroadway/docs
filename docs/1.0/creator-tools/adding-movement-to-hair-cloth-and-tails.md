@@ -1,8 +1,10 @@
-# Dynamic Bone Setup
+# Adding movement to hair, cloth, and tails
 
-## Adding Dynamic Bones
+Flipside supports the ability to add natural physical movement to hair, cloth, and extra limbs such as tails on characters using a 3rd party plugin called [Dynamic Bone](https://assetstore.unity.com/packages/tools/animation/dynamic-bone-16743).
 
-Here is a quick overview of how to integrate the [Dynamic Bone](https://assetstore.unity.com/packages/tools/animation/dynamic-bone-16743) Plugin with your custom Flipside characters.
+## Adding dynamic bones
+
+Here is a quick overview of how to integrate Dynamic Bone into your custom Flipside characters.
 
 1\. You will need to own a copy of the [Dynamic Bone](https://assetstore.unity.com/packages/tools/animation/dynamic-bone-16743) asset to use this integration.
 
@@ -33,3 +35,6 @@ Here is a quick overview of how to integrate the [Dynamic Bone](https://assetsto
 ![Dynamic Bone Step 4](/files/docs/screenshots/PasteComponent.png)
 
 6\. You are finished! At this point you can build your character by clicking **Rebuild Character Bundle**.
+
+---
+> Next: [[: Fixing forearm twisting ]]
