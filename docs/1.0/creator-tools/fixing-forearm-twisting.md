@@ -19,3 +19,7 @@ Flipside supports the following two structures for wrist twist bones. If your ch
 > Be sure that it is not being controlled by mecanim.
 
 ![Twist Bone Mecanim](/files/docs/screenshots/HierarchicalBoneMapping.png)
+
+---
+
+Next: [[:Creating a custom set]]
