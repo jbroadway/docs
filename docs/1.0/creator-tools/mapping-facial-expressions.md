@@ -53,4 +53,4 @@ Here's a quick overview of how to map blend shapes in the [Flipside Creator Tool
 
 ---
 
-Next: [[:Creating a custom set]]
+Next: [[:Adding movement to hair, cloth, and tails]]
