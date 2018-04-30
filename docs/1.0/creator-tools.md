@@ -6,6 +6,8 @@ The Flipside Creator Tools are an extension for the Unity game engine that enabl
 
 Latest version: **[Flipside Creator Tools v0.9](/files/downloads/FlipsideCreatorTools-v0.9.unitypackage)**
 
+## Contents
+
 * [[> Installation and setup ]]
 * [[> Creating a custom character ]]
   * [Using Adobe Mixamo to rig a character](/blog/post/30/using-adobe-mixamo-rig-custom-character-flipside)
