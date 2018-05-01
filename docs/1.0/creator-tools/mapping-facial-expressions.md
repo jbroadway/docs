@@ -1,5 +1,15 @@
 # Mapping facial expressions
 
+Flipside's facial expression engine can animate your characters' faces in a variety of ways, including eyes (movement and blinking), facial expressions (happy, sad, surprised, angry), and lip syncing as you speak.
+
+In the [Flipside Creator Tools](/docs/1.0/creator-tools) this is mapped to your character in its **Avatar Model References** component, found in the Unity inspector window when you open your character's scene and click on the root of your character in the scene hierarchy.
+
+There are three methods of mapping facial expressions:
+
+1. [Blend shape mapping](#blend-shape-mapping) - Maps facial expressions to various preset shapes on your character model's face that represent each facial expression, eye blink state, and lip sync [viseme](https://en.wikipedia.org/wiki/Viseme).
+2. [Simplified blend shape mapping](#simplified-blend-shape-mapping) - Blend shape mapping with only one shape for lip syncing representing an open mouth state. Great for Muppet-style animation!
+3. [Texture mapping](#texture mapping) - Maps lip syncing to a series of textures that represent your character's face in that position. Ideal for that classic cartoon feel!
+
 ## Blend shape mapping
 
 Here's a quick overview of how to map blend shapes in the [Flipside Creator Tools](/docs/1.0/creator-tools).
@@ -8,7 +18,7 @@ Here's a quick overview of how to map blend shapes in the [Flipside Creator Tool
 
 2\. Expand your character's root object by clicking the arrow next to it in the Hierarchy pane, if it's not already expanded.
 
-![Blend shape mapping - step 1](/files/docs/temp/blend-shape-mapping-step-1.png)
+![Blend shape mapping - step 1](https://www.flipsidexr.com/files/docs/temp/blend-shape-mapping-step-1.png)
 
 3\. In the Inspector pane, click on the **Skinned Mesh Renderer** referenced in the **Mesh** setting of the **Avatar Model References** component to find the object within your character's hierarchy that has a **Skinned Mesh Renderer** component with a **BlendShapes** list.
 
@@ -16,15 +26,25 @@ Here's a quick overview of how to map blend shapes in the [Flipside Creator Tool
 
 4\. Expand the **BlendShapes** list if necessary, then take note of the order of their names. Number them starting from zero. You'll use these numbers in the **Blend Shape Mappings** you saw earlier.</p>
 
-![Blend shape mapping - step 2](/files/docs/temp/blend-shape-mapping-step-2.png)
+![Blend shape mapping - step 2](https://www.flipsidexr.com/files/docs/temp/blend-shape-mapping-step-2.png)
 
 5\. Click on the root object of your character in the Hierarchy pane to get back to the **Blend Shape Mappings** under **Avatar Model References** in the Inspector pane. Enter the number of the blend shape that best matches each name in the **Blend Shape Mappings** list.</p>
 
-![Blend shape mapping - step 3](/files/docs/temp/blend-shape-mapping-step-3.png)
+![Blend shape mapping - step 3](https://www.flipsidexr.com/files/docs/temp/blend-shape-mapping-step-3.png)
 
 ### Blend shape mapping tips
 
 * If your character model doesn't have a blend shape that matches one in the **Blend Shape Mappings** list, you can enter `"-1"` or leave it empty.</li><li>Some names in the **Blend Shape Mappings** may map to more than one shape. For example, you may only have a **Smile Left** and **Smile Right**, but no single **Smile/Happy** blend shape. In this case, enter the matching numbers for left and right, but enter the two numbers separated by a comma in the **Happy Shape** input (e.g., `"12,13"`).
+
+## Simplified blend shape mapping
+
+This method is almost the same as standard [blend shape mapping](#blend-shape-mapping), except it only uses one shape for lip syncing which represents the "open mouth" state.
+
+![Simplified blend shape mapping](https://www.flipsidexr.com/files/docs/screenshots/simplified-blend-shapes.png)
+
+The other features like eye movement, blinking, and facial expressions (happy, sad, surprised, angry) all work exactly the same as the standard blend shape mapping.
+
+Since this method only uses the concept of mouth open/closed, it works great for animating Muppet-style characters.
 
 ## Texture mapping
 
