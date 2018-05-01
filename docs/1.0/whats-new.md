@@ -2,6 +2,10 @@
 
 Check back here to learn about all the latest changes to Flipside.
 
+[Alpha Update #10](/blog/post/29/flipside-alpha-update-10)<br>
+<small><em>May 2, 2018</em></small><br>
+Import your own custom sets! Realistic hair, cloth, and tail movement. Simplified lip syncing, toggle camera shake, improved teleporter, and many many bug fixes.
+
 [Alpha Update #9](/blog/post/28/flipside-alpha-update-9)<br>
 <small><em>April 10, 2018</em></small><br>
 Import 360 photos as custom skies, improved keyboard camera controls, transparency on imported props, slideshow fixes for real-time streaming, and other fixes.
