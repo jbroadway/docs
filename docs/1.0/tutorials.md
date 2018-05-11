@@ -33,6 +33,12 @@ The following tutorials will guide you through the process of recording a show i
 
 :nbsp
 
+### Using OBS to record video of or live stream your show
+
+<div class="video-wrapper"><iframe width="100%" height="100%" src="https://www.youtube.com/embed/LCYsQ__nVGo" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
+
+:nbsp
+
 
 ## Characters
 
