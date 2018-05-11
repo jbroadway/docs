@@ -1,8 +1,8 @@
 # Setting up OBS Studio
 
-<div class="video-wrapper"><iframe width="100%" height="100%" src="https://www.youtube.com/embed/LCYsQ__nVGo" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
-
 Flipside uses OBS Studio to record the non-VR version of your show.  
+
+<div class="video-wrapper"><iframe width="100%" height="100%" src="https://www.youtube.com/embed/LCYsQ__nVGo" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
 
 **To set up OBS Studio, follow the steps below:**
 
