@@ -8,7 +8,7 @@ Flipside uses OBS Studio to record the non-VR version of your show.
 
 1. Download and install OBS Studio
    * Go to [OBS Studio](https://obsproject.com/download), download the latest version of the program and install it.
-   * Make sure that the [obs-websocket plugin](https://obsproject.com/forum/resources/obs-websocket-remote-control-of-obs-studio-made-easy.466/update?update=1492) is installed with authentication disabled.
+   * Make sure that the [obs-websocket plugin](https://obsproject.com/forum/resources/obs-websocket-remote-control-of-obs-studio-made-easy.466/) is installed with authentication disabled.
 2. Launch Flipside
 3. Launch OBS Studio
 4. Add your video source to OBS
