@@ -61,7 +61,7 @@ To go to the previous image/video in your slideshow, **press the left arrow key 
 
 1. Once the slideshow prop is in your scene, go back to the Show Tools category of the Set Builder palette.
 2. Pull the slideshow controller prop into your scene,
-3. Use the **next**, **previous**, **first slide**, and **last slide** buttons to control the slideshow.
+3. Use the **next (>)**, **previous (<)**, **first slide**, and **last slide** buttons to control the slideshow.
 
 :gif /files/blog/Update-12_slideshow-controller.mp4
 
