@@ -79,7 +79,7 @@ The teleprompter can be controlled by your computer's keyboard or by using the t
 
 ## Twitch Chat
 
-The Twitch Chat prop lets you view and display your Twitch channel's chat conversation inside your Flipside shows.
+The Twitch Chat prop lets you view and display your Twitch channel's chat inside your Flipside shows.
 
 **To connect a Twitch channel with the Twitch Chat prop, follow these steps:** 
 
