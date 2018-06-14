@@ -21,6 +21,12 @@ Once your images/video links are added to the Flipside website, select the Show 
 
 :endtable
 
+### Controlling the slideshow
+
+The slideshow can be controlled with your headset's controller or by using the slideshow controller prop found in the Show Tools category of the Set Builder palette.
+
+**To control your slidshow with your headset's controller, use the following buttons:**
+
 --- Platform: Oculus Rift ---
 
 :table style="width: 15%"
@@ -50,6 +56,14 @@ To go to the next image/video in your slideshow, **press the right arrow key on 
 To go to the previous image/video in your slideshow, **press the left arrow key on your keyboard.**
 
 --- /Platform ---
+
+**To control your slideshow with the slideshow controller prop, follow these steps:**
+
+1. Once the slideshow prop is in your scene, go back to the Show Tools category of the Set Builder palette.
+2. Pull the slideshow controller prop into your scene,
+3. Use the **next**, **previous**, **first slide**, and **last slide** buttons to control the slideshow.
+
+:gif /files/blog/Update-12_slideshow-controller.mp4
 
 ## Supported formats
 
