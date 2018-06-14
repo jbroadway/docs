@@ -76,6 +76,21 @@ The teleprompter can be controlled by your computer's keyboard or by using the t
 
 > **Important Note:** Your teleprompter will not show up in your recording.  If you want it to, see [Recording the Flipside User Interface](/docs/1.0/tips-and-tricks#recording-the-flipside-user-interface).
 
+
+## Twitch Chat
+
+The Twitch Chat prop lets you view and display your Twitch channel's chat conversation inside your Flipside shows.
+
+**To connect a Twitch channel with the Twitch Chat prop, follow these steps:** 
+
+1. Go to the Show Tools category of the Set Builder palette and add the Twitch Chat prop to your scene.
+2. Click on the text box under the **Select Channel** heading of the Twitch Chat prop.
+3. Using your computer's keyboard, type in the channel name.
+4. Press **Join** on the Twitch Chat prop to see a feed of the channel's chat.
+
+:gif /files/FS_update11_TwitchChat.mp4
+
+
 ---
 
 Next: [[: Using your own props ]]
