@@ -67,7 +67,7 @@ The teleprompter can be controlled by your computer's keyboard or by using the t
 
 **To control your teleprompter with the teleprompter controller prop, follow these steps:**
 
-1. Once the teleprompter prop is in you scene, go back to the Show Tools category of the Set Builder palette.
+1. Once the teleprompter prop is in your scene, go back to the Show Tools category of the Set Builder palette.
 2. Pull the teleprompter controller prop into your scene,
 3. Use the **next**, **previous**, **first page**, and **last page** buttons to control the teleprompter.
 
