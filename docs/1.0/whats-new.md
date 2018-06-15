@@ -2,6 +2,10 @@
 
 Check back here to learn about all the latest changes to Flipside.
 
+[Alpha Update #12](/blog/post/40/flipside-alpha-update-12)<br>
+<small><em>June 15, 2018</em></small><br>
+Shared characters and sets! In-VR slideshow and teleprompter controllers! Actor marks for easier setup of shots and knowing where to stand, lots of bug fixes, and our first Flipside contest!
+
 [Alpha Update #11](/blog/post/34/flipside-alpha-update-11)<br>
 <small><em>May 18, 2018</em></small><br>
 New characters! A giraffe, an elephant, and a goblin! Twitch chat panel for interacting with Twitch audiences, improved loading notices and alerts, fixed lip sync playback bug, wonky knees, and hand positioning for Vive users.
