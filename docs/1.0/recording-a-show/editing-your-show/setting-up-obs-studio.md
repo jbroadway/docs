@@ -18,7 +18,7 @@ Flipside uses OBS Studio to record the non-VR version of your show.
 5. Add your audio source to OBS Studio
    * Ensure you have added audio sources for both **Mix/Aux** and **Desktop Audio**. **Mix/Aux** captures your voice in Flipside and **Desktop Audio** captures the rest of the sounds in Flipside.
 6. Adjust the sync offset to 100ms
-   * Under the **Edit** menu, select **Advanced Audio Properties** and enter **100** into the **Sync Offset (ms)** field for the **Mix/Aux** audio source.
+   * Under the **Edit** menu, select **Advanced Audio Properties** and enter **160** into the **Sync Offset (ms)** field for the **Mix/Aux** audio source.
 7. Set the window capture area
    * In OBS Studio, you will see all of the Flipside interface in the window capture area. Move/resize this view to only capture the show and not the Live edit elements.
 8. Connect Flipside and OBS Studio
