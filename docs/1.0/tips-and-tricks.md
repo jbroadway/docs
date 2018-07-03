@@ -4,6 +4,10 @@
 
 If you want to record the Flipside user interface elements (ie. cameras, preview monitors, palettes, menus, and teleprompter), **press Alt + V** to show or hide.
 
+## Going fullscreen
+
+To show or hide the camera switcher interface on the second screen output, **press Alt + S**.
+
 ## Dialogue scenes
 
 For a walk through of how to create compelling dialogue scenes in Flipside, watch this video:
