@@ -1,14 +1,17 @@
 # Cutting cameras
 
-All of your camera views will appear on the right side of the Live Edit mode interface.
+In both the camera sitcher on your computer screen and in VR, all of your camera views will appear on the right side of the interface.
+
 The main area shows your active camera.  This is the area that should be captured in
 OBS Studio. See [[:Setting up OBS Studio]].
 
-## Using the camera switcher that is on your computer screen
+## Using the camera switcher
+
+### On your computer screen
 
 To switch to a different camera, click on the camera thumbnail on the right side of the screen.  
 
-## Using the in-VR camera switcher
+### In-VR camera switcher
 
 The in-VR camera switcher works a little differently from the camera switch on your computer screen.  It allows you to queue your next camera so you can have it set for when you’re ready to transition from the current camera to the next.
 
@@ -19,7 +22,7 @@ To queue up your next camera, click on on that camera’s thumbnail.
 To switch cameras, click on the cut or move button depending on what type of transition you want.
 
 
-### Camera transitions
+## Camera transitions
 
 There are two types of camera transitions you can select, **cut** and **move**.
 
