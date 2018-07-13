@@ -4,9 +4,20 @@ All of your camera views will appear on the right side of the Live Edit mode int
 The main area shows your active camera.  This is the area that should be captured in
 OBS Studio. See [[:Setting up OBS Studio]].
 
-## How to switch to a different camera
+## Using the camera switcher that is on your computer screen
 
 To switch to a different camera, click on the camera thumbnail on the right side of the screen.  
+
+## Using the in-VR camera switcher
+
+The in-VR camera switcher works a little differently from the camera switch on your computer screen.  It allows you to queue your next camera so you can have it set for when you’re ready to transition from the current camera to the next.
+
+Your active camera will show up in the main preview area and have a green highlight over the camera number on the camera thumbnail on the right side of the switcher.  
+
+To queue up your next camera, click on on that camera’s thumbnail.  
+
+To switch cameras, click on the cut or move button depending on what type of transition you want.
+
 
 ### Camera transitions
 
