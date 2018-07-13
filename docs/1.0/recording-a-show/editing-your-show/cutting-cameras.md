@@ -6,12 +6,13 @@ The main area shows your active camera.  This is the area that should be capture
 OBS Studio. See [[:Setting up OBS Studio]].
 
 ## Using the camera switcher
+There are two ways to live edit in Flipside, using the camera switcher that appears on your computer screen or using the in-VR camera switcher.
 
-### On your computer screen
+### Computer screen
 
-To switch to a different camera, click on the camera thumbnail on the right side of the screen.  
+To switch to a different camera using the camera switcher on your computer screen, click on the camera thumbnail on the right side of the screen.  
 
-### In-VR camera switcher
+### In-VR 
 
 The in-VR camera switcher works a little differently from the camera switch on your computer screen.  It allows you to queue your next camera so you can have it set for when you’re ready to transition from the current camera to the next.
 
