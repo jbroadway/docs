@@ -2,6 +2,10 @@
 
 Check back here to learn about all the latest changes to Flipside.
 
+[Alpha Update #13](/blog/post/41/flipside-alpha-update-13)<br>
+<small><em>July 13, 2018</em></small><br>
+In-VR camera switcher! Fullscreen mode for easier video capture! New "Bones" character! New light prop for dynamic lighting! Minor improvements incl: Up to 3 textures on custom prop imports, lighting fixes on various sets, more accurate button pressing on faster movement, feet feel more natural, and new users no longer have to register before getting into the app.
+
 [Alpha Update #12](/blog/post/40/flipside-alpha-update-12)<br>
 <small><em>June 15, 2018</em></small><br>
 Shared characters and sets! In-VR slideshow and teleprompter controllers! Actor marks for easier setup of shots and knowing where to stand, lots of bug fixes, and our first Flipside contest!
