@@ -18,7 +18,7 @@ To switch to a different camera using the camera switcher on your computer scree
 
 The in-VR camera switcher works a little differently from the camera switch on your computer screen.  It allows you to queue your next camera so you can have it set for when you’re ready to transition from the current camera to the next.
 
-:gif /files/docs/gifs/camera-switcher.mp4
+:gif /files/docs/gifs/vr-camera-switcher.mp4
 
 Your active camera will show up in the main preview area and have a green highlight over the camera number on the camera thumbnail on the right side of the switcher.  
 
