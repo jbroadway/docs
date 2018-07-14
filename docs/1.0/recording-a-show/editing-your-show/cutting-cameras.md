@@ -2,11 +2,13 @@
 
 In both the camera sitcher on your computer screen and in VR, all of your camera views will appear on the right side of the interface.
 
-The main area shows your active camera.  This is the area that should be captured in
-OBS Studio. See [[:Setting up OBS Studio]].
+The main area shows your active camera.  This is the area that should be captured in OBS Studio. See [[:Setting up OBS Studio]].
 
 ## Using the camera switcher
+
 There are two ways to live edit in Flipside, using the camera switcher that appears on your computer screen or using the in-VR camera switcher.
+
+To toggle between switchers, press **Alt + S** on your keyboard. When the computer screen switcher is open, this will cause Flipside to go into fullscreen mode and the in-VR switcher will appear. When you're in fullscreen mode, this will close the in-VR switcher and re-open the computer screen camera switcher.
 
 ### Computer screen
 
