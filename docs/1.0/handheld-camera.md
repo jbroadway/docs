@@ -50,6 +50,8 @@ To take a photo, **squeeze the index trigger**.
 
 ## Extending/retracting the camera arm
 
+There are two ways to extend and retract (zoom) the camera.  You can use the buttons on the camera panel or by pressing forward/up or backwars/down on the joystick/thumbpad.
+
 :table style="width: 8%"
 	![Retract](/files/docs/graphics/button_c-retract.png)
 :col style="width: 8%"
@@ -62,6 +64,30 @@ Press the extend and retract buttons on the camera panel to move the arm away fr
 This will zoom the camera in and out.
 
 :endtable
+
+--- Platform: Oculus Rift ---
+
+:table style="width: 8%"
+	![Retract](/files/docs/graphics/Oculus-touch_R-joystick.png)
+:col style="width: 2%"
+	:nbsp
+:col style="width: 87%; vertical-align: middle"
+
+Using the **right hand joystick**, press **up** to extend/zoom out on the camera and **down** on to retract/zoom in.
+
+--- /Platform ---
+
+--- Platform: HTC Vive ---
+
+:table style="width: 8%"
+	![Retract](/files/docs/graphics/Vive_joystick.png)
+:col style="width: 2%"
+	:nbsp
+:col style="width: 87%; vertical-align: middle"
+
+Using the **right hand thumbpad**, press **up** to extend/zoom out on the camera and **down** on to retract/zoom in.
+
+--- /Platform ---
 
 ## Switching to selfie mode
 
