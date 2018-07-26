@@ -67,9 +67,9 @@ This will zoom the camera in and out.
 
 --- Platform: Oculus Rift ---
 
-:table style="width: 8%"
+:table style="width: 15%"
 	![Zoom](/files/docs/graphics/Oculus-touch_R-joystick.png)
-:col style="width: 2%"
+:col style="width: 3%"
 	:nbsp
 :col style="width: 87%; vertical-align: middle"
 
@@ -81,9 +81,9 @@ Using the **right hand joystick**, press **up** to extend/zoom out on the camera
 
 --- Platform: HTC Vive ---
 
-:table style="width: 8%"
+:table style="width: 15%"
 	![Zoom](/files/docs/graphics/Vive_joystick.png)
-:col style="width: 2%"
+:col style="width: 3%"
 	:nbsp
 :col style="width: 87%; vertical-align: middle"
 
