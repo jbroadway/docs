@@ -77,8 +77,6 @@ Using the **right hand joystick**, press **up** to extend/zoom out on the camera
 
 :endtable
 
---- /Platform ---
-
 --- Platform: HTC Vive ---
 
 :table style="width: 15%"
