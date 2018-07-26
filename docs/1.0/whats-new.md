@@ -2,6 +2,10 @@
 
 Check back here to learn about all the latest changes to Flipside.
 
+[Alpha Update #14](/blog/post/43/flipside-alpha-update-14-improved-lip-sync-accuracy-camera-z)<br>
+<small><em>July 26, 2018</em></small><br>
+Much improved lip sync timing, handheld camera zoom using the joystick/thumbpad, in-VR camera switcher fixes, other bug fixes.
+
 [Alpha Update #13](/blog/post/41/flipside-alpha-update-13)<br>
 <small><em>July 13, 2018</em></small><br>
 In-VR camera switcher! Fullscreen mode for easier video capture! New "Bones" character! New light prop for dynamic lighting! Minor improvements incl: Up to 3 textures on custom prop imports, lighting fixes on various sets, more accurate button pressing on faster movement, feet feel more natural, and new users no longer have to register before getting into the app.
