@@ -8,7 +8,7 @@ There are three methods of mapping facial expressions:
 
 1. [Blend shape mapping](#blend-shape-mapping) - Maps facial expressions to various preset shapes on your character model's face that represent each facial expression, eye blink state, and lip sync [viseme](https://en.wikipedia.org/wiki/Viseme).
 2. [Simplified blend shape mapping](#simplified-blend-shape-mapping) - Blend shape mapping with only one shape for lip syncing representing an open mouth state. Great for Muppet-style animation!
-3. [Texture mapping](#texture mapping) - Maps lip syncing to a series of textures that represent your character's face in that position. Ideal for that classic cartoon feel!
+3. [Texture mapping](#texture-mapping) - Maps lip syncing to a series of textures that represent your character's face in that position. Ideal for that classic cartoon feel!
 
 ## Blend shape mapping
 
