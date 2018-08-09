@@ -2,6 +2,10 @@
 
 Check back here to learn about all the latest changes to Flipside.
 
+[Alpha Update #15](/blog/post/44/flipside-alpha-update-15-new-characters-vlogger-set-and-load)<br>
+<small><em>August 9, 2018</em></small><br>
+New lion and crocodile characters, new vlogger living room set, working clock prop, resizable preview monitors, auto-hide mouse cursor, and several other fixes and improvements.
+
 [Alpha Update #14](/blog/post/43/flipside-alpha-update-14-improved-lip-sync-accuracy-camera-z)<br>
 <small><em>July 26, 2018</em></small><br>
 Much improved lip sync timing, handheld camera zoom using the joystick/thumbpad, in-VR camera switcher fixes, other bug fixes.
