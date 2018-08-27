@@ -15,3 +15,4 @@ Latest version: **[Flipside Creator Tools v0.11](/files/downloads/FlipsideCreato
   * [[> Adding movement to hair, cloth, and tails ]]
   * [[> Fixing forearm twisting ]]
 * [[> Creating a custom set ]]
+  * [[> Setting up your teleporter area ]]
