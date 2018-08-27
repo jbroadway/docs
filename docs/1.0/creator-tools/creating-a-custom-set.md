@@ -92,10 +92,17 @@ window, then choose the type of element that it is. There are four static elemen
 The Flipside Creator Tools also let you specify certain movable elements of your set. These act like
 props that are built right into your set.
 
+To mark an object as a prop element, add a **Prop Element** component to it in the **Inspector**
+window. Here you can choose whether your prop is affected by gravity or not, and also assign custom
+[Unity events](https://docs.unity3d.com/Manual/UnityEvents.html) to be triggered when the following
+interactions happen:
+
 ![PropElement component](https://www.flipsidexr.com/files/docs/screenshots/prop-elements.png)
 
-To mark an object as a prop element, add a **Prop Element** component to it in the **Inspector**
-window. Currently the only option a prop has is whether it is affected by gravity or not.
+* **On Begin Interaction** - A user grabbed the prop.
+* **On End Interaction** - A user let go of the prop.
+* **On Use Button Down** - A user pressed the trigger while holding the prop.
+* **On Use Button Up** - A user released the trigger while holding the prop.
 
 You'll also notice that when you add a **Prop Element** component, a **Nav Mesh Modifier** is also
 added for you automatically with its **Ignore From Build** setting checked. This ensures that props
@@ -106,6 +113,24 @@ won't accidentally be included in your teleport area.
 > however you _can_ move them around in the Set Builder within Flipside Studio and it will remember their
 > new location. But you can't remove them from the set, or add more instances of them like you can with
 > imported props. This may change in a future update.
+
+### Cameras
+
+Cameras that you add to a custom set will be imported as camera positions in Flipside's camera switcher.
+What makes this really cool is that if a camera has an animation attached, that animation will still
+control that camera in Flipside too. This means you can create pretty much any camera move imaginable
+and import it into Flipside as part of your custom sets.
+
+You can also attach a **Camera Element** component to your Unity cmaeras, which add two [Unity events](https://docs.unity3d.com/Manual/UnityEvents.html)
+that will get triggered when a camera position is activated or deactivated:
+
+![CameraElement component](https://www.flipsidexr.com/files/docs/screenshots/camera-events.png)
+
+* **On Camera Activated** - Fired just before transitioning to a camera position.
+* **On Camera Deactivated** - Fired just before transitioning away from a camera position.
+
+These events let you do things like play an animated sequence as your show opening whenever you cut to the
+associated camera position.
 
 ### Audience
 
