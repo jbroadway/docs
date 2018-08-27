@@ -10,8 +10,7 @@ This page covers how to install, setup, and upgrade the [Flipside Creator Tools]
    of your custom characters and sets.
 4. Import the Flipside Creator Tools package from step 2 by choosing _Assets > Import
    Package > Custom Package_ in the Unity application menu.
-
-After installing the Unity package, you should see a wizard appear over the **Scene** pane in Unity showing **Set Flipside Creator ID**, and a new **Flipside Creator Tools** menu item appear in Unity's application menu across the top.
+5. After installing the Unity package, navigate to _Flipside Creator Tools > Open Creator Tools_ to open the Creator Tools wizard. You can dock this window anywhere you like in the editor.
 
 ![Flipside Creator Tools - Set Flipside Creator ID](/files/docs/screenshots/set-creator-id.png)
 
