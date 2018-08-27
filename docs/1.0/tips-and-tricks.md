@@ -8,6 +8,10 @@ If you want to record the Flipside user interface elements (ie. cameras, preview
 
 To show or hide the camera switcher interface on the second screen output, **press Alt + S**.
 
+## Director mode
+
+To switch yourself into director mode, which lets you move and scale the scene like you can in the [Set Builder](/docs/1.0/building-your-set/dressing-your-set), **press Alt + D**. Press it again to leave director mode.
+
 ## Dialogue scenes
 
 For a walk through of how to create compelling dialogue scenes in Flipside, watch this video:
