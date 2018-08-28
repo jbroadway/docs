@@ -183,4 +183,4 @@ affects how intense the ambient lighting should appear.
 
 ---
 
-Next: [[ Tips and tricks ]]
+Next: [[:Setting up your teleporter area]]
