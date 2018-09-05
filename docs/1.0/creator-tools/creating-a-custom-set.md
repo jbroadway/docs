@@ -121,6 +121,9 @@ What makes this really cool is that if a camera has an animation attached, that 
 control that camera in Flipside too. This means you can create pretty much any camera move imaginable
 and import it into Flipside as part of your custom sets.
 
+To preview your camera positions, press Play in Unity then press the number keys (1, 2, 3, etc.) to switch
+between camera positions.
+
 You can also attach a **Camera Element** component to your Unity cmaeras, which add two [Unity events](https://docs.unity3d.com/Manual/UnityEvents.html)
 that will get triggered when a camera position is activated or deactivated:
 
