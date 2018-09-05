@@ -17,12 +17,16 @@ PropElement has the following Unity event triggers:
 * **OnUseButtonUp** - The user released the trigger button while holding the object.
 * **OnEndInteraction** - The user let go of the object.
 
+![PropElement component](https://www.flipsidexr.com/files/docs/screenshots/prop-elements.png)
+
 ### CameraElement
 
 Attaching a Camera Element to any Camera object in your scene lets you trigger Unity events on the following interactions:
 
 * **OnCameraActivated** - Do something when the camera is activated in the Flipside camera switcher.
 * **OnCameraDeactivated** - Do something when the camera is deactivated in the Flipside camera switcher.
+
+![CameraElement component](https://www.flipsidexr.com/files/docs/screenshots/camera-events.png)
 
 ### ColliderElement
 
