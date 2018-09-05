@@ -12,7 +12,11 @@ This page covers how to install, setup, and upgrade the [Flipside Creator Tools]
    Package > Custom Package_ in the Unity application menu.
 5. After installing the Unity package, navigate to _Flipside Creator Tools > Open Creator Tools_ to open the Creator Tools wizard. You can dock this window anywhere you like in the editor.
 
-![Flipside Creator Tools - Set Flipside Creator ID](/files/docs/screenshots/set-creator-id.png)
+![Flipside Creator Tools - Set Flipside Creator ID](https://www.flipsidexr.com/files/docs/screenshots/flipside-creator-tools-enter-id.png)
+
+Optional, but recommended:
+
+* Install the [SteamVR](https://assetstore.unity.com/packages/templates/systems/steamvr-plugin-32647) and/or [Oculus](https://assetstore.unity.com/packages/tools/integration/oculus-integration-82022) packages for Unity. This will let you press Play and preview your characters and sets in VR.
 
 ## Upgrading
 
