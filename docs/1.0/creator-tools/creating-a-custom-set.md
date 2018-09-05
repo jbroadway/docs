@@ -72,6 +72,8 @@ to re-bake the NavMesh changes in order to see the change applied.
 
 You can read all about Unity's [NavMesh feature here](https://docs.unity3d.com/Manual/NavMesh-BuildingComponents.html).
 
+For more info, see [[: setting up your teleporter area ]].
+
 ### Static elements
 
 The Flipside Creator Tools let you specify certain non-moving, or static, elements of your set. This
@@ -183,6 +185,13 @@ affects how intense the ambient lighting should appear.
 > **Note:** Unity has its own lighting settings in the **Lighting** window, but the settings above will
 > automatically override the settings found in the **Lighting** window on import into Flipside Studio,
 > and when you press **Play** to preview your set.
+
+### Showing objects to actors but not to cameras
+
+If you want to use an object as an invisible reference for actors that stays invisible to cameras, you
+can [change its layer](https://docs.unity3d.com/Manual/Layers.html) to be on the **UI** layer.
+
+Note that if you show the Flipside UI in your camera output, your invisible objects will be shown too.
 
 ---
 
