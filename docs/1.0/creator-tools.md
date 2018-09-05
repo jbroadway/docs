@@ -16,3 +16,4 @@ Latest version: **[Flipside Creator Tools v0.11](/files/downloads/FlipsideCreato
   * [[> Fixing forearm twisting ]]
 * [[> Creating a custom set ]]
   * [[> Setting up your teleporter area ]]
+  * [[> Creating interactions with props and event triggers]]
