@@ -2,6 +2,10 @@
 
 Check back here to learn about all the latest changes to Flipside.
 
+[Alpha Update #16](/blog/post/45/flipside-alpha-update-16-experimental-director-mode-import-a)<br>
+<small><em>September 6, 2018</em></small><br>
+Experimental new Director Mode, animate faces with Unity animations, sync imported animations and audio with Flipside recordings, import custom cameras in sets, trigger events in sets, and tons of bug fixes.
+
 [Alpha Update #15](/blog/post/44/flipside-alpha-update-15-new-characters-vlogger-set-and-load)<br>
 <small><em>August 9, 2018</em></small><br>
 New lion and crocodile characters, new vlogger living room set, working clock prop, resizable preview monitors, auto-hide mouse cursor, and several other fixes and improvements.
