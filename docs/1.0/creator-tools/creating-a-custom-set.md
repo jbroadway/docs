@@ -124,7 +124,7 @@ control that camera in Flipside too. This means you can create pretty much any c
 and import it into Flipside as part of your custom sets.
 
 To preview your camera positions, press Play in Unity then press the number keys (1, 2, 3, etc.) to switch
-between camera positions.
+between camera positions. Press 0 to switch back to mirroring what you're seeing in VR.
 
 You can also attach a **Camera Element** component to your Unity cmaeras, which add two [Unity events](https://docs.unity3d.com/Manual/UnityEvents.html)
 that will get triggered when a camera position is activated or deactivated:
