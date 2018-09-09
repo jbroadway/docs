@@ -15,84 +15,98 @@ The following tutorials will show you how to find your way around Flipside's use
 
 The following tutorials will guide you through the process of recording a show in Flipside.
 
+:table
+
 ### Recording performances
 
 <div class="video-wrapper"><iframe width="100%" height="100%" src="https://www.youtube.com/embed/fxkwiofDUGg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
 
-:nbsp
+:col
 
 ### Using the handheld camera to create video
 
 <div class="video-wrapper"><iframe width="100%" height="100%" src="https://www.youtube.com/embed/ce1LCiyfiRk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
 
-:nbsp
+:row
 
 ### Using live edit mode to create multi-camera output
 
 <div class="video-wrapper"><iframe width="100%" height="100%" src="https://www.youtube.com/embed/_S50fVF1ct4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
 
-:nbsp
+:col
 
 ### Using OBS to record video of or live stream your show
 
 <div class="video-wrapper"><iframe width="100%" height="100%" src="https://www.youtube.com/embed/LCYsQ__nVGo" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
 
-:nbsp
+:endtable
 
 
 ## Characters
 
 The following tutorials show you how to get the most out of your characters in Flipside, including height calibration, using HTC Vive Trackers, and more.
 
+:table
+
 ### Choosing characters, height calibration and Vive Trackers
 
 <div class="video-wrapper"><iframe width="100%" height="100%" src="https://www.youtube.com/embed/Q-Td02DeTm0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
 
-:nbsp
+:col
 
+### Using the Flipside Creator Tools to import a custom character
+
+<div class="video-wrapper"><iframe width="100%" height="100%" src="https://www.youtube.com/embed/T4IBTyHRYig" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
+
+:endtable
 
 ## Creator Tools
 
 The following tutorials guide you through using the [Flipside Creator Tools](/docs/1.0/creator-tools) to import your own characters and sets into Flipside.
 
+:table
+
 ### Using the Flipside Creator Tools
 
 <div class="video-wrapper"><iframe width="100%" height="100%" src="https://www.youtube.com/embed/T4IBTyHRYig" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
 
-:nbsp
+:col
 
 ### Using Adobe Mixamo to rig a character
 
 <div class="video-wrapper"><iframe width="100%" height="100%" src="https://www.youtube.com/embed/wgqLy_VgsFU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
 
-:nbsp
+:row
 
 ### Preparing an Adobe Fuse model for Flipside Studio
 
 <div class="video-wrapper"><iframe width="100%" height="100%" src="https://www.youtube.com/embed/DAC3bVOC4iw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
 
+:col
+
 ### Importing custom sets into Flipside
 
 <div class="video-wrapper"><iframe width="100%" height="100%" src="https://www.youtube.com/embed/a-ViEHehso8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
 
-:nbsp
-
+:endtable
 
 ## Customizing your sets
 
 The following tutorials show you how to use Flipside's [Set Builder](/docs/1.0/building-your-set) to customize the prop and camera placements on your sets.
 
+:table
+
 ### Using the set builder: part 1
 
 <div class="video-wrapper"><iframe width="100%" height="100%" src="https://www.youtube.com/embed/VBds8ZEwmYc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
 
-:nbsp
+:col
 
 ### Using the set builder: part 2
 
 <div class="video-wrapper"><iframe width="100%" height="100%" src="https://www.youtube.com/embed/fs9yJdch2Pc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
 
-:nbsp
+:endtable
 
 ---
 
