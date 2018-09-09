@@ -19,11 +19,15 @@ The following tutorials will guide you through the process of recording a show i
 
 ### Recording performances
 
-<div class="video-wrapper"><iframe width="100%" height="100%" src="https://www.youtube.com/embed/fxkwiofDUGg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
-
 :col
 
 ### Using the handheld camera to create video
+
+:row
+
+<div class="video-wrapper"><iframe width="100%" height="100%" src="https://www.youtube.com/embed/fxkwiofDUGg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
+
+:col
 
 <div class="video-wrapper"><iframe width="100%" height="100%" src="https://www.youtube.com/embed/ce1LCiyfiRk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
 
@@ -31,11 +35,15 @@ The following tutorials will guide you through the process of recording a show i
 
 ### Using live edit mode to create multi-camera output
 
-<div class="video-wrapper"><iframe width="100%" height="100%" src="https://www.youtube.com/embed/_S50fVF1ct4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
-
 :col
 
 ### Using OBS to record video of or live stream your show
+
+:row
+
+<div class="video-wrapper"><iframe width="100%" height="100%" src="https://www.youtube.com/embed/_S50fVF1ct4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
+
+:col
 
 <div class="video-wrapper"><iframe width="100%" height="100%" src="https://www.youtube.com/embed/LCYsQ__nVGo" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
 
