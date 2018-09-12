@@ -86,6 +86,14 @@ The following tutorials guide you through using the [Flipside Creator Tools](/do
 
 <div class="video-wrapper"><iframe width="100%" height="100%" src="https://www.youtube.com/embed/FsKa4g1VDd8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
 
+:row
+
+<div class="video-wrapper"><iframe width="100%" height="100%" src="https://www.youtube.com/embed/UjcEawCV60Y" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
+
+:col
+
+:nbsp
+
 :endtable
 
 ---
