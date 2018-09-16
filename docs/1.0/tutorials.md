@@ -92,7 +92,15 @@ The following tutorials guide you through using the [Flipside Creator Tools](/do
 
 :col
 
-:nbsp
+<div class="video-wrapper"><iframe width="100%" height="100%" src="https://www.youtube.com/embed/aoTn_AaNXlg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
+
+:row
+
+<div class="video-wrapper"><iframe width="100%" height="100%" src="https://www.youtube.com/embed/WXScWpSVk7o" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
+
+:col
+
+<div class="video-wrapper"><iframe width="100%" height="100%" src="https://www.youtube.com/embed/VD2tk1yTprM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
 
 :endtable
 
