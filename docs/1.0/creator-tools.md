@@ -14,6 +14,7 @@ Latest version: **[Flipside Creator Tools v0.12](/files/downloads/FlipsideCreato
   * [[> Mapping facial expressions ]]
   * [[> Adding movement to hair, cloth, and tails ]]
   * [[> Fixing forearm twisting ]]
+  * [[> Importing Daz 3D characters into Flipside]]
 * [[> Creating a custom set ]]
   * [[> Setting up your teleporter area ]]
   * [[> Creating interactions with props and event triggers]]
