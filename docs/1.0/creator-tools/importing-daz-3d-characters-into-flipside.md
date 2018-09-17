@@ -16,6 +16,14 @@ to work well in [Flipside Studio]().
 
 <div class="video-wrapper"><iframe width="100%" height="100%" src="https://www.youtube.com/embed/VD2tk1yTprM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
 
+### Set up blend shapes on Daz 3D characters for Flipside
+
+<div class="video-wrapper"><iframe width="100%" height="100%" src="https://www.youtube.com/embed/-wL9CgZujAk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
+
+### Improving textures in Daz 3D characters for Flipside
+
+<div class="video-wrapper"><iframe width="100%" height="100%" src="https://www.youtube.com/embed/puWy5-d1Dds" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
+
 ---
 
 Next: [[:Creating a custom set]]
