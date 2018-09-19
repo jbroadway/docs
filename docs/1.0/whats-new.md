@@ -2,6 +2,10 @@
 
 Check back here to learn about all the latest changes to Flipside.
 
+[Alpha Update #17](/blog/post/51/flipside-alpha-update-17-animate-objects-shadow-settings-and)<br>
+<small><em>September 20, 2018</em></small><br>
+Animate objects in Director Mode, 360 video support, settings panel for slideshow, teleprompter, Twitch chat and shadows, shadow settings and quality control, desktop view in Flipside, Wolf3D avatar support, screen elements in custom sets, and various fixes.
+
 [Alpha Update #16](/blog/post/45/flipside-alpha-update-16-experimental-director-mode-import-a)<br>
 <small><em>September 6, 2018</em></small><br>
 Experimental new Director Mode, animate faces with Unity animations, sync imported animations and audio with Flipside recordings, import custom cameras in sets, trigger events in sets, and tons of bug fixes.
