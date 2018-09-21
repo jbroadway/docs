@@ -39,6 +39,17 @@ on the following interactions:
 You can also limit whether the events on a ColliderElement should trigger for **Everything**, only a user's **Hands**,
 or only a user's **Index Finger** to create larger or more fine-grained interactions.
 
+![ColliderElement component](https://www.flipsidexr.com/files/docs/screenshots/collider-element.png)
+
+### ScreenElement
+
+Attaching a ScreenElement to any object will cause Flipside to replace that object's material with the material you select from the list. Available options include:
+
+* Slideshow
+* Main output
+
+![ScreenElement component](https://www.flipsidexr.com/files/docs/screenshots/screen-element.png)
+
 ---
 
 Next: [[ Tips and tricks ]]
