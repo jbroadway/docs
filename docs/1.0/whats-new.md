@@ -2,6 +2,10 @@
 
 Check back here to learn about all the latest changes to Flipside.
 
+[Alpha Update #18](/blog/post/54/flipside-alpha-update-18-showhide-menu-camera-movement-setti)<br>
+<small><em>October 16, 2018</em></small><br>
+Show/hide the palette menu, camera movement and easing settings, support for importing Unity's Cinemachine virtual cameras in custom sets, new Featured category under Characters and Sets, and lots of bug fixes and smaller improvements.
+
 [Alpha Update #17](/blog/post/51/flipside-alpha-update-17-animate-objects-shadow-settings-and)<br>
 <small><em>September 20, 2018</em></small><br>
 Animate objects in Director Mode, 360 video support, settings panel for slideshow, teleprompter, Twitch chat and shadows, shadow settings and quality control, desktop view in Flipside, Wolf3D avatar support, screen elements in custom sets, and various fixes.
