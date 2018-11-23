@@ -2,6 +2,10 @@
 
 Check back here to learn about all the latest changes to Flipside.
 
+[Alpha Update #19](/blog/post/55/flipside-alpha-update-19-teleporter-20-set-builder-snapping)<br>
+<small><em>November 23, 2018</em></small><br>
+Teleporter 2.0, Set Builder mode improved snapping, and many bug fixes including more natural thumb positions, Director Mode fixes, eyes in playback, improved foot stepping, menu improvements, and slideshow components all work independently of each other.
+
 [Alpha Update #18](/blog/post/54/flipside-alpha-update-18-showhide-menu-camera-movement-setti)<br>
 <small><em>October 16, 2018</em></small><br>
 Show/hide the palette menu, camera movement and easing settings, support for importing Unity's Cinemachine virtual cameras in custom sets, new Featured category under Characters and Sets, and lots of bug fixes and smaller improvements.
