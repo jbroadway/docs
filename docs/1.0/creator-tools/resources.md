@@ -31,6 +31,9 @@
 * [Daz3D](https://www.daz3d.com/)
 * [Character Creator](https://www.reallusion.com/character-creator/)
 
+## YouTube Game Development Videos
+* [Games From Scratch](https://www.youtube.com/user/gamefromscratch)
+
 ---
 
 Next: [[ Tips and tricks ]]
