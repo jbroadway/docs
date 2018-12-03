@@ -17,6 +17,7 @@
 * [Models Resources](https://www.models-resource.com/)
 * [VRCmods](https://vrcmods.com/)
 * [Tumblr](https://www.tumblr.com/search/avatars+vrchat)
+* [CadNav](http://www.cadnav.com/3d-models/human/)
 
 ## Patterns for textures
 
