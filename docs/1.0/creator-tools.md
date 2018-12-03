@@ -18,3 +18,4 @@ Latest version: **[Flipside Creator Tools v0.13](/files/downloads/FlipsideCreato
 * [[> Creating a custom set ]]
   * [[> Setting up your teleporter area ]]
   * [[> Creating interactions with props and event triggers]]
+* [[> Resources]]
