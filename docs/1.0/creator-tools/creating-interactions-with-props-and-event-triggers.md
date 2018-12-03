@@ -52,4 +52,4 @@ Attaching a ScreenElement to any object will cause Flipside to replace that obje
 
 ---
 
-Next: [[ Tips and tricks ]]
+Next: [[:Resources]]
