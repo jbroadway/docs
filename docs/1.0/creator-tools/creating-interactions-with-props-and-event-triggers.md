@@ -37,7 +37,7 @@ on the following interactions:
 * **OnExit** - Do something when an object exits the collider's volume.
 
 You can also limit whether the events on a ColliderElement should trigger for **Everything**, only a user's **Hands**,
-or only a user's **Index Finger** to create larger or more fine-grained interactions.
+only a user's **Index Finger**, a list of specific objects, or only objects with a custom tag (see CustomTag below), to create larger or more fine-grained interactions.
 
 ![ColliderElement component](https://www.flipsidexr.com/files/docs/screenshots/collider-element.png)
 
@@ -49,6 +49,10 @@ Attaching a ScreenElement to any object will cause Flipside to replace that obje
 * Main output
 
 ![ScreenElement component](https://www.flipsidexr.com/files/docs/screenshots/screen-element.png)
+
+### CustomTag
+
+Lets you specify a custom tag to limit ColliderElement interactions to specific types of objects only. Tag values can be anything you choose.
 
 ---
 
