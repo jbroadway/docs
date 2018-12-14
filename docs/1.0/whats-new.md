@@ -2,6 +2,10 @@
 
 Check back here to learn about all the latest changes to Flipside.
 
+[Alpha Update #20](/blog/post/56/flipside-studio-update-20-flipside-goes-multiplayer)<br>
+<small><em>December 14, 2018</em></small><br>
+Cross-platform multiplayer! Major updates to the Flipside Creator Tools to support multiple face meshes, jaw bones, custom collisions between objects, invisible elements on characters, Unity timelines sync with Flipside recordings, Google Drive links working with slideshow, and more.
+
 [Alpha Update #19](/blog/post/55/flipside-alpha-update-19-teleporter-20-set-builder-snapping)<br>
 <small><em>November 23, 2018</em></small><br>
 Teleporter 2.0, Set Builder mode improved snapping, and many bug fixes including more natural thumb positions, Director Mode fixes, eyes in playback, improved foot stepping, menu improvements, and slideshow components all work independently of each other.
