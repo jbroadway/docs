@@ -2,6 +2,10 @@
 
 Check back here to learn about all the latest changes to Flipside.
 
+[Alpha Update #21](#)<br>
+<small><em>December 18, 2018</em></small><br>
+Fixed app loading issue, colliders triggering too soon on playback, characters in T-pose in camera previews, friends panel and handheld scaling, and added notification sound for invites and friend requests. Fixed imported props, respawned objects, POV cameras and handheld camera timer over multiplayer.
+
 [Alpha Update #20](/blog/post/56/flipside-studio-update-20-flipside-goes-multiplayer)<br>
 <small><em>December 14, 2018</em></small><br>
 Cross-platform multiplayer! Major updates to the Flipside Creator Tools to support multiple face meshes, jaw bones, custom collisions between objects, invisible elements on characters, Unity timelines sync with Flipside recordings, Google Drive links working with slideshow, and more.
