@@ -1,6 +1,14 @@
 # Creating interactions with props and event triggers
 
-The Creator Tools enable you to add interactions to your sets using a handful of simple components, including:
+The Creator Tools enable you to add interactions to your sets using a handful of simple components. Available components include:
+
+* [PropElement](#propelement)
+* [CameraElement](#cameraelement)
+* [ColliderElement](#colliderelement)
+* [ToggleElement](#toggleelement)
+* [ScreenElement](#screenelement)
+* [FlipsideActions](#flipsideactions)
+* [CustomTag](#customtag)
 
 ### PropElement
 
@@ -37,9 +45,24 @@ on the following interactions:
 * **OnExit** - Do something when an object exits the collider's volume.
 
 You can also limit whether the events on a ColliderElement should trigger for **Everything**, only a user's **Hands**,
-only a user's **Index Finger**, a list of specific objects, or only objects with a custom tag (see CustomTag below), to create larger or more fine-grained interactions.
+only a user's **Index Finger**, a specific **Object List**, or only objects with a **Custom Tag** (see [CustomTag](#customtag) below), to create larger or more fine-grained interactions.
 
 ![ColliderElement component](https://www.flipsidexr.com/files/docs/screenshots/collider-element.png)
+
+### ToggleElement
+
+Attaching a ToggleElement instead of a ColliderElement works the same way but keeps track of its on/off state so you can do things like turn a light on/off with repeated button presses.
+
+ToggleElement has the following properties to control its behaviour:
+
+* **InitiaState** (On/Off) - Control whether it should start in an Off (default) or On state.
+
+In addition to the OnEnter/OnExit events that it inherits from ColliderElement, ToggleElement adds the following additional Unity event triggers:
+
+* **OnActivated** - Do something when the element enters its On state.
+* **OnDeactivated** - Do something when the element enters its Off state.
+
+All other options are identical to ColliderElement.
 
 ### ScreenElement
 
@@ -50,9 +73,23 @@ Attaching a ScreenElement to any object will cause Flipside to replace that obje
 
 ![ScreenElement component](https://www.flipsidexr.com/files/docs/screenshots/screen-element.png)
 
+### FlipsideActions
+
+The FlipsideActions component can be used to trigger a limited number of Flipside's internal actions via Unity events through interactions with ColliderElement and ToggleElement. Actions include:
+
+* **ShowNextSlide()**
+* **ShowPreviousSlide()**
+* **ShowFirstSlide()**
+* **CutToCamera(num)**
+* **MoveToCamera(num)**
+* **ChangeSky(id)**
+* **ChangeSet(id)**
+
+To use it, attach FlipsideActions to an object in your Unity scene, then drag that object into the Unity event in the Inspector window and select the action you want to trigger.
+
 ### CustomTag
 
-Lets you specify a custom tag to limit ColliderElement interactions to specific types of objects only. Tag values can be anything you choose.
+Lets you specify a custom tag to limit ColliderElement interactions to specific types of objects only. Tag values can be anything you choose. To use, attach this component to an object and assign it a custom tag of your choosing in the Inspector window, then set the **Custom Tag** option in ColliderElement and ToggleElement components to match.
 
 ---
 
