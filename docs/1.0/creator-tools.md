@@ -6,7 +6,7 @@ The Flipside Creator Tools are an extension for the Unity game engine that enabl
 
 Latest version: **[Flipside Creator Tools v0.13](/files/downloads/FlipsideCreatorTools-v0.13.unitypackage)**
 
-Beta version: **[Flipside Creator Tools v0.14](/files/downloads/FlipsideCreatorTools-v0.14.unitypackage)** (for use with the latest Beta test release)
+Beta version: **[Flipside Creator Tools v0.15](/files/downloads/FlipsideCreatorTools-v0.15.unitypackage)** (for use with the latest Beta test release)
 
 ## Contents
 
