@@ -19,11 +19,14 @@
 * [Tumblr](https://www.tumblr.com/search/avatars+vrchat)
 * [CadNav](http://www.cadnav.com/3d-models/human/)
 
-## Patterns for textures
+## Patterns for textures 
 
 * [Pattern Cooler](https://patterncooler.com/)
 * [Poliigon](https://www.poliigon.com/)
 * [Quixel Megascans](https://megascans.se/)
+
+## Skybox textures
+* [HDRI Haven](https://hdrihaven.com/hdris/category/?c=skies)
 
 ## Tools to make avatars / characters
 
