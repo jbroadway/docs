@@ -24,7 +24,10 @@ For a walk through of how to create compelling dialogue scenes in Flipside, watc
 
 ## Streaming to Facebook through Oculus
 
-In order to use Oculus' new streaming to Facebook feature you need to opt into the Public Test Channel available on in the Oculus Home settings under Beta. [link].  Additionally, you need to ensure that your Oculus Home account is linked to your Facebook account.  You can find this under the Account settings in Oculus Home. [Link]
+In order to use Oculus' new streaming to Facebook feature you need to opt into the Public Test Channel found under the Oculus Home settings Beta tab.  <br>
+![Public Test Channel](https://www.flipsidexr.com/files/docs/screenshots/OculusHome-public_test_channel.png)<br><br>
+Additionally, you need to ensure that your Oculus Home account is linked to your Facebook account.  You can find this under the Account settings in Oculus Home. <br>
+![Link Accounts](https://www.flipsidexr.com/files/docs/screenshots/OculusHome-link_accounts.png)
 
 ---
 
