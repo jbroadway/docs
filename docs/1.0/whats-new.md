@@ -2,15 +2,15 @@
 
 Check back here to learn about all the latest changes to Flipside.
 
-[Beta Update #21](/blog/post/58/flipside-update-21-faster-character-loading-and-multiplayer)<br>
+[Update #21](/blog/post/58/flipside-update-21-faster-character-loading-and-multiplayer)<br>
 <small><em>Janurary 11, 2019</em></small><br>
 Improved multiplayer recordings, improved character preview load times, fixed recordings freezing on ACTION, added Facebook streaming through Oculus, fixed duplicate cameras loading on sets, reduced file sizes for multiplayer recording, fixed issue with scale and snappable planes in Set Builder mode and many other bug fixes and improvements.
 
-[Beta Update #20a](#)<br>
+[Update #20a](#)<br>
 <small><em>December 18, 2018</em></small><br>
 Fixed app loading issue, colliders triggering too soon on playback, characters in T-pose in camera previews, friends panel and handheld scaling, and added notification sound for invites and friend requests. Fixed imported props, respawned objects, POV cameras and handheld camera timer over multiplayer.
 
-[Beta Update #20](/blog/post/56/flipside-studio-update-20-flipside-goes-multiplayer)<br>
+[Update #20](/blog/post/56/flipside-studio-update-20-flipside-goes-multiplayer)<br>
 <small><em>December 14, 2018</em></small><br>
 Cross-platform multiplayer! Major updates to the Flipside Creator Tools to support multiple face meshes, jaw bones, custom collisions between objects, invisible elements on characters, Unity timelines sync with Flipside recordings, Google Drive links working with slideshow, and more.
 
