@@ -4,7 +4,7 @@ Check back here to learn about all the latest changes to Flipside.
 
 [Update #21](/blog/post/58/flipside-update-21-faster-character-loading-and-multiplayer)<br>
 <small><em>Janurary 11, 2019</em></small><br>
-Improved multiplayer recordings, improved character preview load times, fixed recordings freezing on ACTION, added Facebook streaming through Oculus, fixed duplicate cameras loading on sets, reduced file sizes for multiplayer recording, fixed issue with scale and snappable planes in Set Builder mode and many other bug fixes and improvements.
+Improved multiplayer recording stability, improved character preview load times, fixed recordings freezing on ACTION, added Facebook streaming through Oculus, fixed duplicate cameras loading on sets, reduced file sizes for multiplayer recording, fixed issue with scale and snappable planes in Set Builder mode and many other bug fixes and improvements.
 
 [Update #20a](#)<br>
 <small><em>December 18, 2018</em></small><br>
