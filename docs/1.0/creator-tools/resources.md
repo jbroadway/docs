@@ -37,6 +37,9 @@
 ## YouTube Game Development Videos
 * [Games From Scratch](https://www.youtube.com/user/gamefromscratch)
 
+## Unity Plugins, Assets, and Packages
+* [Instant Mesh](https://https://github.com/wjakob/instant-meshes)
+
 ---
 
 Next: [[ Tips and tricks ]]
