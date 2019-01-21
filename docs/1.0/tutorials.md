@@ -10,7 +10,7 @@ The following tutorials will show you how to find your way around Flipside's use
 
 :col
 
-<div class="video-wrapper"><iframe width="100%" height="100%" src="https://www.youtube.com/embed/VBds8ZEwmYc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
+<div class="video-wrapper"><iframe width="100%" height="100%" src="https://www.youtube.com/embed/_6NRPG5h6VA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
 
 :row
 
@@ -18,7 +18,7 @@ The following tutorials will show you how to find your way around Flipside's use
 
 :col
 
-<div class="video-wrapper"><iframe width="100%" height="100%" src="https://www.youtube.com/embed/_6NRPG5h6VA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
+<div class="video-wrapper"><iframe width="100%" height="100%" src="https://www.youtube.com/embed/VBds8ZEwmYc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
 
 :row
 
