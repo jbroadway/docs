@@ -140,7 +140,7 @@ The following tutorials guide you through using the [Flipside Creator Tools](/do
 
 :table
 
-<div class="video-wrapper"><iframe width="100%" height="100%" src="https://youtu.be/YqhdAGkHVDU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
+<div class="video-wrapper"><iframe width="100%" height="100%" src="https://www.youtube.com/embed/YqhdAGkHVDU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
 
 :col
 
