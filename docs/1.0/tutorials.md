@@ -20,7 +20,7 @@ The following tutorials will show you how to find your way around Flipside's use
 
 :endtable
 
-####French Tutorials
+**French Tutorials**
 
 :table
 
