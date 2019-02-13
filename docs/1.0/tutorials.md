@@ -60,6 +60,20 @@ The following tutorials will guide you through the process of recording a show i
 
 :endtable
 
+**Tutoriels en français (French Tutorials)**
+
+:table
+
+<div class="video-wrapper"><iframe width="100%" height="100%" src="https://www.youtube.com/embed/2rLCAKqPgqk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
+
+:col
+
+:row
+
+
+:endtable
+
+
 ### Characters
 
 The following tutorials show you how to get the most out of your characters in Flipside, including height calibration, using HTC Vive Trackers, and more.
