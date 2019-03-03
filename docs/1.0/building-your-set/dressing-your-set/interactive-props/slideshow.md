@@ -1,6 +1,8 @@
 # Slideshow
 
-The slideshow lets you add a slideshow to your set.  You can control what images or videos are shown on the slideshow by uploading them to the Flipside website.  The slideshow prop is found in the Show Tools category.
+The slideshow props let you add and control a slideshow on your set.  You can set which images or videos are shown on the slideshow by pasting a list of image and video links in your [Flipside creator dashboard](/user), or under the Settings button in the [desktop camera switcher](https://www.flipsidexr.com/docs/1.0/recording-a-show/editing-your-show/cutting-cameras).
+
+The slideshow prop is found in the Show Tools category in the Set Builder.
 
 **To add images or videos to the slideshow, follow these steps:**
 
@@ -75,13 +77,16 @@ Photo:
 Video:
 
 * MP4
-* OGG
 * WEBM
+* OGV
+* VP8
 * RTMP (Live stream)
 * RTSP (Live stream)
-* YouTube (Use the short format, e.g., `https://youtu.be/pSldv8oOGgw`, available via the Share button. Private and live videos not supported.)
+* YouTube (ex: `https://youtu.be/pSldv8oOGgw`)
+* Dropbox (ex: `https://www.dropbox.com/s/path/to/my-image.png?dl=0`)
+* Google Drive (ex: `https://drive.google.com/file/d/file-id/view?usp=sharing`)
 
-> Note: YouTube links incur an additional delay, making precise timing difficult.
+> Note: YouTube links incur an additional delay, making precise timing difficult. Private YouTube videos and YouTube Live are not supported.
 
 ---
 
