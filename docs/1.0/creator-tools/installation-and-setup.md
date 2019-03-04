@@ -4,7 +4,7 @@ This page covers how to install, setup, and upgrade the [Flipside Creator Tools]
 
 ## Installation
 
-1. Download and install version `2017.3.7f1` of the Unity game engine (downloads: [Windows](https://download.unity3d.com/download_unity/9e14d22a41bb/Windows64EditorInstaller/UnitySetup64.exe?_ga=2.155046520.115025278.1551731818-168540631.1487957492), [Mac](https://download.unity3d.com/download_unity/9e14d22a41bb/MacEditorInstaller/Unity.pkg?_ga=2.155046520.115025278.1551731818-168540631.1487957492)). _Note: If you're not on Windows, at the Choose Components selection of the installation make sure you check off Windows Build Support._
+1. Download and install version `2017.3.7f1` of the Unity game engine (downloads: [Windows](https://unity3d.com/get-unity/download?thank-you=update&download_nid=61165&os=Win), [Mac](https://unity3d.com/get-unity/download?thank-you=update&download_nid=61165&os=Mac)). _Note: If you're not on Windows, at the Choose Components selection of the installation make sure you check off Windows Build Support._
 2. Download the latest version of the [Flipside Creator Tools](/docs/1.0/creator-tools).
 3. Open Unity and create a new 3D project. The same project can be used to create all
    of your custom characters and sets.
