@@ -9,9 +9,13 @@ Here are some things that can help us solve your issues faster:
 
 ### Flipside Studio issues
 
-If you're experiencing an application crash, or an issue that's blocking you from using Flipside, including the crash dump or output log can give us more info about the problem.
+> Note: Bug reporter is currently only available in the [Flipside Beta Branch](https://www.flipsidexr.com/beta-signup).
 
-Here's where you can find the output log:
+If you experience a bug in Flipside Studio, take your headset off and click on the Settings icon on the desktop camera switcher. From there, click on the Support tab and you'll see a form where you can report the issue to us. You can add details about what went wrong, and the form will automatically include key info about your system to help us figure out what went wrong.
+
+:gif /files/docs/gifs/update-23_support.mp4
+
+If you're experiencing an application crash, or an issue that's blocking you from using Flipside, here are the steps to find your output log, which can give us more info about the problem.
 
 1\. In Windows Explorer, make sure _View > Hidden items_ is checked.
 
