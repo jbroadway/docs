@@ -2,6 +2,10 @@
 
 Check back here to learn about all the latest changes to Flipside.
 
+[Update #23](/blog/post/61/flipside-update-23)<br>
+<small><em>March 6, 2019</em></small><br>
+Desktop mirror prop in VR (experimental), looping 360 video skyboxes, example set added to the Creator Tools, new bug reporter under Settings > Support, and lots of bug fixes.
+
 [Update #22](/blog/post/60/flipside-update-22-seeing-yourself-and-beta-bug-fixes)<br>
 <small><em>February 13, 2019</em></small><br>
 See your character while acting, start using Flipside while assets are still loading, improved texture caching, improve collisions on hands in playback, embedded camera fixes, and various fixes for characters.
