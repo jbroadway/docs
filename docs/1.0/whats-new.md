@@ -2,7 +2,7 @@
 
 Check back here to learn about all the latest changes to Flipside.
 
-[Update #23](/blog/post/61/flipside-update-23)<br>
+[Update #23](/blog/post/61/flipside-update-23-desktop-mirror-looping-360-videos-many-fi)<br>
 <small><em>March 6, 2019</em></small><br>
 Desktop mirror prop in VR (experimental), looping 360 video skyboxes, example set added to the Creator Tools, new bug reporter under Settings > Support, and lots of bug fixes.
 
