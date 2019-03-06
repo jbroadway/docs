@@ -91,6 +91,21 @@ The Twitch Chat prop lets you view and display your Twitch channel's chat inside
 :gif /files/FS_update11_TwitchChat.mp4
 
 
+## Desktop Mirror (experimental)
+
+The desktop mirror let you see your Windows desktop in Flipside. You can use this to stream your live gameplay in Flipside, or to show the output of any app running on your desktop.
+
+Follow these steps to enable this experimental feature:
+
+1. On the 2D camera switcher, click on the **Settings** icon, select the **General** tab, then for the **Desktop Mirror in Show Tools** option, choose **Desktop Mirror Enabled**.
+2. In Flipside, go to the **Set Builder** palette, select the **Show Tools** category and pull the desktop viewer from page two of the available show tools into your set.
+
+:gif /files/docs/gifs/update-23_desktop-mirror.mp4
+
+> **Important Notes:**
+> * If the app crashes when you load the Show Tools menu with the desktop mirror enabled, restart Flipside and disable the desktop mirror in your general settings.
+> * The desktop mirror will not mirror your desktop over multiplayer. Others will see their desktop mirrored instead of yours.
+
 ---
 
 Next: [[: Using your own props ]]
