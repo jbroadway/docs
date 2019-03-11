@@ -15,6 +15,8 @@ If you experience a bug in Flipside Studio, take your headset off and click on t
 
 :gif /files/docs/gifs/update-23_support.mp4
 
+### Reporting crashes
+
 If you're experiencing an application crash, or an issue that's blocking you from using Flipside, here are the steps to find your output log, which can give us more info about the problem.
 
 1\. In Windows Explorer, make sure _View > Hidden items_ is checked.
