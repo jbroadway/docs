@@ -93,4 +93,4 @@ Lets you specify a custom tag to limit ColliderElement interactions to specific 
 
 ---
 
-Next: [[:Resources]]
+Next: [[:Whitelist of allowed components]]
