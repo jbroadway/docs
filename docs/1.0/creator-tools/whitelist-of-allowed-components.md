@@ -103,6 +103,7 @@ Sets may use the following components:
 * UnityEngine.TerrainCollider
 * UnityEngine.TextMesh
 * UnityEngine.Transform
+* UnityEngine.WindZone
 
 ### Unsupported components
 
