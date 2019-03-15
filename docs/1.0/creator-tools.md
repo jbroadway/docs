@@ -27,4 +27,5 @@ The Examples package includes additional examples and documentation to help you 
 * [[> Creating a custom set ]]
   * [[> Setting up your teleporter area ]]
   * [[> Creating interactions with props and event triggers]]
+* [[> Whitelist of allowed components]]
 * [[> Resources]]
