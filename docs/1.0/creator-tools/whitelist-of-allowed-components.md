@@ -45,7 +45,6 @@ Sets may use the following components:
 
 * Cinemachine.CinemachineBrain
 * Cinemachine.CinemachineVirtualCamera
-* Flipside.Helpers.DestroyOnContact
 * Flipside.Helpers.SetElement
 * Flipside.Sets.Audience
 * Flipside.Sets.ButtonElement
@@ -54,13 +53,10 @@ Sets may use the following components:
 * Flipside.Sets.CustomTag
 * Flipside.Sets.FlipsideActions
 * Flipside.Sets.FlipsideApi
-* Flipside.Sets.HandFollower
 * Flipside.Sets.PropElement
 * Flipside.Sets.ScreenElement
 * Flipside.Sets.Set
 * Flipside.Sets.SetInfo
-* Flipside.Sets.StaticElement
-* Flipside.Sets.Structure
 * Flipside.Sets.ToggleElement
 * NewtonVR.NVRSnappable
 * ONSPAudioSource
