@@ -14,7 +14,7 @@ Ghost Mode will make your character invisible so you can play director without g
 
 To enter and exit Ghost Mode, **press Alt + D**.
 
-If you've opted into the multiplayer beta, you can find the Ghost Mode button on both the 2D camera switcher and the in-VR camera switcher. 
+**_If you've opted into the multiplayer beta_**, you can find the Ghost Mode button on both the 2D camera switcher and the in-VR camera switcher. 
 
 :gif /files/blog/update-24_ghost-mode-3.mp4
 
