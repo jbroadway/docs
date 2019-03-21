@@ -77,7 +77,7 @@ This is where you get your set ready to record. Dress your set and position your
 
 Invite your friends to act with you.
 
-_**Important note:** This feature is coming soon.  You can access the Friends palette, but it’s not functional._
+_**Important note:** This feature is is only available for those who have opted into the multiplayer beta.  You can access the Friends palette, but it’s not functional._
 
 :endtable
 
