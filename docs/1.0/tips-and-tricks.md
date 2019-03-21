@@ -8,11 +8,11 @@ If you want to record the Flipside user interface elements (ie. cameras, preview
 
 To show or hide the camera switcher interface on the second screen output, **press Alt + S**.
 
-## Director mode
+## Ghost Mode
 
-To switch yourself into director mode, which lets you move and scale the scene like you can in the [Set Builder](/docs/1.0/building-your-set/dressing-your-set), **press Alt + D**. Press it again to leave director mode.
+Ghost Mode will make your character invisible so you can play director without getting in the way of the shot, or animate props by grabbing them and moving them around. Ghost Mode also has the ability to move the world around and scale it up or down by grabbing it with one or two hands, just like Builder Mode. You can find the Ghost Mode button on both the 2D camera switcher and the in-VR camera switcher.  If you're looking for a hot key, **press Alt + D** to enter and exit Ghost Mode.
 
-Director mode also makes you invisible to the cameras and motion capture recordings.
+:gif /files/blog/update-24_ghost-mode-3.mp4
 
 ## Dialogue scenes
 
