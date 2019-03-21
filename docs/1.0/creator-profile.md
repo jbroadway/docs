@@ -21,7 +21,7 @@ Upload your own custom props as 3D models from any program. See [[Building your 
 
 Upload your own custom characters created with the [Flipside Creator Tools](/docs/1.0/creator-tools).
 
-## Custom sets (coming soon)
+## Custom sets 
 
 Upload your own custom sets created with the [Flipside Creator Tools](/docs/1.0/creator-tools).
 
