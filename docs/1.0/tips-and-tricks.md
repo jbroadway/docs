@@ -2,7 +2,11 @@
 
 ## Recording the Flipside user interface
 
-If you want to record the Flipside user interface elements (ie. cameras, preview monitors, palettes, menus, and teleprompter), **press Alt + V** to show or hide.
+If you want to record the Flipside user interface elements (ie. cameras, preview monitors, palettes, menus, and teleprompter), press the Show UI button found on both the 2D Camera switcher and in-VR camera switcher.  
+
+If you're looking for a hotkey, **press Alt + V** to show or hide UI.
+
+:gif /files/docs/gifs/show-ui_in-vr-switcher.mp4
 
 ## Going fullscreen
 
