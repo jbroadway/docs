@@ -43,6 +43,8 @@ Characters may use the following components:
 
 Sets may use the following components:
 
+* DynamicBone
+* DynamicBoneCollider
 * Cinemachine.CinemachineBrain
 * Cinemachine.CinemachineVirtualCamera
 * Flipside.Helpers.SetElement
