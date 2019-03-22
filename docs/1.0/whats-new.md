@@ -2,6 +2,10 @@
 
 Check back here to learn about all the latest changes to Flipside.
 
+[Update #24](https://www.flipsidexr.com/blog/post/62/flipside-update-24-ghost-mode-and-ton-bug-fixes)<br>
+<small><em>March 22, 2019</em></small><br>
+Go invisible with Ghost Mode, clearing sets got a little safer, and a ton of bug fixes related to multiplayer, character and set importing, and more.
+
 [Update #23](/blog/post/61/flipside-update-23-desktop-mirror-looping-360-videos-many-fi)<br>
 <small><em>March 6, 2019</em></small><br>
 Desktop mirror prop in VR (experimental), looping 360 video skyboxes, example set added to the Creator Tools, new bug reporter under Settings > Support, and lots of bug fixes.
