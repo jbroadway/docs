@@ -2,6 +2,10 @@
 
 Check back here to learn about all the latest changes to Flipside.
 
+[Update #25](/blog/post/63/flipside-update-25-multi-monitor-desktop-mirror-microphone-i)<br>
+<small><em>April 10, 2019</em></small><br>
+Desktop mirror multi-monitor support, embed your desktop in custom sets, switch microphone input devices in app, bloom post-processing effect setting, and lots of bug fixes.
+
 [Update #24](https://www.flipsidexr.com/blog/post/62/flipside-update-24-ghost-mode-and-ton-bug-fixes)<br>
 <small><em>March 22, 2019</em></small><br>
 Go invisible with Ghost Mode, clearing sets got a little safer, and a ton of bug fixes related to multiplayer, character and set importing, and more.
