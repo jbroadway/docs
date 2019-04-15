@@ -2,6 +2,10 @@
 
 Check back here to learn about all the latest changes to Flipside.
 
+[Update #26](/blog/post/64/flipside-update-26-multiplayer-improvements)<br>
+<small><em>April 15, 2019</em></small><br>
+Multiplayer backend upgrade, microphone input fix, and several multiplayer-related bug fixes.
+
 [Update #25](/blog/post/63/flipside-update-25-multi-monitor-desktop-mirror-microphone-i)<br>
 <small><em>April 10, 2019</em></small><br>
 Desktop mirror multi-monitor support, embed your desktop in custom sets, switch microphone input devices in app, bloom post-processing effect setting, and lots of bug fixes.
