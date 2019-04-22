@@ -2,6 +2,10 @@
 
 Check back here to learn about all the latest changes to Flipside.
 
+[Update #27](/blog/post/65/flipside-update-27-character-improvements-reduced-save-times)<br>
+<small><em>April 22, 2019</em></small><br>
+Character improvements, reduced save times, slideshow playback fix.
+
 [Update #26](/blog/post/64/flipside-update-26-multiplayer-improvements)<br>
 <small><em>April 15, 2019</em></small><br>
 Multiplayer backend upgrade, microphone input fix, and several multiplayer-related bug fixes.
