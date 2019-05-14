@@ -2,6 +2,10 @@
 
 Check back here to learn about all the latest changes to Flipside.
 
+[Update #28](/blog/post/67/flipside-update-28-take-seat)<br>
+<small><em>May 14, 2019</em></small><br>
+Characters can sit in chairs, teleport to actor marks and other targets, star takes to keep track of the good ones, guest collaboration sidebar, smooth world rotation in build and ghost mode, and a ton of fixes.
+
 [Update #27](/blog/post/65/flipside-update-27-character-improvements-reduced-save-times)<br>
 <small><em>April 22, 2019</em></small><br>
 Character improvements, reduced save times, slideshow playback fix.
