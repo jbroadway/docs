@@ -2,6 +2,10 @@
 
 Check back here to learn about all the latest changes to Flipside.
 
+[Update #29](/blog/post/68/flipside-update-29-background-sync-thumbs-fingers-and-more)<br>
+<small><em>May 23, 2019</em></small><br>
+Background sync for recordings, thumb and finger improvements, multiplayer connection reliability, and various bug fixes.
+
 [Update #28](/blog/post/67/flipside-update-28-take-seat)<br>
 <small><em>May 14, 2019</em></small><br>
 Characters can sit in chairs, teleport to actor marks and other targets, star takes to keep track of the good ones, guest collaboration sidebar, smooth world rotation in build and ghost mode, and a ton of fixes.
