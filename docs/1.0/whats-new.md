@@ -2,6 +2,10 @@
 
 Check back here to learn about all the latest changes to Flipside.
 
+[Update #29a](#)<br>
+<small><em>May 30, 2019</em></small><br>
+New chair marker in Show Tools menu, eye targets added to the Creator Tools package for Unity, various fixes for multiplayer, playback, background sync, and synchronizing state of colliders and toggles.
+
 [Update #29](/blog/post/68/flipside-update-29-background-sync-thumbs-fingers-and-more)<br>
 <small><em>May 23, 2019</em></small><br>
 Background sync for recordings, thumb and finger improvements, multiplayer connection reliability, and various bug fixes.
