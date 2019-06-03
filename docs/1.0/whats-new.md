@@ -2,6 +2,26 @@
 
 Check back here to learn about all the latest changes to Flipside.
 
+[Update #29a](#)<br>
+<small><em>May 30, 2019</em></small><br>
+New chair marker in Show Tools menu, eye targets added to the Creator Tools package for Unity, various fixes for multiplayer, playback, background sync, and synchronizing state of colliders and toggles.
+
+[Update #29](/blog/post/68/flipside-update-29-background-sync-thumbs-fingers-and-more)<br>
+<small><em>May 23, 2019</em></small><br>
+Background sync for recordings, thumb and finger improvements, multiplayer connection reliability, and various bug fixes.
+
+[Update #28](/blog/post/67/flipside-update-28-take-seat)<br>
+<small><em>May 14, 2019</em></small><br>
+Characters can sit in chairs, teleport to actor marks and other targets, star takes to keep track of the good ones, guest collaboration sidebar, smooth world rotation in build and ghost mode, and a ton of fixes.
+
+[Update #27](/blog/post/65/flipside-update-27-character-improvements-reduced-save-times)<br>
+<small><em>April 22, 2019</em></small><br>
+Character improvements, reduced save times, slideshow playback fix.
+
+[Update #26](/blog/post/64/flipside-update-26-multiplayer-improvements)<br>
+<small><em>April 15, 2019</em></small><br>
+Multiplayer backend upgrade, microphone input fix, and several multiplayer-related bug fixes.
+
 [Update #25](/blog/post/63/flipside-update-25-multi-monitor-desktop-mirror-microphone-i)<br>
 <small><em>April 10, 2019</em></small><br>
 Desktop mirror multi-monitor support, embed your desktop in custom sets, switch microphone input devices in app, bloom post-processing effect setting, and lots of bug fixes.

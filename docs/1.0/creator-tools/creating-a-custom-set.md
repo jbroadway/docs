@@ -137,6 +137,9 @@ that will get triggered when a camera position is activated or deactivated:
 These events let you do things like play an animated sequence as your show opening whenever you cut to the
 associated camera position.
 
+**Important!** Make sure all your cameras are enabled when you build your set, otherwise their animations will not play. 
+
+
 ### Audience
 
 Sets in Flipside include an **Audience** object that marks where your in-VR audience will appear when
