@@ -206,6 +206,3 @@ without player controls, to simulate a gif using an mp4 file which are often
 substantially smaller and more efficient.
 
 The latter will convert to a traditional `<img>` tag for the regular gif file.
-
-### Extra macros
-
