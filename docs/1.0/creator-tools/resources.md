@@ -26,19 +26,26 @@
 * [Quixel Megascans](https://megascans.se/)
 
 ## Skybox textures
+
 * [HDRI Haven](https://hdrihaven.com/hdris/category/?c=skies)
 
 ## Tools to make avatars / characters
 
 * [Mixamo](https://www.mixamo.com/)
-* [Daz3D](https://www.daz3d.com/)
+* [DAZ Studio](https://www.daz3d.com/)
 * [Character Creator](https://www.reallusion.com/character-creator/)
+* [VRoid](https://studio.vroid.com/)
+* [Optimizing DAZ Studio characters for Unity](https://busy.org/@dwinblood/daz-studio-unity-simple-lod-experimentations-in-optimizing-the-crazy-daz-studio-hair-polygon-count-so-it-is-not-as-bad-for-game)
 
 ## YouTube Game Development Videos
+
 * [Games From Scratch](https://www.youtube.com/user/gamefromscratch)
 
 ## Unity Plugins, Assets, and Packages
+
+* [Dynamic Bone](https://assetstore.unity.com/packages/tools/animation/dynamic-bone-16743)
 * [Instant Mesh](https://https://github.com/wjakob/instant-meshes)
+* [Simple LOD](https://assetstore.unity.com/packages/tools/modeling/simple-lod-25366)
 
 ---
 
