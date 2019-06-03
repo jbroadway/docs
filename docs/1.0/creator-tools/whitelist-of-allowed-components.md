@@ -13,6 +13,8 @@ Characters may use the following components:
 * Flipside.Avatars.AvatarModelReferences
 * Flipside.Avatars.StretchBetween
 * Flipside.Sets.ColliderElement
+* Flipside.Sets.CustomTag
+* Flipside.Sets.ScreenElement
 * Flipside.Sets.ToggleElement
 * ONSPAudioSource
 * UnityEngine.Animation
@@ -47,10 +49,11 @@ Sets may use the following components:
 * DynamicBoneCollider
 * Cinemachine.CinemachineBrain
 * Cinemachine.CinemachineVirtualCamera
-* Flipside.Helpers.SetElement
+* Flipside.Avatars.EyeTarget
 * Flipside.Sets.Audience
 * Flipside.Sets.ButtonElement
 * Flipside.Sets.CameraElement
+* Flipside.Sets.Chair
 * Flipside.Sets.ColliderElement
 * Flipside.Sets.CustomTag
 * Flipside.Sets.FlipsideActions
@@ -59,6 +62,7 @@ Sets may use the following components:
 * Flipside.Sets.ScreenElement
 * Flipside.Sets.Set
 * Flipside.Sets.SetInfo
+* Flipside.Sets.TeleportTarget
 * Flipside.Sets.ToggleElement
 * NewtonVR.NVRSnappable
 * ONSPAudioSource
