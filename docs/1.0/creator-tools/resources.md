@@ -44,7 +44,7 @@
 ## Unity Plugins, Assets, and Packages
 
 * [Dynamic Bone](https://assetstore.unity.com/packages/tools/animation/dynamic-bone-16743)
-* [Instant Mesh](https://https://github.com/wjakob/instant-meshes)
+* [Instant Mesh](https://github.com/wjakob/instant-meshes)
 * [Simple LOD](https://assetstore.unity.com/packages/tools/modeling/simple-lod-25366)
 
 ---
