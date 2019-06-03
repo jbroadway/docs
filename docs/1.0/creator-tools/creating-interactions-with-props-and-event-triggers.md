@@ -68,8 +68,9 @@ All other options are identical to ColliderElement.
 
 Attaching a ScreenElement to any object will cause Flipside to replace that object's material with the material you select from the list. Available options include:
 
-* Slideshow
-* Main output
+* **Slideshow** - Mirror the slideshow output.
+* **Main output** - Mirror the main Flipside camera output.
+* **Desktop** - Mirror the output of one of your desktop monitors.
 
 ![ScreenElement component](https://www.flipsidexr.com/files/docs/screenshots/screen-element.png)
 
@@ -77,15 +78,29 @@ Attaching a ScreenElement to any object will cause Flipside to replace that obje
 
 The FlipsideActions component can be used to trigger a limited number of Flipside's internal actions via Unity events through interactions with ColliderElement and ToggleElement. Actions include:
 
+Camera controls:
+
+* **CutToCamera(num)** - Transition to the specified camera using a cut transition, overriding the current transition setting.
+* **CutToPOV(num)** - Cut to the specified user's POV (0 is host, others in order they joined).
+* **MoveToCamera(num)** - Transition to the specified camera using a move transition, overriding the current transition setting.
+* **SetCameraMode(mode)** - Set the camera transition mode to cut (0) or move (1) by default.
+* **SetCameraSpeed(speed)** - Set the camera movement speed in meters per second.
+* **TransitionToCamera(num)** - Transition to the specified camera using the current camera transition mode.
+
+Slideshow controls:
+
 * **ShowNextSlide()**
 * **ShowPreviousSlide()**
 * **ShowFirstSlide()**
-* **CutToCamera(num)**
-* **MoveToCamera(num)**
+
+Scene controls:
+
 * **ChangeSky(id)**
 * **ChangeSet(id)**
+* **MirrorDesktop(num)**
+* **ResetProps()**
 
-To use it, attach FlipsideActions to an object in your Unity scene, then drag that object into the Unity event in the Inspector window and select the action you want to trigger.
+To use it, attach **FlipsideActions** to an object in your Unity scene, then drag that object into the Unity event in the Inspector window and select the action you want to trigger.
 
 ### CustomTag
 
@@ -93,4 +108,4 @@ Lets you specify a custom tag to limit ColliderElement interactions to specific 
 
 ---
 
-Next: [[:Whitelist of allowed components]]
+Next: [[:Creating chairs and teleport targets]]
