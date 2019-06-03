@@ -20,10 +20,11 @@ The Examples package includes additional examples and documentation to help you 
 
 * [[> Installation and setup ]]
 * [[> Creating a custom character ]]
-  * [Using Adobe Mixamo to rig a character](/blog/post/30/using-adobe-mixamo-rig-custom-character-flipside)
   * [[> Mapping facial expressions ]]
+  * [[> Generating colliders on characters]]
   * [[> Adding movement to hair, cloth, and tails ]]
   * [[> Fixing forearm twisting ]]
+  * [Using Adobe Mixamo to rig a character](/blog/post/30/using-adobe-mixamo-rig-custom-character-flipside)
   * [[> Importing Daz 3D characters into Flipside]]
 * [[> Creating a custom set ]]
   * [[> Setting up your teleporter area ]]
