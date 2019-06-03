@@ -76,9 +76,11 @@ Attaching a ScreenElement to any object will cause Flipside to replace that obje
 
 ### FlipsideActions
 
-The FlipsideActions component can be used to trigger a limited number of Flipside's internal actions via Unity events through interactions with ColliderElement and ToggleElement. Actions include:
+The FlipsideActions component can be used to trigger a limited number of Flipside's internal actions via Unity events through interactions with ColliderElement and ToggleElement.
 
-Camera controls:
+![FlipsideActions component](https://www.flipsidexr.com/files/docs/screenshots/flipsideactions-component.png)
+
+Camera actions include:
 
 * **CutToCamera(num)** - Transition to the specified camera using a cut transition, overriding the current transition setting.
 * **CutToPOV(num)** - Cut to the specified user's POV (0 is host, others in order they joined).
@@ -87,13 +89,13 @@ Camera controls:
 * **SetCameraSpeed(speed)** - Set the camera movement speed in meters per second.
 * **TransitionToCamera(num)** - Transition to the specified camera using the current camera transition mode.
 
-Slideshow controls:
+Slideshow actions include:
 
 * **ShowNextSlide()**
 * **ShowPreviousSlide()**
 * **ShowFirstSlide()**
 
-Scene controls:
+Scene actions include:
 
 * **ChangeSky(id)**
 * **ChangeSet(id)**
