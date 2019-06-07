@@ -22,7 +22,7 @@ subsequent generations.
 #### Step 1. Add to exclude list if needed
 
 When the Generate Collider button is pressed the system will process all bones on the avatar generating colliders
-for any bone that has vertices assoicated with it.  In some instances you might not want colliders on a specific
+for any bone that has vertices associated with it.  In some instances you might not want colliders on a specific
 bone or the colliders being generated are incorrect so you will be adding colliders to them manually after
 generation. In these cases you will want to add the bone to the **Exclude Transform** List.
 
@@ -30,9 +30,9 @@ generation. In these cases you will want to add the bone to the **Exclude Transf
 
 > _The pelvis, shoulders, and eyes have extra colliders we don't need._
 
-To do this all you have to do is drag the bone to exclude from the hierarchy window to the word **Exclude Transform**
-and it will add it to the list. You can also increment the size by one and then drag the bone from the hierarchy
-to the empty space on the list.
+To do this all you have to do is drag the bone to exclude from the **Hierarchy** window onto the **Exclude Transforms**
+text in the **Inspector** and it will add it to the list. You can also increment the size by one and then drag
+the bone from the hierarchy to the empty space on the list.
 
 ![Exclude transforms list](https://www.flipsidexr.com/files/docs/screenshots/colliders-exclude-transforms.png)
 
@@ -75,7 +75,7 @@ After doing this, you might have to inverse the x or y position and possibly the
 
 When dealing with arms, fingers and legs, make sure that the joints don't overlap. If you find the generated colliders do
 overlap, tweak them until they are just barely touching one another. The only exception to this is if you have a character
-that does not match standard human perportions. In these instances, you might want to have more or less overlap and will
+that does not match standard human proportions. In these instances, you might want to have more or less overlap and will
 require some testing to determine what settings work best.
 
 ![Colliders - Arm setup](https://www.flipsidexr.com/files/docs/screenshots/colliders-arms.png)
@@ -90,7 +90,7 @@ simulation.
 
 If you find that the generated colliders are not meeting your needs, you may also add colliders of your own. This can be
 done before or after generation. All collider types are supported, but mesh colliders must be convex. With any solution,
-you will want to try to use mostly primative collider types and try to limit the number used for performance reasons.
+you will want to try to use mostly primitive collider types and try to limit the number used for performance reasons.
 
 ![Colliders - head setup](https://www.flipsidexr.com/files/docs/screenshots/colliders-head.png)
 
@@ -106,7 +106,7 @@ system and your limbs will pass through physical objects.
 #### Default body
 
 The default body defines which colliders are used for various body parts prior to overrides. By default humanoid is selected,
-but if you have a character that is unique you can change the default body. The options availible are:
+but if you have a character that is unique you can change the default body. The options available are:
 
 * **Boxes** - Set all colliders to boxes
 * **Capsules** - Set all colliders to capsules
@@ -124,7 +124,7 @@ you set it to 0.95, all the colliders would be 95% of their calculated size.
 
 #### Layers
 
-Each vertex can be influanced by up to 4 bones. Typically the first bone (or Layer) is the primary driver of the vertices
+Each vertex can be influenced by up to 4 bones. Typically the first bone (or Layer) is the primary driver of the vertices
 mapped to the bone. This is why we have only **Layer 1** selected by default. If you find that not all vertices are getting
 colliders generated, you might want to experiment with adding layers by checking them before hitting **Generate Colliders**.
 
