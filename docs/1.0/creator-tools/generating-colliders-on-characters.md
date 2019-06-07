@@ -27,7 +27,8 @@ bone or the colliders being generated are incorrect so you will be adding collid
 generation. In these cases you will want to add the bone to the **Exclude Transform** List.
 
 ![Identifying transforms to exclude](https://www.flipsidexr.com/files/docs/screenshots/colliders-screenshot1.png)
-_(The Pelvis, Sholders, and Eyes have extra colliders we don't need)_
+
+> _The pelvis, shoulders, and eyes have extra colliders we don't need._
 
 To do this all you have to do is drag the bone to exclude from the hierarchy window to the word **Exclude Transform**
 and it will add it to the list. You can also increment the size by one and then drag the bone from the hierarchy
