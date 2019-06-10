@@ -1,5 +1,7 @@
 # Generating colliders on characters
 
+> **Note:** This feature is currently in beta. [Learn more about our beta program here](https://www.flipsidexr.com/beta-signup).
+
 When setting up new characters, the Flipside Creator Tools will generate physics colliders for your characters
 to be able to interact with the virtual environment. This also helps prevent a character's parts from
 intersecting with each other, such as an arm disappearing into a character's side.
