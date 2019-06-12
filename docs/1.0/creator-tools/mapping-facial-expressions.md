@@ -104,4 +104,5 @@ If you only have one talking animation, add it as the animation for each viseme 
 
 ---
 
-Next: [[:Generating colliders on characters]]
+Next: [[:Adding movement to hair, cloth, and tails]]
+<!-- Next: [[:Generating colliders on characters]] -->
