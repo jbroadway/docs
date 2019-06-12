@@ -20,8 +20,7 @@ The Examples package includes additional examples and documentation to help you 
 
 * [[> Installation and setup ]]
 * [[> Creating a custom character ]]
-  * [[> Mapping facial expressions ]]
-<!--  *  [[> Generating colliders on characters]] -->
+  * [[> Mapping facial expressions ]] <!--  *  [[> Generating colliders on characters]] -->
   * [[> Adding movement to hair, cloth, and tails ]]
   * [[> Fixing forearm twisting ]]
   * [Using Adobe Mixamo to rig a character](/blog/post/30/using-adobe-mixamo-rig-custom-character-flipside)
