@@ -2,6 +2,10 @@
 
 Check back here to learn about all the latest changes to Flipside.
 
+[Update #29b](#)<br>
+<small><em>June 12, 2019</em></small><br>
+Multiplayer connection improvements, combine facial expression modes on one character, interaction and UI improvements, access the menu while recording, Vive Tracker orientation fixes, and other bug fixes.
+
 [Update #29a](#)<br>
 <small><em>May 30, 2019</em></small><br>
 New chair marker in Show Tools menu, eye targets added to the Creator Tools package for Unity, various fixes for multiplayer, playback, background sync, and synchronizing state of colliders and toggles.
