@@ -2,6 +2,10 @@
 
 Check back here to learn about all the latest changes to Flipside.
 
+[Update #29c](#)<br>
+<small><em>June 28, 2019</em></small><br>
+Bug fixes related to multiplayer synchronization, interactions, event triggers, and user modes, as well as an app freeze fix and a few more.
+
 [Update #29b](#)<br>
 <small><em>June 12, 2019</em></small><br>
 Multiplayer connection improvements, combine facial expression modes on one character, interaction and UI improvements, access the menu while recording, Vive Tracker orientation fixes, and other bug fixes.
