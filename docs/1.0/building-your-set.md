@@ -9,6 +9,7 @@
       * [[> Dressing your set / Interactive props / Slideshow ]]
       * [[> Dressing your set / Interactive props / Magic pencil ]]
     * [[> Dressing your set / Skies ]]
+    * [[> Dressing your set / Saving your setups ]]
   * [[> Show tools ]]
     * [Video camera](/docs/1.0/building-your-set/show-tools#video-camera)
     * [Preview monitors](/docs/1.0/building-your-set/show-tools#preview-monitors)
