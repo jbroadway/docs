@@ -3,6 +3,15 @@
 Once you've finished dressing your set and setting up your cameras, you can save a snapshot of your setup
 that you can go back to at any time.
 
+A saved setup consists of:
+
+* The set
+* The sky
+* Prop placements
+* Actor marks
+* Camera placements
+* Slideshows, teleprompters, and other show tools
+
 ## How to save your setup
 
 Press the **Save Setup** button found on the underside of the **Sets** or **Set Builder** palette. Flipside will
