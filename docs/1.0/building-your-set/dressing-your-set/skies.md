@@ -72,4 +72,4 @@ To set your sky, **squeeze the trigger** with your sky in hand.
 
 ---
 
-Next: [[ Building your set / Show tools ]]
+Next: [[ Building your set / Saving your setups ]]
