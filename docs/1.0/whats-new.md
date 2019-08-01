@@ -2,6 +2,10 @@
 
 Check back here to learn about all the latest changes to Flipside.
 
+[Update #30](/blog/post/69/flipside-update-30-save-your-setups)<br>
+<small><em>August 1, 2019</em></small><br>
+Save snapshots of your setups, smoothing on local user movement, many other bug fixes.
+
 [Update #29c](#)<br>
 <small><em>June 28, 2019</em></small><br>
 Bug fixes related to multiplayer synchronization, interactions, event triggers, and user modes, as well as an app freeze fix and a few more.
