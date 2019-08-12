@@ -82,11 +82,8 @@ Video:
 * VP8
 * RTMP (Live stream)
 * RTSP (Live stream)
-* YouTube (ex: `https://youtu.be/pSldv8oOGgw`)
 * Dropbox (ex: `https://www.dropbox.com/s/path/to/my-image.png?dl=0`)
 * Google Drive (ex: `https://drive.google.com/file/d/file-id/view?usp=sharing`)
-
-> Note: YouTube links incur an additional delay, making precise timing difficult. Private YouTube videos and YouTube Live are not supported.
 
 ---
 
