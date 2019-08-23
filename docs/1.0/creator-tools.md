@@ -12,7 +12,7 @@ Latest version:
 
 Beta version (use this version if you opted into the Flipside Studio beta):
 
-* **[Flipside Creator Tools v0.22](/files/downloads/FlipsideCreatorTools-v0.22.unitypackage)**
+* **[Flipside Creator Tools v0.23](/files/downloads/FlipsideCreatorTools-v0.23.unitypackage)**
 
 The Examples package includes additional examples and documentation to help you get started with the Creator Tools, which you'll find under the `FlipsideCreatorTools/Examples` and `FlipsideCreatorTools/Documentation` folders in Unity once you've imported the package. Double click the example Unity scenes to open them and see how things are set up.
 
