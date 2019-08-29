@@ -2,6 +2,10 @@
 
 Check back here to learn about all the latest changes to Flipside.
 
+[Update #30a](#)<br>
+<small><em>August 29, 2019</em></small><br>
+Several bug fixes to multiplayer, slideshow, reliability, and performance improvements, Flipside Creator Tools updated to v0.23.
+
 [Update #30](/blog/post/69/flipside-update-30-save-your-setups)<br>
 <small><em>August 1, 2019</em></small><br>
 Save snapshots of your setups, smoothing on local user movement, many other bug fixes.
