@@ -22,4 +22,4 @@ Flipside supports the following two structures for wrist twist bones. If your ch
 
 ---
 
-Next: [[:Importing Daz 3D characters into Flipside]]
+Next: [[:Creating a custom set]]
