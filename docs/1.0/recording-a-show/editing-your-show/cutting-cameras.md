@@ -37,7 +37,7 @@ There are two types of camera transitions you can select, **cut** and **move**.
 
 :gif /files/docs/gifs/camera-cut.mp4
 
-**Move** will move the caemra from the current position to the selected position.
+**Move** will move the camera from the current position to the selected position.
 
 :gif /files/docs/gifs/camera-move.mp4
 
