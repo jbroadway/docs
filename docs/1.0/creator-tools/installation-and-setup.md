@@ -4,7 +4,7 @@ This page covers how to install, setup, and upgrade the [Flipside Creator Tools]
 
 ## Installation
 
-1. Download and install the correct version of Unity, which is always listed with the [latest Flipside Creator Tools downloads](/docs/1.0/creator-tools)download. _Note: If you're not on Windows, at the Choose Components selection of the installation make sure you choose Windows Build Support._
+1. Download and install the correct version of Unity, which is always listed with the [latest Flipside Creator Tools downloads](/docs/1.0/creator-tools). _Note: If you're not on Windows, at the Choose Components selection of the installation make sure you choose Windows Build Support._
 2. Download the latest version of the [Flipside Creator Tools](/docs/1.0/creator-tools).
 3. Open Unity and create a new 3D project. The same project can be used to create all
    of your custom characters and sets.
