@@ -12,7 +12,7 @@ Use this version if you are using the stable version of Flipside Studio.
 
 * **[Flipside Creator Tools v0.24](/files/downloads/FlipsideCreatorTools-v0.24.unitypackage)**
 
-This version works with Unity 2017.4.22f1 (downloads: [Windows](https://unity3d.com/get-unity/download?thank-you=update&download_nid=61174&os=Win), [Mac](https://unity3d.com/get-unity/download?thank-you=update&download_nid=61174&os=Mac)).
+This version works with **Unity 2017.4.22f1** (downloads: [Windows](https://unity3d.com/get-unity/download?thank-you=update&download_nid=61174&os=Win), [Mac](https://unity3d.com/get-unity/download?thank-you=update&download_nid=61174&os=Mac)).
 
 ### Beta version
 
@@ -20,7 +20,7 @@ Use this version if you opted into the [Flipside Studio Beta](https://www.flipsi
 
 * **[Flipside Creator Tools v0.25](/files/downloads/FlipsideCreatorTools-v0.25.unitypackage)**
 
-This version works with Unity 2019.2.10f1 (downloads: [Windows](https://unity3d.com/get-unity/download?thank-you=update&download_nid=63148&os=Win), [Mac](https://unity3d.com/get-unity/download?thank-you=update&download_nid=63148&os=Mac)).
+This version works with **Unity 2019.2.10f1** (downloads: [Windows](https://unity3d.com/get-unity/download?thank-you=update&download_nid=63148&os=Win), [Mac](https://unity3d.com/get-unity/download?thank-you=update&download_nid=63148&os=Mac)).
 
 ## Contents
 
