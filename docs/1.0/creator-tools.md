@@ -20,7 +20,7 @@ Use this version if you opted into the [Flipside Studio Beta](https://www.flipsi
 
 * **[Flipside Creator Tools v0.26](/files/downloads/FlipsideCreatorTools-v0.26.unitypackage)**
 
-This version works with **Unity 2019.2.10f1** (downloads: [Windows](https://unity3d.com/get-unity/download?thank-you=update&download_nid=63148&os=Win), [Mac](https://unity3d.com/get-unity/download?thank-you=update&download_nid=63148&os=Mac)).
+This version works with **Unity 2019.2.11f1** (downloads: [Windows](https://unity3d.com/get-unity/download?thank-you=update&download_nid=63169&os=Win), [Mac](https://unity3d.com/get-unity/download?thank-you=update&download_nid=63169&os=Mac)).
 
 ## Contents
 
