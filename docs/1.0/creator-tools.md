@@ -4,23 +4,30 @@ The Flipside Creator Tools are an extension for the Unity game engine that enabl
 
 ## Download
 
-> **Note:** The Flipside Creator Tools requires a specific version of Unity in order for the exported character and set bundles to work properly, which you can always find on our [[>Installation and setup]] page.
+> **Note:** The Flipside Creator Tools require a specific version of Unity in order to work properly.
 
-Latest version:
+### Stable version
 
-* **[Flipside Creator Tools v0.13](/files/downloads/FlipsideCreatorTools-v0.13.unitypackage)**
+Use this version if you are using the stable version of Flipside Studio.
 
-Beta version (use this version if you opted into the Flipside Studio beta):
+* **[Flipside Creator Tools v0.25](/files/downloads/FlipsideCreatorTools-v0.25.unitypackage)**
 
-* **[Flipside Creator Tools v0.24](/files/downloads/FlipsideCreatorTools-v0.24.unitypackage)**
+This version works with **Unity 2017.4.22f1** (downloads: [Windows](https://unity3d.com/get-unity/download?thank-you=update&download_nid=61174&os=Win), [Mac](https://unity3d.com/get-unity/download?thank-you=update&download_nid=61174&os=Mac)).
 
-The Examples package includes additional examples and documentation to help you get started with the Creator Tools, which you'll find under the `FlipsideCreatorTools/Examples` and `FlipsideCreatorTools/Documentation` folders in Unity once you've imported the package. Double click the example Unity scenes to open them and see how things are set up.
+### Beta version
+
+Use this version if you opted into the [Flipside Studio Beta](https://www.flipsidexr.com/beta-signup).
+
+* **[Flipside Creator Tools v0.26](/files/downloads/FlipsideCreatorTools-v0.26.unitypackage)**
+
+This version works with **Unity 2019.2.11f1** (downloads: [Windows](https://unity3d.com/get-unity/download?thank-you=update&download_nid=63169&os=Win), [Mac](https://unity3d.com/get-unity/download?thank-you=update&download_nid=63169&os=Mac)).
 
 ## Contents
 
 * [[> Installation and setup ]]
 * [[> Creating a custom character ]]
-  * [[> Mapping facial expressions ]] <!--  *  [[> Generating colliders on characters]] -->
+  * [[> Mapping facial expressions ]]
+  * [[> Generating colliders on characters]]
   * [[> Adding movement to hair, cloth, and tails ]]
   * [[> Fixing forearm twisting ]]
   * [Using Adobe Mixamo to rig a character](/blog/post/30/using-adobe-mixamo-rig-custom-character-flipside)
