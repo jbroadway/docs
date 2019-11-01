@@ -21,6 +21,8 @@ First, always make sure you're still on the correct version of Unity. If not, it
 
 To upgrade to a new version of the [Flipside Creator Tools](/docs/1.0/creator-tools), download the latest version and import it into your Unity project via _Assets > Import Package > Custom Package_ in the Unity application menu.
 
+> **Note:** Please see [[:upgrading your characters and sets to Unity 2019]] for more detailed instructions on upgrading your assets.
+
 ## Setting your Flipside Creator ID
 
 1. Click the **Continue** button in the **Set Flipside Creator ID** wizard. This will open the **FlipsideSettings** object in Unity's **Inspector** pane.
