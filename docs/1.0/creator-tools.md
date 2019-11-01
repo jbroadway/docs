@@ -22,6 +22,8 @@ Use this version if you opted into the [Flipside Studio Beta](https://www.flipsi
 
 This version works with **Unity 2019.2.11f1** (downloads: [Windows](https://unity3d.com/get-unity/download?thank-you=update&download_nid=63169&os=Win), [Mac](https://unity3d.com/get-unity/download?thank-you=update&download_nid=63169&os=Mac)).
 
+> **Note:** Please see [[> upgrading your characters and sets to Unity 2019]] for more detailed instructions on upgrading your assets.
+
 ## Contents
 
 * [[> Installation and setup ]]
