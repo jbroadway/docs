@@ -2,6 +2,10 @@
 
 Check back here to learn about all the latest changes to Flipside.
 
+[Update #31](/blog/post/71/flipside-update-31-character-body-physics-unity-2019-and-mor)<br>
+<small><em>November 4, 2019</em></small><br>
+Body physics on characters, upgraded Unity compatibility to 2019.2, object cloning in Set Builder, NDI output support, 2-3x faster launch time, and other performance optimizations and reliability improvements. Creator Tools now supports teleporting around sets, seeing your controllers in VR including interacting with colliders and toggles, and testing facial expressions just like you'd control them in Flipside Studio.
+
 [Update #30a](#)<br>
 <small><em>August 29, 2019</em></small><br>
 Several bug fixes to multiplayer, slideshow, reliability, and performance improvements, Flipside Creator Tools updated to v0.23.
