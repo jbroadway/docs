@@ -29,6 +29,10 @@ Be sure to install the version of Unity listed on that page, or you will run int
 
 To upgrade the Flipside Creator Tools, open your project in Unity 2019 and wait for it to finish importing. This may take a few minutes or more, depending on how many assets your project has. When the import has completed, go to _Assets > Import Package > Custom Package_ in the Unity application menu. Select the new version of the Flipside Creator Tools from your downloads, and overwrite any existing files when asked.
 
+As of Unity 2019, there's also one new step in the install/upgrade process:
+
+Navigate to _Window > Package Manager_ and install either the **Oculus Desktop** or **OpenVR (Desktop)** package, depending on your VR headset. This will let you press Play and preview/test your characters and sets in VR.
+
 ## Updating your characters and sets
 
 For the most part, characters and sets don't need anything changed in order to work in Unity 2019, they just need to be rebuilt in that version of Unity and uploaded to your Flipside Dashboard. You'll notice there's a new bundle file option labelled **Beta - Windows - Unity 2019**. This is where you'll need to upload your rebuilt characters and sets.
