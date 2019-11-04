@@ -4,14 +4,13 @@ This page covers how to install, setup, and upgrade the [Flipside Creator Tools]
 
 ## Installation
 
-1. Download and install the correct version of Unity, which is always listed with the [latest Flipside Creator Tools downloads](/docs/1.0/creator-tools). _Note: If you're not on Windows, at the Choose Components selection of the installation make sure you choose Windows Build Support._
+1. Download and install the correct version of Unity, which is always listed with the [latest Flipside Creator Tools downloads](/docs/1.0/creator-tools). _Note: If you're not on Windows, at the **Choose Components** selection of the installation make sure you choose **Windows Build Support**._
 2. Download the latest version of the [Flipside Creator Tools](/docs/1.0/creator-tools).
-3. Open Unity and create a new 3D project. The same project can be used to create all
-   of your custom characters and sets.
+3. Open Unity and create a new 3D project. The same project can be used to create all of your custom characters and sets.
 4. Import the Flipside Creator Tools package from step 2 by choosing _Assets > Import
    Package > Custom Package_ in the Unity application menu.
 5. After installing the Unity package, navigate to _Flipside Creator Tools > Open Creator Tools_ to open the Creator Tools wizard. You can dock this window anywhere you like in the editor.
-6. Navigate to _Window > Package Manager_ and install either the Oculus Desktop or OpenVR (Desktop) package, depending on your VR headset. This will let you press Play and preview your characters and sets in VR.
+6. Navigate to _Window > Package Manager_ and install either the **Oculus Desktop** or **OpenVR (Desktop)** package, depending on your VR headset. This will let you press Play and preview/test your characters and sets in VR.
 
 ![Flipside Creator Tools - Set Flipside Creator ID](https://www.flipsidexr.com/files/docs/screenshots/flipside-creator-tools-enter-id.png)
 
