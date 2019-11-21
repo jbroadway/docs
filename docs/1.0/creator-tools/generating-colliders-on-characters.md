@@ -6,6 +6,16 @@ When setting up new characters, the Flipside Creator Tools will generate physics
 to be able to interact with the virtual environment. This also helps prevent a character's parts from
 intersecting with each other, such as an arm disappearing into a character's side.
 
+### Contents
+
+* [#basic-collider-setup](Basic collider setup)
+* [#customizing-your-colliders](Customizing your colliders)
+* [#advanced-collider-customization](Advanced collider customization)
+* [#adding-colliders-to-existing-characters](Adding colliders to existing characters)
+* [#troubleshooting](Troubleshooting)
+
+
+
 ### Basic collider setup
 
 The colliders are added to a character via the **GenerateColliders** component that is added to the root game
@@ -147,9 +157,17 @@ From here, follow the steps under [customizing your colliders](#customizing-your
 
 ### Troubleshooting
 
-#### Scale Issues
+#### Scale issues
 
-If you have issues where the character is not loading correctly in flipside or the colliders being generated don't match the body then FBX likely has a scale set incorrclty.  The scale of all the bones and root should be 1, if they are not you need to change that value in unity using the FBX import settings.  Copy the non zero scale value from the bone and paste it into scale under the FBX import options.  Once it is changed you'll apply the changes, select the FBX, then redo "Create Character from Selected Model" by clicking that option under the Flipside Creator tools menu.  It will re import.  Once that is done you can reset the scale on the model back to 1 if it isn't already then proceed with standard setup.  The tutorial video covers how to fix scale issues and provides a quick guide to the generation and cleanup of colliders for our body physics system.
+If you have issues where the character is not loading correctly in Flipside or the colliders being generated don't match the body, then your FBX likely has a scale set incorrectly.
+
+The scale of all the bones and root should be set to 1. If they are not, you need to change that value in Unity using the FBX import settings.
+
+To do so, copy the non zero scale value from the bone and paste it into scale under the FBX import options. Once the scale is changed, click **Apply** then select the FBX and choose "Create Character from Selected Model" under the Flipside Creator Tools menu.
+
+This should re-import the character at the correct scale. Once that is done you can reset the scale on the model back to 1 if it isn't already then proceed with the standard setup.
+
+<!-- The tutorial video covers how to fix scale issues and provides a quick guide to the generation and cleanup of colliders for our body physics system. -->
 
 #### Hand/leg colliders not capsules
 
