@@ -2,6 +2,10 @@
 
 Check back here to learn about all the latest changes to Flipside.
 
+[Update #31a, #31b](#)<br>
+<small><em>November 25, 2019</em></small><br>
+Vive controller initialization fix. Disabled validation check that broke some characters with colliders. Fixed potential error if characters have a list of eyes with unassigned values. Potential source of error fixed in Creator Tools v0.27 as well.
+
 [Update #31](/blog/post/71/flipside-update-31-character-body-physics-unity-2019-and-mor)<br>
 <small><em>November 4, 2019</em></small><br>
 Body physics on characters, upgraded Unity compatibility to 2019.2, object cloning in Set Builder, NDI output support, 2-3x faster launch time, and other performance optimizations and reliability improvements. Creator Tools now supports teleporting around sets, seeing your controllers in VR including interacting with colliders and toggles, and testing facial expressions just like you'd control them in Flipside Studio.
