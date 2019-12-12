@@ -2,6 +2,10 @@
 
 Check back here to learn about all the latest changes to Flipside.
 
+[Update #32](/blog/post/74/flipside-update-32-server-based-multiplayer)<br>
+<small><em>December 12, 2019</em></small><br>
+Server-based multiplayer option, texture-based faces can now support blinking and expressions, improved voice recording quality, and various other bug fixes and improvements.
+
 [Update #31a, #31b](#)<br>
 <small><em>November 25, 2019</em></small><br>
 Vive controller initialization fix. Disabled validation check that broke some characters with colliders. Fixed potential error if characters have a list of eyes with unassigned values. Potential source of error fixed in Creator Tools v0.27 as well.
