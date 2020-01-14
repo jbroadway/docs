@@ -2,6 +2,10 @@
 
 Check back here to learn about all the latest changes to Flipside.
 
+[Update #32a, #32b](#)<br>
+<small><em>January 14, 2020</em></small><br>
+Fixes for teleprompter in playback/overdubbing, combo texture facial expressions, ghost mode object movement in playback, ToggleElement  on characters with body physics, and object respawning.
+
 [Update #32](/blog/post/74/flipside-update-32-server-based-multiplayer)<br>
 <small><em>December 12, 2019</em></small><br>
 Server-based multiplayer option, texture-based faces can now support blinking and expressions, improved voice recording quality, and various other bug fixes and improvements.
