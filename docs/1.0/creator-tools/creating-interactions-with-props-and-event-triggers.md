@@ -76,7 +76,7 @@ Attaching a ScreenElement to any object will cause Flipside to replace that obje
 
 ### FlipsideActions
 
-The FlipsideActions component can be used to trigger a limited number of Flipside's internal actions via Unity events through interactions with ColliderElement and ToggleElement.
+The FlipsideActions component can be used to trigger a limited number of Flipside's internal actions via Unity events through interactions with ColliderElement and ToggleElement. It can also be used to listen for internal Flipside events and trigger actions in your set when they occur.
 
 ![FlipsideActions component](https://www.flipsidexr.com/files/docs/screenshots/flipsideactions-component.png)
 
@@ -91,16 +91,34 @@ Camera actions include:
 
 Slideshow actions include:
 
-* **ShowNextSlide()**
-* **ShowPreviousSlide()**
-* **ShowFirstSlide()**
+* **ShowNextSlide()** - Show next slide.
+* **ShowPreviousSlide()** - Show previous slide.
+* **ShowFirstSlide()** - Show the first slide.
 
 Scene actions include:
 
-* **ChangeSky(id)**
-* **ChangeSet(id)**
-* **MirrorDesktop(num)**
-* **ResetProps()**
+* **ChangeSky(id)** - Change the skybox.
+* **ChangeSet(id)** - Change the set.
+* **MirrorDesktop(num)** - Set the desktop mirror to mirror the specified screen.
+* **ResetProps()** - Reset the props on the set.
+
+User actions include:
+
+* **SetAvatar(id)** - Change the avatar of the local user.
+* **TeleportUser(target)** - Teleport the local user to a new location in the set.
+* **TriggerLeftHandHaptics(val)** - Trigger a haptic pulse on the left hand of the local user.
+* **TriggerRightHandHaptics(val)** - Trigger a haptic pulse on the right hand of the local user.
+
+Internal Flipside events you can listen for:
+
+* **OnPreload** - Trigger events before the set has been show to users.
+* **OnDisplay** - Trigger events timed to the set being shown to users.
+* **OnHide** - Trigger events timed to the set being hidden from users.
+* **OnStart** - Trigger events when a Flipside recording is started.
+* **OnPause** - Trigger events when a Flipside recording is paused.
+* **OnResume** - Trigger events when a Flipside recording is resumed.
+* **OnStop** - Trigger events when a Flipside recording is stopped.
+* **OnRewind** - Trigger events when a Flipside recording is rewound.
 
 To use it, attach **FlipsideActions** to an object in your Unity scene, then drag that object into the Unity event in the Inspector window and select the action you want to trigger.
 
