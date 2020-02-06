@@ -7,8 +7,17 @@ The Creator Tools enable you to add interactions to your sets using a handful of
 * [ColliderElement](#colliderelement)
 * [ToggleElement](#toggleelement)
 * [ScreenElement](#screenelement)
+* [FollowElement](#followelement)
+* [TeleportObjectTo](#teleportobjectto)
+* [TeleportObjectsOnContact](#teleportobjectsoncontact)
+* [TriggerCounter](#triggercounter)
+* [TriggerEvery](#triggerevery)
+* [TriggerOnce](#triggeronce)
+* [PooledAudioElement](#pooledaudioelement)
 * [CustomTag](#customtag)
 * [FlipsideActions](/docs/1.0/creator-tools/triggering-flipside-actions)
+
+Note: See [[:building interactions with a scoring system]] for additional scoring-related components.
 
 ### PropElement
 
@@ -73,6 +82,34 @@ Attaching a ScreenElement to any object will cause Flipside to replace that obje
 * **Desktop** - Mirror the output of one of your desktop monitors.
 
 ![ScreenElement component](https://www.flipsidexr.com/files/docs/screenshots/screen-element.png)
+
+### FollowElement
+
+
+
+### TeleportObjectTo
+
+
+
+### TeleportObjectsOnContact
+
+
+
+### TriggerCounter
+
+
+
+### TriggerEvery
+
+
+
+### TriggerOnce
+
+
+
+### PooledAudioElement
+
+
 
 ### CustomTag
 
