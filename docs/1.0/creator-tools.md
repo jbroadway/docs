@@ -36,6 +36,8 @@ This version works with **Unity 2019.2.11f1** (downloads: [Windows](https://unit
 * [[> Creating a custom set ]]
   * [[> Setting up your teleporter area ]]
   * [[> Creating interactions with props and event triggers]]
+  * [[> Building interactions with a scoring system]]
+  * [[> Triggering Flipside actions]]
   * [[> Creating chairs and teleport targets]]
   * [[> Creating eye targets]]
 * [[> Whitelist of allowed components]]
