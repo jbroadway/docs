@@ -8,6 +8,7 @@ The Creator Tools enable you to add interactions to your sets using a handful of
 * [ToggleElement](#toggleelement)
 * [ScreenElement](#screenelement)
 * [FollowElement](#followelement)
+* [PhysicsEstimator](#physicsestimator)
 * [TeleportObjectTo](#teleportobjectto)
 * [TeleportObjectsOnContact](#teleportobjectsoncontact)
 * [TriggerCounter](#triggercounter)
@@ -98,6 +99,12 @@ Additional properties:
 * **Smoothing** - Smoothing makes the follow element lerp over the specified number of steps.
 
 Tip: To change the object's position relative to the hand, assign FollowElement to a parent game object and adjust the position of the model on the child object.
+
+### PhysicsEstimator
+
+Provides physics estimation when attached to an object, with the ability to trigger physics taking over for the object's movement and applying the correct velocity and angular velocity by calling the **ReleaseObject()** method.
+
+Note: If the object's movement is controlled by an animation, disable the animator first before calling **ReleaseObject()**.
 
 ### TeleportObjectTo
 
