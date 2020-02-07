@@ -6,28 +6,6 @@ Characters support the ability to animate faces using any combination of blend s
 
 Sets support the ability to build a wide variety of interactive elements, as well as the ability to test those interactions in VR just by hitting Play in Unity. These can be as simple as grabbable props, or as complicated as complete games.
 
-## Download
-
-> **Note:** The Flipside Creator Tools require a specific version of Unity in order to work properly in Flipside Studio.
-
-### Stable version
-
-Use this version if you are using the stable version of Flipside Studio.
-
-* **[Flipside Creator Tools v0.25](/files/downloads/FlipsideCreatorTools-v0.25.unitypackage)**
-
-This version works with **Unity 2017.4.22f1** (downloads: [Windows](https://unity3d.com/get-unity/download?thank-you=update&download_nid=61174&os=Win), [Mac](https://unity3d.com/get-unity/download?thank-you=update&download_nid=61174&os=Mac)).
-
-### Beta version
-
-Use this version if you opted into the [Flipside Studio Beta](https://www.flipsidexr.com/beta-signup).
-
-* **[Flipside Creator Tools v0.29](/files/downloads/FlipsideCreatorTools-v0.29.unitypackage)**
-
-This version works with **Unity 2019.2.11f1** (downloads: [Windows](https://unity3d.com/get-unity/download?thank-you=update&download_nid=63169&os=Win), [Mac](https://unity3d.com/get-unity/download?thank-you=update&download_nid=63169&os=Mac)).
-
-> **Note:** Please see [[> upgrading your characters and sets to Unity 2019]] for more detailed instructions on upgrading your assets.
-
 ## Contents
 
 * [[> Installation and setup ]]
