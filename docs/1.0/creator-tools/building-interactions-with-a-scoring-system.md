@@ -8,6 +8,8 @@ The Creator Tools enable you to add interactions that include a scoring system u
 * [ThrowableElement](#throwableelement)
 * [TargetElement](#targetelement)
 
+To see an example of how these components can be used to build interactivity in Flipside, open and inspect the `Example-ScoringSystem` scene in the `Assets/FlipsideCreatorTools/Examples` folder once you've [installed the Flipside Creator Tools](/docs/1.0/creator-tools/installation-and-setup).
+
 ### ScoreboardElement
 
 The ScoreboardElement keeps score for each user, or for cooperative play where the scores are combined to win or lose together. Optionally, it can also display scores on a TextMeshPro component.
