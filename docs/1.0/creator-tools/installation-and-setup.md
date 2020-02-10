@@ -2,9 +2,31 @@
 
 This page covers how to install, setup, and upgrade the [Flipside Creator Tools](/docs/1.0/creator-tools) in order to import your own characters and sets into Flipside Studio.
 
+## Download
+
+> **Note:** The Flipside Creator Tools require a specific version of Unity in order to work properly in Flipside Studio.
+
+### Stable version
+
+Use this version if you are using the stable version of Flipside Studio.
+
+* **[Flipside Creator Tools v0.25](/files/downloads/FlipsideCreatorTools-v0.25.unitypackage)**
+
+This version works with **Unity 2017.4.22f1** (downloads: [Windows](https://unity3d.com/get-unity/download?thank-you=update&download_nid=61174&os=Win), [Mac](https://unity3d.com/get-unity/download?thank-you=update&download_nid=61174&os=Mac)).
+
+### Beta version
+
+Use this version if you opted into the [Flipside Studio Beta](https://www.flipsidexr.com/beta-signup).
+
+* **[Flipside Creator Tools v0.29](/files/downloads/FlipsideCreatorTools-v0.29.unitypackage)**
+
+This version works with **Unity 2019.2.11f1** (downloads: [Windows](https://unity3d.com/get-unity/download?thank-you=update&download_nid=63169&os=Win), [Mac](https://unity3d.com/get-unity/download?thank-you=update&download_nid=63169&os=Mac)).
+
+> **Note:** Please see [[> upgrading your characters and sets to Unity 2019]] for more detailed instructions on upgrading your assets.
+
 ## Installation
 
-1. Download and install the correct version of Unity, which is always listed with the [latest Flipside Creator Tools downloads](/docs/1.0/creator-tools). _Note: If you're not on Windows, at the **Choose Components** selection of the installation make sure you choose **Windows Build Support**._
+1. Download and install the correct version of Unity that matches the version of the Flipside Creator Tools above. _Note: If you're not on Windows, at the **Choose Components** selection of the installation make sure you choose **Windows Build Support**._
 2. Download the latest version of the [Flipside Creator Tools](/docs/1.0/creator-tools).
 3. Open Unity and create a new 3D project. The same project can be used to create all of your custom characters and sets.
 4. Import the Flipside Creator Tools package from step 2 by choosing _Assets > Import

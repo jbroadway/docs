@@ -7,8 +7,18 @@ The Creator Tools enable you to add interactions to your sets using a handful of
 * [ColliderElement](#colliderelement)
 * [ToggleElement](#toggleelement)
 * [ScreenElement](#screenelement)
-* [FlipsideActions](#flipsideactions)
+* [FollowElement](#followelement)
+* [PhysicsEstimator](#physicsestimator)
+* [TeleportObjectTo](#teleportobjectto)
+* [TeleportObjectsOnContact](#teleportobjectsoncontact)
+* [TriggerCounter](#triggercounter)
+* [TriggerEvery](#triggerevery)
+* [TriggerOnce](#triggeronce)
+* [PooledAudioElement](#pooledaudioelement)
 * [CustomTag](#customtag)
+* [FlipsideActions](/docs/1.0/creator-tools/triggering-flipside-actions)
+
+Note: See [[:building interactions with a scoring system]] for additional scoring-related components.
 
 ### PropElement
 
@@ -74,35 +84,97 @@ Attaching a ScreenElement to any object will cause Flipside to replace that obje
 
 ![ScreenElement component](https://www.flipsidexr.com/files/docs/screenshots/screen-element.png)
 
-### FlipsideActions
+### FollowElement
 
-The FlipsideActions component can be used to trigger a limited number of Flipside's internal actions via Unity events through interactions with ColliderElement and ToggleElement.
+Causes an object to follow the movement of another object, such as the user's hands. Can follow the following types of objects:
 
-![FlipsideActions component](https://www.flipsidexr.com/files/docs/screenshots/flipsideactions-component.png)
+* Left hand
+* Right hand
+* Head
+* Custom object
 
-Camera actions include:
+Additional properties:
 
-* **CutToCamera(num)** - Transition to the specified camera using a cut transition, overriding the current transition setting.
-* **CutToPOV(num)** - Cut to the specified user's POV (0 is host, others in order they joined).
-* **MoveToCamera(num)** - Transition to the specified camera using a move transition, overriding the current transition setting.
-* **SetCameraMode(mode)** - Set the camera transition mode to cut (0) or move (1) by default.
-* **SetCameraSpeed(speed)** - Set the camera movement speed in meters per second.
-* **TransitionToCamera(num)** - Transition to the specified camera using the current camera transition mode.
+* **Scale With Target** - Should this object match the scale of the target object?
+* **Smoothing** - Smoothing makes the follow element lerp over the specified number of steps.
 
-Slideshow actions include:
+Tip: To change the object's position relative to the hand, assign FollowElement to a parent game object and adjust the position of the model on the child object.
 
-* **ShowNextSlide()**
-* **ShowPreviousSlide()**
-* **ShowFirstSlide()**
+### PhysicsEstimator
 
-Scene actions include:
+Provides physics estimation when attached to an object, with the ability to trigger physics taking over for the object's movement and applying the correct velocity and angular velocity by calling the **ReleaseObject()** method.
 
-* **ChangeSky(id)**
-* **ChangeSet(id)**
-* **MirrorDesktop(num)**
-* **ResetProps()**
+Note: If the object's movement is controlled by an animation, disable the animator first before calling **ReleaseObject()**.
 
-To use it, attach **FlipsideActions** to an object in your Unity scene, then drag that object into the Unity event in the Inspector window and select the action you want to trigger.
+### TeleportObjectTo
+
+Provides the ability to teleport an object to a specified position, set in the **Teleport Position** property. Teleports itself by default, but can optionally teleport a different object if one is specified in the **Object To Move** property.
+
+Teleportation is triggered via the **Teleport()** method, which can be triggered by any event in the scene.
+
+### TeleportObjectsOnContact
+
+Calls **Teleport()** on any TeleportObjectTo object that comes into contact with it. Useful for things like resetting the position of fallen objects.
+
+### TriggerCounter
+
+Triggers an event after the **Count** counter value reaches its specified **Target Count** value. The counter is incremented whenever one of the **Increment()** or **Increment(by)** methods are called, which can be triggered by any event in the scene.
+
+Additional methods **SetTargetCount(count)** and **ResetCounter()** enable the counter behaviour to be modified dynamically through set interactions. An example use case would be to connect **SetTargetCount(count)** to **ScoreboardElement**'s **OnInitializeP1-P5** events to change the count required based on how many users are present.
+
+### TriggerEvery
+
+Triggers an event at the specified interval as long as the component is enabled. The interval, set via the **Trigger On** property, can be one of:
+
+* Frame - Trigger every frame
+* Seconds - Trigger at the specified **Seconds** interval
+* SecondsRealtime - Trigger at the specified **Seconds** interval using unscaled time
+
+To start or stop the execution, simply enable or disable the component. To listen for events, attach handlers to the **OnTrigger** event.
+
+### TriggerOnce
+
+Triggers an event only when the **Trigger Enabled** property is set to true. To listen for events, attach handlers to the **OnTriggered** event.
+
+To re-enable the trigger, attach the **EnableTrigger()** method to any event in the scene. To disable the trigger, attach the **DisableTrigger()** method to any event in the scene. Note that it disables the trigger automatically when the **OnTriggered** event is fired.
+
+### PooledAudioElement
+
+Positions an audio playback location on set that, when triggered, uses Flipside's AudioSource pool so you can use a larger number of audio sources without hitting Unity's limits.
+
+Basic options:
+
+* **Audio Clips** - A list of preset clips that can be played by calling **PlayOneShot(index)**.
+* **Auto-Play Clip** - A clip from the list to auto-play. Default is -1, which means don't auto-play.
+* **Loop** - Should playback loop? Default is false.
+* **Volume** - The audio volume. Default is 1.
+* **Override Audio Source** - An optional individual AudioSource to use instead of using a pooled source.
+
+Spatialization options:
+
+* **Spatialized** - Whether to spatialize the audio or not. Default is true.
+* **Gain** - Gain to apply to the spatialized audio. Default is 0.
+* **Near** - Near attenuation distance. Default is 0.25 meters.
+* **Far** - Far attenuation distance. Default is 100 meters.
+* **Volumetric Radius** - An optional volumetric radius. Default is 0.
+* **Reverb Send Level** - An optional reverb send level. Default is 0.
+
+PooledAudioElement supports most of the same methods as AudioSource, but adds a convenience methods for setting the volume so you can control it more easily via Unity's event system.
+
+Available methods:
+
+* **Play()** - Play the first audio clip in the list.
+* **Play(index)** - Play the specified audio clip from the list.
+* **Play(clip)** - Play a specific audio clip. Note: The clip does not have to be in the list.
+* **PlayOneShot()** - Play the first audio clip in the list as a one-shot.
+* **PlayOneShot(index)** - Play the specified audio clip from the list as a one-shot.
+* **PlayOneShot(clip)** - Play a specified audio clip as a one-shot. Note: The clip does not have to be in the list.
+* **Pause()** - Pause the audio source.
+* **UnPause()** - Resume playing the audio source.
+* **Stop()** - Stop the audio source.
+* **SetVolume(volume)** - Set the volume of the audio source.
+* **SubtractVolume(sub)** - Subtract the specified amount from the audio source volume.
+* **AddVolume(add)** - Add the specified amount to the audio source volume.
 
 ### CustomTag
 
@@ -110,4 +182,4 @@ Lets you specify a custom tag to limit ColliderElement interactions to specific 
 
 ---
 
-Next: [[:Creating chairs and teleport targets]]
+Next: [[:Building interactions with a scoring system]]
