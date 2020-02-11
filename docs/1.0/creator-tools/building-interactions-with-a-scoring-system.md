@@ -37,6 +37,8 @@ You can tie event handlers to the following list of events:
 * **OnFire** - Called when a bullet has been fired.
 * **OnEmptyFire** - Called when the trigger is pulled but the ammo has run out.
 
+![GunElement component](https://www.flipsidexr.com/files/docs/screenshots/gun-element.png)
+
 ### BulletElement
 
 The BulletElement component keeps track of who was holding the gun that fired it for the purposes of keeping score when the element hits a target or another player. A bullet has a **Destroy On Contact** property, as well as points to add when it hits a target or another player.
@@ -48,6 +50,8 @@ You can tie event handlers to the following list of events:
 * **OnHitTarget** - The bullet has hit a target.
 * **OnHitPlayer** - The bullet has hit a player.
 
+![BulletElement component](https://www.flipsidexr.com/files/docs/screenshots/bullet-element.png)
+
 ### ThrowableElement
 
 The ThrowableElement component keeps track of who was holding the object for the purposes of keeping score when the element hits a target or another player. A throwable has a **Destroy On Contact** property, as well as points to add when it hits a target or another player.
@@ -58,6 +62,8 @@ You can tie event handlers to the following list of events:
 * **OnHitTarget** - The throwable has hit a target.
 * **OnHitPlayer** - The throwable has hit a player.
 
+![ThrowableElement component](https://www.flipsidexr.com/files/docs/screenshots/throwable-element.png)
+
 ### TargetElement
 
 The TargetElement component assigns points when a BulletElement or ThrowableElement hits it. Targets can override the point value of the bullet or throwable with its own value if the **Override Points On Hit** property is checked and the **Add Points On Hit** property is set to the specified points to award the shooter or thrower.
@@ -65,6 +71,8 @@ The TargetElement component assigns points when a BulletElement or ThrowableElem
 You can tie event handlers to the following list of events:
 
 * **OnHit** - The target was hit.
+
+![TargetElement component](https://www.flipsidexr.com/files/docs/screenshots/target-element.png)
 
 ---
 
