@@ -98,6 +98,8 @@ Additional properties:
 * **Scale With Target** - Should this object match the scale of the target object?
 * **Smoothing** - Smoothing makes the follow element lerp over the specified number of steps.
 
+[!FollowElement component](https://www.flipsidexr.com/files/docs/screenshots/follow-element.png)
+
 Tip: To change the object's position relative to the hand, assign FollowElement to a parent game object and adjust the position of the model on the child object.
 
 ### PhysicsEstimator
@@ -122,6 +124,8 @@ Triggers an event after the **Count** counter value reaches its specified **Targ
 
 Additional methods **SetTargetCount(count)** and **ResetCounter()** enable the counter behaviour to be modified dynamically through set interactions. An example use case would be to connect **SetTargetCount(count)** to **ScoreboardElement**'s **OnInitializeP1-P5** events to change the count required based on how many users are present.
 
+![TriggerCounter component](https://www.flipsidexr.com/files/docs/screenshots/trigger-counter.png)
+
 ### TriggerEvery
 
 Triggers an event at the specified interval as long as the component is enabled. The interval, set via the **Trigger On** property, can be one of:
@@ -132,15 +136,21 @@ Triggers an event at the specified interval as long as the component is enabled.
 
 To start or stop the execution, simply enable or disable the component. To listen for events, attach handlers to the **OnTrigger** event.
 
+![TriggerEvery component](https://www.flipsidexr.com/files/docs/screenshots/trigger-every.png)
+
 ### TriggerOnce
 
 Triggers an event only when the **Trigger Enabled** property is set to true. To listen for events, attach handlers to the **OnTriggered** event.
 
 To re-enable the trigger, attach the **EnableTrigger()** method to any event in the scene. To disable the trigger, attach the **DisableTrigger()** method to any event in the scene. Note that it disables the trigger automatically when the **OnTriggered** event is fired.
 
+![TriggerOnce component](https://www.flipsidexr.com/files/docs/screenshots/trigger-once.png)
+
 ### PooledAudioElement
 
 Positions an audio playback location on set that, when triggered, uses Flipside's AudioSource pool so you can use a larger number of audio sources without hitting Unity's limits.
+
+![PooledAudioElement component](https://www.flipsidexr.com/files/docs/screenshots/pooled-audio-element.png)
 
 Basic options:
 
