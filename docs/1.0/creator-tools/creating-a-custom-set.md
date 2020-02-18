@@ -74,71 +74,16 @@ You can read all about Unity's [NavMesh feature here](https://docs.unity3d.com/M
 
 For more info, see [[: setting up your teleporter area ]].
 
-### Static elements
+### Interactive elements
 
-The Flipside Creator Tools let you specify certain non-moving, or static, elements of your set. This
-helps Flipside's Set Builder understand how to work with your set, and are completely optional.
+The Flipside Creator Tools also let you add many kinds of interactive elements to your sets. Take a look
+at the following pages for info on adding interactivity to your sets:
 
-![StaticElement component](https://www.flipsidexr.com/files/docs/screenshots/static-elements.png)
-
-To mark an object as a static element, add a **Static Element** component to it in the **Inspector**
-window, then choose the type of element that it is. There are four static element types you can choose:
-
-1. Floor
-2. Wall
-3. Ceiling
-4. Seat
-
-### Prop elements
-
-The Flipside Creator Tools also let you specify certain movable elements of your set. These act like
-props that are built right into your set.
-
-To mark an object as a prop element, add a **Prop Element** component to it in the **Inspector**
-window. Here you can choose whether your prop is affected by gravity or not, and also assign custom
-[Unity events](https://docs.unity3d.com/Manual/UnityEvents.html) to be triggered when the following
-interactions happen:
-
-![PropElement component](https://www.flipsidexr.com/files/docs/screenshots/prop-elements.png)
-
-* **On Begin Interaction** - A user grabbed the prop.
-* **On End Interaction** - A user let go of the prop.
-* **On Use Button Down** - A user pressed the trigger while holding the prop.
-* **On Use Button Up** - A user released the trigger while holding the prop.
-
-You'll also notice that when you add a **Prop Element** component, a **Nav Mesh Modifier** is also
-added for you automatically with its **Ignore From Build** setting checked. This ensures that props
-won't accidentally be included in your teleport area.
-
-> Note: Props brought in as part of a set behave a little differently than props imported on their own.
-> They don't appear in the Set Builder palette, but rather where you placed them in the set itself,
-> however you _can_ move them around in the Set Builder within Flipside Studio and it will remember their
-> new location. But you can't remove them from the set, or add more instances of them like you can with
-> imported props. This may change in a future update.
-
-### Cameras
-
-Cameras that you add to a custom set will be imported as camera positions in Flipside's camera switcher.
-What makes this really cool is that if a camera has an animation attached, that animation will still
-control that camera in Flipside too. This means you can create pretty much any camera move imaginable
-and import it into Flipside as part of your custom sets.
-
-To preview your camera positions, press Play in Unity then press the number keys (1, 2, 3, etc.) to switch
-between camera positions. Press 0 to switch back to mirroring what you're seeing in VR.
-
-You can also attach a **Camera Element** component to your Unity cmaeras, which add two [Unity events](https://docs.unity3d.com/Manual/UnityEvents.html)
-that will get triggered when a camera position is activated or deactivated:
-
-![CameraElement component](https://www.flipsidexr.com/files/docs/screenshots/camera-events.png)
-
-* **On Camera Activated** - Fired just before transitioning to a camera position.
-* **On Camera Deactivated** - Fired just before transitioning away from a camera position.
-
-These events let you do things like play an animated sequence as your show opening whenever you cut to the
-associated camera position.
-
-**Important!** Make sure all your cameras are enabled when you build your set, otherwise their animations will not play. 
-
+* [[: Creating interactions with props and event triggers]]
+* [[: Building interactions with a scoring system]]
+* [[: Triggering Flipside actions]]
+* [[: Creating chairs and teleport targets]]
+* [[: Creating eye targets]]
 
 ### Audience
 
