@@ -2,6 +2,10 @@
 
 Check back here to learn about all the latest changes to Flipside.
 
+[Update #33](/blog/post/75/update-33-major-improvements-flipside-creator-tools)<br>
+<small><em>February 19, 2020</em></small><br>
+Major improvements to the Flipside Creator Tools including testing interactions in VR without leaving Unity, new ways of triggering events, a scoring system with guns and targets, and audio pooling for better performance. Flipside Studio now supports more than 8 cameras on the in-VR camera switcher, and many bug fixes.
+
 [Update #32a, #32b](#)<br>
 <small><em>January 14, 2020</em></small><br>
 Fixes for teleprompter in playback/overdubbing, combo texture facial expressions, ghost mode object movement in playback, ToggleElement  on characters with body physics, and object respawning.
