@@ -104,4 +104,4 @@ If you only have one talking animation, add it as the animation for each viseme 
 
 ---
 
-Next: [[:Generating colliders on characters]]
+Next: [[:Changing the scale of a character]]
