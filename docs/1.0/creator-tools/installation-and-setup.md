@@ -36,6 +36,8 @@ This version works with **Unity 2019.2.11f1** (downloads: [Windows](https://unit
 
 ![Flipside Creator Tools - Set Flipside Creator ID](https://www.flipsidexr.com/files/docs/screenshots/flipside-creator-tools-enter-id.png)
 
+> **Note:** To obtain a Flipside Creator ID, install and launch Flipside Studio through Oculus Home or SteamVR and enter your email address to register for an account.
+
 ## Upgrading
 
 First, always make sure you're still on the correct version of Unity. If not, it's always a good idea to make a backup of your project before upgrading Unity, in case you need to go back.
