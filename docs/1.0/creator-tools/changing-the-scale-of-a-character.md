@@ -10,6 +10,6 @@ When you have the scale you want for your character, click **Apply** to apply th
 
 > Note: Don't change the scale of a character in the **Hierarchy** window. Instead, follow the steps above to set its scale. Otherwise, this will cause problems with some features in Flipside Studio.
 
---
+---
 
 Next: [[:Generating colliders on characters]]
