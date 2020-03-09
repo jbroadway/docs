@@ -2,6 +2,10 @@
 
 Check back here to learn about all the latest changes to Flipside.
 
+[Update #34](/blog/post/76/update-34-twitch-interactions-sets-choose-your-own-adventure)<br>
+<small><em>March 10, 2020</em></small><br>
+Trigger events in sets from Twitch comments, build shared choose-your-own-adventures, many Flipside Creator Tools improvements, and a number of bug fixes.
+
 [Update #33](/blog/post/75/update-33-major-improvements-flipside-creator-tools)<br>
 <small><em>February 19, 2020</em></small><br>
 Major improvements to the Flipside Creator Tools including testing interactions in VR without leaving Unity, new ways of triggering events, a scoring system with guns and targets, and audio pooling for better performance. Flipside Studio now supports more than 8 cameras on the in-VR camera switcher, and many bug fixes.

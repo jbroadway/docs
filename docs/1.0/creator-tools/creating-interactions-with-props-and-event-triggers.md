@@ -8,13 +8,16 @@ The Creator Tools enable you to add interactions to your sets using a handful of
 * [ToggleElement](#toggleelement)
 * [ScreenElement](#screenelement)
 * [FollowElement](#followelement)
+* [GroupChoiceElement](#groupchoiceelement)
 * [PhysicsEstimator](#physicsestimator)
 * [TeleportObjectTo](#teleportobjectto)
 * [TeleportObjectsOnContact](#teleportobjectsoncontact)
 * [TriggerCounter](#triggercounter)
 * [TriggerEvery](#triggerevery)
 * [TriggerOnce](#triggeronce)
+* [TwitchActions](#twitchactions)
 * [PooledAudioElement](#pooledaudioelement)
+* [ObjectPoolElement](#objectpoolelement)
 * [CustomTag](#customtag)
 * [FlipsideActions](/docs/1.0/creator-tools/triggering-flipside-actions)
 
@@ -122,6 +125,14 @@ Additional properties:
 
 Tip: To change the object's position relative to the hand, assign FollowElement to a parent game object and adjust the position of the model on the child object.
 
+### GroupChoiceElement
+
+Group choices let you put something to a vote amongst the users present in the scene. This enables a choose-your-own-adventure style interaction where the group decides what happens next based on a predetermined set of choices.
+
+The example scene `FlipsideCreatorTools/Examples/Example-GroupChoice` shows how a group choice can be set up. To add it to your sets, drag the `GroupChoiceElement` prefab from `FlipsideCreatorTools/Resources` and customize the options and associated events as needed.
+
+![GroupChoiceElement component](https://www.flipsidexr.com/files/docs/screenshots/group-choice-element.png)
+
 ### PhysicsEstimator
 
 Provides physics estimation when attached to an object, with the ability to trigger physics taking over for the object's movement and applying the correct velocity and angular velocity by calling the **ReleaseObject()** method.
@@ -166,6 +177,14 @@ To re-enable the trigger, attach the **EnableTrigger()** method to any event in 
 
 ![TriggerOnce component](https://www.flipsidexr.com/files/docs/screenshots/trigger-once.png)
 
+### TwitchActions
+
+TwitchActions is a component that lets you define custom commands that your viewers can type into the Twitch chat which are connected to events in your custom sets or on your custom characters (e.g., triggering a particle burst or sound effect). Commands always begin with an exclamation mark (e.g., `!command`).
+
+The example scene `FlipsideCreatorTools/Examples/Example-TwitchActions` shows how they are set up. The `!vote` command ties into a **TriggerCounter** so that the command must be entered five times in order to trigger an event.
+
+![TwitchActions component](https://www.flipsidexr.com/files/docs/screenshots/twitch-actions.png)
+
 ### PooledAudioElement
 
 Positions an audio playback location on set that, when triggered, uses Flipside's AudioSource pool so you can use a larger number of audio sources without hitting Unity's limits.
@@ -205,6 +224,14 @@ Available methods:
 * **SetVolume(volume)** - Set the volume of the audio source.
 * **SubtractVolume(sub)** - Subtract the specified amount from the audio source volume.
 * **AddVolume(add)** - Add the specified amount to the audio source volume.
+
+### ObjectPoolElement
+
+Provides an object pool you can use to improve performance when needing to instantiate many of the same object, such as a particle effect you reuse throughout a set.
+
+To use it, add the ObjectPoolElement to a game object in your hierarchy, assign a prefab that should be instantiated, and then trigger it to instantiate a copy of your prefab by assigning `ObjectPoolElement.InstantiateAndEnableAt()` to any event in the scene. The method takes a Transform component to use as the position to place the instance of your prefab.
+
+![ObjectPoolElement component](https://www.flipsidexr.com/files/docs/screenshots/object-pool-element.png)
 
 ### CustomTag
 
