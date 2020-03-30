@@ -10,13 +10,15 @@ If you're looking for a hotkey, **press Alt + V** to show or hide UI.
 
 ## Going fullscreen
 
-To show or hide the camera switcher interface on the second screen output, **press Alt + S**.
+To show or hide the camera switcher interface on the second screen output, **press Alt + F**.
+
+You can also grab a virtual camera switcher from the Show Tools prop category to do your camera switching in VR.
 
 ## Ghost Mode
 
 Ghost Mode will make your character invisible so you can play director without getting in the way of the shot, or animate props by grabbing them and moving them around. Ghost Mode also has the ability to move the world around and scale it up or down by grabbing it with one or two hands, just like Builder Mode. 
 
-To enter and exit Ghost Mode, **press Alt + D**.
+To enter and exit Ghost Mode, **press Alt + G**.
 
 **_If you've opted into the multiplayer beta_**, you can find the Ghost Mode button on both the 2D camera switcher and the in-VR camera switcher. 
 
