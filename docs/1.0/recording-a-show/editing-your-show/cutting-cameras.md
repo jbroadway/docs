@@ -8,7 +8,9 @@ The main area shows your active camera.  This is the area that should be capture
 
 There are two ways to live edit in Flipside, using the camera switcher that appears on your computer screen or using the in-VR camera switcher.
 
-To toggle between switchers, press **Alt + S** on your keyboard. When the computer screen switcher is open, this will cause Flipside to go into fullscreen mode and the in-VR switcher will appear. When you're in fullscreen mode, this will close the in-VR switcher and re-open the computer screen camera switcher.
+You can hide the desktop camera switcher and enter fullscreen mode by pressing **Alt + F** or clicking the fullscreen icon.
+
+You can find the in-VR camera switcher in the **Show Tools** prop category.
 
 ### Computer screen
 
