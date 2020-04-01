@@ -27,10 +27,15 @@ Characters may use the following components:
 * GenerateColliders
 * ONSPAudioSource
 * Social.Utils.Tagger
+* TMPro.TMP_SubMesh
+* TMPro.TextMeshPro
+* TMPRo.TextMeshProUGUI
+* TrailsFX.TrailEffect
 * UnityEngine.Animation
 * UnityEngine.Animator
 * UnityEngine.AudioSource
 * UnityEngine.BoxCollider
+* UnityEngine.Canvas
 * UnityEngine.CanvasRenderer
 * UnityEngine.CapsuleCollider
 * UnityEngine.Cloth
@@ -43,11 +48,15 @@ Characters may use the following components:
 * UnityEngine.ParticleSystem
 * UnityEngine.ParticleSystemRenderer
 * UnityEngine.Playables.PlayableDirector
+* UnityEngine.Projector
 * UnityEngine.Rigidbody
 * UnityEngine.SkinnedMeshRenderer
 * UnityEngine.SphereCollider
 * UnityEngine.TrailRenderer
 * UnityEngine.Transform
+* UnityEngine.UI.CanvasScaler
+* UnityEngine.UI.Image
+* UnityEngine.UI.RawImage
 
 ### Sets
 
@@ -92,8 +101,10 @@ Sets may use the following components:
 * NewtonVR.NVRSnappable
 * ONSPAudioSource
 * Social.Utils.Tagger
+* TMPro.TMP_SubMesh
 * TMPro.TextMeshPro
 * TMPRo.TextMeshProUGUI
+* TrailFX.TrailEffect
 * UnityEngine.AI.NavMeshAgent
 * UnityEngine.AI.NavMeshModifier
 * UnityEngine.AI.NavMeshObstacle
@@ -105,6 +116,7 @@ Sets may use the following components:
 * UnityEngine.AudioSource
 * UnityEngine.BoxCollider
 * UnityEngine.Camera
+* UnityEngine.Canvas
 * UnityEngine.CanvasRenderer
 * UnityEngine.CapsuleCollider
 * UnityEngine.Cloth
@@ -121,6 +133,7 @@ Sets may use the following components:
 * UnityEngine.ParticleSystem
 * UnityEngine.ParticleSystemRenderer
 * UnityEngine.Playables.PlayableDirector
+* UnityEngine.Projector
 * UnityEngine.ReflectionProbe
 * UnityEngine.Rigidbody
 * UnityEngine.SkinnedMeshRenderer
@@ -131,6 +144,9 @@ Sets may use the following components:
 * UnityEngine.Timeline.SignalReceiver
 * UnityEngine.TrailRenderer
 * UnityEngine.Transform
+* UnityEngine.UI.CanvasScaler
+* UnityEngine.UI.Image
+* UnityEngine.UI.RawImage
 * UnityEngine.WindZone
 * uDesktopDuplication.Texture
 
