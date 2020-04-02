@@ -3,7 +3,7 @@
 Check back here to learn about all the latest changes to Flipside.
 
 [Update #35](/blog/post/77/update-35-eye-realism-camera-switcher-improvements-texture-b)<br>
-<small><em>April 1, 2020</em></small><br>
+<small><em>April 2, 2020</em></small><br>
 Improved eye movement realism, in-VR camera switcher now in the Show Tools menu, SteamVR finger pointing fixed, delete saved setups, and lots of other fixes and improvements.
 
 [Update #34](/blog/post/76/update-34-twitch-interactions-sets-choose-your-own-adventure)<br>
