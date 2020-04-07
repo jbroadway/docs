@@ -51,7 +51,8 @@ $(function () {
 	);
 
 	targets.init ({
-		targets: {{targets|json_encode}}
+		targets: {{targets|json_encode}},
+		cookie_prefix: '{{cookie_prefix}}'
 	});
 });
 </script>

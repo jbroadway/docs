@@ -30,4 +30,8 @@ project_name = My App Documentation Project
 
 project_link = "http://github.com/user/project-docs"
 
+; The cookie prefix to use for platform selection.
+
+cookie_prefix = elefant_doctarget_
+
 ; */ ?>
