@@ -18,7 +18,7 @@ camera position to be active or turn off the handheld camera.
 
 ## Taking a photo
 
---- Platform: Oculus Rift ---
+--- Platform: Oculus ---
 
 :table style="width: 15%"
 	![Trigger](/files/docs/graphics/Oculus-touch_L-trigger_L-grip.png)
@@ -65,7 +65,7 @@ This will zoom the camera in and out.
 
 :endtable
 
---- Platform: Oculus Rift ---
+--- Platform: Oculus ---
 
 :table style="width: 15%"
 	![Zoom](/files/docs/graphics/Oculus-touch_R-joystick.png)

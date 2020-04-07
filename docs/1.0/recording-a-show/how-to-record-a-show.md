@@ -27,7 +27,7 @@ before the recording actually starts.
 
 :endtable
 
---- Platform: Oculus Rift ---
+--- Platform: Oculus ---
 
 :table style="width: 15%"
 	![Menu button](/files/docs/graphics/Oculus-touch_L-menu.png)

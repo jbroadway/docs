@@ -1,6 +1,6 @@
 # Controller basics
 
---- Platform: Oculus Rift ---
+--- Platform: Oculus ---
 
 ## Grabbing objects
 

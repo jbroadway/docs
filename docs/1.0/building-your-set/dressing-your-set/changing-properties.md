@@ -2,7 +2,7 @@
 
 :gif /files/docs/gifs/properties-panel.mp4
 
---- Platform: Oculus Rift ---
+--- Platform: Oculus ---
 
 :table
 	![Left grab](/files/docs/graphics/Oculus-touch-alt_L-trigger_L-grip.png)

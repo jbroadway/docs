@@ -1,6 +1,6 @@
 # Full-body tracking
 
---- Platform: Oculus Rift ---
+--- Platform: Oculus ---
 
 > Note: Full-body tracking is only supported on the HTC Vive at this time.
 

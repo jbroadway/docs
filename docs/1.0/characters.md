@@ -14,7 +14,7 @@ To choose the character you will be acting with, **press the Characters button o
 
 :gif /files/docs/gifs/changing-characters.mp4
 
---- Platform: Oculus Rift ---
+--- Platform: Oculus ---
 
 :table
 	![Left grab](/files/docs/graphics/Oculus-touch-alt_L-trigger_L-grip.png)

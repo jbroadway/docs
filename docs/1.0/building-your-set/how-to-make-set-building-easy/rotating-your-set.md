@@ -1,6 +1,6 @@
 # Rotating your set
 
---- Platform: Oculus Rift ---
+--- Platform: Oculus ---
 
 To prevent turning your back to your Oculus sensors, rotate the set itself to prevent any tracking issues.
 

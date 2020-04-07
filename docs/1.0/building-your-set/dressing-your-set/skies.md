@@ -16,7 +16,7 @@ Select the Skies category from the Set Builder palette to view and select a sky.
 
 :endtable
 
---- Platform: Oculus Rift ---
+--- Platform: Oculus ---
 
 :table
 	![Left grab](/files/docs/graphics/Oculus-touch-alt_L-trigger_L-grip.png)

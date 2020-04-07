@@ -1,6 +1,6 @@
 # Hardware setup
 
---- Platform: Oculus Rift ---
+--- Platform: Oculus ---
 
 ## VR setup
 

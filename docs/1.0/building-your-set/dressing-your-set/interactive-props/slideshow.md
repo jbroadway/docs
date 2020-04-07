@@ -29,7 +29,7 @@ The slideshow can be controlled with your headset's controller or by using the s
 
 **To control your slidshow with your headset's controller, use the following buttons:**
 
---- Platform: Oculus Rift ---
+--- Platform: Oculus ---
 
 :table style="width: 15%"
 	![A](/files/docs/graphics/Oculus-touch_R-a.png)

@@ -1,6 +1,6 @@
 # Mixed Reality mode
 
---- Platform: Oculus Rift ---
+--- Platform: Oculus ---
 
 > Note: Mixed Reality mode is only supported on the HTC Vive at this time.
 

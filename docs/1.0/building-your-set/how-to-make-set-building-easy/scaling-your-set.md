@@ -7,7 +7,7 @@ To finesse the placement of objects, scale your set to real size.
 
 :gif /files/docs/gifs/set-scaling.mp4
 
---- Platform: Oculus Rift ---
+--- Platform: Oculus ---
 
 :table
 	![Left grab](/files/docs/graphics/Oculus-touch-alt_L-trigger_L-grip.png)

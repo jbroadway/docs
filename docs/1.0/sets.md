@@ -14,7 +14,7 @@ To access the Sets palette, **press the Sets button in the main menu.**
 
 :gif /files/docs/gifs/changing-sets.mp4
 
---- Platform: Oculus Rift ---
+--- Platform: Oculus ---
 
 :table
 	![Left grab](/files/docs/graphics/Oculus-touch-alt_L-trigger_L-grip.png)

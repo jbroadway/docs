@@ -14,7 +14,7 @@ Select the Props category from the Set Builder palette to access the magic penci
 
 :gif /files/docs/gifs/magic-pencil.mp4
 
---- Platform: Oculus Rift ---
+--- Platform: Oculus ---
 
 :table
 	![Left grab](/files/docs/graphics/Oculus-touch_L-trigger_L-grip.png)
