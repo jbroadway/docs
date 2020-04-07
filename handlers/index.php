@@ -32,7 +32,8 @@ echo $tpl->render ('docs/page', array (
 	'versions' => $doc->versions (),
 	'title' => $doc->title (),
 	'body' => $doc->render (),
-	'doc' => $doc
+	'doc' => $doc,
+	'cookie_prefix' => Appconf::docs ('Docs', 'cookie_prefix')
 ));
 
 ?>
