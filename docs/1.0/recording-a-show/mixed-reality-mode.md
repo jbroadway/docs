@@ -4,7 +4,7 @@
 
 > Note: Mixed Reality mode is only supported on the HTC Vive at this time.
 
---- Platform: HTC Vive ---
+--- Platform: SteamVR ---
 
 --- /Platform ---
 

@@ -99,7 +99,7 @@ To control the facial expressions of your character, use the **left hand joystic
 	
 :endtable
 
---- Platform: HTC Vive ---
+--- Platform: SteamVR ---
 
 ## Grabbing objects
 

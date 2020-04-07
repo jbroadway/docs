@@ -64,7 +64,7 @@ To use your drawing as a prop, **squeeze the grip/lower trigger and index trigge
 
 :endtable
 
---- Platform: HTC Vive ---
+--- Platform: SteamVR ---
 
 :table
 	![Trigger](/files/docs/graphics/Vive_grip-f_trigger.png)

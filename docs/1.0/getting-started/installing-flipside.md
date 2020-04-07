@@ -1,6 +1,6 @@
 # Installing Flipside Studio
 
---- Platform: HTC Vive ---
+--- Platform: SteamVR ---
 
 Flipside Studio is now available for free on [Steam Early Access](http://store.steampowered.com/app/495800/Flipside_Studio/).
 

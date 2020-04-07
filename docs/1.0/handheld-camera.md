@@ -32,7 +32,7 @@ To take a photo, **let go of the index trigger button then squeeze it again**.
 
 :endtable
 
---- Platform: HTC Vive ---
+--- Platform: SteamVR ---
 
 :table style="width: 15%"
 	![Trigger](/files/docs/graphics/Vive_grip-f_trigger.png)
@@ -77,7 +77,7 @@ Using the **right hand joystick**, press **up** to extend/zoom out on the camera
 
 :endtable
 
---- Platform: HTC Vive ---
+--- Platform: SteamVR ---
 
 :table style="width: 15%"
 	![Zoom](/files/docs/graphics/Vive_joystick.png)

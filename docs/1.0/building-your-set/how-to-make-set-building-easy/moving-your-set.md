@@ -18,7 +18,7 @@ To move your set, **squeeze both the grip/lower trigger and index trigger then m
 
 :endtable
 
---- Platform: HTC Vive ---
+--- Platform: SteamVR ---
 
 :table
 	![Grab](/files/docs/graphics/Vive_grip.png)

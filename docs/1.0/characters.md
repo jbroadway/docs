@@ -44,7 +44,7 @@ To set your character, **let go of the index trigger then squeeze it again** wit
 
 :endtable
 
---- Platform: HTC Vive ---
+--- Platform: SteamVR ---
 
 :table
 	![Grab](/files/docs/graphics/Vive_grip.png)

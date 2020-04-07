@@ -46,7 +46,7 @@ To set your sky, **let go of the index trigger the squeeze it again** with you s
 
 :endtable
 
---- Platform: HTC Vive ---
+--- Platform: SteamVR ---
 
 :table
 	![Grab](/files/docs/graphics/Vive_grip.png)

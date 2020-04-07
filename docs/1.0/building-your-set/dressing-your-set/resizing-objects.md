@@ -18,7 +18,7 @@ To scale an object, **grab each end of the object by squeezing the grip/lower tr
 
 :endtable
 
---- Platform: HTC Vive ---
+--- Platform: SteamVR ---
 
 :table
 	![Grab](/files/docs/graphics/Vive_grip.png)

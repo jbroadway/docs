@@ -51,7 +51,7 @@ To go to the previous image/video in your slideshow, **press the X button.**
 
 :endtable
 
---- Platform: HTC Vive ---
+--- Platform: SteamVR ---
 
 To go to the next image/video in your slideshow, **press the right arrow key on your keyboard.**
 

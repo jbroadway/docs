@@ -41,7 +41,7 @@ Alternatively, you can also **press the Stop button on your left wrist** to stop
 
 :endtable
 
---- Platform: HTC Vive ---
+--- Platform: SteamVR ---
 
 :table style="width: 15%"
 	![Menu button](/files/docs/graphics/Vive_menu.png)

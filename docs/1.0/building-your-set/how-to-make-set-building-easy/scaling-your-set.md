@@ -23,7 +23,7 @@ To scale the size of your set, **squeeze the grip and index trigger buttons on b
 
 :endtable
 
---- Platform: HTC Vive ---
+--- Platform: SteamVR ---
 
 :table
 	![Grab](/files/docs/graphics/Vive_grip.png)

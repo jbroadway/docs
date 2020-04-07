@@ -20,7 +20,7 @@ To place an object on your set, **grab the prop off the Set Builder palette by s
 
 :endtable
 
---- Platform: HTC Vive ---
+--- Platform: SteamVR ---
 
 :table
 	![Grab](/files/docs/graphics/Vive_grip.png)

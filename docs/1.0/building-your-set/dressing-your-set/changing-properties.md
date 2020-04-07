@@ -20,7 +20,7 @@ This will reveal a panel where you can select the properties of the object in yo
 
 :endtable
 
---- Platform: HTC Vive ---
+--- Platform: SteamVR ---
 
 :table
 	![Grab](/files/docs/graphics/Vive_grip.png)

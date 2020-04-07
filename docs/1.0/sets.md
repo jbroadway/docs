@@ -44,7 +44,7 @@ To select a set, **let go of the index trigger then squeeze it again** with your
 
 :endtable
 
---- Platform: HTC Vive ---
+--- Platform: SteamVR ---
 
 :table
 	![Grab](/files/docs/graphics/Vive_grip.png)

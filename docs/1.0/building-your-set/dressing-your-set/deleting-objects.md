@@ -36,7 +36,7 @@ You can **press the delete button on the properties panel of an object.** See [[
 
 :endtable
 
---- Platform: HTC Vive ---
+--- Platform: SteamVR ---
 
 :table
 	![Grab](/files/docs/graphics/Vive_grip.png)

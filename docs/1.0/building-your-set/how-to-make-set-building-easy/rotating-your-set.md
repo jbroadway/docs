@@ -20,7 +20,7 @@ To rotate your set, **squeeze the grip/lower trigger and index trigger on both c
 
 :endtable
 
---- Platform: HTC Vive ---
+--- Platform: SteamVR ---
 
 :gif /files/docs/gifs/rotating-set.mp4
 
