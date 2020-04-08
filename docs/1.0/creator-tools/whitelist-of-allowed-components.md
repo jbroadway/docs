@@ -4,6 +4,8 @@ Flipside Studio uses a whitelist to verify the scripts that can be attached to y
 This helps keep our users secure and also prevents a whole host of bugs from happening due to the wide
 variety of components available in the Unity game engine.
 
+:table
+
 ### Characters
 
 Characters may use the following components:
@@ -57,6 +59,8 @@ Characters may use the following components:
 * UnityEngine.UI.CanvasScaler
 * UnityEngine.UI.Image
 * UnityEngine.UI.RawImage
+
+:col
 
 ### Sets
 
@@ -149,6 +153,8 @@ Sets may use the following components:
 * UnityEngine.UI.RawImage
 * UnityEngine.WindZone
 * uDesktopDuplication.Texture
+
+:endtable
 
 ### Unsupported components
 
