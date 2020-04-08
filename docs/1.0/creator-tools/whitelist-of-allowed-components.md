@@ -34,6 +34,12 @@ Characters may use the following components:
 * TMPRo.TextMeshProUGUI
 * TrailsFX.TrailEffect
 * UnityEngine.Animation
+* UnityEngine.Animations.AimConstraint
+* UnityEngine.Animations.LookAtConstraint
+* UnityEngine.Animations.ParentConstraint
+* UnityEngine.Animations.PositionConstraint
+* UnityEngine.Animations.RotationConstraint
+* UnityEngine.Animations.ScaleConstraint
 * UnityEngine.Animator
 * UnityEngine.AudioSource
 * UnityEngine.BoxCollider
@@ -115,6 +121,12 @@ Sets may use the following components:
 * UnityEngine.AI.NavMeshSurface
 * UnityEngine.AI.OffMeshLink
 * UnityEngine.Animation
+* UnityEngine.Animations.AimConstraint
+* UnityEngine.Animations.LookAtConstraint
+* UnityEngine.Animations.ParentConstraint
+* UnityEngine.Animations.PositionConstraint
+* UnityEngine.Animations.RotationConstraint
+* UnityEngine.Animations.ScaleConstraint
 * UnityEngine.Animator
 * UnityEngine.AudioReverbZone
 * UnityEngine.AudioSource
