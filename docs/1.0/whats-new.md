@@ -2,6 +2,10 @@
 
 Check back here to learn about all the latest changes to Flipside.
 
+[Update #36](/blog/post/78/update-36-auto-scrolling-teleprompter-update-saved-setups)<br>
+<small><em>April 23, 2020</em></small><br>
+Auto-scrolling teleprompter, saved setups are now editable, and a number of bug fixes and improvements to both Flipside Studio and the Flipside Creator Tools plugin for Unity.
+
 [Update #35](/blog/post/77/update-35-eye-realism-camera-switcher-improvements-texture-b)<br>
 <small><em>April 2, 2020</em></small><br>
 Improved eye movement realism, in-VR camera switcher now in the Show Tools menu, SteamVR finger pointing fixed, delete saved setups, and lots of other fixes and improvements.
