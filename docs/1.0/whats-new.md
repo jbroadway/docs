@@ -2,6 +2,10 @@
 
 Check back here to learn about all the latest changes to Flipside.
 
+[Update #37](/blog/post/79/update-37-stream-directly-zoom-skype-etc)<br>
+<small><em>May 11, 2020</em></small><br>
+Stream directly to Zoom, Skype, etc. in Flipside Studio, added menu option to duplicate characters and sets in the Flipside Creator Tools, and other fixes and improvements.
+
 [Update #36](/blog/post/78/update-36-auto-scrolling-teleprompter-update-saved-setups)<br>
 <small><em>April 23, 2020</em></small><br>
 Auto-scrolling teleprompter, saved setups are now editable, and a number of bug fixes and improvements to both Flipside Studio and the Flipside Creator Tools plugin for Unity.
