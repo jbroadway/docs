@@ -2,6 +2,10 @@
 
 Check back here to learn about all the latest changes to Flipside.
 
+[Update #38](/blog/post/80/update-38-flipside-studio-release-candidate-1)<br>
+<small><em>May 20, 2020</em></small><br>
+The first release candidate for a new stable Flipside Studio is here. Includes no new features but several bug fixes.
+
 [Update #37](/blog/post/79/update-37-stream-directly-zoom-skype-etc)<br>
 <small><em>May 11, 2020</em></small><br>
 Stream directly to Zoom, Skype, etc. in Flipside Studio, added menu option to duplicate characters and sets in the Flipside Creator Tools, and other fixes and improvements.
