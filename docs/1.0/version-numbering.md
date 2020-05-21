@@ -25,15 +25,13 @@ Valid suffixes include `-alpha#`, `-beta#`, `-rc#`, and `-stable`, although in p
 
 Here are a series of examples as the version numbers increment with new updates:
 
-```
-2020.1.0-beta1
-2020.1.0-beta2
-2020.1.0-beta3
-2020.1.0-rc1
-2020.1.0-rc2
-2020.1.0-stable
-2020.1.1-stable
-2020.1.2-stable
-2020.2.0-beta1 (or 2021.1.0-beta1)
-etc.
-```
+* 2020.1.0-beta1
+* 2020.1.0-beta2
+* 2020.1.0-beta3
+* 2020.1.0-rc1
+* 2020.1.0-rc2
+* 2020.1.0-stable
+* 2020.1.1-stable
+* 2020.1.2-stable
+* 2020.2.0-beta1 (or 2021.1.0-beta1)
+* etc.
