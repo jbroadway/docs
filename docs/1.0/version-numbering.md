@@ -13,7 +13,7 @@ This breaks down into the following elements:
 * `2020` - The year of the release.
 * `1` - The minor release number within the year, starting at one.
 * `0` - The patch number for the update, starting at zero which means no patch.
-* `-rc1` - The release stage suffix, in this case denoting that this is "release candidate number one".
+* `rc1` - The release stage suffix, in this case denoting that this is "release candidate number one".
 
 Each beta that follows a stable release will increment either the year or the minor release number, depending on whether the beta falls in or close to a new calendar year or not.
 
@@ -33,5 +33,5 @@ Here are a series of examples as the version numbers increment with new updates:
 * `2020.1.0-stable`
 * `2020.1.1-stable`
 * `2020.1.2-stable`
-* `2020.2.0-beta1` (or `2021.1.0-beta1`)
-* etc.
+* `2020.2.0-beta1` or `2021.1.0-beta1`
+* Etc.
