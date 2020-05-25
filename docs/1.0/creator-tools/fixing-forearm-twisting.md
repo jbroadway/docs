@@ -6,7 +6,7 @@ Flipside supports the following two structures for wrist twist bones. If your ch
 
 1\. Parallel twist bones
 
-> In this case, the twist bone must have the same parent as the hand/palm bone. The twist bone cannot have any children or it will not take effect.
+> In this case, the twist bone must have the same parent as the hand/palm bone.
 
 ![Twist Bone Parallel](https://www.flipsidexr.com/files/docs/screenshots/ParallelTwistBone.png)
 
@@ -19,6 +19,11 @@ Flipside supports the following two structures for wrist twist bones. If your ch
 > Be sure that it is not being controlled by mecanim.
 
 ![Twist Bone Mecanim](https://www.flipsidexr.com/files/docs/screenshots/HierarchicalBoneMapping.png)
+
+3\. Multiple twist bones
+
+> You can have multiple twist bones but will need to assign them through the Creator Tools.
+
 
 ---
 
