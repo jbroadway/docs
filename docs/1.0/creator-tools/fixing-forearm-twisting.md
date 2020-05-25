@@ -32,6 +32,10 @@ Flipside supports the following two structures for wrist twist bones. If your ch
 
 > To get more than one twist bone per wrist, or if Find Wrist Bones didn't find the right game objects, you can directly assign a gameobject by dragging and dropping from the hierarchy window onto the list.
 
+> Once there are bones you'll also see lists for **Cross Fades.** The cross fade values determine how they blend between the rotation of the lower arm or the hand. A value of 0 would match the rotation of the lower arm, a value of 1 would match the hand. But the point of having twist relaxers is they will be somewhere between.
+
+> The Creator Tools will calculate a crossfade value based on the position of the bone. This will probably be good, but if you need to change it to something else, you can open those array and assign your own values. At any time, if you want the Creator Tools to recalculate the values, you can press the **Calculate Cross Fades** button.
+
 
 ---
 
