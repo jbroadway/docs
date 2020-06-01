@@ -2,6 +2,10 @@
 
 Check back here to learn about all the latest changes to Flipside.
 
+[2020.1.0-rc2](https://www.flipsidexr.com/blog/post/83/flipside-studio-20201-release-candidate-2)
+<small><em>June 1, 2020</em></small><br>
+The second release candidate features minor improvements and a number of important bug fixes as we get closer to a new stable Flipside Studio release.
+
 [Update #38](/blog/post/80/update-38-flipside-studio-release-candidate-1)<br>
 <small><em>May 21, 2020</em></small><br>
 The first release candidate for a new stable Flipside Studio is here. Includes no new features but several bug fixes.
