@@ -135,7 +135,7 @@ class Doc {
 
 		// parse macros
 		$out = preg_replace_callback (
-			'/^(<p>)?:(table|col|row|endtable|gif) ?([^<]*)?(<\/p>)?/im',
+			'/^(<p>)?:(table|col|row|endtable|gif|embed) ?([^<]*)?(<\/p>)?/im',
 			array ($this, 'render_macros'),
 			$out
 		);
@@ -240,6 +240,8 @@ class Doc {
 				} else if (preg_match ('/\.gif$/i', $regs[3])) {
 					return '<img src="' . $regs[3] . '" />' . PHP_EOL;
 				}
+			case 'embed':
+				return $GLOBALS['controller']->run ($regs[3]);
 			default:
 				return '';
 		}
