@@ -2,6 +2,22 @@
 
 Check back here to learn about all the latest changes to Flipside.
 
+[2020.1.0-rc2](https://www.flipsidexr.com/blog/post/83/flipside-studio-20201-release-candidate-2)<br>
+<small><em>June 1, 2020</em></small><br>
+The second release candidate features minor improvements and a number of important bug fixes as we get closer to a new stable Flipside Studio release.
+
+[Update #38](/blog/post/80/update-38-flipside-studio-release-candidate-1)<br>
+<small><em>May 21, 2020</em></small><br>
+The first release candidate for a new stable Flipside Studio is here. Includes no new features but several bug fixes.
+
+[Update #37](/blog/post/79/update-37-stream-directly-zoom-skype-etc)<br>
+<small><em>May 11, 2020</em></small><br>
+Stream directly to Zoom, Skype, etc. in Flipside Studio, added menu option to duplicate characters and sets in the Flipside Creator Tools, and other fixes and improvements.
+
+[Update #36](/blog/post/78/update-36-auto-scrolling-teleprompter-update-saved-setups)<br>
+<small><em>April 23, 2020</em></small><br>
+Auto-scrolling teleprompter, saved setups are now editable, and a number of bug fixes and improvements to both Flipside Studio and the Flipside Creator Tools plugin for Unity.
+
 [Update #35](/blog/post/77/update-35-eye-realism-camera-switcher-improvements-texture-b)<br>
 <small><em>April 2, 2020</em></small><br>
 Improved eye movement realism, in-VR camera switcher now in the Show Tools menu, SteamVR finger pointing fixed, delete saved setups, and lots of other fixes and improvements.
