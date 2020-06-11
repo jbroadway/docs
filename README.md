@@ -206,3 +206,14 @@ without player controls, to simulate a gif using an mp4 file which are often
 substantially smaller and more efficient.
 
 The latter will convert to a traditional `<img>` tag for the regular gif file.
+
+### Embedding scripts
+
+You can embed any of [Elefant's helpers](https://elefantcms.com/helpers) as well
+as your own custom handlers using the following macro:
+
+	:embed blog/archives
+
+This is the equivalent of embedding the following PHP code:
+
+	<?php echo $controller->run ('blog/archives');
