@@ -11,7 +11,7 @@ Your Flipside creator profile page includes:
 ## Your Flipside Creator ID
 
 Used to associate the custom characters and sets created through the
-[Flipside Creator Tools](/docs/1.0/creator-tools) with your account.
+[Flipside Creator Tools](/docs/2020.1/creator-tools) with your account.
 
 ## Custom props
 
@@ -19,11 +19,11 @@ Upload your own custom props as 3D models from any program. See [[Building your 
 
 ## Custom characters
 
-Upload your own custom characters created with the [Flipside Creator Tools](/docs/1.0/creator-tools).
+Upload your own custom characters created with the [Flipside Creator Tools](/docs/2020.1/creator-tools).
 
 ## Custom sets 
 
-Upload your own custom sets created with the [Flipside Creator Tools](/docs/1.0/creator-tools).
+Upload your own custom sets created with the [Flipside Creator Tools](/docs/2020.1/creator-tools).
 
 ## Slideshow links
 
@@ -31,7 +31,7 @@ Enter links to photos and videos for use in Flipside's slideshow feature. See [[
 
 ## Teleprompter text
 
-Enter your script for use in Flipside's teleprompter feature. See [Teleprompter](/docs/1.0/building-your-set/show-tools#teleprompter).
+Enter your script for use in Flipside's teleprompter feature. See [Teleprompter](/docs/2020.1/building-your-set/show-tools#teleprompter).
 
 ## Creator community
 

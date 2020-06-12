@@ -2,7 +2,7 @@
 
 Flipside's facial expression engine can animate your characters' faces in a variety of ways, including eyes (movement and blinking), facial expressions (happy, sad, surprised, angry), and lip syncing as you speak.
 
-In the [Flipside Creator Tools](/docs/1.0/creator-tools) this is mapped to your character in its **Avatar Model References** component, found in the Unity inspector window when you open your character's scene and click on the root of your character in the scene hierarchy.
+In the [Flipside Creator Tools](/docs/2020.1/creator-tools) this is mapped to your character in its **Avatar Model References** component, found in the Unity inspector window when you open your character's scene and click on the root of your character in the scene hierarchy.
 
 There are several methods of mapping facial expressions:
 
@@ -15,7 +15,7 @@ Keep in mind, these systems are in active development, and may change in the fut
 
 ## Blend shape mapping
 
-Here's a quick overview of how to map blend shapes in the [Flipside Creator Tools](/docs/1.0/creator-tools).
+Here's a quick overview of how to map blend shapes in the [Flipside Creator Tools](/docs/2020.1/creator-tools).
 
 1\. Open your character's Unity scene and select the character in the Hierarchy pane. Make note of where the **Blend Shape Mappings** will be entered in the Inspector pane on the right.
 

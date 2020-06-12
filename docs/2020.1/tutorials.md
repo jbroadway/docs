@@ -2,7 +2,7 @@
 
 ### User interface
 
-The following tutorials will show you how to find your way around Flipside's user interface, including how to use Flipside's [Set Builder](/docs/1.0/building-your-set) to customize the prop and camera placements on your sets.
+The following tutorials will show you how to find your way around Flipside's user interface, including how to use Flipside's [Set Builder](/docs/2020.1/building-your-set) to customize the prop and camera placements on your sets.
 
 :table
 
@@ -90,7 +90,7 @@ The following tutorials show you how to get the most out of your characters in F
 
 ### Creator Tools
 
-The following tutorials guide you through using the [Flipside Creator Tools](/docs/1.0/creator-tools) to import your own characters and sets into Flipside.
+The following tutorials guide you through using the [Flipside Creator Tools](/docs/2020.1/creator-tools) to import your own characters and sets into Flipside.
 
 :table
 

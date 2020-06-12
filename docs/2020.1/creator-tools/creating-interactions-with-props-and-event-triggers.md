@@ -19,7 +19,7 @@ The Creator Tools enable you to add interactions to your sets using a handful of
 * [PooledAudioElement](#pooledaudioelement)
 * [ObjectPoolElement](#objectpoolelement)
 * [CustomTag](#customtag)
-* [FlipsideActions](/docs/1.0/creator-tools/triggering-flipside-actions)
+* [FlipsideActions](/docs/2020.1/creator-tools/triggering-flipside-actions)
 
 Note: See [[:building interactions with a scoring system]] for additional scoring-related components.
 

@@ -11,9 +11,9 @@
     * [[> Dressing your set / Skies ]]
     * [[> Dressing your set / Saving your setups ]]
   * [[> Show tools ]]
-    * [Video camera](/docs/1.0/building-your-set/show-tools#video-camera)
-    * [Preview monitors](/docs/1.0/building-your-set/show-tools#preview-monitors)
-    * [Teleprompter](/docs/1.0/building-your-set/show-tools#teleprompter)
+    * [Video camera](/docs/2020.1/building-your-set/show-tools#video-camera)
+    * [Preview monitors](/docs/2020.1/building-your-set/show-tools#preview-monitors)
+    * [Teleprompter](/docs/2020.1/building-your-set/show-tools#teleprompter)
   * [[> Using your own props ]]
     * [[> Using your own props / How to import props ]]
     * [[> Using your own props / How to remove an imported props ]]

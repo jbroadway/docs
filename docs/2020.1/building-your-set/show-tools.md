@@ -24,13 +24,13 @@ Choose the video camera from the Show Tools category on the Build palette to add
 
 :endtable
 
-> **Important Note:** Your cameras will not show up in your recording.  If you want them to, see [Recording the Flipside User Interface](/docs/1.0/tips-and-tricks#recording-the-flipside-user-interface).
+> **Important Note:** Your cameras will not show up in your recording.  If you want them to, see [Recording the Flipside User Interface](/docs/2020.1/tips-and-tricks#recording-the-flipside-user-interface).
 
 ## Preview monitors
 
 Preview monitors let you know what the active camera is seeing while you’re recording your show.  Place preview monitors around your set so you can always have a reference of the framing and camera angle while you’re acting.
 
-> **Important Note:** Your preview monitors will not show up in your recording. If you want them to, see [Recording the Flipside User Interface](/docs/1.0/tips-and-tricks#recording-the-flipside-user-interface).
+> **Important Note:** Your preview monitors will not show up in your recording. If you want them to, see [Recording the Flipside User Interface](/docs/2020.1/tips-and-tricks#recording-the-flipside-user-interface).
 
 ## Teleprompter
 
@@ -74,7 +74,7 @@ The teleprompter can be controlled by your computer's keyboard or by using the t
 :gif /files/blog/Update-12_teleprompter-controller.mp4
 
 
-> **Important Note:** Your teleprompter will not show up in your recording.  If you want it to, see [Recording the Flipside User Interface](/docs/1.0/tips-and-tricks#recording-the-flipside-user-interface).
+> **Important Note:** Your teleprompter will not show up in your recording.  If you want it to, see [Recording the Flipside User Interface](/docs/2020.1/tips-and-tricks#recording-the-flipside-user-interface).
 
 
 ## Twitch Chat

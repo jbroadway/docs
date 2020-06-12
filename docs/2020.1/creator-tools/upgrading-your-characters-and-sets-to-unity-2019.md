@@ -23,7 +23,7 @@ We recommend naming the backup using the form `ProjectName-2017` so you can see 
 
 ## Upgrading Unity and Flipside Creator Tools
 
-Now you should be ready to install Unity 2019 and the latest Flipside Creator Tools, which you can find on our [Flipside Creator Tools download page](https://www.flipsidexr.com/docs/1.0/creator-tools).
+Now you should be ready to install Unity 2019 and the latest Flipside Creator Tools, which you can find on our [Flipside Creator Tools download page](https://www.flipsidexr.com/docs/2020.1/creator-tools).
 
 Be sure to install the version of Unity listed on that page, or you will run into problems with your character and set bundles in Flipside Studio.
 
@@ -39,7 +39,7 @@ For the most part, characters and sets don't need anything changed in order to w
 
 Notice too that there's still a **Windows - Unity 2017** option, so that your previous Unity 2017 version can still be used by Flipside Studio's stable release and can still be updated as needed. As Flipside Studio adds support for additional platforms such as Android, you'll see additional options appear here at that time, too.
 
-If you want to try the new body physics on your characters, take a look at our [Generating colliders on characters](https://www.flipsidexr.com/docs/1.0/creator-tools/generating-colliders-on-characters) page in the Flipside user manual.
+If you want to try the new body physics on your characters, take a look at our [Generating colliders on characters](https://www.flipsidexr.com/docs/2020.1/creator-tools/generating-colliders-on-characters) page in the Flipside user manual.
 
 ---
 

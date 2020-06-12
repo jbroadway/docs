@@ -29,7 +29,7 @@ If you're experiencing an application crash, or an issue that's blocking you fro
 
 ### Flipside Creator Tools issues
 
-If you're using the [Flipside Creator Tools](/docs/1.0/creator-tools), you can send us the bundle file of your character or set that's not working.
+If you're using the [Flipside Creator Tools](/docs/2020.1/creator-tools), you can send us the bundle file of your character or set that's not working.
 
 You can also export your Flipside Creator Tools project for us to help see what's going on by going to _Assets > Export Package..._ in Unity's top-level menu.
 

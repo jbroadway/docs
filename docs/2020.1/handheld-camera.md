@@ -6,7 +6,7 @@
 	:nbsp
 :col style="width: 87%; vertical-align: middle"
 
-The handheld camera enables you capture footage and photos in Flipside. It is attached to your [right holster](/docs/1.0/utility-belt).
+The handheld camera enables you capture footage and photos in Flipside. It is attached to your [right holster](/docs/2020.1/utility-belt).
 
 :endtable
 

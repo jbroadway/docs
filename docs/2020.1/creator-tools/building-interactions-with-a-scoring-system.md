@@ -8,7 +8,7 @@ The Creator Tools enable you to add interactions that include a scoring system u
 * [ThrowableElement](#throwableelement)
 * [TargetElement](#targetelement)
 
-To see an example of how these components can be used to build interactivity in Flipside, open and inspect the `Example-ScoringSystem` scene in the `Assets/FlipsideCreatorTools/Examples` folder once you've [installed the Flipside Creator Tools](/docs/1.0/creator-tools/installation-and-setup).
+To see an example of how these components can be used to build interactivity in Flipside, open and inspect the `Example-ScoringSystem` scene in the `Assets/FlipsideCreatorTools/Examples` folder once you've [installed the Flipside Creator Tools](/docs/2020.1/creator-tools/installation-and-setup).
 
 ### ScoreboardElement
 

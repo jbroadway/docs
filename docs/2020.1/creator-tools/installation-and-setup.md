@@ -1,6 +1,6 @@
 # Installation and setup
 
-This page covers how to install, setup, and upgrade the [Flipside Creator Tools](/docs/1.0/creator-tools) in order to import your own characters and sets into Flipside Studio.
+This page covers how to install, setup, and upgrade the [Flipside Creator Tools](/docs/2020.1/creator-tools) in order to import your own characters and sets into Flipside Studio.
 
 ## Download
 
@@ -27,7 +27,7 @@ This version works with **Unity 2019.2.11f1** (downloads: [Windows](https://unit
 ## Installation
 
 1. Download and install the correct version of Unity that matches the version of the Flipside Creator Tools above. _Note: If you're not on Windows, at the **Choose Components** selection of the installation make sure you choose **Windows Build Support**._
-2. Download the latest version of the [Flipside Creator Tools](/docs/1.0/creator-tools).
+2. Download the latest version of the [Flipside Creator Tools](/docs/2020.1/creator-tools).
 3. Open Unity and create a new 3D project. The same project can be used to create all of your custom characters and sets.
 4. Import the Flipside Creator Tools package from step 2 by choosing _Assets > Import
    Package > Custom Package_ in the Unity application menu.
@@ -42,7 +42,7 @@ This version works with **Unity 2019.2.11f1** (downloads: [Windows](https://unit
 
 First, always make sure you're still on the correct version of Unity. If not, it's always a good idea to make a backup of your project before upgrading Unity, in case you need to go back.
 
-To upgrade to a new version of the [Flipside Creator Tools](/docs/1.0/creator-tools), download the latest version and import it into your Unity project via _Assets > Import Package > Custom Package_ in the Unity application menu.
+To upgrade to a new version of the [Flipside Creator Tools](/docs/2020.1/creator-tools), download the latest version and import it into your Unity project via _Assets > Import Package > Custom Package_ in the Unity application menu.
 
 > **Note:** Please see [[:upgrading your characters and sets to Unity 2019]] for more detailed instructions on upgrading your assets.
 

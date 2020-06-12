@@ -37,7 +37,7 @@ Go here to record and watch your shows. See [[Recording a show]].
 Your show will need characters. We have characters you can choose from or you can import
 your own. See [[Characters]].
 
-For more on importing your own custom characters, see [Flipside Creator Tools](/docs/1.0/creator-tools) or [contact us](/contact).
+For more on importing your own custom characters, see [Flipside Creator Tools](/docs/2020.1/creator-tools) or [contact us](/contact).
 
 :endtable
 
@@ -51,7 +51,7 @@ For more on importing your own custom characters, see [Flipside Creator Tools](/
 
 This is where you can start a new set or access your saved sets.  When creating a new set you can choose from a set that is dressed and ready to go or start with an empty room.  See [[Sets]].
 
-_**Coming soon:** Importing your own custom sets using the [Flipside Creator Tools](/docs/1.0/creator-tools)._
+_**Coming soon:** Importing your own custom sets using the [Flipside Creator Tools](/docs/2020.1/creator-tools)._
 
 :endtable
 

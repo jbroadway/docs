@@ -8,9 +8,9 @@ intersecting with each other, such as an arm disappearing into a character's sid
 
 ### Contents
 
-* [Basic collider setup](/docs/1.0/creator-tools/generating-colliders-on-characters#basic-collider-setup)
-* [Customizing your colliders](/docs/1.0/creator-tools/generating-colliders-on-characters#customizing-your-colliders)
-* [Advanced collider customization](/docs/1.0/creator-tools/generating-colliders-on-characters#advanced-collider-customization)
+* [Basic collider setup](/docs/2020.1/creator-tools/generating-colliders-on-characters#basic-collider-setup)
+* [Customizing your colliders](/docs/2020.1/creator-tools/generating-colliders-on-characters#customizing-your-colliders)
+* [Advanced collider customization](/docs/2020.1/creator-tools/generating-colliders-on-characters#advanced-collider-customization)
 * [Adding colliders to existing characters](#adding-colliders-to-existing-characters)
 * [Troubleshooting](#troubleshooting)
 

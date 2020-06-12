@@ -5,6 +5,6 @@ Welcome to the Flipside user manual. Flipside is a real-time animation studio th
 * [[> Notice to reader ]]
 * [[> Installing Flipside ]]
 * [[> Hardware setup ]]
-  * [ VR setup ](/docs/1.0/getting-started/hardware-setup#vr-setup)
-  * [ Computer ](/docs/1.0/getting-started/hardware-setup#computer)
-  * [ Business users ](/docs/1.0/getting-started/hardware-setup#business-users)
+  * [ VR setup ](/docs/2020.1/getting-started/hardware-setup#vr-setup)
+  * [ Computer ](/docs/2020.1/getting-started/hardware-setup#computer)
+  * [ Business users ](/docs/2020.1/getting-started/hardware-setup#business-users)
