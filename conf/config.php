@@ -34,4 +34,12 @@ project_link = "http://github.com/user/project-docs"
 
 cookie_prefix = elefant_doctarget_
 
+; How to handle errors (404, redirect, myapp/handler)
+;
+; - "404" (default) shows a 404 page not found error
+; - "redirect" redirects to /docs for missing sub-pages
+; - "myapp/handler" calls the specified handler to decide
+
+error_handler = 404
+
 ; */ ?>

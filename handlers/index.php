@@ -8,11 +8,15 @@ if ($_SERVER['REQUEST_URI'] === '/docs') {
 // show version index
 if (preg_match ('|^/docs/([0-9]+\.[0-9]+)$|', $_SERVER['REQUEST_URI'], $regs)) {
 	$doc = new docs\Doc ($regs[1]);
-	if ($doc->error) return $this->error (404);
+	if ($doc->error) {
+		return $doc->handle_error ($this, $regs[1]);
+	}
 } else {
 	$docid = join ('/', $this->params);
 	$doc = new docs\Doc ($docid);
-	if ($doc->error) return $this->error (404);
+	if ($doc->error) {
+		return $doc->handle_error ($this, $docid);
+	}
 }
 
 $page->id = 'docs';

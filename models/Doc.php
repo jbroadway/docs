@@ -2,7 +2,9 @@
 
 namespace docs;
 
-use FileManager, URLify;
+use Appconf;
+use FileManager;
+use URLify;
 
 /**
  * Reads docs from the filesystem and renders them.
@@ -314,6 +316,19 @@ class Doc {
 		}
 		return false;
 	}
+	
+	/**
+	 * Handle doc page not found errors.
+	 */
+	public function handle_error ($controller, $docid) {
+		$handler = Appconf::docs ('Docs', 'error_handler');
+		
+		if ($handler == '404') {
+			return $controller->error (404);
+		} elseif ($handler == 'redirect') {
+			return $controller->redirect ('/docs');
+		} else {
+			return $controller->run ($handler, ['docid' => $docid]);
+		}
+	}
 }
-
-?>
