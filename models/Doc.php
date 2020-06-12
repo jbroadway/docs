@@ -310,10 +310,17 @@ class Doc {
 		if (! $version) {
 			return false;
 		}
-
-		if (file_exists ($this->root . '/' . $version . '-nav.md')) {
-			return $this->render (file_get_contents ($this->root . '/' . $version . '-nav.md'), false);
+		
+		$id = $this->id;
+		
+		while ($id != '') {
+			if (file_exists ($this->root . '/' . $id . '-nav.md')) {
+				return $this->render (file_get_contents ($this->root . '/' . $id . '-nav.md'), false);
+			}
+			
+			$id = substr ($id, 0, strrpos ($id, '/'));
 		}
+		
 		return false;
 	}
 	
