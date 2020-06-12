@@ -18,7 +18,7 @@ be collaborated on just as easily as source code.
 		cd /path/to/your/site
 		git clone https://github.com/user/project-docs.git apps/docs
 		
-4. Edit your `apps/docs/conf/config.php` file to customize your app settings.
+4. Copy your `apps/docs/conf/config.php` file to `conf/app.docs.config.php` and customize your app settings there.
 5. Log into Elefant and go to Tools > Navigation. Add the new `Documentation` page to your site tree.
 
 ## Editing the docs
