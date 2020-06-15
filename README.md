@@ -182,6 +182,31 @@ complex table example:
 		:p Explanatory text goes here...
 	:endtable
 
+You can also specify the end of the table with this shorthand:
+
+	:/table
+
+### Divs
+
+Divs provide an alternative to tables for some types of documentation layout. There
+are two macros provided for adding divs to control your documentation layout:
+
+	:div
+		Div contents go here
+	:enddiv
+
+You can also specify the end of the div with this shorthand:
+
+	:div
+		Div contents go here
+	:/div
+
+And like tables, you can add properties to the div like this:
+
+	:div class="my-class"
+
+### Simple macros
+
 * `:nbsp` is converted to a non-breaking space (`&nbsp;`) with newlines padded around it.
 * `:p Some text` forces the line to be converted to a paragraph (`<p>`) tag even when Markdown
   may not interpret it as such due to limited padding.

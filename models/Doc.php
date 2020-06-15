@@ -137,7 +137,7 @@ class Doc {
 
 		// parse macros
 		$out = preg_replace_callback (
-			'/^(<p>)?:(table|col|row|endtable|gif|embed) ?([^<]*)?(<\/p>)?/im',
+			'/^(<p>)?:(table|col|row|endtable|gif|embed|div|enddiv|\/table|\/div) ?([^<]*)?(<\/p>)?/im',
 			array ($this, 'render_macros'),
 			$out
 		);
@@ -235,7 +235,13 @@ class Doc {
 			case 'col':
 				return '</td><td ' . $regs[3] . '>' . PHP_EOL;
 			case 'endtable':
+			case '/table':
 				return '</td></tr></table>' . PHP_EOL;
+			case 'div':
+				return '<div ' . $regs[3] . '>' . PHP_EOL;
+			case 'enddiv':
+			case '/div':
+				return '</div>' . PHP_EOL;
 			case 'gif':
 				if (preg_match ('/\.mp4$/i', $regs[3])) {
 					return '<video autoplay loop muted><source src="' . $regs[3] . '" type="video/mp4" /></video>' . PHP_EOL;
