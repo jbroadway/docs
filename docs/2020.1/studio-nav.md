@@ -1,16 +1,15 @@
 # Overview
 
-* [[Getting started]]
-* [[Tutorials]]
-* [[What's new]]
-* [[Controller basics]]
-* [[Menu overview]]
-* [[Utility belt]]
-* [[Characters]]
-* [[Sets]]
-* [Set building](/docs/2020.1/building-your-set)
-* [[Recording a show]]
-* [[Handheld camera]]
-* [[Creator profile]]
-* [[Tips and tricks]]
+* [[Studio / Getting started]]
+* [[ Tutorials]]
+* [[Studio / Controller basics]]
+* [[Studio / Menu overview]]
+* [[Studio / Utility belt]]
+* [[Studio / Characters]]
+* [[Studio / Sets]]
+* [Set building](/docs/2020.1/studio/building-your-set)
+* [[Studio / Recording a show]]
+* [[Studio / Handheld camera]]
+* [[Studio / Creator profile]]
+* [[Studio / Tips and tricks]]
 * [[Getting help]]

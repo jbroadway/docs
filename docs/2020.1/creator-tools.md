@@ -1,27 +1,61 @@
 # Flipside Creator Tools
 
-The Flipside Creator Tools are an extension for the Unity game engine that enable creators to create custom characters and sets for their Flipside shows.
+:embed flipside/docs/hide-breadcrumb
 
-Characters support the ability to animate faces using any combination of blend shapes, Unity animations, jaw bones, or texture swapping that work seamlessly with the Flipside Studio facial expression engine which controls blinking, eye movement, facial expressions, and lip syncing along as you speak.
+:embed flipside/docs/hide-sidebar
 
-Sets support the ability to build a wide variety of interactive elements, as well as the ability to test those interactions in VR just by hitting Play in Unity. These can be as simple as grabbable props, or as complicated as complete games.
+:div class="e-row-variable"
 
-## Contents
+:div class="e-col-25 text-center"
 
-* [[> Installation and setup ]]
-* [[> Creating a custom character ]]
-  * [[> Mapping facial expressions ]]
-  * [[> Changing the scale of a character ]]
-  * [[> Generating colliders on characters ]]
-  * [[> Adding movement to hair, cloth, and tails ]]
-  * [[> Fixing forearm twisting ]]
-  * [Using Adobe Mixamo to rig a character](/blog/post/30/using-adobe-mixamo-rig-custom-character-flipside)
-* [[> Creating a custom set ]]
-  * [[> Setting up your teleporter area ]]
-  * [[> Creating interactions with props and event triggers]]
-  * [[> Building interactions with a scoring system]]
-  * [[> Triggering Flipside actions]]
-  * [[> Creating chairs and teleport targets]]
-  * [[> Creating eye targets]]
-* [[> Whitelist of allowed components]]
-* [[> Resources]]
+:div class="button"
+
+[[Getting started]]
+
+:/div
+
+How to get up and running with Flipside Creator Tools.
+
+:/div
+
+:div class="e-col-25 text-center"
+
+:div class="button"
+
+[[> Concepts]]
+
+:/div
+
+Get a high-level conceptual overview.
+
+:/div
+
+:div class="e-col-25 text-center"
+
+:div class="button"
+
+[[> Tutorials]]
+
+:/div
+
+Find tutorials to walk you through what you're looking to do.
+
+:/div
+
+:div class="e-col-25 text-center"
+
+:div class="button"
+
+[[> References]]
+
+:/div
+
+Technical descriptions of each custom component.
+
+:/div
+
+:/div
+
+---
+
+:embed flipside/docs/faq
