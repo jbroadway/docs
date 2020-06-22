@@ -39,4 +39,4 @@ See [[Puppeteering]].
 
 ---
 
-Next: [[ Characters ]]
+Next: [[: Tips and tricks ]]

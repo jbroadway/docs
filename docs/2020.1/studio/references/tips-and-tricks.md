@@ -41,4 +41,4 @@ Additionally, you need to ensure that your Oculus Home account is linked to your
 
 ---
 
-Next: [[ Getting help ]]
+Next: [[Studio / References]]

@@ -10,7 +10,7 @@
 
 :div class="button"
 
-[[Getting started]]
+[[> Getting started]]
 
 :/div
 

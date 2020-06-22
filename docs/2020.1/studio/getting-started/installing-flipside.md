@@ -20,7 +20,7 @@ Your Flipside creator account lets you upload custom props and other functionali
 
 Flipside uses [OBS Studio](https://obsproject.com/download) and its [obs-websocket](https://github.com/Palakis/obs-websocket/releases) plugin to capture video output, including live streaming to YouTube, Twitch, and others.
 
-For more information, see [[recording a show / editing your show / Setting up OBS Studio]].
+For more information, see [[studio / tutorials / recording a show / editing your show / Setting up OBS Studio]].
 
 ### Windows Media Feature Pack
 

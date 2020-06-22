@@ -1,4 +1,4 @@
-# Tutorials
+# Video tutorials
 
 ### User interface
 
@@ -140,4 +140,4 @@ The following tutorials guide you through using the [Flipside Creator Tools](/do
 
 ---
 
-Next: [[ Controller basics ]]
+Next: [[Studio / Tutorials ]]
