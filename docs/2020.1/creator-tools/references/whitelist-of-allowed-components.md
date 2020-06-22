@@ -176,4 +176,4 @@ If you have a component you think we should include in our whitelist, let us kno
 
 ---
 
-Next: [[:Resources]]
+Next: [[Creator Tools / References / Resources]]

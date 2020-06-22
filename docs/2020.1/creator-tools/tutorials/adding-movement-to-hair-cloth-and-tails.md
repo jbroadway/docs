@@ -37,4 +37,5 @@ Here is a quick overview of how to integrate Dynamic Bone into your custom Flips
 6\. You are finished! At this point you can build your character by clicking **Rebuild Character Bundle**.
 
 ---
-> Next: [[: Fixing forearm twisting ]]
+
+Next: [[: Fixing forearm twisting ]]

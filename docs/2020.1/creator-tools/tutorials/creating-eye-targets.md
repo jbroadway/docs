@@ -25,4 +25,4 @@ an eye target for 1-2 seconds when it is grabbed by a character then stops being
 
 ---
 
-Next: [[:Whitelist of allowed components]]
+Next: [[Creator Tools / References]]
