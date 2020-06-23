@@ -35,6 +35,10 @@ We usually recommend mapping these as follows, however, they can also be mapped 
 
 Each of these elements can be combined in any combination to control a wide variety of character types, from cartoon animals to futuristic scifi robots and anything in between.
 
+## Custom characters
+
+Flipside Studio's power comes from importing your own custom artwork (characters, sets, etc.), so that your shows look the way you want them to. To learn about importing custom characters, check out the [Flipside Creator Tools](/docs/2020.1/creator-tools).
+
 ---
 
 Next: [[: Props and sets]]
