@@ -8,6 +8,7 @@ The following pages include input controls, menu options, supported file formats
 * [[> Characters]]
     * [[> Characters / Calibrating your tracking]]
     * [[> Characters / Full-body tracking]]
+    * [[> Characters / Puppeteering]]
 * [[> Sets]]
 * [[> Creator profile]]
 * [[> Utility belt]]

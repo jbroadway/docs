@@ -25,4 +25,4 @@ leave puppet mode too.
 
 ---
 
-Next: [[ Characters ]]
+Next: [[Studio / References / Characters ]]
