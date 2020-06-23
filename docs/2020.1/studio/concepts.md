@@ -7,9 +7,7 @@ Flipside Studio turns off-the-shelf VR hardware into a motion capture system whe
 Use these links to explore the different concepts used in Flipside Studio.
 
 * [[> Characters]]
-* [[> Sets and props]]
+* [[> Props and sets]]
 * [[> Recording]]
 * [[> Cameras]]
-* [[> Saved setups]]
 * [[> Multiplayer]]
-* [[> Workflows]]
