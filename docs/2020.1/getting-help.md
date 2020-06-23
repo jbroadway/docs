@@ -11,7 +11,7 @@ Here are some things that can help us solve your issues faster:
 
 If you experience a bug in Flipside Studio, take your headset off and click on the Settings icon on the desktop camera switcher. From there, click on the Support tab and you'll see a form where you can report the issue to us. You can add details about what went wrong, and the form will automatically include key info about your system to help us figure out what went wrong.
 
-:gif /files/docs/gifs/update-23_support.mp4
+:gif https://www.flipsidexr.com/files/docs/gifs/update-23_support.mp4
 
 ### Reporting crashes
 

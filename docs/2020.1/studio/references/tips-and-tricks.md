@@ -6,7 +6,7 @@ If you want to record the Flipside user interface elements (ie. cameras, preview
 
 If you're looking for a hotkey, **press Alt + V** to show or hide UI.
 
-:gif /files/docs/gifs/show-ui_in-vr-switcher.mp4
+:gif https://www.flipsidexr.com/files/docs/gifs/show-ui_in-vr-switcher.mp4
 
 ## Going fullscreen
 
@@ -22,7 +22,7 @@ To enter and exit Ghost Mode, **press Alt + G**.
 
 **_If you've opted into the multiplayer beta_**, you can find the Ghost Mode button on both the 2D camera switcher and the in-VR camera switcher. 
 
-:gif /files/blog/update-24_ghost-mode-3.mp4
+:gif https://www.flipsidexr.com/files/blog/update-24_ghost-mode-3.mp4
 
 ## Dialogue scenes
 

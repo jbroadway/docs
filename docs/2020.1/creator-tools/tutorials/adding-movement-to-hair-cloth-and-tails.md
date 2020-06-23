@@ -12,11 +12,11 @@ Here is a quick overview of how to integrate Dynamic Bone into your custom Flips
 
 3\. Add the DynamicBone component to the root of your character.
 
-![Dynamic Bone Step 3](/files/docs/screenshots/AddDynamicBoneToCharacter.png)
+![Dynamic Bone Step 3](https://www.flipsidexr.com/files/docs/screenshots/AddDynamicBoneToCharacter.png)
 
 4\. Navigate in the Hierarchy to the root of your bones you want animated. Add that root object to the `Root` field in the **DynamicBone** component.
 
-![Dynamic Bone Step 4](/files/docs/screenshots/AddDynamicBoneRoot.png)
+![Dynamic Bone Step 4](https://www.flipsidexr.com/files/docs/screenshots/AddDynamicBoneRoot.png)
 
 >At this point you should be able to play the scene, and see the bones reacting the movements.
 
@@ -26,13 +26,13 @@ Here is a quick overview of how to integrate Dynamic Bone into your custom Flips
 	
 >1\. Right click the **DynamicBone** component and click **Copy Component**.
 
-![Dynamic Bone Step 4](/files/docs/screenshots/CopyComponent.png)
+![Dynamic Bone Step 4](https://www.flipsidexr.com/files/docs/screenshots/CopyComponent.png)
 
 >2\. Stop playing the scene.
 
 >3\. Right click the **DynamicBone** component and click **Paste Component Values**.
 
-![Dynamic Bone Step 4](/files/docs/screenshots/PasteComponent.png)
+![Dynamic Bone Step 4](https://www.flipsidexr.com/files/docs/screenshots/PasteComponent.png)
 
 6\. You are finished! At this point you can build your character by clicking **Rebuild Character Bundle**.
 

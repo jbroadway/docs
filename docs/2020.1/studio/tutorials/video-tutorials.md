@@ -126,7 +126,7 @@ The following tutorials guide you through using the [Flipside Creator Tools](/do
 
 :endtable
 
-#### Multiplayer - (Beta)
+#### Multiplayer
 
 :table
 

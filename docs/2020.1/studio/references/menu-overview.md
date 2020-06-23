@@ -6,7 +6,7 @@ Flipside's main menu interface is a floating palette. You can grab the palette o
 side to move it where you want and it will stay there when you let go, and it will keep itself
 within reach as you move and teleport around your sets.
 
-![Floating palette menu](/files/docs/screenshots/palette-menu.png)
+![Floating palette menu](https://www.flipsidexr.com/files/docs/screenshots/palette-menu.png)
 
 ## Modes
 
@@ -16,7 +16,7 @@ From left-to-right, the options include:
 
 :table style="width: 25%"
 
-![Record icon](/files/docs/graphics/button_w-record.png)
+![Record icon](https://www.flipsidexr.com/files/docs/graphics/button_w-record.png)
 
 :col style="width: 75%"
 
@@ -28,7 +28,7 @@ Go here to record and watch your shows. See [[Recording a show]].
 
 :table style="width: 25%"
 
-![Characters icon](/files/docs/graphics/button_w-characters.png)
+![Characters icon](https://www.flipsidexr.com/files/docs/graphics/button_w-characters.png)
 
 :col style="width: 75%"
 
@@ -43,7 +43,7 @@ For more on importing your own custom characters, see [Flipside Creator Tools](/
 
 :table style="width: 25%"
 
-![Sets icon](/files/docs/graphics/button_w-sets.png)
+![Sets icon](https://www.flipsidexr.com/files/docs/graphics/button_w-sets.png)
 
 :col style="width: 75%"
 
@@ -57,7 +57,7 @@ _**Coming soon:** Importing your own custom sets using the [Flipside Creator Too
 
 :table style="width: 25%"
 
-![Set builder icon](/files/docs/graphics/button_w-build.png)
+![Set builder icon](https://www.flipsidexr.com/files/docs/graphics/button_w-build.png)
 
 :col style="width: 75%"
 
@@ -69,7 +69,7 @@ This is where you get your set ready to record. Dress your set and position your
 
 :table style="width: 25%"
 
-![Set builder icon](/files/docs/graphics/button_w-friends.png)
+![Set builder icon](https://www.flipsidexr.com/files/docs/graphics/button_w-friends.png)
 
 :col style="width: 75%"
 

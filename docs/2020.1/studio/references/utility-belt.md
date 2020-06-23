@@ -13,7 +13,7 @@ area than your VR tracking space.
 
 :table style="width: 25%"
 
-![Camera](/files/docs/graphics/model_selfie-camera.png)
+![Camera](https://www.flipsidexr.com/files/docs/graphics/model_selfie-camera.png)
 
 :col style="width: 75%"
 
@@ -27,7 +27,7 @@ See [[Handheld camera]].
 
 :table style="width: 25%"
 
-![Puppet](/files/docs/graphics/model_puppet.png)
+![Puppet](https://www.flipsidexr.com/files/docs/graphics/model_puppet.png)
 
 :col style="width: 75%"
 

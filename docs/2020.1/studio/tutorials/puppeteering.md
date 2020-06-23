@@ -1,6 +1,6 @@
 # Puppeteering
 
-:gif /files/docs/gifs/puppeteering.mp4
+:gif https://www.flipsidexr.com/files/docs/gifs/puppeteering.mp4
 
 Grab the puppet from the left holster on your [[utility belt]] to use the puppeteering
 feature.
