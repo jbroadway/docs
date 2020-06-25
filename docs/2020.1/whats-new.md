@@ -5,7 +5,7 @@
 Check back here to learn about all the latest changes to Flipside.
 
 [2020.1.0-stable](https://www.flipsidexr.com/blog/post/81/flipside-studio-20201-now-available)<br />
-<small>June 23, 2020</small><br>
+<small>June 25, 2020</small><br>
 Flipside Studio and Flipside Creator Tools 2020.1 include a ton of new features and fixes, bringing you a faster, more flexible, and more streamlined real-time animation platform.
 
 [2020.1.0-rc2](https://www.flipsidexr.com/blog/post/83/flipside-studio-20201-release-candidate-2)<br>
