@@ -1,18 +1,14 @@
 # Installing Flipside Studio
 
---- Platform: SteamVR ---
+## Download
 
-Flipside Studio is now available for free on [SteamVR](http://store.steampowered.com/app/495800/Flipside_Studio/).
+Flipside Studio can be installed through the [Oculus Home](https://www.oculus.com/experiences/rift/750910405009643/) or [SteamVR](http://store.steampowered.com/app/495800/Flipside_Studio/) app store.
 
---- Platform: Oculus ---
+## Account
 
-Flipside Studio is now available for free on [Oculus Home](https://www.oculus.com/experiences/rift/750910405009643/).
+Once you launch Flipside, you will be prompted to enter your email. This will create a creator account for you on the [Flipside website](https://www.flipsidexr.com/) and send you a verification email.
 
---- /Platform ---
-
-Once you launch Flipside, you will be prompted to enter your email. This will create a creator account for you on the Flipside website ([www.flipsidexr.com](https://www.flipsidexr.com/)) and send you a verification email.
-
-Your Flipside creator account lets you upload custom props and other functionality, and also access the Flipside Creator Community.
+Your Flipside creator account lets you upload custom props and other functionality, and also access the [Flipside Creator Community](/community).
 
 ## Third party tools
 
@@ -20,7 +16,7 @@ Your Flipside creator account lets you upload custom props and other functionali
 
 Flipside uses [OBS Studio](https://obsproject.com/download) and its [obs-websocket](https://github.com/Palakis/obs-websocket/releases) plugin to capture video output, including live streaming to YouTube, Twitch, and others.
 
-For more information, see [[studio / tutorials / recording a show / editing your show / Setting up OBS Studio]].
+For more information, see [[studio / tutorials / recording / editing your show / Setting up OBS Studio]].
 
 ### Windows Media Feature Pack
 
