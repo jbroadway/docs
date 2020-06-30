@@ -14,8 +14,6 @@ With the prop selected, scroll to the bottom of the **Inspector** window and cli
 
 Start typing **EyeTarget** into the search box until you see the **EyeTarget** component, then select it to add it to your prop.
 
-![EyeTarget component](https://www.flipsidexr.com/files/docs/graphics/eyetarget-component.png)
-
 At this point, you have just created a prop that is also an eye target.
 
 Next, to make it only a target of interest when it's first grabbed, uncheck the **Register On Start** checkbox so it doesn't become active automatically when the set loads, then on the **PropElement** component, click the **+** icon under the **OnBeginInteraction** event handler list.
