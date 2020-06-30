@@ -1,6 +1,10 @@
 # EyeTarget
 
-Eye targets define points of interest in the scene that a character's eyes should lock onto when within view. They support the following customizable behaviours:
+Eye targets define points of interest in the scene that a character's eyes should lock onto when within view.
+
+![EyeTarget component](https://www.flipsidexr.com/files/docs/graphics/eyetarget-component.png)
+
+Eye targets support the following customizable behaviours:
 
 * **Register On Start** - Whether the eye target should be enabled automatically when it's first loaded.
 * **Angle Limit** - The limit in degrees from the center of their vision that this object should catch a character's gaze.
