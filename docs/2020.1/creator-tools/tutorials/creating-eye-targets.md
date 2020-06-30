@@ -20,7 +20,7 @@ Next, to make it only a target of interest when it's first grabbed, uncheck the 
 
 Drag the **EyeTarget** component into the empty component slot that was created under **OnBeginInteraction**.
 
-Lastly, click on the dropdown that says **No Function** and choose **EyeTarget / RegisterForTime (float)**. Set the value from **0** to **1** to tell it to become an active eye target for one second every time the prop is grabbed.
+Lastly, click on the dropdown that says **No Function** and choose **EyeTarget.RegisterForTime (float)**. Set the value from **0** to **1** to tell it to become an active eye target for one second every time the prop is grabbed.
 
 ![Prop with temporary eye target](https://www.flipsidexr.com/files/docs/graphics/prop-temp-eye-target.png)
 
