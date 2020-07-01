@@ -2,9 +2,11 @@
 
 Eye targets are points of interest that characters would naturally focus on when interacting with them on a set.
 
-To make an object into an eye target is easy, so let's go one step deeper and create a target that is only active for a second or so whenever the object is grabbed, to simulate taking a short interest in the object while interacting with it, then losing interest once a character has it in their hand.
+Making an eye target is as easy as adding an [[Creator Tools / References / Custom Components / EyeTarget]] component to an object.
 
-> Note: This tutorial assumes you have an existing set open in the Unity editor with a prop already setup. If you need a set to work with to follow along, open the scene file **Assets/FlipsideCreatorTools/Examples/Example-Set**.
+Let's go one step deeper and create a target that is only active for one second whenever the object is grabbed, to simulate taking a short interest in the object while first interacting with it, then losing interest once a character has it in their hand.
+
+> Note: This tutorial assumes you have a set with a prop already setup. To use an existing set from the examples, open the scene **Assets/FlipsideCreatorTools/Examples/Example-Set**.
 
 The first step is to click on your prop in the **Hierarchy** window. A prop is any object which has a [[Creator Tools / References / Custom Components / PropElement]] component attached to it.
 
@@ -26,7 +28,7 @@ Lastly, click on the dropdown that says **No Function** and choose **EyeTarget.R
 
 You're now ready to save your scene and rebuild your set bundle for use in Flipside Studio.
 
-See the [[Creator Tools / References / Custom Components / EyeElement]] references for information about each of the **EyeTarget** component's settings and capabilities.
+See the [[Creator Tools / References / Custom Components / EyeTarget]] references for information about each of the **EyeTarget** component's settings and capabilities.
 
 ---
 
