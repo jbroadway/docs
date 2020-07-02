@@ -70,7 +70,7 @@ Lastly, make sure the checkbox is checked under **OnActivated** and unchecked un
 
 If everything is setup correctly, you should be able to press play in Unity and use your new flashlight. Grab it with a controller and press the trigger to toggle the flashlight on and off again.
 
-![Flashlight prop](https://www.files/docs/tutorials/flashlight-prop.png)
+![Flashlight prop](https://www.flipsidexr.com/files/docs/tutorials/flashlight-prop.png)
 
 To build your set for use in Flipside Studio, go to **Flipside Creator Tools > Open Creator Tools** then click on the **Build Set Bundle** button. Your flashlight should work just the same in Flipside Studio as it does in the Unity editor.
 
