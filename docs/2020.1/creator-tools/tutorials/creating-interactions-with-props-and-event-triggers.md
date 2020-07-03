@@ -60,7 +60,7 @@ Now the prop is connected to the toggle, and we're ready to configure the **Togg
 
 On the **ToggleElement** component, change the **Trigger For** setting to **Objects** which is a trick to stop the toggle from listening for collider events on the same object that it's on. **Objects** means to only trigger automatically if an object in the **Object List** setting enters it. So if we leave the list empty, it will never fire on its own.
 
-Further down on the **ToggleElement**, click the **++** under both the **OnActivated** and **OnDeactivated** events, then drag the spotlight object from the **Hierarchy** into each of the newly-created empty slots.
+Further down on the **ToggleElement**, click the **+** under both the **OnActivated** and **OnDeactivated** events, then drag the spotlight object from the **Hierarchy** into each of the newly-created empty slots.
 
 For both events, click on the dropdown that says **No Function** and choose **GameObject > SetActive (bool)**.
 
