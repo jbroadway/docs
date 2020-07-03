@@ -4,9 +4,9 @@ This tutorial is going to walk through setting up a flashlight prop that turns o
 
 We will be using three components to do this:
 
-* **Light** - Unity's built-in light component
-* **PropElement** - The Flipside component that turns an object into a grabbable prop
-* **ToggleElement** - The Flipside component that lets you toggle something between an on and off state
+* [Light](https://docs.unity3d.com/Manual/class-Light.html) - Unity's built-in light component
+* [[Creator Tools / References / Custom components / PropElement]] - The Flipside component that turns an object into a grabbable prop
+* [[Creator Tools / References / Custom components / ToggleElement]] - The Flipside component that lets you toggle something between an on and off state
 
 ## Creating a new set
 
