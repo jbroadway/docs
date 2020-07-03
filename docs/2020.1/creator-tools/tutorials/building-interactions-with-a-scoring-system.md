@@ -20,9 +20,9 @@ For the first step, we're going to ceate a basic Flipside set where our game wil
 
 Go to **File > New Scene** or press **Ctrl+N** in Unity to create a new blank scene.
 
-Next, go to **GameObject > 3D Object > Plane** to create a floor for your set. When you do, Unity may not place it at `(0,0,0)` so take a look at the **Transform** component in the **Inspector** window and make sure the position values are all set to `0`.
+Next, go to **GameObject > 3D Object > Plane** to create a floor for your set. When you do, Unity may not place it at `(0,0,0)` so take a look at the **Transform** component in the **Inspector** window and make sure the position values are all set to `0`. Also set its scale values to `10` to make sure it's big enough that we can't throw a ball past it.
 
-Select your floor plane in the **Hierarchy** window and choose **Add Component** at the bottom of the **Inspector** window and add the **TeleportObjectsOnContact** component. This will be used to make the balls reset to their original position so you can throw them again.
+With your floor plane object still selected, choose **Add Component** at the bottom of the **Inspector** window and add the **TeleportObjectsOnContact** component. This will be used to make the balls reset to their original position so you can throw them again.
 
 Now go to **File > Save** or press **Ctrl+S** to save your scene.
 
@@ -89,16 +89,6 @@ Let's fix things up so the ball isn't so hard to catch, and also make it feel a 
 Right-click **Contents** again and add another cube to the scene. This will be a stand for the ball to sit on when it spawns. Set its **Transform** settings to the following:
 
 ![Ball stand](https://www.flipsidexr.com/files/docs/tutorials/ball-stand.png)
-
-### Unity physics improvements
-
-Next, let's fix an issue with Unity's physics settings that will occassionally let the ball fall through the floor without triggering a teleport reset.
-
-Select the floor plane object in the **Hierarchy** and set its scale values to **10**. This will prevent you from accidentally throwing the ball too far and missing the reset completely.
-
-Next, add a **Rigidbody** component to the floor plane, then uncheck **Use Gravity** and check **Is Kinematic**, which will prevent the floor from falling out from under you. As a last step, set **Collision Detection** to **Continuous**, which will ensure the ball doesn't go through the floor without triggering the physics collision.
-
-### Duplicating the ball setup for additional players
 
 To make our game usable for multiple players, select the ball, its teleport position, and its stand in the **Hierarchy** window, right-click and choose **Duplicate**.
 
