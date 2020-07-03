@@ -12,7 +12,7 @@ We will be introducing several new Flipside Creator Tools components to do this:
 * [[Creator Tools / References / Custom components / TeleportObjectTo]] - Teleports an object to a given position whenever it is triggered by an event.
 * [[Creator Tools / References / Custom components / TeleportObjectsOnContact]] - Triggers **TeleportObjectTo** components to fire when they come into contact with it.
 
-> To see a complete example of how these components can be used, open the **Example-ScoringSystem** scene in the `Assets/FlipsideCreatorTools/Examples` folder in your [Flipside Creator Tools installation](/docs/2020.1/creator-tools/installation-and-setup).
+> To see a complete example of how these components can be used, open the **Example-ScoringSystem** scene in the `Assets/FlipsideCreatorTools/Examples` folder in your [Flipside Creator Tools installation](/docs/2020.1/creator-tools/getting-started).
 
 ## Creating a new set
 
@@ -125,7 +125,7 @@ Other ideas for making a more interesting mini game:
 * Using a [[Creator Tools / References / Custom components / TriggerOnce]] component to add a time limit to games
 * Changing the targets over time using a [timeline](https://learn.unity.com/tutorial/timeline#5c7f8528edbc2a002053b4e6)
 
-These are just a few suggestions, but we hope that gives you a better understanding of how to start building your own mini games using the Flipside Creator Tools, and we look forward to seeing what you come up with!
+These are just a few suggestions, but we hope that gives you a better understanding of how to start building your own mini games using the Flipside Creator Tools, and we look forward to seeing what you come up with from here!
 
 ---
 
