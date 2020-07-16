@@ -5,7 +5,7 @@
 Check back here to learn about all the latest changes to Flipside.
 
 **2020.1.1-stable**<br>
-[Studio Changelog](/docs/2020.1/studio/changelog) &middot; [Creator Tools Changelog](/docs/2020.1/creator-tools/changelog)<br>
+<span>[Studio Changelog](/docs/2020.1/studio/changelog) &middot; [Creator Tools Changelog](/docs/2020.1/creator-tools/changelog)</span><br>
 <small>July 16, 2020</small><br>
 This update fixes issues preventing use on Oculus Quest via Oculus Link, as well as a number of other bug fixes.
 
