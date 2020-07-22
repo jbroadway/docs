@@ -5,7 +5,7 @@ This page covers how to install, setup, and upgrade the Flipside Creator Tools i
 ## Download
 
 > **Note:** The Flipside Creator Tools require a specific version of Unity in order to work properly in Flipside Studio.
-> Please see [[> upgrading your characters and sets to Unity 2019]] for instructions on upgrading assets made in Unity 2017.
+> Please see [[Creator Tools / Tutorials / upgrading your characters and sets to Unity 2019]] for instructions on upgrading assets made in Unity 2017.
 
 <!--
 ### Stable version
