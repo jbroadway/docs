@@ -13,7 +13,7 @@ This page covers how to install, setup, and upgrade the Flipside Creator Tools i
 Use this version if you are using the stable version of Flipside Studio.
 -->
 
-* **[Flipside Creator Tools 2020.1.1-stable](https://www.flipsidexr.com/files/downloads/FlipsideCreatorTools-2020.1.1-stable.unitypackage)**
+* **[Flipside Creator Tools 2020.1.2-stable](https://www.flipsidexr.com/files/downloads/FlipsideCreatorTools-2020.1.2-stable.unitypackage)**
 
 This version requires **Unity 2019.2.11f1** (downloads: [Windows](https://unity3d.com/get-unity/download?thank-you=update&download_nid=63169&os=Win), [Mac](https://unity3d.com/get-unity/download?thank-you=update&download_nid=63169&os=Mac)).
 
