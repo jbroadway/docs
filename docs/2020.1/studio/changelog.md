@@ -1,5 +1,23 @@
 # Flipside Studio Changelog
 
+## 2020.1.2-stable
+
+### Bug fixes
+
+* Fixed `ToggleElement.ToggleState()` not being called indirectly via Unity events
+* Date/time on recordings now shows in the correct time zone for all users
+* Animators, playables, and audio sources resume when a recording is unloaded
+* Fixed rotation to better match vehicle rotations by basing them on head position instead of play area
+* Fixed loading cached version of your last-used set on launch if it was deleted
+* Added alert for Windows N/KN users to install the Windows Media Feature Pack, which our microphone relies on
+* Fixed positioning issues with teleporting into moving targets like vehicles
+* `FlipsideActions.TeleportUser()` assigns actors to a TeleportTarget if one is found on the given transform
+* Fixed being able to grab a PropElement that is also a chair while sitting in it
+* Fixed being able to teleport into a chair that is also a PropElement while holding it
+* Fixed being able to aim at and teleport into targets that are not directly on the NavMesh
+* Fixed animators pausing incorrectly on first load of a recording
+* Improved error handling for characters that fail to load
+
 ## 2020.1.1-stable
 
 ### Bug fixes
