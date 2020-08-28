@@ -6,7 +6,7 @@ Check back here to learn about all the latest changes to Flipside.
 
 **2020.1.2-stable**<br>
 <span>[Studio Changelog](/docs/2020.1/studio/changelog#202012-stable) &middot; [Creator Tools Changelog](/docs/2020.1/creator-tools/changelog#202012-stable)</span><br>
-<small>August 27, 2020</small><br>
+<small>August 28, 2020</small><br>
 Improved body physics collider generator including minimal, default, and full options, and a number of other bug fixes and improvements.
 
 **2020.1.1-stable**<br>
