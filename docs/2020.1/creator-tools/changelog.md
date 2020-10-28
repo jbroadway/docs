@@ -1,5 +1,20 @@
 # Flipside Creator Tools Changelog
 
+## 2020.1.3-stable
+
+### Improvements
+
+* Made the warning about using the wrong version of Unity much more visible
+* Added a wrapper object when a [Chair](https://www.flipsidexr.com/docs/2020.1/creator-tools/references/custom-components/chair) component is added directly to a mesh, making rotation fixes easier
+* Added a series of auto-fixes to common problems with scene hierarchies
+* Added `reserve` property to [PooledAudioElement](https://www.flipsidexr.com/docs/2020.1/creator-tools/references/custom-components/pooledaudioelement) to prevent a source from being recycled while still in use
+
+### Bug fixes
+
+* Fixed PooledAudioElement sounds following moving targets
+* Fixed camera settings being changed when pressing Play to preview in editor
+* Fixed error in the body collider generator where a failure to calculate bounds creates infinitely large colliders (aka Flipside Creator Tools takes infinity on for size)
+
 ## 2020.1.2-stable
 
 ### Improvements
