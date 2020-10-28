@@ -1,5 +1,19 @@
 # Flipside Studio Changelog
 
+## 2020.1.3-stable
+
+### Improvements
+
+* Added support for [PooledAudioElement](https://www.flipsidexr.com/docs/2020.1/creator-tools/references/custom-components/pooledaudioelement) to reserve an audio source from the sound manager
+
+### Bug fixes
+
+* Fixed an issue with Oculus Quest via Oculus Link not selecting the correct microphone
+* Fixed a case where bundles wouldn't always update correctly
+* Fixed PooledAudioElement sounds not following moving targets
+* Fixed disabling a ButtonElement on sets not disabling the Flipside button at runtime
+* Fixed an issue with the slideshow starting when no slideshow is present
+
 ## 2020.1.2-stable
 
 ### Bug fixes
