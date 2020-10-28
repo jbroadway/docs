@@ -4,6 +4,11 @@
 
 Check back here to learn about all the latest changes to Flipside.
 
+**2020.1.3-stable**<br>
+<span>[Studio Changelog](/docs/2020.1/studio/changelog#202012-stable) &middot; [Creator Tools Changelog](/docs/2020.1/creator-tools/changelog#202012-stable)</span><br>
+<small>October 28, 2020</small><br>
+Fixed Oculus Link microphone selection bug, sets not always updating correctly, slideshow auto-start. Improved PooledAudioElement as a general-purpose AudioSource replacement, and other improvements to the Creator Tools.
+
 **2020.1.2-stable**<br>
 <span>[Studio Changelog](/docs/2020.1/studio/changelog#202012-stable) &middot; [Creator Tools Changelog](/docs/2020.1/creator-tools/changelog#202012-stable)</span><br>
 <small>August 28, 2020</small><br>
