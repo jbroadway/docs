@@ -1,5 +1,11 @@
 # Flipside Creator Tools Changelog
 
+## 2020.1.4-stable
+
+### Bug fixes
+
+* Fixed regression that was affecting in-VR preview in the Unity editor
+
 ## 2020.1.3-stable
 
 ### Improvements
