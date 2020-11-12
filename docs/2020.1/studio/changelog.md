@@ -1,5 +1,15 @@
 # Flipside Studio Changelog
 
+## 2020.1.4-stable
+
+### Bug fixes
+
+* Fixed next button on Recordings palette being broken after deleting a take
+* Fixed shader warmup causing slow load times on SteamVR
+* Fixed null reference exception in desktop mirror that was causing crashes for some users
+* Fixed a bug causing the current state of the set not to be saved correctly
+* Fixed a bug when playing back a recording with sitting affecting character loading
+
 ## 2020.1.3-stable
 
 ### Improvements
