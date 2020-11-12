@@ -4,6 +4,11 @@
 
 Check back here to learn about all the latest changes to Flipside.
 
+**2020.1.4-stable**<br>
+<span>[Studio Changelog](/docs/2020.1/studio/changelog#202012-stable) &middot; [Creator Tools Changelog](/docs/2020.1/creator-tools/changelog#202012-stable)</span><br>
+<small>November 12, 2020</small><br>
+Fixed several bugs including one causing crashes for some users, another causing long startup times on SteamVR, and one preventing previewing sets in the Unity editor before building and uploading them.
+
 **2020.1.3-stable**<br>
 <span>[Studio Changelog](/docs/2020.1/studio/changelog#202012-stable) &middot; [Creator Tools Changelog](/docs/2020.1/creator-tools/changelog#202012-stable)</span><br>
 <small>October 28, 2020</small><br>
