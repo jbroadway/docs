@@ -3,7 +3,7 @@
 If you run into an issue with Flipside, there are a couple ways you can get help:
 
 1. Email [support@flipsidexr.com](mailto:support@flipsidexr.com) with your question and someone will get back to you, usually during business hours.
-2. Post your question to our [Discord chat](https://discord.gg/q3n9ppA) for the community to help. We're on here often, and often others may be able to help too.
+2. Post your question to our [community forum](https://www.flipsidecommunity.com/forum) or on our [Discord server](https://discord.gg/q3n9ppA).
 
 Here are some things that can help us solve your issues faster:
 
