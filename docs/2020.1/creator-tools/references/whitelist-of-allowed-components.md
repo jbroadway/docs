@@ -171,7 +171,7 @@ Sets may use the following components:
 ### Unsupported components
 
 If you have a component you think we should include in our whitelist, let us know on our
-[Discord community server](https://discord.gg/q3n9ppA) or our
+[Flipside community forum](https://www.flipsidecommunity.com/forum) or our
 [Trello roadmap](https://trello.com/b/l2YQZvQU/flipside-roadmap).
 
 ---
