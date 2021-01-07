@@ -7,3 +7,4 @@ Flipside Studio is a real-time animation studio that uses virtual reality hardwa
   * [ VR setup ](/docs/2020.1/studio/getting-started/hardware-setup#vr-setup)
   * [ Computer ](/docs/2020.1/studio/getting-started/hardware-setup#computer)
   * [ Business users ](/docs/2020.1/studio/getting-started/hardware-setup#business-users)
+* [[> Multiplayer requirements]]

@@ -36,4 +36,4 @@ Visit [www.vive.com/us/enterprise](https://www.vive.com/us/enterprise/) for more
 
 ---
 
-Next: [[ What's new ]]
+Next: [[: Multiplayer requirements ]]
