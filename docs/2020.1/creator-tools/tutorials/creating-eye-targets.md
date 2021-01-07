@@ -32,4 +32,4 @@ See the [[Creator Tools / References / Custom Components / EyeTarget]] reference
 
 ---
 
-Next: [[Creator Tools / Tutorials / Using Flipside Creator Tools with the Unity Recorder]]
+Next: [[Creator Tools / Tutorials]]

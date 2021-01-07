@@ -12,7 +12,7 @@ The first category of props are called **Show Tools**, which are aimed at helpin
 
 ### Skies
 
-The **Skies** category is another special category, which contains a list of available skies. Outdoor sets can go from day to night just by changing the sky.## Imported props
+The **Skies** category is another special category, which contains a list of available skies. Outdoor sets can go from day to night just by changing the sky.
 
 ### Imported props
 
