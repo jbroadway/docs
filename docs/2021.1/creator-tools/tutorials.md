@@ -4,6 +4,12 @@ The following pages are meant to help guide you through implementing specific as
 
 * [[> Creating a custom character ]]
   * [[> Mapping facial expressions ]]
+     * [[> Mapping facial expressions / Blend shape mapping]]
+     * [[> Mapping facial expressions / Simplified blend shape mapping]]
+     * [[> Mapping facial expressions / Texture mapping]]
+     * [[> Mapping facial expressions / Combo texture mapping]]
+     * [[> Mapping facial expressions / Animation mapping]]
+     * [[> Mapping facial expressions / AnimationParameters mapping]]
   * [[> Changing the scale of a character ]]
   * [[> Generating colliders on characters ]]
   * [[> Adding movement to hair, cloth, and tails ]]
