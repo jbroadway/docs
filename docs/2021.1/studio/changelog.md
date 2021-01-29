@@ -1,5 +1,24 @@
 # Flipside Studio Changelog
 
+## 2021.1.0-stable
+
+### Improvements
+
+* Full body motion capture data export as BVH, which can be converted into Unity animations via the Creator Tools plugin, or Blender animations via an all-new Blender plugin
+* Video renderer which supports MP4, PNG or EXR image sequences, depth maps, and more, including a background render queue
+* Export separate audio tracks for each actor's part as WAV files
+* All-new retargeting system substantially improves character movement
+* Stand-ins let you freeze actors in poses that become actor marks you can also teleport into to get into character and position
+* Full hand tracking is now supported when using the Valve Index controllers
+* Ambient Occlusion can be enabled under Settings > Output
+* Microphone settings have been moved to their own tab, with added settings to control lip sync gain, noise gate, and compression
+* Teleprompter now supports Latin, Greek, Cyrillic, Thai, and Tamil character sets (more will be added in future updates).
+
+### Bug fixes
+
+* Fixed null references in PooledAudioElement that can happen during shutdown
+* Fixed a case where a JSON parsing error could break the background sync and stop recordings from appearing on the palette
+
 ## 2020.1.4-stable
 
 ### Bug fixes

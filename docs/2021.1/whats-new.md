@@ -5,8 +5,8 @@
 Check back here to learn about all the latest changes to Flipside.
 
 **2021.1.0-stable**<br>
-<span>[Studio Changelog](/docs/2021.1/studio/changelog#202012-stable) &middot; [Creator Tools Changelog](/docs/2021.1/creator-tools/changelog#202110-stable)</span><br>
-<small>January 29, 2021</small><br>
+<span>[Studio Changelog](/docs/2021.1/studio/changelog#202110-stable) &middot; [Creator Tools Changelog](/docs/2021.1/creator-tools/changelog#202110-stable)</span><br>
+<small>February 29, 2021</small><br>
 Motion capture data export, video renderer, stand-ins, all-new retargeting system, and much more.
 
 **2020.1.4-stable**<br>

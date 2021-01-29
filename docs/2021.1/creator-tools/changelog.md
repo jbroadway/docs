@@ -1,5 +1,21 @@
 # Flipside Creator Tools Changelog
 
+## 2021.1.0-stable
+
+### Improvements
+
+* Added ability to import and convert BVH files exported from Flipside Studio into Unity animations
+* Added new [FaceMirror](https://www.flipsidexr.com/docs/2021.1/creator-tools/references/custom-components/facemirror) component for animating faces on non-characters
+* Added new [AnimationParameters](https://www.flipsidexr.com/docs/2021.1/creator-tools/tutorials/mapping-facial-expressions/animationparameters) face mapping for finer control over animation behaviour
+* Added checkboxes to disable applying SetInfo's lighting and skybox settings in editor so Creator Tools plays nice with custom settings for in-editor renders
+* Added example scene for the [PooledAudioElement](https://www.flipsidexr.com/docs/2021.1/creator-tools/references/custom-components/pooledaudioelement) component
+* Added ability for Creator Tools to continue working as a lightweight VR framework in Unity builds (to enable, just add a `FLIPSIDE_CREATOR_TOOLS` build symbol)
+
+### Bug fixes
+
+* Fixed index trigger sensitivity for more accurate use in testing scenes
+* Various other minor fixes
+
 ## 2020.1.4-stable
 
 ### Bug fixes
