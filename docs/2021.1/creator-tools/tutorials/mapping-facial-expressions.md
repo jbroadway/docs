@@ -15,9 +15,11 @@ There are several methods of mapping facial expressions:
 
 ## Combining multiple mappings together
 
-Often a particular effect can't be achieved with just one type of facial expression mapping. For that reason, we also offer a **FacialExpressionReference** component which lets you combine multiple mappings on a single character. Just add one instance of **FacialExpressionReference** for each type of mapping you want to use under the **AvatarModelReferences** component.
+Often a particular effect can't be achieved with just one type of facial expression mapping. For that reason, we also offer a **FacialExpressionReference** component which lets you combine multiple mappings on a single character.
 
-For example, you can combine animations with texture-swapping, or even use both [[>texture mapping]] and [[>combo-texture mapping]] to achieve more complex texture-based animations. This adds a great deal of flexibility to building compelling face animations.
+To use it, add one instance of the **FacialExpressionReference** component for each type of mapping you want to use under the **AvatarModelReferences** component on the same root object of your character.
+
+For example, you can combine animations with texture-swapping, or even use both [[>texture mapping]] and [[>combo-texture mapping]] together to achieve more complex texture-based animations. This adds a great deal of flexibility to building compelling face animations.
 
 ## Need help?
 
