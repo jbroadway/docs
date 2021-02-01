@@ -1,8 +1,16 @@
 # Animation Mapping
 
+Animation mapping maps lip syncing to layers in a Unity animation controller. This allows you to animate any [serializable fields](https://docs.unity3d.com/Manual/script-Serialization.html) in your character. This allows much more complex animation systems such as face bones, enabled/disabled objects, and particle systems.
+
+### Steps
+
 1\. Open your character's Unity scene and select the character in the Hierarchy pane.
 
+![Avatar Model References](https://www.flipsidexr.com/files/docs/screenshots/avatar-model-references.png)
+
 2\. In the Inspector pane, change the **Expression Type** setting to **Animation**.
+
+![Expression types](https://www.flipsidexr.com/files/docs/screenshots/expression-types.png)
 
 3\. Scroll down a bit and click **Setup Animator**. This will create an animator on the character's head that can be used to create facial animations.
 

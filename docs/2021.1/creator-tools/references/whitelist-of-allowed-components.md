@@ -1,8 +1,8 @@
 # Whitelist of allowed components
 
-Flipside Studio uses a whitelist to verify the scripts that can be attached to your characters and sets.
-This helps keep our users secure and also prevents a whole host of bugs from happening due to the wide
-variety of components available in the Unity game engine.
+Flipside Studio uses a whitelist to verify the scripts that can be attached to your characters and sets. This helps keep our users secure and also prevents a whole host of bugs from happening due to the wide variety of components available in the Unity game engine.
+
+The following is a list of whitelisted Unity and third party components that can be used in custom characters and sets.
 
 :table
 
@@ -12,23 +12,7 @@ Characters may use the following components:
 
 * DynamicBone
 * DynamicBoneCollider
-* Flipside.Avatars.AvatarModelReferences
-* Flipside.Avatars.FacialExpressionReference
-* Flipside.Avatars.StretchBetween
-* Flipside.Sets.ColliderElement
-* Flipside.Sets.CustomTag
-* Flipside.Sets.FlipsideActions
-* Flipside.Sets.MaterialSettings
-* Flipside.Sets.PooledAudioElement
-* Flipside.Sets.ScreenElement
-* Flipside.Sets.TargetElement
-* Flipside.Sets.ToggleElement
-* Flipside.Sets.TriggerCounter
-* Flipside.Sets.TriggerEvery
-* Flipside.Sets.TriggerOnce
-* GenerateColliders
 * ONSPAudioSource
-* Social.Utils.Tagger
 * TMPro.TMP_SubMesh
 * TMPro.TextMeshPro
 * TMPRo.TextMeshProUGUI
@@ -76,41 +60,8 @@ Sets may use the following components:
 * Cinemachine.CinemachineVirtualCamera
 * DynamicBone
 * DynamicBoneCollider
-* Flipside.Avatars.EyeTarget
-* Flipside.Helpers.DestroyOnContact
-* Flipside.Helpers.PopupObject
-* Flipside.Helpers.PopupPulley
-* Flipside.Helpers.SetElement
-* Flipside.Sets.Audience
-* Flipside.Sets.BulletElement
-* Flipside.Sets.ButtonElement
-* Flipside.Sets.CameraElement
-* Flipside.Sets.Chair
-* Flipside.Sets.ColliderElement
-* Flipside.Sets.CustomTag
-* Flipside.Sets.FlipsideActions
-* Flipside.Sets.FollowElement
-* Flipside.Sets.GunElement
-* Flipside.Sets.MaterialSettings
-* Flipside.Sets.PooledAudioElement
-* Flipside.Sets.PropElement
-* Flipside.Sets.PropIgnoreColliders
-* Flipside.Sets.ScoreboardElement
-* Flipside.Sets.ScreenElement
-* Flipside.Sets.Set
-* Flipside.Sets.SetInfo
-* Flipside.Sets.TargetElement
-* Flipside.Sets.TeleportObjectTo
-* Flipside.Sets.TeleportObjectsOnContact
-* Flipside.Sets.TeleportTarget
-* Flipside.Sets.ThrowableElement
-* Flipside.Sets.ToggleElement
-* Flipside.Sets.TriggerCounter
-* Flipside.Sets.TriggerEvery
-* Flipside.Sets.TriggerOnce
 * NewtonVR.NVRSnappable
 * ONSPAudioSource
-* Social.Utils.Tagger
 * TMPro.TMP_SubMesh
 * TMPro.TextMeshPro
 * TMPRo.TextMeshProUGUI
@@ -171,8 +122,7 @@ Sets may use the following components:
 ### Unsupported components
 
 If you have a component you think we should include in our whitelist, let us know on our
-[Flipside community forum](https://www.flipsidecommunity.com/forum) or our
-[Trello roadmap](https://trello.com/b/l2YQZvQU/flipside-roadmap).
+[Flipside community forum](https://www.flipsidecommunity.com/forum).
 
 ---
 

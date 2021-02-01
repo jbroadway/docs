@@ -11,6 +11,7 @@ The following is a list of custom components available in the Flipside Creator T
 * [[> ColliderElement]]
 * [[> CustomTag]]
 * [[> EyeTarget]]
+* [[> FaceMirror]]
 * [[> FacialExpressionReference]]
 * [[> FlipsideActions]]
 * [[> FollowElement]]
