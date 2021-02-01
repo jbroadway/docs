@@ -48,9 +48,13 @@ Flipside Studio does all of this and more for you automatically.
 
 Flipside Studio sends periodic ping messages between users in a multiplayer session, which enables it to keep track of the average network latency between them. It then uses that information to keep recorded parts in sync and to minimize the perceived latency between them.
 
-### Other data exports
+### Data exports
 
-We plan to introduce additional data exports in the near future. [Contact us](/contact) if you're interested in these capabilities.
+Flipside Studio offers several data export options, including:
+
+* [[Studio / References / Exports / Video renderer]]
+* [[Studio / References / Exports / Motion capture]]
+* [[Studio / References / Exports / Audio data]]
 
 ---
 
