@@ -18,9 +18,7 @@ You can also grab a virtual camera switcher from the Show Tools prop category to
 
 Ghost Mode will make your character invisible so you can play director without getting in the way of the shot, or animate props by grabbing them and moving them around. Ghost Mode also has the ability to move the world around and scale it up or down by grabbing it with one or two hands, just like Builder Mode. 
 
-To enter and exit Ghost Mode, **press Alt + G**.
-
-**_If you've opted into the multiplayer beta_**, you can find the Ghost Mode button on both the 2D camera switcher and the in-VR camera switcher. 
+To enter and exit Ghost Mode, **press Alt + G** or click the Ghost Mode icon on either camera switcher interface.
 
 :gif https://www.flipsidexr.com/files/blog/update-24_ghost-mode-3.mp4
 

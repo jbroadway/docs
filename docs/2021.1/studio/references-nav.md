@@ -9,6 +9,7 @@
   * [[Studio / References / Characters]]
   * [[Studio / References / Sets]]
   * [[Studio / References / Creator profile]]
+  * [[Studio / References / Desktop interface]]
   * [[Studio / References / Tips and tricks]]
 * [[What's new]]
 * [[Getting help]]
