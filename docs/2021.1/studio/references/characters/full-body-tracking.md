@@ -39,4 +39,4 @@ follow the calibration instructions.
 
 ---
 
-Next: [[ Studio / References / Sets ]]
+Next: [[ Studio / References / Characters / Puppeteering ]]
