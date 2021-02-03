@@ -1,4 +1,4 @@
-# Motion capture export
+# Motion capture exports
 
 > Note: Exporting data is a paid feature. For more information, visit our [pricing page](/pricing).
 
@@ -25,4 +25,4 @@ BVH files are supported by a wide range of 3D software, but we've created two wa
 
 ---
 
-Next: [[:Video]]
+Next: [[:Video exports]]

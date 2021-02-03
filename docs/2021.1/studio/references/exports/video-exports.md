@@ -1,4 +1,4 @@
-# Video export
+# Video exports
 
 > Note: Exporting data is a paid feature. For more information, visit our [pricing page](/pricing).
 
@@ -58,4 +58,4 @@ The video renderer supports the following video encoding settings:
 
 ---
 
-Next: [[:Audio]]
+Next: [[:Audio exports]]

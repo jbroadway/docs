@@ -27,7 +27,7 @@ The video renderer lets you customize your render options including output forma
 
 ### Export options
 
-The video renderer supports a number of different export options. For information on export options, visit the [video export page](/docs/2021.1/studio/references/exports/video).
+The video renderer supports a number of different export options. For information on export options, visit the [video export page](/docs/2021.1/studio/references/exports/video-exports).
 
 ---
 

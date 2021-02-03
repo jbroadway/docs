@@ -1,4 +1,4 @@
-# Audio export
+# Audio exports
 
 > Note: Exporting data is a paid feature. For more information, visit our [pricing page](/pricing).
 

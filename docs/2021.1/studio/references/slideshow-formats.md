@@ -17,3 +17,7 @@ Video:
 * RTSP (Live stream)
 * Dropbox (ex: `https://www.dropbox.com/s/path/to/my-image.png?dl=0`)
 * Google Drive (ex: `https://drive.google.com/file/d/file-id/view?usp=sharing`)
+
+---
+
+Next: [[:Tips and tricks]]
