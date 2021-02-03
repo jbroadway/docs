@@ -39,4 +39,4 @@ See [[Puppeteering]].
 
 ---
 
-Next: [[: Tips and tricks ]]
+Next: [[:Desktop interface]]

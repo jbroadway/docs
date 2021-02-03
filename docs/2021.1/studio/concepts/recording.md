@@ -52,9 +52,9 @@ Flipside Studio sends periodic ping messages between users in a multiplayer sess
 
 Flipside Studio offers several data export options, including:
 
-* [[Studio / References / Exports / Video renderer]]
-* [[Studio / References / Exports / Motion capture]]
-* [[Studio / References / Exports / Audio data]]
+* [[Studio / References / Desktop interface / Exports / Motion capture]]
+* [[Studio / References / Desktop interface / Exports / Video renderer]]
+* [[Studio / References / Desktop interface / Exports / Audio data]]
 
 ---
 

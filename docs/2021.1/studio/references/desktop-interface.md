@@ -30,4 +30,4 @@ If you move your mouse over the window while in fullscreen, a notice will appear
 
 ---
 
-Next: [[> Exports]]
+Next: [[> Take editor]]

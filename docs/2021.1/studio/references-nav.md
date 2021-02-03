@@ -10,6 +10,8 @@
   * [[Studio / References / Sets]]
   * [[Studio / References / Creator profile]]
   * [[Studio / References / Desktop interface]]
+  * [[Studio / References / Exports]]
+  * [[Studio / References / Settings]]
   * [[Studio / References / Tips and tricks]]
 * [[What's new]]
 * [[Getting help]]
