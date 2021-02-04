@@ -28,7 +28,9 @@ This method is similar to the [[:animation mapping]], but instead of mapping to 
 
 7\. Select the root object of your character and scroll down in the Inspector pane to find your **Facial Expression Reference** component. Enter the name of the corresponding animation parameter for each of the expression input fields.
 
-8\. Create your blend trees in the animation controller and set up your animation parameters as usual.
+Your animation parameters are now connected so that Flipside Studio can animate them through its facial expressions and lip-syncing.
+
+From here, you can start setting up [blend trees](https://docs.unity3d.com/Manual/class-BlendTree.html) or use your animation parameters to set conditions for your [animation state transitions](https://docs.unity3d.com/Manual/class-Transition.html), however these topics are beyond the scope of this tutorial.
 
 ---
 
