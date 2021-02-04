@@ -1,6 +1,6 @@
-# AnimationParameters mapping
+# Animation parameters mapping
 
-This method is similar to the [[:animation mapping]], but instead of mapping to layers in the animation controller it maps to [AnimationParameters](https://docs.unity3d.com/Manual/AnimationParameters.html) variables defined within the animator controller, letting you affect the flow of the animation state machine. This gives you finer control over how animations are applied to faces.
+This method is similar to the [[:animation mapping]], but instead of mapping to layers in the animation controller it maps to [animation parameters](https://docs.unity3d.com/Manual/AnimationParameters.html) variables defined within the animator controller, letting you affect the flow of the animation state machine. This gives you finer control over how animations are applied to faces.
 
 > Note: Animation parameters are an advanced feature of the Unity animation system. The following assumes familiarity with the Unity animation system and setting up animation parameters and [blend trees](https://github.com/campfireunion/flipside-creator-tools/pull/250).
 

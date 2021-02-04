@@ -10,8 +10,8 @@ There are several methods of mapping facial expressions:
 2. [[>Simplified blend shape mapping]] - Blend shape mapping with only one shape for lip syncing representing an open mouth state. Great for Muppet-style animation!
 3. [[>Texture mapping]] - Maps lip syncing to a series of textures that represent your character's face in that position. Great for that classic cartoon feel!
 4. [[>Combo-texture mapping]] - Maps lip syncing to a series of textures that represent your character's mouth being open or closed, happy/sad/surprised/angry expressions, and eyes open/closed.
-5. [[>Animation mapping]] - Maps lip syncing to layers in a Unity animation controller. This allows you to animate any serializable fields in your character. This allows much more complex animation systems such as face bones, enabled/disabled objects, and particle systems.
-6. [[>AnimationParameters mapping]] - Maps lip syncing to Unity's AnimationParameters for more flexible control over how animations are applied.
+5. [[>Animation mapping]] - Maps lip syncing to layers in a Unity [animation controller](https://docs.unity3d.com/Manual/AnimationOverview.html). This allows you to animate any serializable fields in your character. This allows much more complex animation systems such as face bones, enabled/disabled objects, and particle systems.
+6. [[>Animation parameters mapping]] - Maps lip syncing to Unity [animation parameters](https://docs.unity3d.com/Manual/AnimationParameters.html) for more flexible control over how animations are applied.
 
 ## Combining multiple mappings together
 

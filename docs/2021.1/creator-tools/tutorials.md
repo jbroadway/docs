@@ -9,7 +9,7 @@ The following pages are meant to help guide you through implementing specific as
      * [[> Mapping facial expressions / Texture mapping]]
      * [[> Mapping facial expressions / Combo texture mapping]]
      * [[> Mapping facial expressions / Animation mapping]]
-     * [[> Mapping facial expressions / AnimationParameters mapping]]
+     * [[> Mapping facial expressions / Animation parameters mapping]]
   * [[> Changing the scale of a character ]]
   * [[> Generating colliders on characters ]]
   * [[> Adding movement to hair, cloth, and tails ]]
