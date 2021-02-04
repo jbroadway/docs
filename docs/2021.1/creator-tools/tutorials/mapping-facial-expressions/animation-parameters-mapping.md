@@ -24,7 +24,7 @@ This method is similar to the [[:animation mapping]], but instead of mapping to 
 
 6\. Click on the parameters tab then click the **+** icon and select **Float** to create new animation parameters.
 
-> Note: Only animation parameters of the type **Float** are supported.
+> Note: Only animation parameters of the type **Float** are supported because the facial expression data is a series of floating point numbers.
 
 7\. Select the root object of your character and scroll down in the Inspector pane to find your **Facial Expression Reference** component. Enter the name of the corresponding animation parameter for each of the expression input fields.
 
