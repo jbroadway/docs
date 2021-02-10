@@ -12,13 +12,13 @@ Your Flipside creator account lets you upload custom props and other functionali
 
 ## Third party tools
 
-### Open Broadcaster Software
+#### Open Broadcaster Software
 
 Flipside uses [OBS Studio](https://obsproject.com/download) and its [obs-websocket](https://github.com/Palakis/obs-websocket/releases) plugin to capture video output, including live streaming to YouTube, Twitch, and others.
 
 For more information, see [[studio / tutorials / recording / editing your show / Setting up OBS Studio]].
 
-### Windows Media Feature Pack
+#### Windows Media Feature Pack
 
 Some versions of Windows don't include all of the necessary video codecs. If you have trouble seeing video playback in the slideshow or tutorial, you may need to install the [Windows Media Feature Pack](https://www.microsoft.com/en-us/software-download/mediafeaturepack).
 

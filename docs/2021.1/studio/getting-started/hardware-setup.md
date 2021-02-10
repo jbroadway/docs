@@ -4,13 +4,13 @@
 
 ## VR setup
 
-Flipside supports the Oculus Rift or Rift S with Touch Controllers. Visit the [Oculus website](https://www.oculus.com/) for more information.
+Flipside supports the Oculus Rift or Rift S with Touch Controllers, or the Oculus Quest with Oculus Link. Visit the [Oculus website](https://www.oculus.com/) for more information.
 
 ## Computer
 
 For specs on a VR compatible computer, see Oculus Ready PCs.
 
-> **Important note:** Flipside has only been tested using Windows 10. If you are on a different version of Windows and encounter issues. Please provide feedback through this link: https://www.flipsidexr.com/community
+> **Important note:** Flipside has only been tested using Windows 10. If you are on a different version of Windows and encounter issues, please [provide feedback here](https://www.flipsidexr.com/community).
 
 ## Business users
 
@@ -24,9 +24,9 @@ Flipside runs on any SteamVR-compatible headset such as the Valve Index or HTC V
 
 ## Computer
 
-For specs on a VR compatible computer, see [Vive Ready PCs](https://www.vive.com/ready/).  
+For specs on a VR compatible computer, see [Vive Ready PCs](https://www.vive.com/ready/).
 
-> **Important note:** Flipside has only been tested using Windows 10. If you are on a different version of Windows and encounter issues. Please provide feedback through this link: https://www.flipsidexr.com/community
+> **Important note:** Flipside has only been tested using Windows 10. If you are on a different version of Windows and encounter issues, please [provide feedback here](https://www.flipsidexr.com/community).
 
 ## Business users
 
