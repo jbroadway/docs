@@ -4,7 +4,7 @@
 
 ## Grabbing objects
 
-To pick up/grab an object or menu item in Flipside, place either hand over the object and **squeeze the grip/lower trigger and index trigger buttons on a controller.**
+To pick up/grab an object or menu item in Flipside, place either hand over the object and **squeeze the grip/lower trigger button on the controller.**
 
 :table
 	![Left controller](https://www.flipsidexr.com/files/docs/graphics/Oculus-touch-alt_L-trigger_L-grip.png)
@@ -16,7 +16,7 @@ To pick up/grab an object or menu item in Flipside, place either hand over the o
 
 ## Selecting an item / using an object
 
-To select a menu item, **let go of the index trigger then squeeze it again** while holding the item. This is the same as using a prop, for example,
+To select a menu item, **squeeze the index trigger** while holding the item. This is the same as using a prop, for example,
 to draw with the magic pencil prop.
 
 :table
