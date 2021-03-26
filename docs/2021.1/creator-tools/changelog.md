@@ -4,11 +4,13 @@
 
 ### Improvements
 
+* Added one-click publishing of characters and sets directly in Unity
 * Added ability to import and convert BVH files exported from Flipside Studio into Unity animations
 * Added new [FaceMirror](https://www.flipsidexr.com/docs/2021.1/creator-tools/references/custom-components/facemirror) component for animating faces on non-characters
 * Added new [AnimationParameters](https://www.flipsidexr.com/docs/2021.1/creator-tools/tutorials/mapping-facial-expressions/animationparameters) face mapping for finer control over animation behaviour
 * Added checkboxes to disable applying SetInfo's lighting and skybox settings in editor so Creator Tools plays nice with custom settings for in-editor renders
 * Added example scene for the [PooledAudioElement](https://www.flipsidexr.com/docs/2021.1/creator-tools/references/custom-components/pooledaudioelement) component
+* Added alternate image setting to [ScreenElement](https://www.flipsidexr.com/docs/2021.1/creator-tools/references/custom-components/screenelement) component to use when there are no slides
 * Added ability for Creator Tools to continue working as a lightweight VR framework in Unity builds (to enable, just add a `FLIPSIDE_CREATOR_TOOLS` build symbol)
 
 ### Bug fixes
