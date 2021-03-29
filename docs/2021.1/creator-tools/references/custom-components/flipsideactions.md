@@ -18,6 +18,17 @@ Slideshow actions include:
 * **ShowNextSlide()** - Show next slide.
 * **ShowPreviousSlide()** - Show previous slide.
 * **ShowFirstSlide()** - Show the first slide.
+* **ShowLastSlide()** - Show the last slide.
+
+Teleprompter actions include:
+
+* **ShowNextTeleprompterPage()* - Show next teleprompter page.
+* **ShowPreviousTeleprompterPage()* - Show previous teleprompter page.
+* **ShowFirstTeleprompterPage()* - Show first teleprompter page.
+* **ShowLastTeleprompterPage()* - Show last teleprompter page.
+* **StartTeleprompterAutoscroll()* - Start teleprompter autoscroll.
+* **StopTeleprompterAutoscroll()* - Stop teleprompter autoscroll.
+* **ToggleTeleprompterAutoscroll()* - Toggle teleprompter autoscroll.
 
 Scene actions include:
 
