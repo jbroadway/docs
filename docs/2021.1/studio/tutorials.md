@@ -3,6 +3,12 @@
 The following pages are meant to help guide you through various aspects of the Flipside Studio software, including making video and motion capture recordings, dressing your virtual sets, and more.
 
 * [[> Video tutorials]]
+  * [[> Video tutorials / User interface]]
+  * [[> Video tutorials / Recording a show]]
+  * [[> Video tutorials / Rendering a show]]
+  * [[> Video tutorials / Exporting motion capture data]]
+  * [[> Video tutorials / Characters]]
+  * [[> Video tutorials / Multiplayer]]
 * [[> Sets]]
 	* [[> Sets / Dressing your set]]
 		* [[> Sets / Dressing your set / Placing objects ]]

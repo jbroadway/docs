@@ -2,6 +2,11 @@
 
 The following pages are meant to help guide you through implementing specific aspects of custom character and set creation using the Flipside Creator Tools plugin for Unity.
 
+* [[> Video tutorials]]
+  * [[> Video tutorials / Characters]]
+  * [[> Video tutorials / Sets]]
+  * [[> Video tutorials / Importing motion capture data into Unity]]
+  * [[> Video tutorials / Flipside plugin for Blender]]
 * [[> Creating a custom character ]]
   * [[> Mapping facial expressions ]]
      * [[> Mapping facial expressions / Blend shape mapping]]
