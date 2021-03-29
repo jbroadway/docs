@@ -22,13 +22,13 @@ Slideshow actions include:
 
 Teleprompter actions include:
 
-* **ShowNextTeleprompterPage()* - Show next teleprompter page.
-* **ShowPreviousTeleprompterPage()* - Show previous teleprompter page.
-* **ShowFirstTeleprompterPage()* - Show first teleprompter page.
-* **ShowLastTeleprompterPage()* - Show last teleprompter page.
-* **StartTeleprompterAutoscroll()* - Start teleprompter autoscroll.
-* **StopTeleprompterAutoscroll()* - Stop teleprompter autoscroll.
-* **ToggleTeleprompterAutoscroll()* - Toggle teleprompter autoscroll.
+* **ShowNextTeleprompterPage()** - Show next teleprompter page.
+* **ShowPreviousTeleprompterPage()** - Show previous teleprompter page.
+* **ShowFirstTeleprompterPage()** - Show first teleprompter page.
+* **ShowLastTeleprompterPage()** - Show last teleprompter page.
+* **StartTeleprompterAutoscroll()** - Start teleprompter autoscroll.
+* **StopTeleprompterAutoscroll()** - Stop teleprompter autoscroll.
+* **ToggleTeleprompterAutoscroll()** - Toggle teleprompter autoscroll.
 
 Scene actions include:
 
