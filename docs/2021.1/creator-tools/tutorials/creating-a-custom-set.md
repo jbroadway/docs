@@ -20,39 +20,34 @@ that make it more useful for you.
 
 ## Creating a new set
 
-1. Create a new scene in Unity by choosing _File > New Scene_.
-2. Add your basic set elements to your new scene. You can also wait and do this after these steps too.
-2. Save your scene file by choosing _File > Save Scenes_. The first time you save your scene you will be asked to choose a file name.
-3. Convert your scene into a Flipside set by choosing _Flipside Creator Tools > Create Set From Current Scene_.
-4. Save your scene again.
+1. Create a new scene in Unity by choosing **File > New Scene**.
+2. Add your basic set elements to your new scene. You can also wait and do this after the remaining steps too.
+3. Save your scene file by choosing **File > Save Scenes**. The first time you save your scene you will be asked to choose a file name.
+4. Convert your scene into a Flipside set by choosing **Flipside Creator Tools > Create Set From Current Scene**.
+5. Save your scene again.
 
-At this point, you should see the **Custom Set** wizard in Unity's Scene window. It contains
-some basic instructions about building and previewing your set, as well as a **Build Set Bundle**
-link.
+At this point, you should have a basic working set that can be published to Flipside Studio or previewed in the Unity editor. To test it out, try pressing play and looking at your set in VR. You can teleport around using your right hand joystick or thumbpad to aim and pressing the index finger trigger to teleport.
 
-![Custom Set wizard](https://www.flipsidexr.com/files/docs/screenshots/custom-set-wizard.png)
+You can also grab and interact with any objects on your set that have a **PropElement** component on them. Just teleport to within reach and grab them using the grab or grip trigger button on your controller.
 
-## Building your set
+## Building and publishing your set
 
-When you're ready to build your set and test it out in Flipside itself, click the **Build Set Bundle**
-button and it will generate a bundle file that you can [upload here](/sets) in your Creator Dashboard.
+When you're ready to build your set and test it out in Flipside Studio, click the **Build & Publish Set**
+button on the Creator Tools wizard. Unity will begin the asset bundle build process, which can takes some time to complete, and may take longer the first time. When the build process has completed,  you'll see a progress bar appear under the **Build & Publish Set** button showing how far along you are in uploading and publishing your set.
 
-After you've built your set bundle the first time, the **Custom Set** wizard options will change to
-**Rebuild Set Bundle** and **Find Set Bundle File**. This second button will locate your set bundle
-in Windows Explorer so you can more easily find it when uploading it to your Creator Dashboard.
+![Flipside Creator Tools - Build & Publish Set](https://www.flipsidexr.com/files/docs/screenshots/Flipside-Creator-Tools-Build-and-Publish-Set-progress.png)
 
-![Custom Set wizard](https://www.flipsidexr.com/files/docs/screenshots/custom-set-wizard-rebuild.png)
+When that's finished, you can find your set in Flipside Studio under the **Imported Sets** button on the far right of the **Sets** menu categories.
 
 ## Customizing your set
 
 There are several aspects of customizing a set, which are broken down into the following sections:
 
-### Set name and attribution
+### Set name, attribution, and thumbnail
 
-Click on the root object of your set in the **Hierarchy** window and over in the **Inspector** window
-you'll see the **Set Info** component. Here you can change the name of your set, as well as settings
-like attribution and lighting. The set name and attribution fields are displayed on the set's card
-in the Sets palette in Flipside Studio.
+Click on the root object of your set in the **Hierarchy** window and over in the **Inspector** window you'll see the **Set Info** component. Here you can change the name of your set, as well as settings like attribution and lighting.
+
+The set name, attribution, and thumbnail image fields are displayed on the set's card in the Sets palette in Flipside Studio.
 
 ### Teleport area
 
@@ -76,8 +71,7 @@ For more info, see [[: setting up your teleporter area ]].
 
 ### Interactive elements
 
-The Flipside Creator Tools also let you add many kinds of interactive elements to your sets. Take a look
-at the following pages for info on adding interactivity to your sets:
+The Flipside Creator Tools also let you add many kinds of interactive elements to your sets. Take a look at the following pages for info on adding interactivity to your sets:
 
 * [[: Creating interactions with props and event triggers]]
 * [[: Building interactions with a scoring system]]
@@ -134,7 +128,7 @@ affects how intense the ambient lighting should appear.
 > automatically override the settings found in the **Lighting** window on import into Flipside Studio,
 > and when you press **Play** to preview your set.
 
-### Showing objects to actors but not to cameras
+### Showing objects to actors but hiding them from cameras
 
 If you want to use an object as an invisible reference for actors that stays invisible to cameras, you
 can [change its layer](https://docs.unity3d.com/Manual/Layers.html) to be on the **UI** layer.

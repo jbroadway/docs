@@ -30,34 +30,49 @@ This version requires **Unity 2019.2.11f1** (downloads: [Windows](https://unity3
 3. Open Unity and create a new 3D project. The same project can be used to create all of your custom characters and sets.
 4. Import the Flipside Creator Tools package from step 2 by choosing _Assets > Import
    Package > Custom Package_ in the Unity application menu.
-5. After installing the Unity package, navigate to _Flipside Creator Tools > Open Creator Tools_ to open the Creator Tools wizard. You can dock this window anywhere you like in the editor.
-6. Navigate to _Window > Package Manager_ and install either the **Oculus Desktop** or **OpenVR (Desktop)** package, depending on your VR headset. This will let you press Play and preview/test your characters and sets in VR.
+5. Navigate to **Window > Package Manager** and install either the **Oculus Desktop** or **OpenVR (Desktop)** package, depending on your VR headset. This will let you press Play and preview/test your characters and sets in VR.
+6. After installing the Unity package, navigate to **Flipside Creator Tools > Open Creator Tools** to open the Creator Tools wizard. You can dock this window anywhere you like in the editor.
 
-![Flipside Creator Tools - Set Flipside Creator ID](https://www.flipsidexr.com/files/docs/screenshots/flipside-creator-tools-enter-id.png)
+## Signing into your Flipside account
 
-> **Note:** To obtain a Flipside Creator ID, install and launch Flipside Studio through Oculus Home or SteamVR and enter your email address to register for an account.
+> **Note:** To create a Flipside account, install and launch [Flipside Studio](https://www.flipsidexr.com/get-flipside) through Oculus Home or SteamVR and enter your email address to register for an account.
+
+![Flipside Creator Tools - Sign Into Flipside Account](https://www.flipsidexr.com/files/docs/screenshots/Flipside-Creator-Tools-Sign-Into-Flipside-Account-from-Creator-Tools-window.png)
+
+1. Click the **Sign Into Flipside Account** button in the Creator Tools wizard, or navigate to **Flipside Creator Tools > Sign Into Flipside Account** in the top-level menu.
+2. Enter the email address and password associated with your Flipside account in the sign in popup window and click **Sign In**.
+
+You should now be ready to begin using the Flipside Creator Tools to publish custom characters and sets into your Flipside account.
+
+## User interface
+
+The Flipside Creator Tools user interface is primarily made up of 3 elements:
+
+### 1. The Flipside Creator Tools menu
+
+![Flipside Creator Tools menu](https://www.flipsidexr.com/files/docs/screenshots/Flipside-Creator-Tools-Sign-Into-Flipside-Account-from-menu.png)
+
+### 2\. The Flipside Creator Tools wizard
+
+The Flipside Creator Tools wizard can be opened via **Flipside Creator Tools > Open Creator Tools** in the above menu. Here is where you can build and publish your custom characters and sets.
+
+![Flipside Creator Tools wizard](https://www.flipsidexr.com/files/docs/screenshots/Flipside-Creator-Tools-set-menu.png)
+
+### 3\. Various custom components
+
+Flipside Creator Tools includes dozens of custom components that can be used to build interactivity into your custom characters and sets. These are modified by selecting them in the **Hierarchy** window and editing their settings in the **Inspector** window.
+
+These include components like [AvatarModelReferences](/docs/2021.1/creator-tools/references/custom-components/avatarmodelreferences) for configuring custom characters, [SetInfo](/docs/2021.1/creator-tools/references/custom-components/setinfo) for configuring custom sets, and [many more](/docs/2021.1/creator-tools/references/custom-components).
+
+## Examples
+
+You can find example scenes and documentation to help you get started under the **Assets/FlipsideCreatorTools/Examples** and **Assets/FlipsideCreatorTools/Documentation** folders in Unity once you've imported the package. Double click the example scenes to open them and see how things are set up.
 
 ## Upgrading
 
 First, always make sure you're still on the correct version of Unity. If not, it's always a good idea to make a backup of your project before upgrading Unity, in case you need to go back.
 
-To upgrade to a new version of the Flipside Creator Tools, download the latest version and import it into your Unity project via _Assets > Import Package > Custom Package_ in the Unity application menu.
-
-## Setting your Flipside Creator ID
-
-1. Click the **Continue** button in the **Set Flipside Creator ID** wizard. This will open the **FlipsideSettings** object in Unity's **Inspector** pane.
-2. Click the **Find My ID Online** button to be taken to
-   your Flipside Creator profile, where you will see your **Flipside Creator ID** in
-   your profile info. _Note: You may need to log in to see your profile info._
-3. Click on your **Flipside Creator ID** on your profile page to copy it to your
-   clipboard, then paste it into the **Flipside Creator ID** field in the **Inspector**
-   pane.
-
-You should now be ready to begin using the Flipside Creator Tools.
-
-## Examples
-
-You can find example scenes and documentation to help you get started under the `Assets/FlipsideCreatorTools/Examples` and `Assets/FlipsideCreatorTools/Documentation` folders in Unity once you've imported the package. Double click the example scenes to open them and see how things are set up.
+To upgrade to a new version of the Flipside Creator Tools, download the latest version and import it into your Unity project via **Assets > Import Package > Custom Package** in the Unity application menu.
 
 ---
 
