@@ -1,5 +1,13 @@
 # Flipside Creator Tools Changelog
 
+## 2021.1.1-stable
+
+### Improvements
+
+* Added example set for the new TeleprompterElement
+* Added lineHeight property to TeleprompterElement to fine-tune autoscrolling
+* Added bent elbow settings to AvatarModelReferences
+
 ## 2021.1.0-stable
 
 ### Improvements

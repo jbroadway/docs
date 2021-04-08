@@ -1,5 +1,16 @@
 # Flipside Studio Changelog
 
+## 2021.1.1-stable
+
+### Bug fixes
+
+* Fixed issue with characters without fingers becoming unable to grab
+* Fixed issue with seats not calculating distance from torso to head correctly
+* Fixed issue with seats not positioning correctly in playback
+* Fixed issue preventing "no" option from being selected in Delete Setup confirmation
+* Reduced collider size on controllers for more accurate menu interactions
+* Fixed floor mark under actor marks and poses from appearing on camera in set builder mode
+
 ## 2021.1.0-stable
 
 ### Improvements
