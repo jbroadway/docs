@@ -7,6 +7,11 @@
 * Added example set for the new TeleprompterElement
 * Added lineHeight property to TeleprompterElement to fine-tune autoscrolling
 * Added bent elbow settings to AvatarModelReferences
+* Added option to build bundles without publishing for easier sharing
+
+### Bug fixes
+
+* Fixed issue preventing building if characters have lights attached
 
 ## 2021.1.0-stable
 
