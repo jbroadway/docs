@@ -4,6 +4,11 @@
 
 Check back here to learn about all the latest changes to Flipside.
 
+**2021.1.2-stable**<br>
+<span>[Studio Changelog](/docs/2021.1/studio/changelog#202112-stable) &middot; [Creator Tools Changelog](/docs/2021.1/creator-tools/changelog#202112-stable)</span><br>
+<small>April 15, 2021</small><br>
+Fixes puppeteering bug causing the character to disappear from cameras.
+
 **2021.1.1-stable**<br>
 <span>[Studio Changelog](/docs/2021.1/studio/changelog#202111-stable) &middot; [Creator Tools Changelog](/docs/2021.1/creator-tools/changelog#202111-stable)</span><br>
 <small>April 8, 2021</small><br>

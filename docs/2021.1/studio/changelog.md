@@ -1,5 +1,11 @@
 # Flipside Studio Changelog
 
+## 2021.1.2-stable
+
+### Bug fixes
+
+* Fixed puppet mode causing character to disappear on camera
+
 ## 2021.1.1-stable
 
 ### Bug fixes
