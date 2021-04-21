@@ -4,6 +4,11 @@
 
 Check back here to learn about all the latest changes to Flipside.
 
+**2021.1.3-stable**<br>
+<span>[Studio Changelog](/docs/2021.1/studio/changelog#202113-stable) &middot; [Creator Tools Changelog](/docs/2021.1/creator-tools/changelog#202113-stable)</span><br>
+<small>April 22, 2021</small><br>
+Fixes an issue with calibrating with Vive trackers then calibrating again without.
+
 **2021.1.2-stable**<br>
 <span>[Studio Changelog](/docs/2021.1/studio/changelog#202112-stable) &middot; [Creator Tools Changelog](/docs/2021.1/creator-tools/changelog#202112-stable)</span><br>
 <small>April 15, 2021</small><br>

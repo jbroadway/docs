@@ -1,5 +1,11 @@
 # Flipside Studio Changelog
 
+## 2021.1.3-stable
+
+### Bug fixes
+
+* Fixed an issue with calibrating with Vive trackers then calibrating again without
+
 ## 2021.1.2-stable
 
 ### Bug fixes
