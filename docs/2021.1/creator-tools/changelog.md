@@ -2,7 +2,9 @@
 
 ## 2021.1.3-stable
 
-No changes. Version bump to maintain parity across apps.
+### Bug fixes
+
+* Removed timeout limit when publishing characters and sets
 
 ## 2021.1.2-stable
 

@@ -4,6 +4,7 @@
 
 ### Bug fixes
 
+* Fixed an issue with exporting finger movements
 * Fixed an issue with calibrating with Vive trackers then calibrating again without
 
 ## 2021.1.2-stable
