@@ -1,5 +1,12 @@
 # Flipside Studio Changelog
 
+## 2021.1.4-stable
+
+### Improvements
+
+* Upgraded server-based multiplayer to the faster Normcore 2
+* Minor performance improvements
+
 ## 2021.1.3-stable
 
 ### Bug fixes

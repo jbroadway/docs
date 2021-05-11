@@ -1,5 +1,9 @@
 # Flipside Creator Tools Changelog
 
+## 2021.1.4-stable
+
+No changes. Version bump to maintain parity across apps.
+
 ## 2021.1.3-stable
 
 ### Bug fixes

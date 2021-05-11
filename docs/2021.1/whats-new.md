@@ -4,6 +4,11 @@
 
 Check back here to learn about all the latest changes to Flipside.
 
+**2021.1.4-stable**<br>
+<span>[Studio Changelog](/docs/2021.1/studio/changelog#202114-stable) &middot; [Creator Tools Changelog](/docs/2021.1/creator-tools/changelog#202114-stable)</span><br>
+<small>May 11, 2021</small><br>
+Upgraded server-based multiplayer to the faster Normcore 2, minor performance improvements.
+
 **2021.1.3-stable**<br>
 <span>[Studio Changelog](/docs/2021.1/studio/changelog#202113-stable) &middot; [Creator Tools Changelog](/docs/2021.1/creator-tools/changelog#202113-stable)</span><br>
 <small>April 22, 2021</small><br>
