@@ -1,5 +1,11 @@
 # Flipside Studio Changelog
 
+## 2021.1.5-stable
+
+### Bug fixes
+
+* Fixed a regression causing second screen output to be 720 instead of 1080
+
 ## 2021.1.4-stable
 
 ### Improvements

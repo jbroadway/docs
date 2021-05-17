@@ -4,6 +4,11 @@
 
 Check back here to learn about all the latest changes to Flipside.
 
+**2021.1.5-stable**<br>
+<span>[Studio Changelog](/docs/2021.1/studio/changelog#202115-stable) &middot; [Creator Tools Changelog](/docs/2021.1/creator-tools/changelog#202115-stable)</span><br>
+<small>May 18, 2021</small><br>
+Fixed a regression causing second screen output to be 720 instead of 1080 resolution.
+
 **2021.1.4-stable**<br>
 <span>[Studio Changelog](/docs/2021.1/studio/changelog#202114-stable) &middot; [Creator Tools Changelog](/docs/2021.1/creator-tools/changelog#202114-stable)</span><br>
 <small>May 11, 2021</small><br>
