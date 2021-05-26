@@ -4,6 +4,11 @@
 
 Check back here to learn about all the latest changes to Flipside.
 
+**2021.1.6-stable**<br>
+<span>[Studio Changelog](/docs/2021.1/studio/changelog#202116-stable) &middot; [Creator Tools Changelog](/docs/2021.1/creator-tools/changelog#202116-stable)</span><br>
+<small>May 27, 2021</small><br>
+Fixed compatibility issues with Windows Mixed Reality headsets through SteamVR, and changed the menu show/hide for Oculus users on SteamVR to a joystick press since SteamVR overrides the menu button.
+
 **2021.1.5-stable**<br>
 <span>[Studio Changelog](/docs/2021.1/studio/changelog#202115-stable) &middot; [Creator Tools Changelog](/docs/2021.1/creator-tools/changelog#202115-stable)</span><br>
 <small>May 18, 2021</small><br>

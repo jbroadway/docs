@@ -1,5 +1,12 @@
 # Flipside Studio Changelog
 
+## 2021.1.6-stable
+
+### Bug fixes
+
+* Fixed compatibility issues with Windows Mixed Reality headsets through SteamVR
+* Changed the menu show/hide for Oculus users on SteamVR to a joystick press since SteamVR overrides the menu button
+
 ## 2021.1.5-stable
 
 ### Bug fixes
