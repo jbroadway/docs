@@ -1,5 +1,11 @@
 # Flipside Studio Changelog
 
+## 2021.1.7-stable
+
+### Bug fixes
+
+* Fixed an input issue preventing selection of characters and sets when using Oculus via SteamVR
+
 ## 2021.1.6-stable
 
 ### Bug fixes

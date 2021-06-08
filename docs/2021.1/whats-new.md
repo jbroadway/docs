@@ -4,6 +4,11 @@
 
 Check back here to learn about all the latest changes to Flipside.
 
+**2021.1.7-stable**<br>
+<span>[Studio Changelog](/docs/2021.1/studio/changelog#202117-stable) &middot; [Creator Tools Changelog](/docs/2021.1/creator-tools/changelog#202117-stable)</span><br>
+<small>June 8, 2021</small><br>
+Fixed an input issue preventing selection of characters and sets when using Oculus via SteamVR.
+
 **2021.1.6-stable**<br>
 <span>[Studio Changelog](/docs/2021.1/studio/changelog#202116-stable) &middot; [Creator Tools Changelog](/docs/2021.1/creator-tools/changelog#202116-stable)</span><br>
 <small>May 27, 2021</small><br>
