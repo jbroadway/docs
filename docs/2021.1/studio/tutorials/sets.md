@@ -8,9 +8,12 @@
 	* [[> Dressing your set / Skies ]]
 	* [[> Dressing your set / Saving your setups ]]
 * [[> Show tools ]]
-	* [Video camera](/docs/2021.1/studio/tutorials/sets/show-tools#video-camera)
-	* [Preview monitors](/docs/2021.1/studio/tutorials/sets/show-tools#preview-monitors)
-	* [Teleprompter](/docs/2021.1/studio/tutorials/sets/show-tools#teleprompter)
+	* [[> Show tools / Video camera]]
+	* [[> Show tools / Preview monitors]]
+	* [[> Show tools / Teleprompter]]
+	* [[> Show tools / Actor marks]]
+	* [[> Show tools / Twitch chat]]
+	* [[> Show tools / Desktop mirror]]
 * [[> Interactive props ]]
 	* [[> Interactive props / Slideshow ]]
 	* [[> Interactive props / Magic pencil ]]

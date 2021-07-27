@@ -18,9 +18,12 @@ The following pages are meant to help guide you through various aspects of the F
 		* [[> Sets / Dressing your set / Skies ]]
 		* [[> Sets / Dressing your set / Saving your setups ]]
 	* [[> Sets / Show tools ]]
-		* [Video camera](/docs/2021.1/studio/tutorials/sets/show-tools#video-camera)
-		* [Preview monitors](/docs/2021.1/studio/tutorials/sets/show-tools#preview-monitors)
-		* [Teleprompter](/docs/2021.1/studio/tutorials/sets/show-tools#teleprompter)
+		* [[> Sets / Show tools / Video camera]]
+		* [[> Sets / Show tools / Preview monitors]]
+		* [[> Sets / Show tools / Teleprompter]]
+		* [[> Sets / Show tools / Actor marks]]
+		* [[> Sets / Show tools / Twitch chat]]
+		* [[> Sets / Show tools / Desktop mirror]]
 	* [[> Sets / Interactive props ]]
 		* [[> Sets / Interactive props / Slideshow ]]
 		* [[> Sets / Interactive props / Magic pencil ]]

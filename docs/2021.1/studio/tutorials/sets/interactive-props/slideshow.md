@@ -25,39 +25,13 @@ Once your images/video links are added to the Flipside website, select the Show 
 
 ### Controlling the slideshow
 
-The slideshow can be controlled with your headset's controller or by using the slideshow controller prop found in the Show Tools category of the Set Builder palette.
+The slideshow can be controlled with your keyboard or by using the slideshow controller prop found in the Show Tools category of the Set Builder palette.
 
-**To control your slidshow with your headset's controller, use the following buttons:**
+**To control your slidshow with your keyboard:**
 
---- Platform: Oculus ---
+To go to the next image/video in your slideshow, **press the right arrow key.**
 
-:table style="width: 15%"
-	![A](https://www.flipsidexr.com/files/docs/graphics/Oculus-touch_R-a.png)
-:col style="width: 3%"
-	:nbsp
-:col style="width: 87%; vertical-align: middle"
-
-To go to the next image/video in your slideshow, **press the A button.**
-
-:endtable
-
-:table style="width: 15%"
-	![X](https://www.flipsidexr.com/files/docs/graphics/Oculus-touch_L-x.png)
-:col style="width: 3%"
-	:nbsp
-:col style="width: 87%; vertical-align: middle"
-
-To go to the previous image/video in your slideshow, **press the X button.**
-
-:endtable
-
---- Platform: SteamVR ---
-
-To go to the next image/video in your slideshow, **press the right arrow key on your keyboard.**
-
-To go to the previous image/video in your slideshow, **press the left arrow key on your keyboard.**
-
---- /Platform ---
+To go to the previous image/video in your slideshow, **press the left arrow key.**
 
 **To control your slideshow with the slideshow controller prop, follow these steps:**
 
