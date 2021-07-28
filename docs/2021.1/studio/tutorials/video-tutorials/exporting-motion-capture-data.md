@@ -8,6 +8,8 @@ The following tutorial teaches you how to export motion capture data out of Flip
 
 :endtable
 
+> **Please Note:** Your character's armature must have a root bone in order for its motion capture data to be able to be exported correctly. [Here is how you can use Blender to add a root bone to an existing character.](https://blender.stackexchange.com/a/144560)
+
 Next steps:
 
 * [[Creator Tools / Tutorials / Video tutorials / Importing motion capture data into Unity]]
