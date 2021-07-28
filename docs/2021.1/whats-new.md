@@ -4,6 +4,11 @@
 
 Check back here to learn about all the latest changes to Flipside.
 
+**2021.1.8-stable**<br>
+<span>[Studio Changelog](/docs/2021.1/studio/changelog#202118-stable) &middot; [Creator Tools Changelog](/docs/2021.1/creator-tools/changelog#202118-stable)</span><br>
+<small>July 29, 2021</small><br>
+Added a panel version of the desktop mirror that is hidden from cameras, along with a few other bug fixes and minor improvements.
+
 **2021.1.7-stable**<br>
 <span>[Studio Changelog](/docs/2021.1/studio/changelog#202117-stable) &middot; [Creator Tools Changelog](/docs/2021.1/creator-tools/changelog#202117-stable)</span><br>
 <small>June 8, 2021</small><br>

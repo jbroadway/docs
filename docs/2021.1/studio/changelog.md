@@ -1,5 +1,16 @@
 # Flipside Studio Changelog
 
+## 2021.1.8-stable
+
+### Improvements
+
+- Added a panel version of the desktop mirror in Show Tools which is hidden from cameras
+
+### Bug fixes
+
+- Fixed broken teleporter on Oculus via SteamVR via Virtual Desktop
+- Fixed characters failing to load if there was an empty element in their Additional Meshes list
+
 ## 2021.1.7-stable
 
 ### Bug fixes

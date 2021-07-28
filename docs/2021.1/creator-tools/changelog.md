@@ -1,5 +1,15 @@
 # Flipside Creator Tools Changelog
 
+## 2021.1.8-stable
+
+### Improvements
+
+- Added date and time to published message to more easily distinguish when publishing incremental changes
+
+### Bug fixes
+
+- Improved error handling to handle more cases where publishing assets may fail
+
 ## 2021.1.7-stable
 
 No changes. Version bump to maintain parity across apps.
