@@ -6,7 +6,7 @@ Properties you can control through the Audience component include:
 
 * **Positions** - An optional list of positions that the audience may appear at in the scene and move between.
 * **Seats** - An optional list of overridden seat positions within the audience area. If left empty, a default set of positions will be generated automatically.
-* **Align Seats By* - Whether to align the users to the seat positions by their current head position or by their VR play area. Play area is useful in cases where the experience is designed for standing instead of sitting.
+* **Align Seats By** - Whether to align the users to the seat positions by their current head position or by their VR play area. Play area is useful in cases where the experience is designed for standing instead of sitting.
 
 Additionally, you can trigger the following methods on the Audience component from Unity events:
 
