@@ -12,6 +12,17 @@ Characters may use the following components:
 
 * DynamicBone
 * DynamicBoneCollider
+* MagicaCloth.MagicaBoneCloth
+* MagicaCloth.MagicaBoneSpring
+* MagicaCloth.AutoMove
+* MagicaCloth.AutoRotate
+* MagicaCloth.MagicaMeshCloth
+* MagicaCloth.MagicaMeshSpring
+* MagicaCloth.MagicaPlaneCollider
+* MagicaCloth.MagicaDirectionalWind
+* MagicaCloth.MagicaAvatar
+* MagicaCloth.MagicaSphereCollider
+* MagicaCloth.MagicaCapsuleCollider
 * ONSPAudioSource
 * TMPro.TMP_SubMesh
 * TMPro.TextMeshPro
@@ -52,14 +63,25 @@ Characters may use the following components:
 
 :col
 
-### Sets
+### Sets and prop kits
 
-Sets may use the following components:
+Sets and prop kits may use the following components:
 
 * Cinemachine.CinemachineBrain
 * Cinemachine.CinemachineVirtualCamera
 * DynamicBone
 * DynamicBoneCollider
+* MagicaCloth.MagicaBoneCloth
+* MagicaCloth.MagicaBoneSpring
+* MagicaCloth.AutoMove
+* MagicaCloth.AutoRotate
+* MagicaCloth.MagicaMeshCloth
+* MagicaCloth.MagicaMeshSpring
+* MagicaCloth.MagicaPlaneCollider
+* MagicaCloth.MagicaDirectionalWind
+* MagicaCloth.MagicaAvatar
+* MagicaCloth.MagicaSphereCollider
+* MagicaCloth.MagicaCapsuleCollider
 * NewtonVR.NVRSnappable
 * ONSPAudioSource
 * TMPro.TMP_SubMesh
@@ -122,7 +144,7 @@ Sets may use the following components:
 ### Unsupported components
 
 If you have a component you think we should include in our whitelist, let us know on our
-[Flipside community forum](https://www.flipsidecommunity.com/forum).
+[Discord community](https://discord.com/invite/S2TX7HR).
 
 ---
 

@@ -2,40 +2,28 @@
 
 This page covers how to install, setup, and upgrade the Flipside Creator Tools in order to import your own characters and sets into Flipside Studio.
 
-## [Download Flipside Creator Tools 2021.1.8-stable](https://www.flipsidexr.com/files/downloads/FlipsideCreatorTools-2021.1.8-stable.unitypackage)
+## [Download Unity 2019.4.31](https://unity3d.com/unity/whats-new/2019.4.31)
 
-**Note:** The Flipside Creator Tools require a specific version of Unity in order to work properly in Flipside Studio.
-Please install **Unity 2019.2.11f1** from one of these download links:
+**Important:** Flipside Creator Tools require a specific version of Unity in order to work properly in Flipside Studio.
 
-- [Unity 2019.2.11f1 for Windows](https://unity3d.com/get-unity/download?thank-you=update&download_nid=63169&os=Win)
-- [Unity 2019.2.11f1 for Mac](https://unity3d.com/get-unity/download?thank-you=update&download_nid=63169&os=Mac)
+## [Download Flipside Creator Tools 2022.1.0-stable](https://www.flipsidexr.com/files/downloads/FlipsideCreatorTools-2022.1.0-stable.unitypackage)
 
-Please see [[Creator Tools / Tutorials / upgrading your characters and sets to Unity 2019]] for instructions on upgrading assets made in Unity 2017.
-
-<!--
-### Beta version
-
-Use this version if you opted into the [Flipside Studio Beta](https://www.flipsidexr.com/beta-signup).
-
-* **[Flipside Creator Tools 2020.2.0-beta1](https://www.flipsidexr.com/files/downloads/FlipsideCreatorTools-2020.2.0-beta1.unitypackage)**
-
-This version requires **Unity 2019.2.11f1** (downloads: [Windows](https://unity3d.com/get-unity/download?thank-you=update&download_nid=63169&os=Win), [Mac](https://unity3d.com/get-unity/download?thank-you=update&download_nid=63169&os=Mac)).
--->
+If you're upgrading an existing Flipside Creator Tools project from an older version of Unity, always be sure to **back up your project before upgrading.**
 
 ## Installation
 
-1. Download and install the correct version of Unity that matches the version of the Flipside Creator Tools above.<br>
-   _Note: If you're not on Windows, at the **Choose Components** selection of the installation make sure you choose **Windows Build Support**._
+1. Download and install the version of Unity found at the above link.<br>
+   _Note: At the **Choose Components** selection of the installation, make sure you choose **Android Build Support** and **Windows Build Support** in order to build assets for both Quest and PCVR._
 2. Download the latest version of the Flipside Creator Tools.
-3. Open Unity and create a new 3D project. The same project can be used to create all of your custom characters and sets.
-4. Import the Flipside Creator Tools package from step 2 by choosing _Assets > Import
-   Package > Custom Package_ in the Unity application menu.
-5. Navigate to **Window > Package Manager** and install either the **Oculus Desktop** or **OpenVR (Desktop)** package, depending on your VR headset. This will let you press Play and preview/test your characters and sets in VR.
+3. Open Unity and create a new 3D project. The same project can be used to create multiple characters and sets or you can split them up into multiple projects which makes building and publishing individual character and set changes a little faster.
+4. Import the Flipside Creator Tools package from step 2 by choosing **Assets > Import
+   Package > Custom Package** in the Unity application menu.
+5. Navigate to **Window > Package Manager** in Unity and install either the **Oculus Desktop** or **OpenVR (Desktop)** package, depending on your VR headset. This will let you press Play and preview/test your characters and sets in VR.
 6. After installing the Unity package, navigate to **Flipside Creator Tools > Open Creator Tools** to open the Creator Tools wizard. You can dock this window anywhere you like in the editor.
 
 ## Signing into your Flipside account
 
-> **Note:** To create a Flipside account, install and launch [Flipside Studio](https://www.flipsidexr.com/get-flipside) through Oculus Home or SteamVR and enter your email address to register for an account.
+To create a Flipside account, you need to install and launch [Flipside Studio](https://www.flipsidexr.com/get-flipside) through Oculus Home or SteamVR and enter your email address to register for an account.
 
 ![Flipside Creator Tools - Sign Into Flipside Account](https://www.flipsidexr.com/files/docs/screenshots/Flipside-Creator-Tools-Sign-Into-Flipside-Account-from-Creator-Tools-window.png)
 
