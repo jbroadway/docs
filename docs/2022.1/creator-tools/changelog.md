@@ -1,5 +1,18 @@
 # Flipside Creator Tools Changelog
 
+## 2022.1.0-stable
+
+### Improvements
+
+- Adds support for building Android-compatible bundles for custom assets.
+- Prop kits add the ability to build kits of custom props with interactive elements in Unity.
+- VideoElement enables embedding videos in sets, with fully automatable controls.
+- ObsElement enables OBS scene switching from actions in sets.
+- OscElement enables control of scene automation through external OSC-compatible controllers.
+- Added support for Magica Cloth for better performance of cloth and hair physics.
+- Many new methods on FlipsideActions for controlling muting and other things.
+- More example scenes that demonstrate how to use various custom components.
+
 ## 2021.1.8-stable
 
 ### Improvements
