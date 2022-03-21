@@ -1,11 +1,10 @@
 # Creating a custom set
 
-Once you have the [Flipside Creator Tools](/docs/2021.1/creator-tools) installed and set up,
-here are the steps to create a custom set for your Flipside shows.
+Once you have the [Flipside Creator Tools](/docs/2021.1/creator-tools) installed and set up, here are the steps to create a custom set for your Flipside shows.
 
 ## Overview
 
-Sets in Flipside start as scenes in the Unity game engine. You are free to use just about
+Sets start as scenes in the Unity game engine. You are free to use just about
 any Unity features in your sets, including custom 3D models, textures, materials, shaders,
 even automatically triggered animations and sounds.
 

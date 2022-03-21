@@ -27,4 +27,5 @@ The following pages are meant to help guide you through implementing specific as
   * [[> Triggering Flipside actions]]
   * [[> Creating chairs and teleport targets]]
   * [[> Creating eye targets]]
+* [[> Creating a custom prop kit]]
 <!-- * [[> Using Flipside Creator Tools with the Unity Recorder]] -->
