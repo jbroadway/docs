@@ -10,7 +10,7 @@ Camera settings are saved in their latest state, but it can be easy to accidenta
 
 > Note: When a recording is loaded, loading a different saved setup will only replace the cameras and leave the props as they are in the recording. This can be used to save multiple camera setups for the same recorded scene.
 
-## Camera switchers
+## Camera switcher
 
 Flipside Studio lets you switch cameras from either inside or outside of VR. The desktop camera switcher is also where you can access settings like the ones described below.
 

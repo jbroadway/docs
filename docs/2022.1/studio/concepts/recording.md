@@ -10,9 +10,9 @@ For video capture, Flipside Studio integrates with several third party tools inc
 
 For motion capture, Flipside Studio combines motion capture data with several other elements into its own custom file format. The data recorded in a Flipside Studio recording includes:
 
-* Motion capture data for up to 5 actors at the same time
-* Microphone audio for up to 5 actors
-* Lip sync and facial expression data for up to 5 actors
+* Motion capture data for up to 10 actors at the same time
+* Microphone audio for up to 10 actors
+* Lip sync and facial expression data for up to 10 actors
 * Interactions with props in the set
 * Playback of interactive set elements, such as slideshows, drawings, guns firing, and other effects
 * Unity audio, animations, and timelines built into the set
@@ -34,7 +34,7 @@ Additionally, Flipside Studio records lip sync data that it derives from analyzi
 
 ## Recording multiple users
 
-Flipside Studio can record scenes with up to 5 users simultaneously, and extra parts can be added after the fact as well by overdubbing roles over existing motion capture recordings.
+Flipside Studio can record scenes with up to 10 users simultaneously, and extra parts can be added after the fact as well by overdubbing roles over existing motion capture recordings.
 
 The real benefit of Flipside Studio comes as a result of recording motion capture while the actors are immersed in the virtual sets. This lets actors see themselves and each other at the correct scale of their characters.
 

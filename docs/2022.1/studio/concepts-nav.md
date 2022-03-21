@@ -7,6 +7,7 @@
   * [[Studio / Concepts / Recording]]
   * [[Studio / Concepts / Cameras]]
   * [[Studio / Concepts / Multiplayer]]
+  * [[Studio / Concepts / Projects]]
 * [[Studio / Tutorials]]
 * [[Studio / References]]
 * [[What's new]]

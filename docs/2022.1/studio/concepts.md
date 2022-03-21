@@ -11,3 +11,4 @@ Use these links to explore the different concepts used in Flipside Studio.
 * [[> Recording]]
 * [[> Cameras]]
 * [[> Multiplayer]]
+* [[> Projects]]
