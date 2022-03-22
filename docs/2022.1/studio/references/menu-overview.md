@@ -1,86 +1,97 @@
 # Menu overview
 
-## Floating palette menu
+## Main menu
 
-Flipside's main menu interface is a floating palette. You can grab the palette on either
-side to move it where you want and it will stay there when you let go, and it will keep itself
-within reach as you move and teleport around your sets.
+--- Platform: Quest ---
 
-![Floating palette menu](https://www.flipsidexr.com/files/docs/screenshots/palette-menu.png)
+Flipside Studio's main entry point into its menus is through the main menu, which can be opened and closed by pressing the **A or X button** on your controller.
 
-## Modes
+--- Platform: Oculus ---
 
-The main menu is found along the bottom of the floating palette menu.
+Flipside Studio's main entry point into its menus is through the main menu, which can be opened and closed by pressing the **A or X button** on your controller.
 
-From left-to-right, the options include:
+--- Platform: SteamVR ---
 
-:table style="width: 25%"
+Flipside Studio's main entry point into its menus is through the main menu, which can be opened and closed by pressing the **application menu button** on either controller.
 
-![Record icon](https://www.flipsidexr.com/files/docs/graphics/button_w-record.png)
+--- /Platform ---
 
-:col style="width: 75%"
+**----- INSERT GRAPHIC OF MAIN MENU -----**
 
-### Recordings palette
+The main menu appears in front of your hand but is not attached to it so it doesn't cause strain from prolonged use. It is broken up into three sections:
 
-Go here to record and watch your shows. See [[Recording a show]].
+:table
 
-:endtable
+### Top row
 
-:table style="width: 25%"
+- All Projects
+- Current Project
+- Help
 
-![Characters icon](https://www.flipsidexr.com/files/docs/graphics/button_w-characters.png)
+:col
 
-:col style="width: 75%"
+### Bottom left
 
-### Characters palette
+- Recordings
+- Characters
+- Sets
+- Props
+- Multiplayer
+- Dashboard
 
-Your show will need characters. We have characters you can choose from or you can import
-your own. See [[Characters]].
+:col
 
-For more on importing your own custom characters, see [Flipside Creator Tools](/docs/2021.1/creator-tools) or [contact us](/contact).
+### Bottom right
 
-:endtable
-
-:table style="width: 25%"
-
-![Sets icon](https://www.flipsidexr.com/files/docs/graphics/button_w-sets.png)
-
-:col style="width: 75%"
-
-### Sets palette
-
-This is where you can start a new set or access your saved sets.  When creating a new set you can choose from a set that is dressed and ready to go or start with an empty room.  See [[Sets]].
-
-_**Coming soon:** Importing your own custom sets using the [Flipside Creator Tools](/docs/2021.1/creator-tools)._
+- Puppet
+- Visibility
+- Record / stop recording
+- Camera
+- Camera switcher
+- Teleprompter
 
 :endtable
 
-:table style="width: 25%"
+## Dashboard
 
-![Set builder icon](https://www.flipsidexr.com/files/docs/graphics/button_w-build.png)
+You're presented with the dashboard each time you launch Flipside Studio, and you can recall it at any time from the main menu.
 
-:col style="width: 75%"
+**----- INSERT GRAPHIC OF DASHBOARD -----**
 
-### Set builder palette
+The dashboard provides quick access to the assets you used the last time you were in Flipside Studio, as well as notifications such as multiplayer invites, and a list of your friends who are also online.
 
-This is where you get your set ready to record. Dress your set and position your cameras. See [[Building your set]].
+The dashboard includes the following sections:
 
-:endtable
+- Navigation on the left
+  - Home tab
+  - Settings tab
+- Recently-used assets
+  - Last-opened project
+  - Recent recordings
+  - Last-used character
+  - Last-used set
+- Notifications
+- Who's online
 
-:table style="width: 25%"
+## Panels
 
-![Set builder icon](https://www.flipsidexr.com/files/docs/graphics/button_w-friends.png)
+Each submenu in Flipside Studio is implemented as a floating panel, as shown below.
 
-:col style="width: 75%"
+**----- INSERT GRAPHIC OF ANY PANEL MENU -----**
 
-### Friends palette
+These panels give you access to all aspects of Flipside Studio, such as accessing your motion capture recordings, projects, characters, and more.
 
-Invite your friends to act with you.
+Each panel is broken down into the following sections, from top to bottom:
 
-_**Important note:** This feature is is only available for those who have opted into the multiplayer beta.  You can access the Friends palette, but it’s not functional._
+- Menu title and navigation (back, close)
+- Section title
+- Menu content
+- Pagination
+- Sorting and categories
+- Additional options
 
-:endtable
+The main panel categories such as characters and sets can only be opened one at a time in order to reduce clutter. Other menus such as help and show tools like the teleprompter controller can stay open alongside each other.
 
 ---
 
-Next: [[: Utility belt ]]
+Next: [[: Cameras ]]

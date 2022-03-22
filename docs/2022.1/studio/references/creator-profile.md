@@ -11,31 +11,28 @@ Your Flipside creator profile page includes:
 ## Your Flipside Creator ID
 
 Used to associate the custom characters and sets created through the
-[Flipside Creator Tools](/docs/2021.1/creator-tools) with your account.
-
-## Custom props
-
-Upload your own custom props as 3D models from any program. See [[Building your set / Using your own props / How to import props]].
+[Flipside Creator Tools](/docs/2022.1/creator-tools) with your account.
 
 ## Custom characters
 
-Upload your own custom characters created with the [Flipside Creator Tools](/docs/2021.1/creator-tools).
+Upload your own custom characters created with the [Flipside Creator Tools](/docs/2022.1/creator-tools).
 
 ## Custom sets 
 
-Upload your own custom sets created with the [Flipside Creator Tools](/docs/2021.1/creator-tools).
+Upload your own custom sets created with the [Flipside Creator Tools](/docs/2022.1/creator-tools).
 
-## Slideshow links
+## Custom props
 
-Enter links to photos and videos for use in Flipside's slideshow feature. See [[Studio / Tutorials / Interactive props / Slideshow ]].
+Upload your own custom prop kits created with the [Flipside Creator Tools](/docs/2022.1/creator-tools).
 
-## Teleprompter text
+## Projects
 
-Enter your script for use in Flipside's teleprompter feature. See [Teleprompter](/docs/2021.1/studio/tutorials/show-tools#teleprompter).
+Use the creator portal to add and update slideshow links and teleprompter scripts to your projects.
 
-## Creator community
+## Skies
 
-A place where Flipside creators can report bugs, learn from each other, and share your
-ideas and creations with the community.
+Upload custom skies as 360 panoramic photos and videos.
 
-[https://www.flipsidexr.com/community](https://www.flipsidexr.com/community)
+---
+
+Next: [[: Desktop interface ]]

@@ -1,6 +1,6 @@
 # Video exports
 
-> Note: Exporting data is a paid feature. For more information, visit our [pricing page](/pricing).
+> Note: Exporting data is a Flipside Studio Pro feature. For more information, visit our [pricing page](/pricing).
 
 Flipside Studio supports exporting video via the [[studio / references / desktop interface / video renderer]].
 

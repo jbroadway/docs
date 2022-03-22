@@ -1,14 +1,8 @@
 # Full-body tracking
 
---- Platform: Oculus ---
+> Note: Full-body tracking is only supported on SteamVR in combination with HTC Vive or Valve Index base stations at this time.
 
-> Note: Full-body tracking is only supported on the HTC Vive at this time.
-
---- Platform: SteamVR ---
-
---- /Platform ---
-
-To track your full body, Flipside supports HTC's [Vive Trackers](https://www.vive.com/us/vive-tracker).
+To track your full body, Flipside Studio supports HTC's [Vive Trackers](https://www.vive.com/us/vive-tracker) or compatible trackers.
 These are used to provide additional tracking points for your feet and hips.
 
 The following configurations are supported:
@@ -17,7 +11,7 @@ The following configurations are supported:
 * 3 Vive Trackers: Feet and waist
 
 To use the trackers, you will need to strap or clip them to your feet and waist.
-We recommend the [Rebuff Reality Trackstrap](https://rebuffreality.com/products/trackstrap)
+We recommend the [Rebuff Reality Trackstrap](https://rebuffreality.com/products/trackstrap-trackbelt-plus-vivetracker-fullbodytracking)
 for foot straps.
 
 ## Positioning the trackers
@@ -41,7 +35,7 @@ then under the **Controllers** section choose **Manage Vive Trackers**.
 
 ![Manage Vive Tracker via right-click](https://www.flipsidexr.com/files/docs/screenshots/steamvr/Tracker.png)
 
-2\. Click on the hamburger settings button in the STeamVR window and choose **Settings** from
+2\. Click on the hamburger settings button in the SteamVR window and choose **Settings** from
 the dropdown. In the settings window, make sure that **Controllers** is selected in the
 sections on the left then choose **Manage Vive Trackers**.
 
@@ -61,10 +55,10 @@ part.
 
 ![Identify trackers](https://www.flipsidexr.com/files/docs/screenshots/steamvr/TrackerSettings.png)
 
-Next, launch Flipside Studio and select the **Characters** palette. Grab the palette and
-turn it upside down. Press the **Calibrate** button on the underside of the palette and
-follow the calibration instructions. With the trackers assigned, it will use them in the
-calibration process and they will start working after you finish calibrating.
+Next, launch Flipside Studio and select the **Characters** menu. Click the **Calibrate**
+button along the bottom of the menu and follow the calibration instructions. With the trackers
+assigned, it will use them in the calibration process and they will start working after you
+finish calibrating.
 
 You should now be able to use the Vive trackers for full-body motion capture. If your
 tracker settings haven't changed between sessions, you can skip the SteamVR steps and jump
