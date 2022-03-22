@@ -23,6 +23,5 @@ The following pages include input controls, menu options, supported file formats
   * [[> Settings / General settings]]
   * [[> Settings / Microphone settings]]
   * [[> Settings / Output settings]]
-  * [[> Settings / Other settings]]
 * [[> Slideshow formats]]
 * [[> Tips and tricks]]

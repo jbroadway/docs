@@ -16,7 +16,7 @@ The options on the bottom include:
 * **Play/Stop** - Play or stop playing a loaded take (aka motion capture recording). _Note: Visible only when a take is loaded._
 * **Take Name** - Shows the currently loaded take name and opens the export window. _Note: Visible only when a take is loaded._
 * **Fullscreen** - Hides the desktop interface so you can stream or capture the full screen output.
-* **Ghost Mode** - Changes the in-VR user in and out of [Ghost Mode](/docs/2021.1/studio/references/tips-and-tricks#ghost-mode).
+* **Visibility** - Toggle the visibility of the in-VR user.
 * **Show/Hide UI** - Shows or hides the Flipside Studio user interface from cameras. Useful for recording tutorials or playthroughs.
 * **Settings** - Opens the settings window.
 * **Cut** - Sets the active camera transition to cut from one position to another.
