@@ -22,4 +22,4 @@ Microphone settings include:
 
 ---
 
-Next: [[Studio / References / Settings / Output settings]]
+Next: [[: Output settings]]

@@ -28,4 +28,4 @@ Output settings include:
 
 ---
 
-Next: [[Studio / References / Settings / Other settings]]
+Next: [[: Other settings]]

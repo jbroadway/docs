@@ -19,6 +19,7 @@ The following pages include input controls, menu options, supported file formats
   * [[> Exports / Video exports]]
   * [[> Exports / Audio exports]]
 * [[> Settings]]
+  * [[> Settings / Dashboard settings]]
   * [[> Settings / General settings]]
   * [[> Settings / Microphone settings]]
   * [[> Settings / Output settings]]

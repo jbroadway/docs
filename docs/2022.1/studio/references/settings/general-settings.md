@@ -18,4 +18,4 @@ General settings include:
 
 ---
 
-Next: [[Studio / References / Settings / Microphone settings]]
+Next: [[: Microphone settings]]
