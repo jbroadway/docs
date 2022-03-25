@@ -7,7 +7,7 @@ Flipside Studio's camera system has the following options.
 Each camera has the following features:
 
 - **Focal length** - Adjust the focal length of the camera.
-- **Horiztonal lock** - Lock the camera's rotation to the horizon.
+- **Horizontal lock** - Lock the camera's rotation to the horizon.
 - **Photo** - Switch to photo mode to take still images.
 - **Flip** - Flip the direction the camera is facing.
 
