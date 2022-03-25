@@ -148,4 +148,4 @@ If you have a component you think we should include in our whitelist, let us kno
 
 ---
 
-Next: [[Creator Tools / References / Resources]]
+Next: [[: Best practices]]

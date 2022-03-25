@@ -4,4 +4,5 @@ The following pages include technical references for each component in the Flips
 
 * [[> Custom components]]
 * [[> Whitelist of allowed components]]
+* [[> Best practices]]
 * [[> Resources]]
