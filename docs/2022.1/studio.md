@@ -22,11 +22,11 @@ How to get up and running with Flipside Studio.
 
 :div class="button"
 
-[[> Concepts]]
+[[> How tos]]
 
 :/div
 
-Get a high-level conceptual overview.
+Step-by-step guides to walk you through all the things.
 
 :/div
 
@@ -34,11 +34,11 @@ Get a high-level conceptual overview.
 
 :div class="button"
 
-[[> Tutorials]]
+[[> Concepts]]
 
 :/div
 
-Find tutorials to walk you through what you're looking to do.
+Get a high-level conceptual overview.
 
 :/div
 

@@ -1,6 +1,7 @@
 # Flipside Studio
 
 * [[Studio / Getting started]]
+* [[Studio / How tos]]
 * [[Studio / Concepts]]
   * [[Studio / Concepts / Characters]]
   * [[Studio / Concepts / Props and sets]]
@@ -8,7 +9,6 @@
   * [[Studio / Concepts / Cameras]]
   * [[Studio / Concepts / Multiplayer]]
   * [[Studio / Concepts / Projects]]
-* [[Studio / Tutorials]]
 * [[Studio / References]]
 * [[What's new]]
 * [[Getting help]]

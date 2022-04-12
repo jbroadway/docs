@@ -22,11 +22,11 @@ How to get up and running with Flipside Creator Tools.
 
 :div class="button"
 
-[[> Concepts]]
+[[> Tutorials]]
 
 :/div
 
-Get a high-level conceptual overview.
+Find tutorials to walk you through what you're looking to do.
 
 :/div
 
@@ -34,11 +34,11 @@ Get a high-level conceptual overview.
 
 :div class="button"
 
-[[> Tutorials]]
+[[> Concepts]]
 
 :/div
 
-Find tutorials to walk you through what you're looking to do.
+Get a high-level conceptual overview.
 
 :/div
 

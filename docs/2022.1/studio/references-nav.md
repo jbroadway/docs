@@ -1,8 +1,8 @@
 # Flipside Studio
 
 * [[Studio / Getting started]]
+* [[Studio / How tos]]
 * [[Studio / Concepts]]
-* [[Studio / Tutorials]]
 * [[Studio / References]]
   * [[Studio / References / Controller basics]]
   * [[Studio / References / Menu overview]]

@@ -1,4 +1,28 @@
-# Tutorials
+# How tos
+
+The following pages are meant to help guide you through various aspects of the Flipside Studio software, including making video and motion capture recordings, dressing your virtual sets, and more.
+
+## Motion and scene capture
+
+* [[> How to make a motion capture recording]]
+* [[> How to watch a motion capture recording]]
+* [[> How to record multiple parts at the same time]]
+* [[> How to add parts to an existing motion capture recording]]
+* [[> How to manage your motion capture recordings]]
+
+## Live stream or record your show
+
+* [[> How to take photos in Flipside Studio]]
+* [[> How to record a video in Flipside Studio]]
+* [[> How to live stream from Flipside Studio]]
+* [[> How to control OBS from Flipside Studio]]
+* [[> How to find your photos and videos]]
+
+## Show tools
+
+...
+
+## OLD
 
 The following pages are meant to help guide you through various aspects of the Flipside Studio software, including making video and motion capture recordings, dressing your virtual sets, and more.
 
