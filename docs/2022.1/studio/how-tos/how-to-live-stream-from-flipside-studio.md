@@ -1,14 +1,14 @@
-# How to record a video in Flipside Studio
+# How to live stream from Flipside Studio
 
-Here's how to record video in Flipside Studio.
+Here's how to live stream from Flipside Studio.
 
 --- Platform: Quest ---
 
 ## Requirements
 
-Recording video requires a PC with [OBS Studio](https://obsproject.com/) installed.
+Live streaming requires a PC with [OBS Studio](https://obsproject.com/) installed and configured to stream to your platform of choice.
 
-## Recording videos
+## Live streaming
 
 **Step 1.** Launch Flipside Studio on your Quest.
 
@@ -20,9 +20,9 @@ Recording video requires a PC with [OBS Studio](https://obsproject.com/) install
 
 **Step 5.** Launch OBS Studio on your PC and add a **Window Capture** source to capture your browser window. Adjust the window capture area so that Flipside Studio's camera output properly fills the window capture area.
 
-**Step 6.** Click **Start Recording** in OBS to start recording video.
+**Step 6.** Click **Start Streaming** in OBS to start live streaming.
 
-**Step 7.** When you're done recording, click **Stop Recording** in OBS.
+**Step 7.** When you're done live streaming, click **Stop Streaming** in OBS.
 
 --- Platform: Oculus ---
 
@@ -44,7 +44,7 @@ Click on the gear icon for the **Mic/Aux** audio source and enter **120** into t
 
 **Step 6.** Adjust the window capture area so that Flipside Studio's camera output properly fills the window capture area.
 
-## Recording videos
+## Live streaming
 
 **Step 1.** Press the menu button on either controller and choose **Camera Switcher** from the main menu.
 
@@ -52,9 +52,9 @@ Click on the gear icon for the **Mic/Aux** audio source and enter **120** into t
 
 **Step 3.** On the camera switcher, click **Connect** to connect to OBS.
 
-**Step 4.** On the camera switcher, click **Record** to start recording video.
+**Step 4.** On the camera switcher, click **Stream** to start live streaming.
 
-**Step 5.** When you're done recording, click **Stop Recording** on the camera switcher.
+**Step 5.** When you're done live streaming, click **Stop Streaming** on the camera switcher.
 
 --- Platform: SteamVR ---
 
@@ -76,7 +76,7 @@ Click on the gear icon for the **Mic/Aux** audio source and enter **120** into t
 
 **Step 6.** Adjust the window capture area so that Flipside Studio's camera output properly fills the window capture area.
 
-## Recording videos
+## Live streaming
 
 **Step 1.** Press the menu button on either controller and choose **Camera Switcher** from the main menu.
 
@@ -84,13 +84,11 @@ Click on the gear icon for the **Mic/Aux** audio source and enter **120** into t
 
 **Step 3.** On the camera switcher, click **Connect** to connect to OBS.
 
-**Step 4.** On the camera switcher, click **Record** to start recording video.
+**Step 4.** On the camera switcher, click **Stream** to start live streaming.
 
-**Step 5.** When you're done recording, click **Stop Recording** on the camera switcher.
+**Step 5.** When you're done live streaming, click **Stop Streaming** on the camera switcher.
 
 --- /Platform ---
-
-Take a look at [[:how to find your photos and videos]] so you can share them with your friends!
 
 ---
 

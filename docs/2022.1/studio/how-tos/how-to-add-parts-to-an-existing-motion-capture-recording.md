@@ -14,7 +14,7 @@ A countdown will begin and then Flipside Studio will start recording.
 
 The **Recordings** menu will appear, asking you whether you want to keep or discard the recording you just made.
 
-**Step 4.** Choose **Keep Take** to save the recording.
+**Step 5.** Choose **Keep Take** to save the recording.
 
 You'll see the new recording take a few seconds to save, which also backs it up to the cloud.
 

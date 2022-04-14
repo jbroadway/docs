@@ -13,7 +13,7 @@ The following pages are meant to help guide you through various aspects of the F
 ## Live stream or record your show
 
 * [[> How to take photos in Flipside Studio]]
-* [[> How to record a video in Flipside Studio]]
+* [[> How to record video in Flipside Studio]]
 * [[> How to live stream from Flipside Studio]]
 * [[> How to control OBS from Flipside Studio]]
 * [[> How to find your photos and videos]]
