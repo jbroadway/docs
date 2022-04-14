@@ -4,23 +4,61 @@ The following pages are meant to help guide you through various aspects of the F
 
 ## Motion and scene capture
 
-* [[> How to make a motion capture recording]]
-* [[> How to watch a motion capture recording]]
-* [[> How to record multiple parts at the same time]]
-* [[> How to add parts to an existing motion capture recording]]
-* [[> How to manage your motion capture recordings]]
+[[> How to make a motion capture recording]]
 
-## Live stream or record your show
+[[> How to watch a motion capture recording]]
 
-* [[> How to take photos in Flipside Studio]]
-* [[> How to record video in Flipside Studio]]
-* [[> How to live stream from Flipside Studio]]
-* [[> How to control OBS from Flipside Studio]]
-* [[> How to find your photos and videos]]
+[[> How to record multiple parts at the same time]]
+
+[[> How to add parts to an existing motion capture recording]]
+
+[[> How to manage your motion capture recordings]]
+
+## Recording and live streaming
+
+[[> How to take photos in Flipside Studio]]
+
+[[> How to record video in Flipside Studio]]
+
+[[> How to live stream from Flipside Studio]]
+
+[[> How to control OBS from Flipside Studio]]
+
+[[> How to find your photos and videos]]
+
+## Cameras
+
+How to use cameras in Flipside Studio
+
+How to setup multiple cameras
+
+How to use the camera switcher
+
+How to adjust your camera settings
+
+How to add post-processing effects
 
 ## Show tools
 
-...
+How to use live monitors
+
+How to use the teleprompter
+
+How to use the slideshow
+
+How to make and use poses
+
+How to use the desktop mirror
+
+How to see the current time
+
+How to use the spotlight
+
+How to use actor marks
+
+How to use the eye target prop
+
+---
 
 ## OLD
 
