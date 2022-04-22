@@ -28,35 +28,35 @@ The following pages are meant to help guide you through various aspects of the F
 
 ## Cameras
 
-How to use cameras in Flipside Studio
+[[> How to use cameras in Flipside Studio]]
 
-How to setup multiple cameras
+[[> How to set up multiple cameras]]
 
-How to use the camera switcher
+[[> How to use the camera switcher]]
 
-How to adjust your camera settings
+[[> How to adjust your camera settings]]
 
-How to add post-processing effects
+[[> How to add post-processing effects]]
 
 ## Show tools
 
-How to use live monitors
+[[> How to use live monitors]]
 
-How to use the teleprompter
+[[> How to use the teleprompter]]
 
-How to use the slideshow
+[[> How to use the slideshow]]
 
-How to make and use poses
+[[> How to make and use poses]]
 
-How to use the desktop mirror
+[[> How to use the desktop mirror]]
 
-How to see the current time
+[[> How to see the current time]]
 
-How to use the spotlight
+[[> How to use the spotlight]]
 
-How to use actor marks
+[[> How to use actor marks]]
 
-How to use the eye target prop
+[[> How to use the eye target prop]]
 
 ---
 
