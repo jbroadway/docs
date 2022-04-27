@@ -8,7 +8,7 @@ Live monitors provide the actors in VR with a reference of what viewers watching
 
 **Step 3.** Find the **Live Monitor** prop in the show tools listings and click on it to add it to your set.
 
-**Step 4.** Place the live monitor where you want it to apepar on set.
+**Step 4.** Place the live monitor where you want it to appear on set.
 
 Now when you switch cameras on the camera switcher, you'll see a preview of the output on your live monitor.
 
