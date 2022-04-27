@@ -54,7 +54,7 @@ The following pages are meant to help guide you through various aspects of the F
 
 [[> How to use the spotlight]]
 
-[[> How to use actor marks]]
+<!-- [[> How to use actor marks]] -->
 
 [[> How to use the eye target prop]]
 
