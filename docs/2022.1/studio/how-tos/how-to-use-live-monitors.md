@@ -4,7 +4,7 @@ Live monitors provide the actors in VR with a reference of what viewers watching
 
 **Step 1.** Press the menu button on either controller and choose **Props** from the main menu.
 
-**Step 2.** Choose the **Show Tools** category.
+**Step 2.** Choose **All Props** then go to the **Show Tools** category.
 
 **Step 3.** Find the **Live Monitor** prop in the show tools listings and click on it to add it to your set.
 
