@@ -28,4 +28,4 @@ Output settings include:
 
 ---
 
-Next: [[Studio / References / Slideshow formats]]
+Next: [[: OBS settings]]

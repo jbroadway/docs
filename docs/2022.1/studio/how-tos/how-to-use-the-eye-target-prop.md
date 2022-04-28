@@ -8,7 +8,7 @@ Flipside Studio provides an eye target prop that can be used to create points of
 
 **Step 3.** Click on the **Eye Target** prop in the list to add it to your set.
 
-**Step 4.** Place the eye target prop wherever you'd like characters to focus on.
+**Step 4.** Place the eye target prop wherever you'd like characters to focus on. You can also grab the eye target and move it around to create moving points of interest.
 
 The eye target will be visible only to actors but not visible to cameras.
 
