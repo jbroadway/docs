@@ -14,7 +14,7 @@ You'll see the following camera settings in the **Cameras** section of the setti
 - **Movement speed (m/s)** - The speed the camera travels when moving from position to position.
 - **Camera shake** - Applies a natural shake to cameras to simulate a handheld feel. Set it to zero to disable camera shake.
 
-**Step3.** Try adjusting some of these settings then interacting with the cameras and camera switcher to see how their behaviour changes.
+**Step 3.** Try adjusting some of these settings then interacting with the cameras and camera switcher to see how their behaviour changes.
 
 ---
 

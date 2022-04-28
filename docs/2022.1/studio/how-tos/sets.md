@@ -1,26 +1,21 @@
 # Sets
 
-* [[> Dressing your set]]
-	* [[> Dressing your set / Placing objects ]]
-	* [[> Dressing your set / Resizing objects ]]
-	* [[> Dressing your set / Changing properties ]]
-	* [[> Dressing your set / Deleting objects ]]
-	* [[> Dressing your set / Skies ]]
-	* [[> Dressing your set / Saving your setups ]]
-* [[> Show tools ]]
-	* [[> Show tools / Video camera]]
-	* [[> Show tools / Preview monitors]]
-	* [[> Show tools / Teleprompter]]
-	* [[> Show tools / Actor marks]]
-	* [[> Show tools / Twitch chat]]
-	* [[> Show tools / Desktop mirror]]
-* [[> Interactive props ]]
-	* [[> Interactive props / Slideshow ]]
-	* [[> Interactive props / Magic pencil ]]
-* [[> Using your own props ]]
-	* [[> Using your own props / How to import props ]]
-	* [[> Using your own props / How to remove an imported props ]]
-* [[> How to make set building easy ]]
-	* [[> How to make set building easy / Moving your set ]]
-	* [[> How to make set building easy / Scaling your set ]]
-	* [[> How to make set building easy / Rotating your set ]]
+[[> How to use sets]]
+
+[[> How to move and scale a set]]
+
+[[> How to load custom skies (360 photos and videos)]]
+
+[[> How to save multiple setups of a set]]
+
+[[> How to load different setups of a set]]
+
+[[> How to rename a setup of a set]]
+
+[[> How to find and use community-created sets]]
+
+[[> How to create and import your own sets]]
+
+---
+
+Next: [[: Props]]
