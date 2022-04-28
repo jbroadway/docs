@@ -58,7 +58,7 @@ The following pages are meant to help guide you through various aspects of the F
 
 [[> How to use the eye target prop]]
 
-## Characters and movement
+## Characters
 
 [[> How to embody characters]]
 
@@ -66,11 +66,7 @@ The following pages are meant to help guide you through various aspects of the F
 
 [[> How to use your Meta Avatar in Flipside Studio]]
 
-[[> How to use hand tracking]]
-
 [[> How to change your visibility]]
-
-[[> How to teleport around a scene]]
 
 [[> How to find and use community-created characters]]
 
@@ -137,6 +133,10 @@ The following pages are meant to help guide you through various aspects of the F
 [[> How to access the in-app help options]]
 
 [[> How to access the dashboard]]
+
+[[> How to use hand tracking]]
+
+[[> How to teleport around a scene]]
 
 [[> How to connect an external microphone]]
 
