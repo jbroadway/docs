@@ -6,3 +6,5 @@ Flipside Studio has several screens:
 * [[> General settings]]
 * [[> Microphone settings]]
 * [[> Output settings]]
+* [[> OBS settings]]
+  
