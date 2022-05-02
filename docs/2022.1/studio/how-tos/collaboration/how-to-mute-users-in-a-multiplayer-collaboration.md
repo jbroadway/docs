@@ -12,6 +12,8 @@ There are times in a collaboration where you might not want everyone's voice to 
 
 > Note: If you mute yourself, it will mute you to everyone else in the multiplayer session. If you mute someone else, it will only mute them for you but not for everyone else.
 
+Next up, let's learn [[: how to create projects for asynchronous collaboration]] for working with remote teams of people.
+
 ---
 
 Back: [[Studio / How tos]]
