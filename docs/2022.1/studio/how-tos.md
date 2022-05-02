@@ -140,7 +140,7 @@ The following pages are meant to help guide you through various aspects of the F
 
 [[> Other / How to connect an external microphone]]
 
-[[> Other / How to export video and depth mattes]]
+[[> Other / How to export video and depth maps]]
 
 [[> Other / How to export motion capture data]]
 

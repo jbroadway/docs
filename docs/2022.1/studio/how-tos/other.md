@@ -10,7 +10,7 @@
 
 [[> How to connect an external microphone]]
 
-[[> How to export video and depth mattes]]
+[[> How to export video and depth maps]]
 
 [[> How to export motion capture data]]
 
