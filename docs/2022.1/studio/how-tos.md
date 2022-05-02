@@ -100,7 +100,7 @@ The following pages are meant to help guide you through various aspects of the F
 
 [[> Props / How to change properties of a prop (gravity, etc)]]
 
-[[> Props / How delete a prop]]
+[[> Props / How to delete a prop]]
 
 [[> Props / How to draw your own props with the magic pencil]]
 

@@ -8,7 +8,7 @@
 
 [[> How to change properties of a prop (gravity, etc)]]
 
-[[> How delete a prop]]
+[[> How to delete a prop]]
 
 [[> How to draw your own props with the magic pencil]]
 
