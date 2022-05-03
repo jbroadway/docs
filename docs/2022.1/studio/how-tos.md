@@ -146,8 +146,10 @@ The following pages are meant to help guide you through various aspects of the F
 
 [[> Other / How to export audio data]]
 
+<!--
 [[> Other / How to use Mixed Reality mode]]
 
 [[> Other / How to use Vive trackers for full body tracking]]
 
 [[> Other / How to use a Perception Neuron motion capture suit]]
+-->

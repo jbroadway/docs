@@ -16,11 +16,13 @@
 
 [[> How to export audio data]]
 
+<!--
 [[> How to use Mixed Reality mode]]
 
 [[> How to use Vive trackers for full body tracking]]
 
 [[> How to use a Perception Neuron motion capture suit]]
+-->
 
 ---
 
