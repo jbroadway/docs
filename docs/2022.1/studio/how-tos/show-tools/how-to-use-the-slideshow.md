@@ -10,7 +10,7 @@ Slideshows provide a way to bring a sequence of photos and videos into Flipside 
 
 **Step 3.** Find the **Slideshow** prop in the show tools listings and click on it to add it to your set.
 
-**Step 4.** Place the slideshow where you want it to apepar on set.
+**Step 4.** Place the slideshow where you want it to appear on set.
 
 **Step 5.** Reopen the **Props** menu and find the **Slideshow Controller** prop which is also in the **Show Tools** category. Click it to add it to your set as well.
 

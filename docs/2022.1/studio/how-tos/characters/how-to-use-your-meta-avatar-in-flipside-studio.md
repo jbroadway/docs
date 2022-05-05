@@ -4,7 +4,7 @@
 
 **Step 1.** Press the menu button on either controller and choose **Characters** from the main menu.
 
-**Step 2.** Browse for the **Meta Avatar** listing under the **Featured** cateogry.
+**Step 2.** Browse for the **Meta Avatar** listing under the **Featured** category.
 
 **Step 3.** Click on the **Meta Avatar** listing to become your Meta Avatar.
 

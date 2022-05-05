@@ -1,6 +1,6 @@
 # How to use the camera switcher
 
-Once you've setup a few cameras around your set, you're ready to start cutting between them.
+Once you've set up a few cameras around your set, you're ready to start cutting between them.
 
 **Step 1.** Press the menu button on either controller and choose **Camera Switcher** from the main menu. This will add the camera switcher to your scene.
 

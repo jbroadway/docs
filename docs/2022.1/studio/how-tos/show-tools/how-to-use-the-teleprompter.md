@@ -18,7 +18,7 @@ This will bring up a list of available scripts from the currently open project.
 
 **Step 5.** Click **Play** to start auto-scrolling through the script, then adjust your scroll speed using the **Scroll Speed** slider.
 
-Each actor gets their own teleprompter controller and the teleprompters are synchronized the whole cast is always on the same page.
+Each actor gets their own teleprompter controller and the teleprompters are synchronized so the whole cast is always on the same page.
 
 ---
 

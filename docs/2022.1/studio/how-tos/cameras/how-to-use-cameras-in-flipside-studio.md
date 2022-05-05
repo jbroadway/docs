@@ -11,7 +11,7 @@ This will add a new camera to your scene. You can add as many cameras as you nee
 - **Focal Length** - Adjusts the focal length of the camera. A longer focal length narrows the angle of view and increases zoom. A shorter one widens the angle of view and decreases zoom.
 - **Horizontal Lock** - Locks the camera's rotation to always align with the horizon.
 - **Photo** - Changes the camera into photo-taking mode for taking still shots.
-- **Flip** - Flips the direction of the camera, similar to flipping between the forward and self-facing cameras on a smart phone.
+- **Flip** - Flips the direction of the camera, similar to flipping between the forward and self-facing cameras on a smartphone.
 
 **Step 3.** Grab the camera and move it around.
 
