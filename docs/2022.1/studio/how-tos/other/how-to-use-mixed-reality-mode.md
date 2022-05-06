@@ -2,11 +2,11 @@
 
 --- Platform: Quest ---
 
-# TODO
+> Note: Mixed Reality mode is only supported on SteamVR at this time.
 
 --- Platform: Oculus ---
 
-> Note: Mixed Reality mode is only supported on the Quest and HTC Vive at this time.
+> Note: Mixed Reality mode is only supported on SteamVR at this time.
 
 --- Platform: SteamVR ---
 
@@ -17,6 +17,7 @@ Mixed Reality mode lets you incorporate green screened actors and other real wor
 Equipment:
 
 * [HTC Vive Tracker](https://www.vive.com/us/vive-tracker) or equivalent
+* HTC Base Stations
 * Green screen
 * Camera
 
@@ -35,6 +36,8 @@ Software:
 **Step 4.** (Optional) Enter the contents of this file into the LIV Client app under **Camera > Edit > Calibration**.
 
 ## Starting Mixed Reality mode
+
+> Note: These steps are best done with two people.
 
 **Step 1.** Launch the LIV Client app through Steam.
 
