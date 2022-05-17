@@ -38,6 +38,8 @@ Once you've [paired your trackers to your PC](https://www.vive.com/us/support/tr
 
 **Step 5.** Click **Connect Trackers** to start tracking.
 
+# TODO: SettingsWindow.ConnectTrackersPlayerInput() has not been implemented yet!
+
 ---
 
 Back: [[Studio / How tos]]
