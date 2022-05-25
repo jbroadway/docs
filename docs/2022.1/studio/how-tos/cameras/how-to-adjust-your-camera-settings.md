@@ -8,13 +8,13 @@ In addition to the individual camera settings found on the cameras themselves, F
 
 You'll see the following camera settings in the **Cameras** section of the settings tab:
 
-- **Lock cameras** - If enabled, you will not be able to interact with cameras on set. Used to avoid actors accidentally interacting with cameras during a show.
-- **Disable raycast grab** - If enabled, you will only be able to move a camera by grabbing it with the controller directly.
+- **Lock cameras** - If enabled, you won't be able to interact with cameras on set. Use this to avoid actors accidentally interacting with cameras during a show.
+- **Disable raycast grab** - If enabled, you'll only be able to move a camera by grabbing it with the controller directly.
 - **Cameras are eye targets** - If enabled, characters will look directly at cameras.
 - **Movement speed (m/s)** - The speed the camera travels when moving from position to position.
 - **Camera shake** - Applies a natural shake to cameras to simulate a handheld feel. Set it to zero to disable camera shake.
 
-**Step 3.** Try adjusting some of these settings then interacting with the cameras and camera switcher to see how their behaviour changes.
+**Step 3.** Try adjusting some of these settings then interact with the cameras and camera switcher to see how their behaviour changes.
 
 ---
 

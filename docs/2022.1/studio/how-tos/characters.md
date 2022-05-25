@@ -4,7 +4,7 @@
 
 [[> How to use facial expressions]]
 
-[[> How to use your Meta Avatar in Flipside Studio]]
+<!-- [[> How to use your Meta Avatar in Flipside Studio]] -->
 
 [[> How to change your visibility]]
 

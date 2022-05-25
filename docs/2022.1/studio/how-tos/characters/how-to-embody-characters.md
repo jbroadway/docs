@@ -4,9 +4,9 @@ Flipside Studio lets you act as if you're the characters in your shows, animatin
 
 **Step 1.** Press the menu button on either controller and choose **Characters** from the main menu.
 
-**Step 2.** Choose a character that you like from the list and click on it to become that character.
+**Step 2.** Choose a character you like from the list and click on it to become that character.
 
-Once your character has loaded, you should see a ghostly outline of your character moving along with you and you should see your character in the mirror attached to the characters menu.
+Once your character has loaded, you should see a ghostly outline of your character moving along with you. You should also see your character in the mirror attached to the Characters menu.
 
 **Step 3.** Use the preview mirror to get a feel for how your character moves.
 

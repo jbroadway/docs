@@ -64,7 +64,7 @@ The following pages are meant to help guide you through various aspects of the F
 
 [[> Characters / How to use facial expressions]]
 
-[[> Characters / How to use your Meta Avatar in Flipside Studio]]
+<!-- [[> Characters / How to use your Meta Avatar in Flipside Studio]] -->
 
 [[> Characters / How to change your visibility]]
 

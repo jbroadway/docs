@@ -10,19 +10,19 @@ Flipside Studio includes a few post-processing effects that can be applied to th
 
 Under the **General** tab, you'll find the following post-processing options:
 
-- **Shadows** - Whether to render real-time shadows of objects in the scene. Options include off, hard shadows only, or hard and soft shadows.
-- **Shadow resolution** - The resolution level to render shadows. Options include low, medium, high, and very high.
+- **Shadows** - Render real-time shadows of objects in the scene. Options include: off, hard shadows only, or hard and soft shadows.
+- **Shadow resolution** - The resolution level to render shadows. Options include: low, medium, high, and very high.
 
 Under the **Output** tab, you'll find the following post-processing options:
 
-- **Bloom filter** - This effect produces fringes of light extending from the borders of bright areas in your scene, creating the illusion of brightness overwhelming the camera. Options include low, medium, and high intensity.
-- **Ambient occlusion filter** - This effect adds shading to more accurately reflect how much light is hitting each object or surface in a scene. Options include low, medium, and high intensity.
+- **Bloom filter** - This effect produces fringes of light extending from the borders of bright areas in your scene, creating the illusion of brightness overwhelming the camera. Options include: low, medium, and high intensity.
+- **Ambient occlusion filter** - This effect adds shading to more accurately reflect how much light is hitting each object or surface in a scene. Options include: low, medium, and high intensity.
 - **Ambient occlusion radius** - This determines the radius of the ambient occlusion filter. Values may range from 0-1.5m.
 - **Light pixel count** - This setting determines how many lights may affect a given object or surface in the scene.
 
 **Step 3.** Adjust the settings one at a time then compare the output on your desktop until you've achieved the desired combination of effects.
 
-You will also want to pay attention to whether you're experiencing frame rate issues while in VR after enabling any post-processing settings. Depending on the options you choose, they can be quite performance intensive and require more powerful processors and GPUs.
+You'll also want to pay attention to whether you're experiencing frame rate drops while in VR after enabling any post-processing settings. Depending on the options you choose, they can be quite performance intensive and require more powerful processors and Graphics Processing Units (GPUs).
 
 ---
 

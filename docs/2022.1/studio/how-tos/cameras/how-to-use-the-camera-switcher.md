@@ -1,6 +1,6 @@
 # How to use the camera switcher
 
-Once you've set up a few cameras around your set, you're ready to start cutting between them.
+Once you've set up a few cameras around your set, you're ready to start switching between them.
 
 **Step 1.** Press the menu button on either controller and choose **Camera Switcher** from the main menu. This will add the camera switcher to your scene.
 
@@ -8,9 +8,9 @@ The camera switcher features a large preview of the currently active camera with
 
 > Note: Unlike cameras where you can place as many as you want around your set, there is only one camera switcher that you can take with you or recall at any time from the main menu.
 
-**Step 2.** Click on any of the camera previews to cut to a different camera.
+**Step 2.** Click on any of the camera previews to switch to a different camera.
 
-The last preview is a mirror of your own point of view so you can also capture POV shots in addition to placed cameras.
+The last preview is a mirror of your own point of view so you can also capture point of view (POV) shots in addition to placed cameras.
 
 **Step 3.** Click on the **Move** button, then click on one of the inactive camera previews.
 

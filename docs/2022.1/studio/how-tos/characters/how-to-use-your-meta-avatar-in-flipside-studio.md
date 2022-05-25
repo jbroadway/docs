@@ -10,9 +10,9 @@
 
 **Step 4.** To customize your Meta Avatar, click on the dropdown menu at the bottom of the Meta Avatar listing and choose **Avatar Editor**. This will open the Meta Avatar editor.
 
-**Step 5.** Customize your avatar in the editor as desired, then save your changes or exit without saving to return to Flipside Studio.
+**Step 5.** Customize your Meta Avatar in the editor as desired, then save your changes or exit without saving to return to Flipside Studio.
 
-Flipside Studio will take a moment to refresh your avatar with your latest customization options.
+Flipside Studio will take a moment to refresh your Meta Avatar with your latest customization options.
 
 ---
 
