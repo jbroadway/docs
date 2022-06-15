@@ -137,7 +137,7 @@ class Doc {
 
 		// parse macros
 		$out = preg_replace_callback (
-			'/^(<p>)?:(table|col|row|endtable|gif|embed|div|enddiv|\/table|\/div) ?([^<]*)?(<\/p>)?/im',
+			'/^(<p>)?:(table|col|row|endtable|gif|embed|div|enddiv|\/table|\/div|omit-from-search) ?([^<]*)?(<\/p>)?/im',
 			array ($this, 'render_macros'),
 			$out
 		);
@@ -250,6 +250,8 @@ class Doc {
 				}
 			case 'embed':
 				return $GLOBALS['controller']->run ($regs[3]);
+			case 'omit-from-search':
+				return '';
 			default:
 				return '';
 		}
