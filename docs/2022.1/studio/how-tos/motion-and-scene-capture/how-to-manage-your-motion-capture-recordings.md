@@ -12,7 +12,7 @@ Open the **Recordings** menu and click on the **Rename** icon beside the recordi
 
 **Step 4.** Click on the **Starred** sorting option to display only the recordings that  you've starred.
 
-Flipside Studio defaults to sorting most assets alphabetically, but it defaults to sorting recordings by date.
+Flipside Studio sorts most assets alphabetically by default except for recordings, which it defaults to sorting by date.
 
 Flipside Studio provides one additional way of organizing your recordings, which is through [[studio / concepts / projects]]. Whenever you make a new recording, it will be added to the currently-opened project, which you can see along the top of the **Recordings** menu.
 

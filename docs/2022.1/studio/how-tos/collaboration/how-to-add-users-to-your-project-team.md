@@ -1,6 +1,6 @@
 # How to add users to your project team
 
-Projects are better when you add members to the team so you can collaborate together.
+Projects are better when you add members to the team so you can collaborate together!
 
 **Step 1.** Press the menu button on either controller and choose **Multiplayer** from the main menu.
 
