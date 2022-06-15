@@ -242,3 +242,9 @@ as your own custom handlers using the following macro:
 This is the equivalent of embedding the following PHP code:
 
 	<?php echo $controller->run ('blog/archives');
+
+### Omitting some pages from search
+
+You can omit any page from Flipside's search index by adding this tag:
+
+	:omit-from-search
