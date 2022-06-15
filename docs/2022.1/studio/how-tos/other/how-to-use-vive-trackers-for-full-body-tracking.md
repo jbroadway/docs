@@ -1,5 +1,7 @@
 # How to use Vive trackers for full body tracking
 
+:omit-from-search
+
 > Note: Vive trackers are only supported in the SteamVR version of Flipside Studio.
 
 Flipside Studio supports [Vive trackers](https://www.vive.com/us/vive-tracker) for tracking your feet and waist. For this how-to you'll need a set of Vive trackers as well as straps or clips to attach them to your clothes. We recommend the [Rebuff Reality TrackStrap bundle](https://rebuffreality.com/).

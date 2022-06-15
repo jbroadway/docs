@@ -1,5 +1,7 @@
 # How to use Mixed Reality mode
 
+:omit-from-search
+
 --- Platform: Quest ---
 
 > Note: Mixed Reality mode is only supported on SteamVR at this time.

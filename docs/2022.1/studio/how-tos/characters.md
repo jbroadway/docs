@@ -8,7 +8,7 @@
 
 [[> How to change your visibility]]
 
-[[> How to find and use community-created characters]]
+<!-- [[> How to find and use community-created characters]] -->
 
 [[> How to create and import your own characters]]
 

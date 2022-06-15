@@ -68,7 +68,7 @@ The following pages are meant to help guide you through various aspects of the F
 
 [[> Characters / How to change your visibility]]
 
-[[> Characters / How to find and use community-created characters]]
+<!-- [[> Characters / How to find and use community-created characters]] -->
 
 [[> Characters / How to create and import your own characters]]
 
@@ -146,12 +146,8 @@ The following pages are meant to help guide you through various aspects of the F
 
 [[> Other / How to export audio data]]
 
-<!--
-[[> Other / How to use Mixed Reality mode]]
--->
+<!-- [[> Other / How to use Mixed Reality mode]] -->
 
-<!--
-[[> Other / How to use Vive trackers for full body tracking]]
--->
+<!-- [[> Other / How to use Vive trackers for full body tracking]] -->
 
-[[> Other / How to use a Perception Neuron motion capture suit]]
+<!-- [[> Other / How to use a Perception Neuron motion capture suit]] -->

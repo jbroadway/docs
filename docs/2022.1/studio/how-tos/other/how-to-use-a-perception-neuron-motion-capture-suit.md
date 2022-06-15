@@ -1,5 +1,7 @@
 # How to use a Perception Neuron motion capture suit
 
+:omit-from-search
+
 > Note: Perception Neuron is only supported on the desktop versions of Flipside Studio, and does not sync with the VR headset movement so it should be worn standalone.
 
 **Step 1.** Launch the Axis Studio software from Perception Neuron.

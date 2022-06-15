@@ -1,5 +1,7 @@
 # How to find and use community-created characters
 
+:omit-from-search
+
 Here's how to find and use characters that other community members have made and shared.
 
 **Step 1.** Visit [flipsidecommunity.com](https://www.flipsidecommunity.com/share?type=character) and find a character you'd like to use.
