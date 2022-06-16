@@ -1,8 +1,8 @@
 # How to access the in-app help options
 
-Flipside Studio provides a number of help options within the app itself.
+Flipside Studio provides a number of help options within the app.
 
-The first is an onboarding tutorial that you'll be presented with the first time you launch the app, which teaches you the basics of how the major features of the app work.
+The first is an onboarding tutorial you'll be presented with the first time you launch the app, which teaches you the basics of how the major features of the app work.
 
 The second option is the tooltip toggle on the controllers. Press the **Tooltips** button on the left hand controller to toggle the tooltip visibility. If you're on SteamVR, press and hold the **Menu** button for 2 seconds instead.
 

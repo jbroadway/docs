@@ -102,9 +102,9 @@ The following pages are meant to help guide you through various aspects of the F
 
 [[> Props / How to delete a prop]]
 
-[[> Props / How to draw your own props with the magic pencil]]
+[[> Props / How to draw your own props with the Magic Pencil]]
 
-[[> Props / How to find and use community-created props]]
+<!-- [[> Props / How to find and use community-created props]] -->
 
 [[> Props / How to create and import your own props]]
 

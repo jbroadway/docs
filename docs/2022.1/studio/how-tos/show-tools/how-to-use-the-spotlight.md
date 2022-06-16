@@ -10,7 +10,7 @@ Flipside Studio provides a built-in spotlight prop so you can add real-time ligh
 
 **Step 4.** Place the spotlight wherever you'd like on your set.
 
-Note that there are limits to how many real-time lights can affect surfaces in VR, due to the heavy performance requirements of real-time lights. This number is one (1) on Quest and defaults to three (3) on desktop VR.
+Note that there are limits to how many real-time lights can affect surfaces in VR, due to the heavy performance requirements of real-time lights. This limit is one (1) on Quest and defaults to three (3) on desktop VR.
 
 ---
 

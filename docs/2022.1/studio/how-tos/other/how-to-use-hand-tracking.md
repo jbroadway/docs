@@ -2,6 +2,8 @@
 
 > Note: Hand tracking support is a Quest-only feature, however the Valve Index controllers also support basic finger tracking as well.
 
+Here's how to use hand tracking in Flipside Studio:
+
 **Step 1.** Enable hand tracking on your Quest by going to **Settings** then **Hands and Controllers** in the Quest menu.
 
 **Step 2.** Make sure **Hand Tracking** is checked.

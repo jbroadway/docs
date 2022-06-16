@@ -1,6 +1,6 @@
 # How to load different setups of a set
 
-Once you've created a saved setup or two (see: [[: how to save multiple setups of a set]]), here's how to load them up.
+Once you've created a saved setup or two (see: [[: how to save multiple setups of a set]]), here's how to load them up:
 
 **Step 1.** Press the menu button on either controller and choose **Sets** from the main menu.
 

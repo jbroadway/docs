@@ -20,7 +20,7 @@ Once you've [paired your trackers to your PC](https://www.vive.com/us/support/tr
 
 **Step 2.** Turn on your trackers.
 
-**Step 3.** In the SteamVR window, click on the hamburger menu in the top left, hover over **Devices** then click on **Manage Vive Trackers**.
+**Step 3.** In the SteamVR window, click on the hamburger menu in the top left, hover over **Devices**, then click on **Manage Vive Trackers**.
 
 **Step 4.** In the window that opens, click **Manage Vive Trackers** again to see a list of your tracking devices.
 

@@ -16,7 +16,7 @@ The character pose will disappear and you'll be changed into that character if y
 
 **Step 5.** Press the menu button on either controller and choose **Props** from the main menu.
 
-When the props menu is open, you'll be able to grab your stand-ins to move adjust their positions on the set or remove them. You can also remove all stand-ins by pressing **Clear** in the stand-ins section of the characters menu.
+When the Props menu is open, you'll be able to grab your stand-ins to move adjust their positions on the set or remove them. You can also remove all stand-ins by pressing **Clear** in the stand-ins section of the characters menu.
 
 ---
 

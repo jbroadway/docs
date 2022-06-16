@@ -6,19 +6,19 @@ Now that you've learned [[:how to make a motion capture recording]], let's go ov
 
 This will open the **Multiplayer** menu with a list of users in your currently opened project's team.
 
-**Step 2.** Invite some friends.
+**Step 2.** Invite friends to collaborate.
 
-If the user you want to invite to join you is already on the project team, click on their name to open a dropdown and choose **Invite to collaborate**.
+If the user you want to invite to join is already on the project team, click on their name to open a dropdown and choose **Invite to collaborate**.
 
-If not, click on the **Friends** tab to find the user you want to invite there, then click on their name to open a dropdown and choose **Invite to collaborate**.
+If they aren't on the project team, click on the **Friends** tab to find the user you want to invite there, then click on their name to open a dropdown and choose **Invite to collaborate**.
 
-> Note: If you're not friends yet, go to the **Public** tab and search for them to send them a friend request. You must be friends before you can invite users to collaborate, unless you've both been added to a shared project team by another user who is friends with both of you.
+> Note: If you're not friends yet, go to the **Public** tab, search for them, and send them a friend request. You must be friends before you can invite users to collaborate, unless you've both been added to a shared project team by another user who is friends with both of you.
 
-**Step 3.** Wait for your friends to join your connection.
+**Step 3.** Wait for your friends to join your multiplayer session.
 
 They will receive a notification in the Flipside Studio dashboard as well as via email if they're not currently online.
 
-When your friend pops into your session, follow the steps on [[:how to make a motion capture recording]] to continue from here. Flipside Studio automatically records every actor who hasn't made themselves invisible.
+When your friend pops into your session, follow the steps on [[:how to make a motion capture recording]] to continue from here. Flipside Studio automatically records every actor who [hasn't made themselves invisible](/docs/2022.1/studio/how-tos/characters/how-to-change-your-visibility).
 
 ---
 

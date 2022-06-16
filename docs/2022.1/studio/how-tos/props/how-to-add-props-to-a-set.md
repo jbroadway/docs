@@ -1,6 +1,6 @@
 # How to add props to a set
 
-Flipside Studio lets you customize your sets by adding your own props to them. Here's how.
+Flipside Studio lets you customize your sets by adding your own props. Here's how:
 
 **Step 1.** Press the menu button on either controller and choose **Props** from the main menu.
 

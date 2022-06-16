@@ -2,9 +2,11 @@
 
 > Note: Data exports are a subscription-only feature of the desktop version of Flipside Studio.
 
-**Step 1.** Select and load the recording in the **Recordings** menu that you want to export video of.
+Here's how to export video and depth maps from Flipside Studio:
 
-**Step 2.** Set up the cameras that you want to render.
+**Step 1.** Select and load the recording in the **Recordings** menu for the video that you want to export.
+
+**Step 2.** Set up the cameras you want to render.
 
 **Step 3.** Take your headset off and look at Flipside Studio's camera switcher interface on your desktop.
 

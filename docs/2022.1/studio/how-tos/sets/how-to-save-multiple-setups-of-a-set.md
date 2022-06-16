@@ -1,6 +1,6 @@
 # How to save multiple setups of a set
 
-Flipside Studio lets you save and come back to different configurations of any given set, called setups.
+Flipside Studio lets you save and come back to different configurations of any given set, called setups:
 
 **Step 1.** Choose a set and add a few props to it.
 

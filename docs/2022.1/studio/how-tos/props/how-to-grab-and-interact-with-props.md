@@ -1,6 +1,6 @@
 # How to grab and interact with props
 
-There are two ways of interacting with a prop.
+There are two ways of interacting with a prop:
 
 ## 1. Grabbing and moving them around
 
@@ -22,9 +22,9 @@ Some props have special effects that happen when you press your index finger tri
 
 **Step 3.** Close the Props menu.
 
-**Step 4.** Grab the magic pencil prop then, while holding it, press your index finger trigger to begin drawing.
+**Step 4.** Grab the Magic Pencil prop then, while holding it, press your index finger trigger to begin drawing.
 
-Learn more about [[: how to draw your own props with the magic pencil]] or keep going with [[: how to resize props]].
+Learn more about [[: how to draw your own props with the Magic Pencil]] or keep going with [[: how to resize props]].
 
 ---
 

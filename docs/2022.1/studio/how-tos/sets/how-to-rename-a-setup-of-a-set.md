@@ -1,6 +1,6 @@
 # How to rename a setup of a set
 
-Once you've created a saved setup (see: [[: how to save multiple setups of a set]]), you might want to rename it to something you'll easily recognize later.
+Once you've created a saved setup (see: [[: how to save multiple setups of a set]]), you might want to rename it to something you'll easily recognize later:
 
 **Step 1.** Press the menu button on either controller and choose **Sets** from the main menu.
 

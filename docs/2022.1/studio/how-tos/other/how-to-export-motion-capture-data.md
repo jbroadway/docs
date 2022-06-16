@@ -2,7 +2,9 @@
 
 > Note: Data exports are a subscription-only feature of the desktop version of Flipside Studio.
 
-**Step 1.** Select and load the recording in the **Recordings** menu that you want to export video of.
+Here's how to export motion capture data from Flipside Studio:
+
+**Step 1.** Select and load the recording in the **Recordings** menu for the motion capture data you want to export.
 
 **Step 2.** Take your headset off and look at Flipside Studio's user switcher interface on your desktop.
 

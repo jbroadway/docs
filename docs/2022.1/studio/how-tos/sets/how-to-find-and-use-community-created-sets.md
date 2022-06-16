@@ -1,6 +1,8 @@
 # How to find and use community-created sets
 
-Here's how to find and use sets that other community members have made and shared.
+:omit-from-search
+
+Here's how to find and use sets that other community members have made and shared:
 
 **Step 1.** Visit [flipsidecommunity.com](https://www.flipsidecommunity.com/share?type=set) and find a set you'd like to use.
 

@@ -10,9 +10,9 @@
 
 [[> How to delete a prop]]
 
-[[> How to draw your own props with the magic pencil]]
+[[> How to draw your own props with the Magic Pencil]]
 
-[[> How to find and use community-created props]]
+<!-- [[> How to find and use community-created props]] -->
 
 [[> How to create and import your own props]]
 

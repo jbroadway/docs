@@ -1,6 +1,8 @@
 # How to find and use community-created props
 
-Here's how to find and use props that other community members have made and shared.
+:omit-from-search
+
+Here's how to find and use props that other community members have made and shared:
 
 **Step 1.** Visit [flipsidecommunity.com](https://www.flipsidecommunity.com/share?type=prop) and find a prop kit you'd like to use.
 

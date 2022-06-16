@@ -1,8 +1,8 @@
 # How to load custom skies (360 photos and videos)
 
-Flipside Studio allows you to set custom skies for any set where the sky is visible, which can be 360 panoramic photos or videos.
-
 > Note: 360 video skies are performance intensive and are not recommended for use on Quest.
+
+Flipside Studio allows you to set custom skies for any set where the sky is visible, which can be 360 panoramic photos or videos. Here's how:
 
 **Step 1.** Press the menu button on either controller and choose **Props** from the main menu.
 

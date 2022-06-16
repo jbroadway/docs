@@ -14,7 +14,7 @@ Slideshows provide a way to bring a sequence of photos and videos into Flipside 
 
 **Step 5.** Reopen the **Props** menu and find the **Slideshow Controller** prop which is also in the **Show Tools** category. Click it to add it to your set as well.
 
-The slideshow controller lets you control the slideshow, while the regular slideshow prop lets you control where the slideshow appears on your set. You can place as many instances of the slideshow prop on your set as you need.
+The slideshow controller lets you control the slideshow, while the regular slideshow prop lets you control where the slideshow appears on your set. You can place as many slideshow props on your set as you need.
 
 > Tip: You can use a slideshow controller without a visible slideshow in your set to play background audio tracks in your scenes.
 

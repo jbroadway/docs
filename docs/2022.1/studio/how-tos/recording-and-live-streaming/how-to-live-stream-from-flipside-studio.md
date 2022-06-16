@@ -1,6 +1,6 @@
 # How to live stream from Flipside Studio
 
-Here's how to live stream from Flipside Studio.
+Here's how to live stream from Flipside Studio:
 
 --- Platform: Quest ---
 
@@ -12,13 +12,13 @@ Live streaming requires a PC with [OBS Studio](https://obsproject.com/) installe
 
 **Step 1.** Launch Flipside Studio on your Quest.
 
-**Step 2.** Press the Oculus menu button to open the dash menu then click on the **Cast** icon.
+**Step 2.** Press the Oculus menu button to open the Dash menu then click on the **Cast** icon.
 
-**Step 3.** Choose **Computer** and click **Next**. Press the Oculus menu button again to close the dash menu and return to Flipside Studio.
+**Step 3.** Choose **Computer** and click **Next**. Press the Oculus menu button again to close the Dash menu and return to Flipside Studio.
 
 **Step 4.** On your PC, open a web browser and visit `https://oculus.com/casting`. Click on the video settings and ensure the audio sources you want to capture are checked.
 
-**Step 5.** Launch OBS Studio on your PC and add a **Window Capture** source to capture your browser window. Adjust the window capture area so that Flipside Studio's camera output properly fills the window capture area.
+**Step 5.** Launch OBS Studio on your PC and add a **Window Capture** source to capture your browser window. Adjust the window capture area so Flipside Studio's camera output properly fills the window capture area.
 
 **Step 6.** Click **Start Streaming** in OBS to start live streaming.
 
@@ -36,9 +36,9 @@ Live streaming requires a PC with [OBS Studio](https://obsproject.com/) installe
 
 **Step 4.** Under the **Sources** section, click the **+** icon and select **Window Capture**. Make sure **Create new** is selected and keep **Make source visible** checked.
 
-Once the source is added, double-click it in the **Sources** section to bring up the properties pane. In the properties pane, select **Flipside Studio** in the **Window** dropdown menu. Make sure **Capture Cursor** is unchecked.
+Once the source is added, double-click it in the **Sources** section to bring up the Properties pane. In the Properties pane, select **Flipside Studio** in the **Window** dropdown menu. Make sure **Capture Cursor** is unchecked.
 
-**Step 5.** Under **Audio Mixer**, add audio sources for both **Mic/Aux** and **Desktop Audio* to capture both your own voice and sounds coming from Flipside Studio.
+**Step 5.** Under **Audio Mixer**, add audio sources for both **Mic/Aux** and **Desktop Audio** to capture both your own voice and sounds coming from Flipside Studio.
 
 Click on the gear icon for the **Mic/Aux** audio source and enter **120** into the **Sync Offset (ms)** field. Note that if you use the obs-websocket plugin and connect Flipside Studio to OBS, this will be set for you automatically.
 
@@ -68,9 +68,9 @@ Click on the gear icon for the **Mic/Aux** audio source and enter **120** into t
 
 **Step 4.** Under the **Sources** section, click the **+** icon and select **Window Capture**. Make sure **Create new** is selected and keep **Make source visible** checked.
 
-Once the source is added, double-click it in the **Sources** section to bring up the properties pane. In the properties pane, select **Flipside Studio** in the **Window** dropdown menu. Make sure **Capture Cursor** is unchecked.
+Once the source is added, double-click it in the **Sources** section to bring up the Properties pane. In the Properties pane, select **Flipside Studio** in the **Window** dropdown menu. Make sure **Capture Cursor** is unchecked.
 
-**Step 5.** Under **Audio Mixer**, add audio sources for both **Mic/Aux** and **Desktop Audio* to capture both your own voice and sounds coming from Flipside Studio.
+**Step 5.** Under **Audio Mixer**, add audio sources for both **Mic/Aux** and **Desktop Audio** to capture both your own voice and sounds coming from Flipside Studio.
 
 Click on the gear icon for the **Mic/Aux** audio source and enter **120** into the **Sync Offset (ms)** field. Note that if you use the obs-websocket plugin and connect Flipside Studio to OBS, this will be set for you automatically.
 
