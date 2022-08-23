@@ -64,9 +64,13 @@ The following pages are meant to help guide you through various aspects of the F
 
 [[> Characters / How to use facial expressions]]
 
+[[> Characters / How to use puppet mode]]
+
 <!-- [[> Characters / How to use your Meta Avatar in Flipside Studio]] -->
 
 [[> Characters / How to change your visibility]]
+
+[[> Characters / How to use Ready Player Me avatars in Flipside Studio]]
 
 <!-- [[> Characters / How to find and use community-created characters]] -->
 
