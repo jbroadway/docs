@@ -2,6 +2,8 @@
 
 Flipside Studio lets you create and use [Ready Player Me](https://readyplayer.me/) avatars in your shows. Here's how it works:
 
+## Creating a new avatar
+
 **Step 1.** Press the menu button on either controller and choose **Characters** from the main menu.
 
 **Step 2.** Click on the **All Characters** tab.
