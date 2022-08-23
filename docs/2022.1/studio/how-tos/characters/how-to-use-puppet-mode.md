@@ -1,6 +1,6 @@
 # How to use puppet mode
 
-Puppet mode is a feature that lets you control a character's body with your hand, like a puppet.
+Puppet mode is a feature that lets you control a character's body with your hand, like a puppet. Here's how it works:
 
 **Step 1.** Press the menu button on either controller and choose **Puppet** from the main menu. A virtual puppet will appear in front of your hand.
 
