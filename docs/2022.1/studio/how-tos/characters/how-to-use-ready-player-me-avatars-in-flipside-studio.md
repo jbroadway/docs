@@ -18,7 +18,7 @@ Your avatar will begin the import process, which can take 10-20 seconds to compl
 
 **Step 7.** Click on your newly-added avatar to begin using it in Flipside Studio.
 
-### Updating an existing avatar
+## Updating an existing avatar
 
 **Step 1.** Press the menu button on either controller and choose **Characters** from the main menu.
 
