@@ -8,7 +8,6 @@ This is what the general settings looks like:
 
 General settings include:
 
-* **Twitch Channel ID** - Enter your Twitch channel ID here to connect the [Twitch chat prop](/docs/2022.1/studio/tutorials/sets/show-tools#twitch-chat) to your channel's chat data.
 * **Camera Movement Speed** - The speed that the camera should move in meters/second.
 * **Camera Easing** - Whether to apply [easing](https://easings.net/en) to the camera movements.
 * **Shadows** - Enables or disables rendering shadows. Note: Shadows can have a substantial performance impact and may cause frame rate issues on lower end machines or be unavailable on lower end VR devices.
