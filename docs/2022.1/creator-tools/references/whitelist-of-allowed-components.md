@@ -45,6 +45,7 @@ Characters may use the following components:
 * UnityEngine.Joint
 * UnityEngine.Light
 * UnityEngine.LineRenderer
+* UnityEngine.LODGroup
 * UnityEngine.MeshCollider
 * UnityEngine.MeshFilter
 * UnityEngine.MeshRenderer
@@ -116,6 +117,7 @@ Sets and prop kits may use the following components:
 * UnityEngine.Light
 * UnityEngine.LightProbeGroup
 * UnityEngine.LineRenderer
+* UnityEngine.LODGroup
 * UnityEngine.MeshCollider
 * UnityEngine.MeshFilter
 * UnityEngine.MeshRenderer
