@@ -8,11 +8,11 @@ Stand-ins are a unique feature in Flipside Studio that lets you freeze one or mo
 
 There will be a 3-second countdown and then Flipside Studio will capture each user that's in a character. Users that are invisible will be omitted.
 
-**Step 3.** Teleport to a new position then click **Pose** again to create additional poses around the set.
+**Step 3.** Teleport to a new position then click **Pose** again to create additional stand-ins around the set.
 
-**Step 4.** Aim your teleporter at one of the poses then press your index finger trigger to teleport into that pose.
+**Step 4.** Aim your teleporter at one of the stand-ins then press your index finger trigger to teleport to its actor mark position.
 
-The character pose will disappear and you'll be changed into that character if you weren't already.
+The stand-in character will disappear and you'll be changed into that character if you weren't already.
 
 **Step 5.** Press the menu button on either controller and choose **Props** from the main menu.
 
