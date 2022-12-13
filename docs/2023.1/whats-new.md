@@ -4,73 +4,73 @@
 
 Check back here to learn about all the latest changes to Flipside.
 
-**2022.1.0-stable**<br>
-<span>[Studio Changelog](/docs/2022.1/studio/changelog#202210-stable) &middot; [Creator Tools Changelog](/docs/2022.1/creator-tools/changelog#202210-stable)</span><br>
+**2023.1.0-stable**<br>
+<span>[Studio Changelog](/docs/2023.1/studio/changelog#202210-stable) &middot; [Creator Tools Changelog](/docs/2023.1/creator-tools/changelog#202210-stable)</span><br>
 <small>July 28, 2022</small><br>
 Flipside Studio is now available on the Meta Quest app store along with a completely redesigned UI, new onboarding tutorial, project-based sharing model for remote collaboration, prop kits with interactivity built in Unity, and much more.
 
 **2021.1.8-stable**<br>
-<span>[Studio Changelog](/docs/2022.1/studio/changelog#202118-stable) &middot; [Creator Tools Changelog](/docs/2022.1/creator-tools/changelog#202118-stable)</span><br>
+<span>[Studio Changelog](/docs/2023.1/studio/changelog#202118-stable) &middot; [Creator Tools Changelog](/docs/2023.1/creator-tools/changelog#202118-stable)</span><br>
 <small>July 29, 2021</small><br>
 Added a panel version of the desktop mirror that is hidden from cameras, along with a few other bug fixes and minor improvements.
 
 **2021.1.7-stable**<br>
-<span>[Studio Changelog](/docs/2022.1/studio/changelog#202117-stable) &middot; [Creator Tools Changelog](/docs/2022.1/creator-tools/changelog#202117-stable)</span><br>
+<span>[Studio Changelog](/docs/2023.1/studio/changelog#202117-stable) &middot; [Creator Tools Changelog](/docs/2023.1/creator-tools/changelog#202117-stable)</span><br>
 <small>June 8, 2021</small><br>
 Fixed an input issue preventing selection of characters and sets when using Oculus via SteamVR.
 
 **2021.1.6-stable**<br>
-<span>[Studio Changelog](/docs/2022.1/studio/changelog#202116-stable) &middot; [Creator Tools Changelog](/docs/2022.1/creator-tools/changelog#202116-stable)</span><br>
+<span>[Studio Changelog](/docs/2023.1/studio/changelog#202116-stable) &middot; [Creator Tools Changelog](/docs/2023.1/creator-tools/changelog#202116-stable)</span><br>
 <small>May 27, 2021</small><br>
 Fixed compatibility issues with Windows Mixed Reality headsets through SteamVR, and changed the menu show/hide for Oculus users on SteamVR to a joystick press since SteamVR overrides the menu button.
 
 **2021.1.5-stable**<br>
-<span>[Studio Changelog](/docs/2022.1/studio/changelog#202115-stable) &middot; [Creator Tools Changelog](/docs/2022.1/creator-tools/changelog#202115-stable)</span><br>
+<span>[Studio Changelog](/docs/2023.1/studio/changelog#202115-stable) &middot; [Creator Tools Changelog](/docs/2023.1/creator-tools/changelog#202115-stable)</span><br>
 <small>May 18, 2021</small><br>
 Fixed a regression causing second screen output to be 720 instead of 1080 resolution.
 
 **2021.1.4-stable**<br>
-<span>[Studio Changelog](/docs/2022.1/studio/changelog#202114-stable) &middot; [Creator Tools Changelog](/docs/2022.1/creator-tools/changelog#202114-stable)</span><br>
+<span>[Studio Changelog](/docs/2023.1/studio/changelog#202114-stable) &middot; [Creator Tools Changelog](/docs/2023.1/creator-tools/changelog#202114-stable)</span><br>
 <small>May 11, 2021</small><br>
 Upgraded server-based multiplayer to the faster Normcore 2, minor performance improvements.
 
 **2021.1.3-stable**<br>
-<span>[Studio Changelog](/docs/2022.1/studio/changelog#202113-stable) &middot; [Creator Tools Changelog](/docs/2022.1/creator-tools/changelog#202113-stable)</span><br>
+<span>[Studio Changelog](/docs/2023.1/studio/changelog#202113-stable) &middot; [Creator Tools Changelog](/docs/2023.1/creator-tools/changelog#202113-stable)</span><br>
 <small>April 22, 2021</small><br>
 Fixes an issue with calibrating with Vive trackers then calibrating again without, exporting finger movements, and publishing timeouts in the Creator Tools.
 
 **2021.1.2-stable**<br>
-<span>[Studio Changelog](/docs/2022.1/studio/changelog#202112-stable) &middot; [Creator Tools Changelog](/docs/2022.1/creator-tools/changelog#202112-stable)</span><br>
+<span>[Studio Changelog](/docs/2023.1/studio/changelog#202112-stable) &middot; [Creator Tools Changelog](/docs/2023.1/creator-tools/changelog#202112-stable)</span><br>
 <small>April 15, 2021</small><br>
 Fixes puppeteering bug causing the character to disappear from cameras.
 
 **2021.1.1-stable**<br>
-<span>[Studio Changelog](/docs/2022.1/studio/changelog#202111-stable) &middot; [Creator Tools Changelog](/docs/2022.1/creator-tools/changelog#202111-stable)</span><br>
+<span>[Studio Changelog](/docs/2023.1/studio/changelog#202111-stable) &middot; [Creator Tools Changelog](/docs/2023.1/creator-tools/changelog#202111-stable)</span><br>
 <small>April 8, 2021</small><br>
 Fixes bugs with sitting, characters with no finger bones, and others, and adds adjustable elbow settings and example scene for the new TeleprompterElement component.
 
 **2021.1.0-stable**<br>
-<span>[Studio Changelog](/docs/2022.1/studio/changelog#202110-stable) &middot; [Creator Tools Changelog](/docs/2022.1/creator-tools/changelog#202110-stable)</span><br>
+<span>[Studio Changelog](/docs/2023.1/studio/changelog#202110-stable) &middot; [Creator Tools Changelog](/docs/2023.1/creator-tools/changelog#202110-stable)</span><br>
 <small>March 30, 2021</small><br>
 Motion capture data export, video renderer, stand-ins, all-new retargeting system, and much more.
 
 **2020.1.4-stable**<br>
-<span>[Studio Changelog](/docs/2022.1/studio/changelog#202012-stable) &middot; [Creator Tools Changelog](/docs/2022.1/creator-tools/changelog#202014-stable)</span><br>
+<span>[Studio Changelog](/docs/2023.1/studio/changelog#202012-stable) &middot; [Creator Tools Changelog](/docs/2023.1/creator-tools/changelog#202014-stable)</span><br>
 <small>November 12, 2020</small><br>
 Fixed several bugs including one causing crashes for some users, another causing long startup times on SteamVR, and one preventing previewing sets in the Unity editor before building and uploading them.
 
 **2020.1.3-stable**<br>
-<span>[Studio Changelog](/docs/2022.1/studio/changelog#202012-stable) &middot; [Creator Tools Changelog](/docs/2022.1/creator-tools/changelog#202013-stable)</span><br>
+<span>[Studio Changelog](/docs/2023.1/studio/changelog#202012-stable) &middot; [Creator Tools Changelog](/docs/2023.1/creator-tools/changelog#202013-stable)</span><br>
 <small>October 28, 2020</small><br>
 Fixed Oculus Link microphone selection bug, sets not always updating correctly, slideshow auto-start. Improved PooledAudioElement as a general-purpose AudioSource replacement, and other improvements to the Creator Tools.
 
 **2020.1.2-stable**<br>
-<span>[Studio Changelog](/docs/2022.1/studio/changelog#202012-stable) &middot; [Creator Tools Changelog](/docs/2022.1/creator-tools/changelog#202012-stable)</span><br>
+<span>[Studio Changelog](/docs/2023.1/studio/changelog#202012-stable) &middot; [Creator Tools Changelog](/docs/2023.1/creator-tools/changelog#202012-stable)</span><br>
 <small>August 28, 2020</small><br>
 Improved body physics collider generator including minimal, default, and full options, and a number of other bug fixes and improvements.
 
 **2020.1.1-stable**<br>
-<span>[Studio Changelog](/docs/2022.1/studio/changelog#202011-stable) &middot; [Creator Tools Changelog](/docs/2022.1/creator-tools/changelog#202011-stable)</span><br>
+<span>[Studio Changelog](/docs/2023.1/studio/changelog#202011-stable) &middot; [Creator Tools Changelog](/docs/2023.1/creator-tools/changelog#202011-stable)</span><br>
 <small>July 16, 2020</small><br>
 This update fixes issues preventing use on Oculus Quest via Oculus Link, as well as a number of other bug fixes.
 

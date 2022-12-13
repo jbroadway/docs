@@ -1,13 +1,13 @@
 # Flipside Studio Changelog
 
-## 2022.1.0-stable
+## 2023.1.0-stable
 
 ### Improvements
 
 - Now available on Meta Quest!
-  - Supports Meta Avatars as another option in the Characters menu
-  - Supports Meta Quest hand tracking
-  - Casting and recording video integrate seamlessly with the Flipside camera system
+- Supports Ready Player Me as another option in the Characters menu
+- Supports Meta Quest hand tracking
+- Cast to the new Flipside Broadcaster desktop app that integrates seamlessly with the Flipside camera system
 - Completely redesigned user interface
   - Consistent point-and-click interface across all menus including cameras and other show tools
   - New onboarding tutorial teaches all the core features of the app
@@ -16,7 +16,6 @@
   - Ergonomic hand menu for quick access to all core features
 - Projects let you share and collaborate with remote teams
 - Collaborate with up to 10 people at a time over multiplayer
-- Desktop switcher interface now works without VR (SteamVR only)
 - And much more!
 
 ## 2021.1.8-stable
