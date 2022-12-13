@@ -1,28 +1,53 @@
 # How to live stream from Flipside Studio
 
-Here's how to live stream from Flipside Studio:
+Here are the steps to live stream from Flipside Studio.
 
 --- Platform: Quest ---
 
 ## Requirements
 
-Live streaming requires a PC with [OBS Studio](https://obsproject.com/) installed and configured to stream to your platform of choice.
+Live streaming requires a PC with the following software installed and configured to stream to your platform(s) of choice. Follow the steps in the one-time setup for each app and from then on you can skip straight to the [live streaming steps](#live-streaming).
+
+- [Flipside Broadcaster](https://www.flipsidexr.com/flipside-broadcaster)
+- [OBS Studio](https://obsproject.com/)
+
+## One-time setup
+
+### Flipside Broadcaster setup
+
+**Step 1.** Installing Flipside Broadcaster on your PC.
+
+**Step 2.** Launch Flipside Broadcaster and click on the **Settings** icon in the top right of the room code window.
+
+**Step 3.** Click **Install** to install the Flipside Broadcaster virtual camera. Click **OK** when prompted by the installer.
+
+**Step 4.** Once the install process has finished, click **Start** to start the virtual camera.
+
+### OBS Studio setup
+
+**Step 1.** Install OBS Studio on your PC.
+
+**Step 2.** Click on the **+** icon in the **Sources** panel and choose **Video Capture Device** to create a new video capture source. Name it **Flipside Broadcaster** then click **OK**.
+
+**Step 3.** Select **Flipside Broadcaster** from the list of devices then click **OK** again.
+
+**Step 4.** Adjust the volume of the **Desktop Audio** source in the **Audio Mixer** section to ensure voices and audio coming from Flipside Broadcaster will be heard in OBS.
 
 ## Live streaming
 
-**Step 1.** Launch Flipside Studio on your Quest.
+After completing the one-time steps above, here are the steps you can use to start a new live stream from Flipside Studio.
 
-**Step 2.** Press the Oculus menu button to open the Dash menu then click on the **Cast** icon.
+**Step 1.** Press the menu button on either controller and choose **Camera Switcher** from the main menu.
 
-**Step 3.** Choose **Computer** and click **Next**. Press the Oculus menu button again to close the Dash menu and return to Flipside Studio.
+**Step 2.** Press the **Start Cast** button in the bottom left corner of the camera switcher. A popup window will appear with a room code to enter into Flipside Broadcaster to connect.
 
-**Step 4.** On your PC, open a web browser and visit `https://oculus.com/casting`. Click on the video settings and ensure the audio sources you want to capture are checked.
+**Step 3.** Launch Flipside Broadcaster on your PC and enter the room code.
 
-**Step 5.** Launch OBS Studio on your PC and add a **Window Capture** source to capture your browser window. Adjust the window capture area so Flipside Studio's camera output properly fills the window capture area.
+**Step 4.** Enter the room code you were given in step 2 and click **Connect**.
 
-**Step 6.** Click **Start Streaming** in OBS to start live streaming.
+**Step 5.** Launch OBS Studio on your PC and click **Start Streaming** to begin streaming your Flipside Broadcaster output to the world.
 
-**Step 7.** When you're done live streaming, click **Stop Streaming** in OBS.
+**Step 6.** When you're done live streaming, click **Stop Cast** on the camera switcher in Flipside Studio to stop broadcasting to Flipside Broadcaster and click **Stop Streaming** in OBS to stop streaming to the world.
 
 --- Platform: Oculus ---
 
@@ -45,6 +70,8 @@ Click on the gear icon for the **Mic/Aux** audio source and enter **120** into t
 **Step 6.** Adjust the window capture area so that Flipside Studio's camera output properly fills the window capture area.
 
 ## Live streaming
+
+After completing the one-time steps above, here are the steps you can use to start a new live stream from Flipside Studio.
 
 **Step 1.** Press the menu button on either controller and choose **Camera Switcher** from the main menu.
 
