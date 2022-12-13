@@ -6,7 +6,7 @@ This page covers how to install, setup, and upgrade the Flipside Creator Tools i
 
 **Important:** Flipside Creator Tools require a specific version of Unity in order to work properly in Flipside Studio.
 
-## [Download Flipside Creator Tools 2022.1.0-stable](https://www.flipsidexr.com/files/downloads/FlipsideCreatorTools-2022.1.0-stable.unitypackage)
+## [Download Flipside Creator Tools 2023.1.0-stable](https://www.flipsidexr.com/files/downloads/FlipsideCreatorTools-2023.1.0-stable.unitypackage)
 
 If you're upgrading an existing Flipside Creator Tools project from an older version of Unity, always be sure to **back up your project before upgrading.**
 

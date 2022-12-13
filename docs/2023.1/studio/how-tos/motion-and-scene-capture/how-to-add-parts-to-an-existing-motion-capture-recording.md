@@ -2,7 +2,7 @@
 
 Here's how to add additional parts to an existing motion capture recording that you've made.
 
-**Step 1.** [Load the recording](/docs/2022.1/studio/how-tos/how-to-watch-a-motion-capture-recording) in the **Recordings** menu.
+**Step 1.** [Load the recording](/docs/2023.1/studio/how-tos/how-to-watch-a-motion-capture-recording) in the **Recordings** menu.
 
 **Step 2.** Click the **Add New Part** button along the bottom of the menu.
 

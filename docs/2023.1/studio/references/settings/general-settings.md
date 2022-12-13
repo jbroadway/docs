@@ -13,7 +13,7 @@ General settings include:
 * **Shadows** - Enables or disables rendering shadows. Note: Shadows can have a substantial performance impact and may cause frame rate issues on lower end machines or be unavailable on lower end VR devices.
 * **Shadow Resolution** - The resolution quality of the shadows when they're enabled.
 * **User Interface Sounds** - Whether to play user interface sounds or not. Note: Sounds will automatically be silenced while recording, but may not be silenced automatically if you're recording your screen using third party software.
-* **Desktop Mirror** - Enables or disables the [desktop mirror prop](/docs/2022.1/studio/tutorials/sets/show-tools#desktop-mirror-experimental).
+* **Desktop Mirror** - Enables or disables the [desktop mirror prop](/docs/2023.1/studio/tutorials/sets/show-tools#desktop-mirror-experimental).
 
 ---
 

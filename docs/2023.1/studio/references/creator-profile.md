@@ -11,19 +11,19 @@ Your Flipside creator profile page includes:
 ## Your Flipside Creator ID
 
 Used to associate the custom characters and sets created through the
-[Flipside Creator Tools](/docs/2022.1/creator-tools) with your account.
+[Flipside Creator Tools](/docs/2023.1/creator-tools) with your account.
 
 ## Custom characters
 
-Upload your own custom characters created with the [Flipside Creator Tools](/docs/2022.1/creator-tools).
+Upload your own custom characters created with the [Flipside Creator Tools](/docs/2023.1/creator-tools).
 
 ## Custom sets 
 
-Upload your own custom sets created with the [Flipside Creator Tools](/docs/2022.1/creator-tools).
+Upload your own custom sets created with the [Flipside Creator Tools](/docs/2023.1/creator-tools).
 
 ## Custom props
 
-Upload your own custom prop kits created with the [Flipside Creator Tools](/docs/2022.1/creator-tools).
+Upload your own custom prop kits created with the [Flipside Creator Tools](/docs/2023.1/creator-tools).
 
 ## Projects
 

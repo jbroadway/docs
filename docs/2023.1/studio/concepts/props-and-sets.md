@@ -1,6 +1,6 @@
 # Props and sets
 
-Flipside Studio is built around the idea that virtual productions happen on virtual sets. It's like being live on a TV/film set, but inside your animated show. To learn about importing custom characters, props and sets, check out the [Flipside Creator Tools](/docs/2022.1/creator-tools).
+Flipside Studio is built around the idea that virtual productions happen on virtual sets. It's like being live on a TV/film set, but inside your animated show. To learn about importing custom characters, props and sets, check out the [Flipside Creator Tools](/docs/2023.1/creator-tools).
 
 ## Built-in props
 
@@ -29,7 +29,7 @@ Props can also be built directly into sets, turning any number of otherwise stat
 
 In the real world, we don't have to think about the affordances found on a TV/film set, like doors opening and closing. We take those things for granted in the real world. But on a virtual set, those become important to consider.
 
-Flipside Studio's companion software, [Flipside Creator Tools](/docs/2022.1/creator-tools), is a plugin for the Unity game engine that provides a wide variety of components that can be used to build simple interactivity like a door opening, all the way up to complex mini-games complete with scorekeeping.
+Flipside Studio's companion software, [Flipside Creator Tools](/docs/2023.1/creator-tools), is a plugin for the Unity game engine that provides a wide variety of components that can be used to build simple interactivity like a door opening, all the way up to complex mini-games complete with scorekeeping.
 
 This set of components lets you craft richer interactivity into your sets, bringing your sets to a new level.
 

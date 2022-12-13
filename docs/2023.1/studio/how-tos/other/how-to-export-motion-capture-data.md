@@ -16,7 +16,7 @@ Here's how to export motion capture data from Flipside Studio:
 
 **Step 6.** Click **Open Export Folder** to be taken to your exported BVH files.
 
-> Tip: Use the [Flipside Creator Tools](/docs/2022.1/creator-tools/getting-started) plugin for Unity or our Flipside Plugin for Blender to import the BVH files into those applications.
+> Tip: Use the [Flipside Creator Tools](/docs/2023.1/creator-tools/getting-started) plugin for Unity or our Flipside Plugin for Blender to import the BVH files into those applications.
 
 Next, let's explore [[: how to export audio data]].
 

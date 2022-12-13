@@ -18,7 +18,7 @@ If they aren't on the project team, click on the **Friends** tab to find the use
 
 They will receive a notification in the Flipside Studio dashboard as well as via email if they're not currently online.
 
-When your friend pops into your session, follow the steps on [[:how to make a motion capture recording]] to continue from here. Flipside Studio automatically records every actor who [hasn't made themselves invisible](/docs/2022.1/studio/how-tos/characters/how-to-change-your-visibility).
+When your friend pops into your session, follow the steps on [[:how to make a motion capture recording]] to continue from here. Flipside Studio automatically records every actor who [hasn't made themselves invisible](/docs/2023.1/studio/how-tos/characters/how-to-change-your-visibility).
 
 ---
 
