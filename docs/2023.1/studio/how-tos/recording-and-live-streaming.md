@@ -6,8 +6,6 @@
 
 [[> How to live stream from Flipside Studio]]
 
-[[> How to use the Flipside Broadcaster virtual camera]]
-
 [[> How to control OBS from Flipside Studio]]
 
 [[> How to find your photos and videos]]

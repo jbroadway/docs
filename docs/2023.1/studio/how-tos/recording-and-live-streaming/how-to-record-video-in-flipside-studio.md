@@ -2,95 +2,52 @@
 
 Here's how to record video in Flipside Studio.
 
---- Platform: Quest ---
-
 ## Requirements
 
-Recording video requires a PC with [OBS Studio](https://obsproject.com/) installed.
+Recording video requires a PC with the following software installed. Follow the steps in the one-time setup for each app and from then on you can skip straight to the [recording steps](#recording-videos).
 
-## Recording videos
+- [Flipside Broadcaster](https://www.flipsidexr.com/flipside-broadcaster)
+- [OBS Studio](https://obsproject.com/)
 
-**Step 1.** Launch Flipside Studio on your Quest.
-
-**Step 2.** Press the Oculus menu button to open the Dash menu then click on the **Cast** icon.
-
-**Step 3.** Choose **Computer** and click **Next**. Press the Oculus menu button again to close the Dash menu and return to Flipside Studio.
-
-**Step 4.** On your PC, open a web browser and visit `https://oculus.com/casting`. Click on the video settings and ensure the audio sources you want to capture are checked.
-
-**Step 5.** Launch OBS Studio on your PC and add a **Window Capture** source to capture your browser window. Adjust the window capture area so that Flipside Studio's camera output properly fills the window capture area.
-
-**Step 6.** Click **Start Recording** in OBS to start recording video.
-
-**Step 7.** When you're done recording, click **Stop Recording** in OBS.
-
---- Platform: Oculus ---
+> **Note:** If you're using the desktop version of Flipside Studio, you can skip using Flipside Broadcaster and capture Flipside Studio directly in OBS, unless you want to capture on a separate machine than the one you're using for VR.
 
 ## One-time setup
 
-**Step 1.** Install [OBS Studio](https://obsproject.com/).
+### Flipside Broadcaster setup
 
-**Step 2.** Install the [obs-websocket plugin](https://obsproject.com/forum/resources/obs-websocket-remote-control-obs-studio-from-websockets.466/).
+**Step 1.** Install Flipside Broadcaster on your PC.
 
-**Step 3.** Launch OBS Studio and Flipside Studio.
+**Step 2.** Launch Flipside Broadcaster and click on the **Settings** icon in the top right of the room code window.
 
-**Step 4.** Under the **Sources** section, click the **+** icon and select **Window Capture**. Make sure **Create new** is selected and keep **Make source visible** checked.
+**Step 3.** Click **Install** to install the Flipside Broadcaster virtual camera. Click **OK** when prompted by the installer.
 
-Once the source is added, double-click it in the **Sources** section to bring up the Properties pane. In the Properties pane, select **Flipside Studio** in the **Window** dropdown menu. Make sure **Capture Cursor** is unchecked.
+**Step 4.** Once the install process has finished, click **Start** to start the virtual camera.
 
-**Step 5.** Under **Audio Mixer**, add audio sources for both **Mic/Aux** and **Desktop Audio** to capture both your own voice and sounds coming from Flipside Studio.
+### OBS Studio setup
 
-Click on the gear icon for the **Mic/Aux** audio source and enter **120** into the **Sync Offset (ms)** field. Note that if you use the obs-websocket plugin and connect Flipside Studio to OBS, this will be set for you automatically.
+**Step 1.** Install OBS Studio on your PC.
 
-**Step 6.** Adjust the window capture area so that Flipside Studio's camera output properly fills the window capture area.
+**Step 2.** Click on the **+** icon in the **Sources** panel and choose **Video Capture Device** to create a new video capture source. Name it **Flipside Broadcaster** then click **OK**.
 
-## Recording videos
+**Step 3.** Select **Flipside Broadcaster** from the list of devices then click **OK** again.
 
-**Step 1.** Press the menu button on either controller and choose **Camera Switcher** from the main menu.
-
-**Step 2.** Press the menu button again and choose **Camera** to add a camera to your set.
-
-**Step 3.** On the camera switcher, click **Connect** to connect to OBS.
-
-**Step 4.** On the camera switcher, click **Record** to start recording video.
-
-**Step 5.** When you're done recording, click **Stop Recording** on the camera switcher.
-
---- Platform: SteamVR ---
-
-## One-time setup
-
-**Step 1.** Install [OBS Studio](https://obsproject.com/).
-
-**Step 2.** Install the [obs-websocket plugin](https://obsproject.com/forum/resources/obs-websocket-remote-control-obs-studio-from-websockets.466/).
-
-**Step 3.** Launch OBS Studio and Flipside Studio.
-
-**Step 4.** Under the **Sources** section, click the **+** icon and select **Window Capture**. Make sure **Create new** is selected and keep **Make source visible** checked.
-
-Once the source is added, double-click it in the **Sources** section to bring up the Properties pane. In the Properties pane, select **Flipside Studio** in the **Window** dropdown menu. Make sure **Capture Cursor** is unchecked.
-
-**Step 5.** Under **Audio Mixer**, add audio sources for both **Mic/Aux** and **Desktop Audio** to capture both your own voice and sounds coming from Flipside Studio.
-
-Click on the gear icon for the **Mic/Aux** audio source and enter **120** into the **Sync Offset (ms)** field. Note that if you use the obs-websocket plugin and connect Flipside Studio to OBS, this will be set for you automatically.
-
-**Step 6.** Adjust the window capture area so that Flipside Studio's camera output properly fills the window capture area.
+**Step 4.** Adjust the volume of the **Desktop Audio** source in the **Audio Mixer** section to ensure voices and audio coming from Flipside Broadcaster will be heard in OBS.
 
 ## Recording videos
 
+After completing the one-time steps above, here are the steps you can use to record video from Flipside Studio.
+
 **Step 1.** Press the menu button on either controller and choose **Camera Switcher** from the main menu.
 
-**Step 2.** Press the menu button again and choose **Camera** to add a camera to your set.
+**Step 2.** Press the **Start Cast** button in the bottom left corner of the camera switcher. A popup window will appear with a room code to enter into Flipside Broadcaster to connect.
 
-**Step 3.** On the camera switcher, click **Connect** to connect to OBS.
+**Step 3.** Launch Flipside Broadcaster on your PC and enter the room code.
 
-**Step 4.** On the camera switcher, click **Record** to start recording video.
+**Step 4.** Enter the room code you were given in step 2 and click **Connect**.
 
-**Step 5.** When you're done recording, click **Stop Recording** on the camera switcher.
+**Step 5.** Launch OBS Studio on your PC and click **Start Recording** to begin recording video of your Flipside Broadcaster output. Cut cameras as you would normally to craft your video output.
 
---- /Platform ---
-
-Take a look at [[:how to find your photos and videos]] so you can share them with your friends!
+**Step 6.** When you're done recording, click **Stop Recording** in OBS and click **Stop Cast** on the camera switcher in Flipside Studio to stop broadcasting to Flipside Broadcaster.
 
 ---
 

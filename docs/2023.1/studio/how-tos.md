@@ -22,8 +22,6 @@ The following pages are meant to help guide you through various aspects of the F
 
 [[> Recording and live streaming / How to live stream from Flipside Studio]]
 
-[[> Recording and live streaming / How to use the Flipside Broadcaster virtual camera]]
-
 [[> Recording and live streaming / How to control OBS from Flipside Studio]]
 
 [[> Recording and live streaming / How to find your photos and videos]]
