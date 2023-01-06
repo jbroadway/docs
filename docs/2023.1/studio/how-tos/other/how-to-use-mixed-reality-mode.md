@@ -6,11 +6,11 @@
 
 > Note: Mixed Reality mode is only supported on SteamVR at this time.
 
---- Platform: Oculus ---
+--- Platform: Rift ---
 
 > Note: Mixed Reality mode is only supported on SteamVR at this time.
 
---- Platform: SteamVR ---
+<!-- --- Platform: SteamVR ---
 
 Mixed Reality mode lets you incorporate green screened actors and other real world elements into your video output. It does this by aligning a tracker with a real-world camera, so that footage from both sources can be combined.
 
@@ -68,7 +68,7 @@ If you have additional Vive Trackers that you want to use to track your lower bo
 If you don't see the **Mixed Reality** button on the underside of the Recordings palette, double-check the following things:
 
 - Make sure your Vive Tracker is turned on before launching Flipside Studio.
-- Make sure the **externalcamera.cfg** file is in the same folder as the **Flipside - HTC Vive.exe** file in your Steam library.
+- Make sure the **externalcamera.cfg** file is in the same folder as the **Flipside - HTC Vive.exe** file in your Steam library. -->
 
 --- /Platform ---
 

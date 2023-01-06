@@ -8,25 +8,9 @@ Here's how to control OBS from in VR using Flipside Studio.
 
 **Step 1.** Install [OBS Studio](https://obsproject.com/).
 
-**Step 2.** Install the [obs-websocket plugin](https://obsproject.com/forum/resources/obs-websocket-remote-control-obs-studio-from-websockets.466/).
+**Step 2.** Connect your Quest to your PC using an Oculus Link cable or Air Link.
 
-**Step 3.** Connect your Quest to your PC using an Oculus Link cable or Air Link.
-
-**Step 4.** Launch OBS Studio and Flipside Studio on your PC.
-
-**Step 5.** In Flipside Studio, press the menu button on either controller and choose **Camera Switcher** from the main menu.
-
-**Step 6.** On the camera switcher, click **Connect** to connect to OBS.
-
-**Step 7.** Once connected, click **Record** or **Stream** on the camera switcher to start recording or live streaming in OBS.
-
---- Platform: Oculus ---
-
-**Step 1.** Install [OBS Studio](https://obsproject.com/).
-
-**Step 2.** Install the [obs-websocket plugin](https://obsproject.com/forum/resources/obs-websocket-remote-control-obs-studio-from-websockets.466/).
-
-**Step 3.** Launch OBS Studio and Flipside Studio.
+**Step 3.** Launch OBS Studio and Flipside Studio on your PC.
 
 **Step 4.** In Flipside Studio, press the menu button on either controller and choose **Camera Switcher** from the main menu.
 
@@ -34,19 +18,29 @@ Here's how to control OBS from in VR using Flipside Studio.
 
 **Step 6.** Once connected, click **Record** or **Stream** on the camera switcher to start recording or live streaming in OBS.
 
---- Platform: SteamVR ---
+--- Platform: Rift ---
 
 **Step 1.** Install [OBS Studio](https://obsproject.com/).
 
-**Step 2.** Install the [obs-websocket plugin](https://obsproject.com/forum/resources/obs-websocket-remote-control-obs-studio-from-websockets.466/).
+**Step 2.** Launch OBS Studio and Flipside Studio.
 
-**Step 3.** Launch OBS Studio and Flipside Studio.
+**Step 3.** In Flipside Studio, press the menu button on either controller and choose **Camera Switcher** from the main menu.
 
-**Step 4.** In Flipside Studio, press the menu button on either controller and choose **Camera Switcher** from the main menu.
+**Step 4.** On the camera switcher, click **Connect** to connect to OBS.
 
-**Step 5.** On the camera switcher, click **Connect** to connect to OBS.
+**Step 5.** Once connected, click **Record** or **Stream** on the camera switcher to start recording or live streaming in OBS.
 
-**Step 6.** Once connected, click **Record** or **Stream** on the camera switcher to start recording or live streaming in OBS.
+<!-- --- Platform: SteamVR ---
+
+**Step 1.** Install [OBS Studio](https://obsproject.com/).
+
+**Step 2.** Launch OBS Studio and Flipside Studio.
+
+**Step 3.** In Flipside Studio, press the menu button on either controller and choose **Camera Switcher** from the main menu.
+
+**Step 4.** On the camera switcher, click **Connect** to connect to OBS.
+
+**Step 5.** Once connected, click **Record** or **Stream** on the camera switcher to start recording or live streaming in OBS. -->
 
 --- /Platform ---
 

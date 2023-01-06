@@ -14,7 +14,7 @@ If you want to capture your Flipside Studio output for live streaming to Twitch,
 
 Visit [www.oculusforbusiness.com](https://www.oculusforbusiness.com/) for more info on enterprise level support for your Oculus Rift.
 
---- Platform: Oculus ---
+--- Platform: Rift ---
 
 ## VR setup
 
@@ -30,7 +30,7 @@ For specs on a VR compatible computer, see Oculus Ready PCs.
 
 Visit [www.oculusforbusiness.com](https://www.oculusforbusiness.com/) for more info on enterprise level support for your Oculus Rift.
 
---- Platform: SteamVR ---
+<!-- --- Platform: SteamVR ---
 
 ## VR setup
 
@@ -44,7 +44,7 @@ For specs on a VR compatible computer, see [Vive Ready PCs](https://www.vive.com
 
 ## Business users
 
-Visit [www.vive.com/us/enterprise](https://www.vive.com/us/enterprise/) for more info on enterprise level support for your HTC Vive.
+Visit [www.vive.com/us/enterprise](https://www.vive.com/us/enterprise/) for more info on enterprise level support for your HTC Vive. -->
 
 --- /Platform ---
 

@@ -6,11 +6,11 @@
 
 Flipside Studio's main entry point into its menus is through the main menu, which can be opened and closed by pressing the **A or X button** on your controller.
 
---- Platform: Oculus ---
+--- Platform: Rift ---
 
 Flipside Studio's main entry point into its menus is through the main menu, which can be opened and closed by pressing the **A or X button** on your controller.
 
---- Platform: SteamVR ---
+<!-- --- Platform: SteamVR ---
 
 Flipside Studio's main entry point into its menus is through the main menu, which can be opened and closed by pressing the **application menu button** on either controller.
 
@@ -90,7 +90,7 @@ Each panel is broken down into the following sections, from top to bottom:
 - Sorting and categories
 - Additional options
 
-The main panel categories such as characters and sets can only be opened one at a time in order to reduce clutter. Other menus such as help and show tools like the teleprompter controller can stay open alongside each other.
+The main panel categories such as characters and sets can only be opened one at a time in order to reduce clutter. Other menus such as help and show tools like the teleprompter controller can stay open alongside each other. -->
 
 ---
 

@@ -14,7 +14,7 @@ Your Flipside account lets you upload custom characters, sets and other function
 
 #### Open Broadcaster Software
 
-Flipside Studio uses [OBS Studio](https://obsproject.com/download) and its [obs-websocket](https://github.com/Palakis/obs-websocket/releases) plugin to capture video output, including live streaming to YouTube, Twitch, and others.
+Flipside Studio uses [OBS Studio](https://obsproject.com/download) to capture video output, including live streaming to YouTube, Twitch, and others.
 
 For more information, see [[studio / tutorials / recording / editing your show / Setting up OBS Studio]].
 

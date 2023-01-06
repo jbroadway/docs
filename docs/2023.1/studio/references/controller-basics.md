@@ -99,7 +99,7 @@ To control the facial expressions of your character, use the **left hand joystic
 	
 :endtable
 
---- Platform: Oculus ---
+--- Platform: Rift ---
 
 ## Grabbing props
 
@@ -198,7 +198,7 @@ To control the facial expressions of your character, use the **left hand joystic
 	
 :endtable
 
---- Platform: SteamVR ---
+<!-- --- Platform: SteamVR ---
 
 ## Grabbing props
 
@@ -275,7 +275,7 @@ To control the facial expressions of your character, use the **left hand thumbpa
 * **Left** means **Surprised** `:O`
 * **Right** means **Angry** `>:(`
 
-:endtable
+:endtable -->
 
 --- /Platform ---
 
