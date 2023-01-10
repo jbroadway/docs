@@ -2,7 +2,7 @@
 
 ## Download
 
-Flipside Studio can be installed through the [Meta Quest store](#), [Oculus Desktop store](https://www.oculus.com/experiences/rift/750910405009643/) or [SteamVR](http://store.steampowered.com/app/495800/Flipside_Studio/).
+Flipside Studio can be installed through the [Meta Quest store](https://ocul.us/3VjQ3NM) or [Meta Rift store](https://ocul.us/3AAw5Xm).
 
 ## Account
 
