@@ -6,7 +6,7 @@ Here's how to record video in Flipside Studio.
 
 Recording video requires a PC with the following software installed. Follow the steps in the one-time setup for each app and from then on you can skip straight to the [recording steps](#recording-videos).
 
-- [Flipside Broadcaster](https://www.flipsidexr.com/flipside-broadcaster)
+- [Flipside Broadcaster](/docs/broadcaster)
 - [OBS Studio](https://obsproject.com/)
 
 > **Note:** If you're using the desktop version of Flipside Studio, you can skip using Flipside Broadcaster and capture Flipside Studio directly in OBS, unless you want to capture on a separate machine than the one you're using for VR.

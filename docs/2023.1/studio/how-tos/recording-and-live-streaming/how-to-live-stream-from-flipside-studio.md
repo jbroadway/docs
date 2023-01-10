@@ -6,7 +6,7 @@ Here are the steps to live stream from Flipside Studio.
 
 Live streaming requires a PC with the following software installed and configured to stream to your platform(s) of choice. Follow the steps in the one-time setup for each app and from then on you can skip straight to the [live streaming steps](#live-streaming).
 
-- [Flipside Broadcaster](https://www.flipsidexr.com/flipside-broadcaster)
+- [Flipside Broadcaster](/docs/broadcaster)
 - [OBS Studio](https://obsproject.com/)
 
 > **Note:** If you're using the desktop version of Flipside Studio, you can skip using Flipside Broadcaster and capture Flipside Studio directly in OBS, unless you want to capture on a separate machine than the one you're using for VR.
