@@ -2,11 +2,11 @@
 
 This page covers how to install, setup, and upgrade the Flipside Creator Tools in order to import your own characters and sets into Flipside Studio.
 
-## [Download Unity 2019.4.31](https://unity3d.com/unity/whats-new/2019.4.31)
+**[Download Unity 2020.3.36](https://unity3d.com/unity/whats-new/2020.3.36)**
 
-**Important:** Flipside Creator Tools require a specific version of Unity in order to work properly in Flipside Studio.
+> **Important:** Flipside Creator Tools require a specific version of Unity in order to work properly in Flipside Studio.
 
-## [Download Flipside Creator Tools 2023.1.0-stable](https://www.flipsidexr.com/files/downloads/FlipsideCreatorTools-2023.1.0-stable.unitypackage)
+**[Download Flipside Creator Tools 2023.1.0-stable](https://flipside.nyc3.cdn.digitaloceanspaces.com/releases/creator-tools/FlipsideCreatorTools-2023.1.0-stable.unitypackage)**
 
 If you're upgrading an existing Flipside Creator Tools project from an older version of Unity, always be sure to **back up your project before upgrading.**
 
