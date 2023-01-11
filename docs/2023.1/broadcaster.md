@@ -10,11 +10,11 @@ This page covers how to install Flipside Broadcaster on your PC.
 
 A gaming laptop or PC with the following minimum specs:
 
-- OS: Windows 10 or higher
-- CPU: Intel Core i7-7820HK 2.90GHz / AMD Ryzen 7 3700U or better
-- GPU: Nvidia 1050 / AMD Radeon RX 570 or better
-- RAM: 8 GB+
-- Storage: 2 GB+ (more recommended, esp. for saving videos)
+- **OS:** Windows 10 or higher
+- **CPU:** Intel Core i7-7820HK 2.90GHz / AMD Ryzen 7 3700U or better
+- **GPU:** Nvidia 1050 / AMD Radeon RX 570 or better
+- **RAM:** 8 GB+
+- **Storage:** 2 GB+ (more recommended, esp. for saving videos)
 
 ## Installation
 
