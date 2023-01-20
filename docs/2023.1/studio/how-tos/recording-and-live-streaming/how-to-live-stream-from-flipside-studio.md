@@ -37,6 +37,8 @@ Live streaming requires a PC with the following software installed and configure
 
 After completing the one-time steps above, here are the steps you can use to start a new live stream from Flipside Studio.
 
+> **Note:** If you're using the desktop version of Flipside Studio, you can skip to **Step 5.** and capture Flipside Studio directly in OBS, unless you want to stream from a separate machine than the one you're using for VR.
+
 **Step 1.** Press the menu button on either controller and choose **Camera Switcher** from the main menu.
 
 **Step 2.** Press the **Start Cast** button in the bottom left corner of the camera switcher. A popup window will appear with a room code to enter into Flipside Broadcaster to connect.
