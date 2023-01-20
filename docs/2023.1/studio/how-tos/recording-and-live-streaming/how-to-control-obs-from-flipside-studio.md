@@ -16,6 +16,8 @@ Here's how to control OBS from in VR using Flipside Studio.
 
 **Step 5.** On the camera switcher, click **Connect** to connect to OBS.
 
+:gif https://www.flipsidexr.com/files/docs/2023.1/help_4-8_1.mp4
+
 **Step 6.** Once connected, click **Record** or **Stream** on the camera switcher to start recording or live streaming in OBS.
 
 --- Platform: Rift ---
@@ -28,6 +30,8 @@ Here's how to control OBS from in VR using Flipside Studio.
 
 **Step 4.** On the camera switcher, click **Connect** to connect to OBS.
 
+:gif https://www.flipsidexr.com/files/docs/2023.1/help_4-8_1.mp4
+
 **Step 5.** Once connected, click **Record** or **Stream** on the camera switcher to start recording or live streaming in OBS.
 
 <!-- --- Platform: SteamVR ---
@@ -39,6 +43,8 @@ Here's how to control OBS from in VR using Flipside Studio.
 **Step 3.** In Flipside Studio, press the menu button on either controller and choose **Camera Switcher** from the main menu.
 
 **Step 4.** On the camera switcher, click **Connect** to connect to OBS.
+
+:gif https://www.flipsidexr.com/files/docs/2023.1/help_4-8_1.mp4
 
 **Step 5.** Once connected, click **Record** or **Stream** on the camera switcher to start recording or live streaming in OBS. -->
 
