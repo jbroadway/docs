@@ -2,6 +2,8 @@
 
 Live monitors provide the actors in VR with a reference of what viewers watching the video output are seeing.
 
+:gif https://www.flipsidexr.com/files/docs/2023.1/help_7-9_1.mp4
+
 **Step 1.** Press the menu button on either controller and choose **Props** from the main menu.
 
 **Step 2.** Choose **All Props** then go to the **Show Tools** category.
