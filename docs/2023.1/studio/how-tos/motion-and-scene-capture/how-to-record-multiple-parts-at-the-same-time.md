@@ -4,6 +4,8 @@ Now that you've learned [[:how to make a motion capture recording]], let's go ov
 
 **Step 1.** Press the menu button on either controller and choose **Multiplayer** from the main menu.
 
+:gif https://www.flipsidexr.com/files/docs/2023.1/help_5-2_1.mp4
+
 This will open the **Multiplayer** menu with a list of users in your currently opened project's team.
 
 **Step 2.** Invite friends to collaborate.
@@ -11,6 +13,8 @@ This will open the **Multiplayer** menu with a list of users in your currently o
 If the user you want to invite to join is already on the project team, click on their name to open a dropdown and choose **Invite to collaborate**.
 
 If they aren't on the project team, click on the **Friends** tab to find the user you want to invite there, then click on their name to open a dropdown and choose **Invite to collaborate**.
+
+:gif https://www.flipsidexr.com/files/docs/2023.1/help_5-4_2.mp4
 
 > Note: If you're not friends yet, go to the **Public** tab, search for them, and send them a friend request. You must be friends before you can invite users to collaborate, unless you've both been added to a shared project team by another user who is friends with both of you.
 
