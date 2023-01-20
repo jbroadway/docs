@@ -2,6 +2,8 @@
 
 Setting up multiple cameras in Flipside Studio is as easy as adding one camera, then another.
 
+:gif https://www.flipsidexr.com/files/docs/2023.1/help_4-4_8.mp4
+
 **Step 1.** Press the menu button on either controller and choose **Camera** from the main menu.
 
 **Step 2.** Grab the camera and place it where you want it.
