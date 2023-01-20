@@ -2,7 +2,7 @@
 
 --- Platform: Quest ---
 
-To access your files from a PC, connection your Quest to your PC with a USB cable.
+To access your files from a PC, connect your Quest to your PC with a USB cable.
 
 Photos taken in Flipside Studio will appear in the following folder:
 
