@@ -18,6 +18,8 @@ Flipside Studio provides one additional way of organizing your recordings, which
 
 To change projects, go to **All Projects** in the main menu and choose a different project or create a new one.
 
+:gif https://www.flipsidexr.com/files/docs/2023.1/help_8-2_1.mp4
+
 ---
 
 Back [[Studio / How tos]]
