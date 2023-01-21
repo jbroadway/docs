@@ -24,7 +24,7 @@ The **Recordings** menu will appear, asking you whether you want to keep or disc
 
 :gif https://www.flipsidexr.com/files/docs/2023.1/help_4-7_4.mp4
 
-You'll see the new recording take a few seconds to save, which also backs it up to the cloud.
+You'll see the new recording take a few seconds to save, which also backs it up to the cloud. 
 
 ---
 
