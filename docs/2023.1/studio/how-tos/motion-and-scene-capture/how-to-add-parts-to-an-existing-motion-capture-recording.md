@@ -14,6 +14,7 @@ A countdown will begin and then Flipside Studio will start recording.
 
 :gif https://www.flipsidexr.com/files/docs/2023.1/help_4-7_2.mp4
 
+
 **Step 4.** When you're done your scene, open the main menu again and choose **Stop Recording**.
 
 :gif https://www.flipsidexr.com/files/docs/2023.1/help_4-7_3.mp4
