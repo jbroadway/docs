@@ -25,7 +25,6 @@ Flipside Studio sorts most assets alphabetically by default except for recording
 Flipside Studio provides one additional way of organizing your recordings, which is through [[studio / concepts / projects]]. Whenever you make a new recording, it will be added to the currently-opened project, which you can see along the top of the **Recordings** menu.
 
 To change projects, go to **All Projects** in the main menu and choose a different project or create a new one.
-
 :gif https://www.flipsidexr.com/files/docs/2023.1/help_8-2_1.mp4
 
 ---
