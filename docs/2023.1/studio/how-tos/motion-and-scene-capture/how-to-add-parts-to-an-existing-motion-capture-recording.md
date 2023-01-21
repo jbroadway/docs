@@ -10,7 +10,7 @@ Here's how to add additional parts to an existing motion capture recording that 
 
 :gif https://www.flipsidexr.com/files/docs/2023.1/help_4-2_1.mp4
 
-
+this should be 471
 :gif https://www.flipsidexr.com/files/docs/2023.1/help_4-7_1.mp4
 
 A countdown will begin and then Flipside Studio will start recording.
