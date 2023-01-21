@@ -6,6 +6,11 @@ Here's how to add additional parts to an existing motion capture recording that 
 
 **Step 2.** Click the **Add New Part** button along the bottom of the menu.
 
+
+
+:gif https://www.flipsidexr.com/files/docs/2023.1/help_4-2_1.mp4
+
+
 :gif https://www.flipsidexr.com/files/docs/2023.1/help_4-7_1.mp4
 
 A countdown will begin and then Flipside Studio will start recording.
