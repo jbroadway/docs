@@ -243,13 +243,14 @@ class Doc {
 			case '/div':
 				return '</div>' . PHP_EOL;
 			case 'gif':
-				if (preg_match ('/\.mp4$/i', $regs[3])) {
-					return '<video autoplay loop muted><source src="' . $regs[3] . '" type="video/mp4" /></video>' . PHP_EOL;
-				} else if (preg_match ('/\.gif$/i', $regs[3])) {
-					return '<img src="' . $regs[3] . '" />' . PHP_EOL;
+				$gif = trim ($regs[3]);
+				if (preg_match ('/\.mp4$/i', $gif)) {
+					return '<video autoplay loop muted><source src="' . $gif . '" type="video/mp4" /></video>' . PHP_EOL;
+				} else if (preg_match ('/\.gif$/i', $gif)) {
+					return '<img src="' . $gif . '" />' . PHP_EOL;
 				}
 			case 'embed':
-				return $GLOBALS['controller']->run ($regs[3]);
+				return $GLOBALS['controller']->run (trim ($regs[3]));
 			default:
 				return '';
 		}
