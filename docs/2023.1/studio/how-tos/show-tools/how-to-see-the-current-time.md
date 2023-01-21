@@ -2,7 +2,7 @@
 
 Sometimes we lose track of time in VR, so Flipside Studio provides a prop you can use to see the current time.
 
-:gif https://www.flipsidexr.com/files/docs/2023.1/help_7-10_1.mp4
+:gif /files/docs/2023.1/help_7-10_1.mp4
 
 **Step 1.** Press the menu button on either controller and choose **Props** from the main menu.
 
