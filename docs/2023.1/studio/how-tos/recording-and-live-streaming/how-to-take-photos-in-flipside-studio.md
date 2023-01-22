@@ -3,7 +3,6 @@
 It's easy to take photos in Flipside Studio.
 
 **Step 1.** Press the menu button on either controller and choose **Camera** from the main menu.
-
 :gif https://www.flipsidexr.com/files/docs/2023.1/help_4-4_1.mp4
 
 This will add a new camera to your scene.
