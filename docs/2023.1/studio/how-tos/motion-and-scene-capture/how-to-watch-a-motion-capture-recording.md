@@ -3,6 +3,7 @@
 Once you've [recorded a motion capture recording in Flipside Studio](/docs/2023.1/studio/how-tos/how-to-make-a-motion-capture-recording), you can play it back using the following steps.
 
 **Step 1.** Press the menu button on either controller and choose **Recordings** from the main menu.
+
 :gif https://www.flipsidexr.com/files/docs/2023.1/help_4-3_1.mp4
 
 This will open the **Recordings** menu with a list of the recordings in the currently opened project.
