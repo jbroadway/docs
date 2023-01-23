@@ -4,11 +4,11 @@ Stand-ins are a unique feature in Flipside Studio that lets you freeze one or mo
 
 **Step 1.** Press the menu button on either controller and choose **Characters** from the main menu.
 
-:gif https://www.flipsidexr.com/files/docs/2023.1/help_2-4_1.mp4
+:gif https://www.flipsidexr.com/files/docs/2023.1/help_2-4_1.mp4
 
 **Step 2.** Click **Pose** in the **Stand-ins** section along the bottom of the menu.
 
-:gif https://www.flipsidexr.com/files/docs/2023.1/help_2-4_2.mp4
+:gif https://www.flipsidexr.com/files/docs/2023.1/help_2-4_2.mp4
 
 There will be a 3-second countdown and then Flipside Studio will capture each user that's in a character. Users that are invisible will be omitted.
 
@@ -16,7 +16,7 @@ There will be a 3-second countdown and then Flipside Studio will capture each us
 
 **Step 4.** Aim your teleporter at one of the stand-ins then press your index finger trigger to teleport to its actor mark position.
 
-:gif https://www.flipsidexr.com/files/docs/2023.1/help_10-3_4.mp4
+:gif https://www.flipsidexr.com/files/docs/2023.1/help_10-3_4.mp4
 
 The stand-in character will disappear and you'll be changed into that character if you weren't already.
 
