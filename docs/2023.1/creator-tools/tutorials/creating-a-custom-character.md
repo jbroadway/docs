@@ -41,7 +41,7 @@ At this point, you should have a basic working character that can be published t
 
 When you're ready to build your character and test it out in Flipside Studio, click the **Build & Publish Character** button on the Creator Tools wizard. Unity will begin the asset bundle build process, which can takes some time to complete, and may take longer the first time. When the build process has completed,  you'll see a progress bar appear under the **Build & Publish Character** button showing how far along you are in uploading and publishing your character.
 
-![Flipside Creator Tools - Build & Publish Character](https://www.flipsidexr.com/files/docs/screenshots/Flipside-Creator-Tools-Build-and-Publish-Chataracter-progress.png)
+:gif https://www.flipsidexr.com/files/docs/2023.1/help_2-7_4.mp4
 
 When that's finished, you will find your character in Flipside Studio under the **Imported Characters** button on the far right of the **Characters** menu categories.
 
