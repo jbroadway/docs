@@ -12,13 +12,11 @@ Flipside Studio lets you create and use [Ready Player Me](https://readyplayer.me
 
 **Step 4.** Click on the tile with the Ready Player Me logo, which will be on the top of the list. The Ready Player Me avatar editor will open in a popup window.
 
-**Step 5.** Click on the **Create a New Avatar** option to begin creating a new avatar.
-
-**Step 6.** Follow the steps to customize your avatar until you're happy with it, then click **Next** to continue.
+**Step 5.** Follow the steps to customize your avatar until you're happy with it, then click **Next** to continue.
 
 Your avatar will begin the import process, which can take 10-20 seconds to complete. When it's ready, you'll see your new avatar added to the top of your imported characters.
 
-**Step 7.** Click on your newly-added avatar to begin using it in Flipside Studio.
+**Step 6.** Click on your newly-added avatar to begin using it in Flipside Studio.
 
 ## Updating an existing avatar
 
