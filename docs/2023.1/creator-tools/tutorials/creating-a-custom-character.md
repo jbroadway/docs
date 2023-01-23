@@ -21,7 +21,7 @@ Character models must be exported in the FBX file format.
 
 3\. Set the **Animation Type** setting to **Humanoid** then click **Apply**.
 
-![Flipside Creator Tools - Set Humanoid](https://www.flipsidexr.com/files/docs/screenshots/1-set-humanoid.png)
+:gif https://www.flipsidexr.com/files/docs/2023.1/help_2-7_1.mp4
 
 4\. Select the character model in Unity's **Project** pane again, then choose **Flipside Creator Tools > Create Character From Selected Model**. Unity will take some time creating and setting up a scene file that will contain your custom character setup.
 
