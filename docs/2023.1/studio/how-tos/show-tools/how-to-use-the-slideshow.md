@@ -6,19 +6,19 @@ Slideshows provide a way to bring a sequence of photos and videos into Flipside 
 
 **Step 1.** Press the menu button on either controller and choose **Props** from the main menu.
 
-:gif https://www.flipsidexr.com/files/docs/2023.1/help_7-6_1.mp4
+:gif https://www.flipsidexr.com/files/docs/2023.1/help_7-6_1.mp4
 
 **Step 2.** Go to **All Props** and choose the **Show Tools** category.
 
 **Step 3.** Find the **Slideshow** prop in the show tools listings and click on it to add it to your set.
 
-:gif https://www.flipsidexr.com/files/docs/2023.1/help_7-6_2.mp4
+:gif https://www.flipsidexr.com/files/docs/2023.1/help_7-6_2.mp4
 
 **Step 4.** Place the slideshow where you want it to appear on set.
 
 **Step 5.** Reopen the **Props** menu and find the **Slideshow Controller** prop which is also in the **Show Tools** category. Click it to add it to your set as well.
 
-:gif https://www.flipsidexr.com/files/docs/2023.1/help_7-6_3.mp4
+:gif https://www.flipsidexr.com/files/docs/2023.1/help_7-6_3.mp4
 
 The slideshow controller lets you control the slideshow, while the regular slideshow prop lets you control where the slideshow appears on your set. You can place as many slideshow props on your set as you need.
 
