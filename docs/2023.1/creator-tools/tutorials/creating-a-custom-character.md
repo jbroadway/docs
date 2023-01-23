@@ -31,7 +31,7 @@ Character models must be exported in the FBX file format.
 
 6\. Select the root object in Unity's **Hierarchy** pane, then look at the **Inspector** pane and find the **AvatarModelReferences** component. This is where you can configure most aspects of your character, from its name and thumbnail shown in Flipside Studio to its facial expressions and more.
 
-![Flipside Creator Tools - AvatarModelReferences](https://www.flipsidexr.com/files/docs/screenshots/Flipside-Creator-Tools-AvatarModelReferences.png)
+:gif https://www.flipsidexr.com/files/docs/2023.1/help_2-7_3.mp4
 
 > Note: There are many configuration options, which you can find in other [[creator tools / tutorials]] on things like [[: mapping facial expressions]], [[: changing the scale of a character]], or [[: adding movement to hair, cloth, and tails]].
 
