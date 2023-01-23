@@ -1,6 +1,6 @@
 # How to take photos in Flipside Studio
 
-TEST - It's easy to take photos in Flipside Studio.
+It's easy to take photos in Flipside Studio.
 
 **Step 1.** Press the menu button on either controller and choose **Camera** from the main menu.
 
