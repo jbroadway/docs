@@ -8,7 +8,7 @@ Flipside Studio includes a few post-processing effects that can be applied to th
 
 **Step 2.** Click on the settings icon along the bottom of the screen. It looks like a little gear icon.
 
-:gif https://www.flipsidexr.com/files/docs/2023.1/help_12-1_1.mp4
+:gif https://www.flipsidexr.com/files/docs/2023.1/help_12-1_1.mp4
 
 Under the **General** tab, you'll find the following post-processing options:
 
@@ -17,7 +17,7 @@ Under the **General** tab, you'll find the following post-processing options:
 
 Under the **Output** tab, you'll find the following post-processing options:
 
-:gif https://www.flipsidexr.com/files/docs/2023.1/help_12-1_2.mp4
+:gif https://www.flipsidexr.com/files/docs/2023.1/help_12-1_2.mp4
 
 - **Bloom filter** - This effect produces fringes of light extending from the borders of bright areas in your scene, creating the illusion of brightness overwhelming the camera. Options include: low, medium, and high intensity.
 - **Ambient occlusion filter** - This effect adds shading to more accurately reflect how much light is hitting each object or surface in a scene. Options include: low, medium, and high intensity.
