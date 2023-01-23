@@ -33,7 +33,7 @@ Character models must be exported in the FBX file format.
 
 :gif https://www.flipsidexr.com/files/docs/2023.1/help_2-7_3.mp4
 
-> Note: There are many configuration options, which you can find in other [[creator tools / tutorials]] on things like [[: mapping facial expressions]], [[: changing the scale of a character]], or [[: adding movement to hair, cloth, and tails]].
+> **Note**: There are many configuration options, which you can find in other [[creator tools / tutorials]] on things like [[: mapping facial expressions]], [[: changing the scale of a character]], or [[: adding movement to hair, cloth, and tails]].
 
 At this point, you should have a basic working character that can be published to Flipside Studio or previewed in the Unity editor. To test it out, try pressing play and looking at your character in VR. See the section below on [testing your character before publishing](#testing-your-character-before-publishing) for info on inputs options for testing your character.
 
