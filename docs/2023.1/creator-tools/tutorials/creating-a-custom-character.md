@@ -27,7 +27,7 @@ Character models must be exported in the FBX file format.
 
 5\. When the **Import Options** popup appears you can configure your body physics collider options then click **Generate Colliders & Import**. Don't worry too much about what you choose for now, you can re-run this later if you change your mind or want to try the other options.
 
-![Flipside Creator Tools - Import Options](https://www.flipsidexr.com/files/docs/screenshots/Flipside-Creator-Tools-import-options.png)
+:gif https://www.flipsidexr.com/files/docs/2023.1/help_2-7_2.mp4
 
 6\. Select the root object in Unity's **Hierarchy** pane, then look at the **Inspector** pane and find the **AvatarModelReferences** component. This is where you can configure most aspects of your character, from its name and thumbnail shown in Flipside Studio to its facial expressions and more.
 
