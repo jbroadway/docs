@@ -22,8 +22,6 @@ Flipside Studio lets you create and use [Ready Player Me](https://readyplayer.me
 
 Your avatar will begin the import process, which can take 10-20 seconds to complete. When it's ready, you'll automatically become that character.  Your Ready Player Me avatar will be added to the **Imported** category as 'Ready Player Me Avatar'.
 
-**Step 6.** Click on your newly-added avatar to begin using it in Flipside Studio.
-
 ## Updating an existing avatar
 
 **Step 1.** Press the menu button on either controller and choose **Characters** from the main menu.
