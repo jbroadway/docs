@@ -56,7 +56,7 @@ To resize a prop, grab the prop with both hands then **move your hands closer to
 
 The teleporter enables you to move beyond your tracking space in order to move anywhere on a set.
 
-:gif https://www.flipsidexr.com/files/docs/gifs/teleporting.mp4
+:gif https://www.flipsidexr.com/files/docs/2023.1/help_1-3_1_web-edit.mp4
 
 :table style="width: 25%"
 	![Right joystick](https://www.flipsidexr.com/files/docs/graphics/Oculus-touch_R-joystick.png)
@@ -73,7 +73,7 @@ If you decide to cancel teleporting, simply **release the joystick** without pre
 :endtable
 
 :table style="width: 25%"
-	![Teleporter arrow](https://www.flipsidexr.com/files/docs/graphics/teleport-arrow.png)
+	![Teleporter arrow](https://www.flipsidexr.com/files/docs/2023.1/teleporter_v1.png)
 :col style="width: 5%"
 	:nbsp
 :col style="width: 70%; vertical-align: middle"
@@ -83,6 +83,8 @@ Change the direction you'll be facing after teleporting by **moving the joystick
 :endtable
 
 ## Facial expressions
+
+:gif https://www.flipsidexr.com/files/docs/2023.1/help_2-5_1.mp4
 
 :table style="width: 25%"
 	![Left joystick](https://www.flipsidexr.com/files/docs/graphics/Oculus-touch_L-joystick.png)
@@ -155,7 +157,7 @@ To resize a prop, grab the prop with both hands then **move your hands closer to
 
 The teleporter enables you to move beyond your tracking space in order to move anywhere on a set.
 
-:gif https://www.flipsidexr.com/files/docs/gifs/teleporting.mp4
+:gif https://www.flipsidexr.com/files/docs/2023.1/help_1-3_1_web-edit.mp4
 
 :table style="width: 25%"
 	![Right joystick](https://www.flipsidexr.com/files/docs/graphics/Oculus-touch_R-joystick.png)
@@ -172,7 +174,7 @@ If you decide to cancel teleporting, simply **release the joystick** without pre
 :endtable
 
 :table style="width: 25%"
-	![Teleporter arrow](https://www.flipsidexr.com/files/docs/graphics/teleport-arrow.png)
+	![Teleporter arrow](https://www.flipsidexr.com/files/docs/2023.1/teleporter_v1.png)
 :col style="width: 5%"
 	:nbsp
 :col style="width: 70%; vertical-align: middle"
@@ -182,6 +184,8 @@ Change the direction you'll be facing after teleporting by **moving the joystick
 :endtable
 
 ## Facial expressions
+
+:gif https://www.flipsidexr.com/files/docs/2023.1/help_2-5_1.mp4
 
 :table style="width: 25%"
 	![Left joystick](https://www.flipsidexr.com/files/docs/graphics/Oculus-touch_L-joystick.png)
@@ -234,7 +238,7 @@ To press a button, **point your index finger with the controller in hand and pre
 
 The teleporter enables you to move beyond your tracking space in order to move anywhere on a set.
 
-:gif https://www.flipsidexr.com/files/docs/gifs/teleporting.mp4
+:gif https://www.flipsidexr.com/files/docs/2023.1/help_1-3_1_web-edit.mp4
 
 :table style="width: 25%"
 	![Right thumbpad](https://www.flipsidexr.com/files/docs/graphics/Vive_joystick.png)
@@ -251,7 +255,7 @@ If you decide to cancel teleporting, simply **release the thumbpad** without pre
 :endtable
 
 :table style="width: 25%"
-	![Teleporter arrow](https://www.flipsidexr.com/files/docs/graphics/teleport-arrow.png)
+	![Teleporter arrow](https://www.flipsidexr.com/files/docs/2023.1/teleporter_v1.png)
 :col style="width: 5%"
 	:nbsp
 :col style="width: 70%; vertical-align: middle"
@@ -261,6 +265,8 @@ Change the direction you'll be facing after teleporting by **moving the thumbpad
 :endtable
 
 ## Facial expressions
+
+:gif https://www.flipsidexr.com/files/docs/2023.1/help_2-5_1.mp4
 
 :table style="width: 25%"
 	![Left thumbpad](https://www.flipsidexr.com/files/docs/graphics/Vive_joystick.png)
