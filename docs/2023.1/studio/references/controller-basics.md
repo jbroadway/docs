@@ -7,11 +7,11 @@
 To pick up a prop, place either hand over the prop and **squeeze the grip/lower trigger button on the controller.**
 
 :table
-	![Left controller](https://www.flipsidexr.com/files/docs/graphics/Oculus-touch_L-grip.png)
+	![Left controller](https://www.flipsidexr.com/files/docs/2023.1/Quest-Rift-S_L-grip.png)
 :col
 	<div class="center middle"><b>or</b></div>
 :col
-	![Right controller](https://www.flipsidexr.com/files/docs/graphics/Oculus-touch_R-grip.png)
+	![Right controller](https://www.flipsidexr.com/files/docs/2023.1/Quest-Rift-S_R-grip.png)
 :endtable
 
 ## Selecting an item / using an prop
@@ -21,35 +21,35 @@ To select a menu item, **squeeze the index trigger** while pointing at the item.
 To use a prop (for example, to draw with the magic pencil prop), **squeeze the index trigger** while holding the prop.
 
 :table
-	![Left controller](https://www.flipsidexr.com/files/docs/graphics/Oculus-touch_L-trigger_L-grip.png)
+	![Left controller](https://www.flipsidexr.com/files/docs/2023.1/Quest-Rift-S_L-grip_then_L-trigger.png)
 :col
 	<div class="center middle"><b>or</b></div>
 :col
-	![Right controller](https://www.flipsidexr.com/files/docs/graphics/Oculus-touch_R-trigger-f_R-grip.png)
+	![Right controller](https://www.flipsidexr.com/files/docs/2023.1/Quest-Rift-S_R-grip_then_R-trigger.png)
 :endtable
 
 ## Pressing buttons
 
 To press a button, **point your index finger with the controller in hand and press the virtual button** in the same way you would in the real world.
 
-:table
+<!-- :table
 	![Point left](https://www.flipsidexr.com/files/docs/graphics/Oculus-touch_L-point.png)
 :col
 	<div class="center middle"><b>or</b></div>
 :col
 	![Point right](https://www.flipsidexr.com/files/docs/graphics/Oculus-touch_R-point.png)
-:endtable
+:endtable -->
 
 ## Resizing props
 
 To resize a prop, grab the prop with both hands then **move your hands closer together or further apart** to resize the prop.
 
 :table
-	![Left controller](https://www.flipsidexr.com/files/docs/graphics/Oculus-touch_L-grip.png)
+	![Left controller](https://www.flipsidexr.com/files/docs/2023.1/Quest-Rift-S_L-grip.png)
 :col
 	<div class="center middle"><b>and</b></div>
 :col
-	![Right controller](https://www.flipsidexr.com/files/docs/graphics/Oculus-touch_R-grip.png)
+	![Right controller](https://www.flipsidexr.com/files/docs/2023.1/Quest-Rift-S_R-grip.png)
 :endtable
 
 ## Teleporting
@@ -59,7 +59,7 @@ The teleporter enables you to move beyond your tracking space in order to move a
 :gif https://www.flipsidexr.com/files/docs/2023.1/help_1-3_1_web-edit.mp4
 
 :table style="width: 25%"
-	![Right joystick](https://www.flipsidexr.com/files/docs/graphics/Oculus-touch_R-joystick.png)
+	![Right joystick](https://www.flipsidexr.com/files/docs/2023.1/Quest-Rift-S_R-joystick.png)
 :col style="width: 5%"
 	:nbsp
 :col style="width: 70%; vertical-align: middle"
@@ -87,7 +87,7 @@ Change the direction you'll be facing after teleporting by **moving the joystick
 :gif https://www.flipsidexr.com/files/docs/2023.1/help_2-5_1.mp4
 
 :table style="width: 25%"
-	![Left joystick](https://www.flipsidexr.com/files/docs/graphics/Oculus-touch_L-joystick.png)
+	![Left joystick](https://www.flipsidexr.com/files/docs/2023.1/Quest-Rift-S_L-joystick.png)
 :col style="width: 5%"
 	:nbsp
 :col style="width: 70%; vertical-align: middle"
@@ -108,11 +108,11 @@ To control the facial expressions of your character, use the **left hand joystic
 To pick up a prop, place either hand over the prop and **squeeze the grip/lower trigger button on the controller.**
 
 :table
-	![Left controller](https://www.flipsidexr.com/files/docs/graphics/Oculus-touch_L-grip.png)
+	![Left controller](https://www.flipsidexr.com/files/docs/2023.1/Quest-Rift-S_L-grip.png)
 :col
 	<div class="center middle"><b>or</b></div>
 :col
-	![Right controller](https://www.flipsidexr.com/files/docs/graphics/Oculus-touch_R-grip.png)
+	![Right controller](https://www.flipsidexr.com/files/docs/2023.1/Quest-Rift-S_R-grip.png)
 :endtable
 
 ## Selecting an item / using an prop
@@ -122,35 +122,35 @@ To select a menu item, **squeeze the index trigger** while pointing at the item.
 To use a prop (for example, to draw with the magic pencil prop), **squeeze the index trigger** while holding the prop.
 
 :table
-	![Left controller](https://www.flipsidexr.com/files/docs/graphics/Oculus-touch_L-trigger_L-grip.png)
+	![Left controller](https://www.flipsidexr.com/files/docs/2023.1/Quest-Rift-S_L-grip_then_L-trigger.png)
 :col
 	<div class="center middle"><b>or</b></div>
 :col
-	![Right controller](https://www.flipsidexr.com/files/docs/graphics/Oculus-touch_R-trigger-f_R-grip.png)
+	![Right controller](https://www.flipsidexr.com/files/docs/2023.1/Quest-Rift-S_R-grip_then_R-trigger.png)
 :endtable
 
 ## Pressing buttons
 
 To press a button, **point your index finger with the controller in hand and press the virtual button** in the same way you would in the real world.
 
-:table
+<!-- :table
 	![Point left](https://www.flipsidexr.com/files/docs/graphics/Oculus-touch_L-point.png)
 :col
 	<div class="center middle"><b>or</b></div>
 :col
 	![Point right](https://www.flipsidexr.com/files/docs/graphics/Oculus-touch_R-point.png)
-:endtable
+:endtable -->
 
 ## Resizing props
 
 To resize a prop, grab the prop with both hands then **move your hands closer together or further apart** to resize the prop.
 
 :table
-	![Left controller](https://www.flipsidexr.com/files/docs/graphics/Oculus-touch_L-grip.png)
+	![Left controller](https://www.flipsidexr.com/files/docs/2023.1/Quest-Rift-S_L-grip.png)
 :col
 	<div class="center middle"><b>and</b></div>
 :col
-	![Right controller](https://www.flipsidexr.com/files/docs/graphics/Oculus-touch_R-grip.png)
+	![Right controller](https://www.flipsidexr.com/files/docs/2023.1/Quest-Rift-S_R-grip.png)
 :endtable
 
 ## Teleporting
@@ -160,7 +160,7 @@ The teleporter enables you to move beyond your tracking space in order to move a
 :gif https://www.flipsidexr.com/files/docs/2023.1/help_1-3_1_web-edit.mp4
 
 :table style="width: 25%"
-	![Right joystick](https://www.flipsidexr.com/files/docs/graphics/Oculus-touch_R-joystick.png)
+	![Right joystick](https://www.flipsidexr.com/files/docs/2023.1/Quest-Rift-S_R-joystick.png)
 :col style="width: 5%"
 	:nbsp
 :col style="width: 70%; vertical-align: middle"
@@ -188,7 +188,7 @@ Change the direction you'll be facing after teleporting by **moving the joystick
 :gif https://www.flipsidexr.com/files/docs/2023.1/help_2-5_1.mp4
 
 :table style="width: 25%"
-	![Left joystick](https://www.flipsidexr.com/files/docs/graphics/Oculus-touch_L-joystick.png)
+	![Left joystick](https://www.flipsidexr.com/files/docs/2023.1/Quest-Rift-S_L-joystick.png)
 :col style="width: 5%"
 	:nbsp
 :col style="width: 70%; vertical-align: middle"
