@@ -6,13 +6,19 @@
 
 Flipside Studio's main entry point into its menus is through the main menu, which can be opened and closed by pressing the **A or X button** on your controller.
 
+:gif https://www.flipsidexr.com/files/docs/2023.1/help_1-2_1.mp4
+
 --- Platform: Rift ---
 
 Flipside Studio's main entry point into its menus is through the main menu, which can be opened and closed by pressing the **A or X button** on your controller.
 
+:gif https://www.flipsidexr.com/files/docs/2023.1/help_1-2_1.mp4
+
 <!-- --- Platform: SteamVR ---
 
 Flipside Studio's main entry point into its menus is through the main menu, which can be opened and closed by pressing the **application menu button** on either controller.
+
+:gif https://www.flipsidexr.com/files/docs/2023.1/help_1-2_1.mp4
 
 --- /Platform ---
 
