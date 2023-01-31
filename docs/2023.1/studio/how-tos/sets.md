@@ -10,8 +10,6 @@
 
 [[> How to rename a setup of a set]]
 
-[[> How to find and use community-created sets]]
-
 [[> How to create and import your own sets]]
 
 ---
