@@ -27,8 +27,7 @@ The following camera settings can be adjusted by going to the **Settings** tab o
 
 ## Camera switcher
 
-Other settings:
-
+- **Start/Stop Cast** - Starts or stops casting your camera output to the Flipside Broadcaster.
 - **Show UI** - Show/hide user interface elements from the cameras.
 
 Features:
@@ -72,6 +71,7 @@ OBS settings:
 
 Other settings:
 
+- **Start/Stop Cast** - Starts or stops casting your camera output to the Flipside Broadcaster.
 - **Show UI** - Show/hide user interface elements from the cameras.
 
 Features:
