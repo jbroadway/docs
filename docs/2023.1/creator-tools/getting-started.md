@@ -25,7 +25,7 @@ If you're upgrading an existing Flipside Creator Tools project from an older ver
 
 To create a Flipside account, you need to install and launch [Flipside Studio](https://www.flipsidexr.com/get-flipside) through Oculus Home or SteamVR and enter your email address to register for an account.
 
-![Flipside Creator Tools - Sign Into Flipside Account](https://www.flipsidexr.com/files/docs/screenshots/Flipside-Creator-Tools-Sign-Into-Flipside-Account-from-Creator-Tools-window.png)
+![Flipside Creator Tools - Sign Into Flipside Account](https://www.flipsidexr.com/files/docs/2023.1/CT_sign-in.png)
 
 1. Click the **Sign Into Flipside Account** button in the Creator Tools wizard, or navigate to **Flipside Creator Tools > Sign Into Flipside Account** in the top-level menu.
 2. Enter the email address and password associated with your Flipside account in the sign in popup window and click **Sign In**.
@@ -38,7 +38,7 @@ The Flipside Creator Tools user interface is primarily made up of 3 elements:
 
 ### 1. The Flipside Creator Tools menu
 
-![Flipside Creator Tools menu](https://www.flipsidexr.com/files/docs/2023.1/CT_sign-in.png)
+![Flipside Creator Tools menu](https://www.flipsidexr.com/files/docs/2023.1/CT_tab.png)
 
 ### 2\. The Flipside Creator Tools wizard
 
