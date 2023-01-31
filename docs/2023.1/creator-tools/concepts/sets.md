@@ -4,6 +4,8 @@ Flipside Creator Tools can be used to import complete Unity scenes for use as vi
 
 Scenes are then exported as [[:asset bundles]] for uploading to your account through the Flipside XR website.
 
+>**Note**:  Note: For a full video walk through, visit [Bring Your Own Set into Flipside Studio](https://youtu.be/NRZVqk6wswc).
+
 ## Components
 
 Components are Unity's way of adding custom functionality to an object in a scene. Objects will often have certain common components already configured for you, such as the **MeshRenderer** component which makes your objects visible to cameras in the scene and determines how to apply material properties to them.
