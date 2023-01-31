@@ -4,6 +4,8 @@ Flipside Creator Tools can be used to import custom characters into Flipside Stu
 
 Character models are converted to Unity scenes, which you can then test and configure to your liking, before being exported as [[:asset bundles]] for uploading to your account through the Flipside XR website.
 
+> **Note**: For a full video walk through, visit Bring Your Own Character into Flipside Studio.
+
 ## Rigged models
 
 In order to work in Flipside Studio, characters must be properly rigged using a humanoid skeletal setup which maps to Unity's [humanoid animation system](https://docs.unity3d.com/Manual/UsingHumanoidChars.html). If you have a character that is not rigged, or is in an alternate file format such as OBJ, you can try using Adobe [Mixamo](https://www.mixamo.com/#/) to convert it to a rigged model for you.
