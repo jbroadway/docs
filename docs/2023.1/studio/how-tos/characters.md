@@ -12,8 +12,6 @@
 
 [[> How to use Ready Player Me avatars in Flipside Studio]]
 
-<!-- [[> How to find and use community-created characters]] -->
-
 [[> How to create and import your own characters]]
 
 ---
