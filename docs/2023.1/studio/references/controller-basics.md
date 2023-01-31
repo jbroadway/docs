@@ -32,14 +32,6 @@ To use a prop (for example, to draw with the magic pencil prop), **squeeze the i
 
 To press a button, **point your index finger with the controller in hand and press the virtual button** in the same way you would in the real world.
 
-<!--:table
-	![Point left](https://www.flipsidexr.com/files/docs/graphics/Oculus-touch_L-point.png)
-:col
-	<div class="center middle"><b>or</b></div>
-:col
-	![Point right](https://www.flipsidexr.com/files/docs/graphics/Oculus-touch_R-point.png)
-:endtable -->
-
 ## Resizing props
 
 To resize a prop, grab the prop with both hands then **move your hands closer together or further apart** to resize the prop.
@@ -132,14 +124,6 @@ To use a prop (for example, to draw with the magic pencil prop), **squeeze the i
 ## Pressing buttons
 
 To press a button, **point your index finger with the controller in hand and press the virtual button** in the same way you would in the real world.
-
-<!-- :table
-	![Point left](https://www.flipsidexr.com/files/docs/graphics/Oculus-touch_L-point.png)
-:col
-	<div class="center middle"><b>or</b></div>
-:col
-	![Point right](https://www.flipsidexr.com/files/docs/graphics/Oculus-touch_R-point.png)
-:endtable -->
 
 ## Resizing props
 
