@@ -4,7 +4,7 @@ Flipside Creator Tools can be used to import custom characters into Flipside Stu
 
 Character models are converted to Unity scenes, which you can then test and configure to your liking, before being exported as [[:asset bundles]] for uploading to your account through the Flipside XR website.
 
-> **Note**: For a full video walk through, visit Bring Your Own Character into Flipside Studio.
+> **Note**: For a full video walk through, visit Bring Your Own Characters into Flipside Studio.
 
 ## Rigged models
 
