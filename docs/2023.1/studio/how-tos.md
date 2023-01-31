@@ -72,8 +72,6 @@ The following pages are meant to help guide you through various aspects of the F
 
 [[> Characters / How to use Ready Player Me avatars in Flipside Studio]]
 
-<!-- [[> Characters / How to find and use community-created characters]] -->
-
 [[> Characters / How to create and import your own characters]]
 
 ## Sets
@@ -82,15 +80,11 @@ The following pages are meant to help guide you through various aspects of the F
 
 [[> Sets / How to move and scale a set]]
 
-[[> Sets / How to load custom skies (360 photos and videos)]]
-
 [[> Sets / How to save multiple setups of a set]]
 
 [[> Sets / How to load different setups of a set]]
 
 [[> Sets / How to rename a setup of a set]]
-
-[[> Sets / How to find and use community-created sets]]
 
 [[> Sets / How to create and import your own sets]]
 
@@ -107,8 +101,6 @@ The following pages are meant to help guide you through various aspects of the F
 [[> Props / How to delete a prop]]
 
 [[> Props / How to draw your own props with the Magic Pencil]]
-
-<!-- [[> Props / How to find and use community-created props]] -->
 
 [[> Props / How to create and import your own props]]
 
