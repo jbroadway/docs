@@ -1,14 +1,17 @@
 # Puppeteering
 
-**----- INSERT GIF OF PUPPET -----**
-
 You'll find the puppet feature under the **Puppet** option in the main menu.
 
 The puppet will only work while you're in character.
 
 When selected, a puppet prop will appear in front of your hand.
 
+:gif https://www.flipsidexr.com/files/docs/2023.1/help_10-4_1.mp4
+
 Grab it and squeeze the **index trigger** to enter puppet mode. Release the index trigger to exit puppet mode and return to first-person control of your character.
+
+
+:gif https://www.flipsidexr.com/files/docs/2023.1/help_10-4_2.mp4
 
 Let go of the puppet and it will disappear, but you can always get it again from the main menu.
 
