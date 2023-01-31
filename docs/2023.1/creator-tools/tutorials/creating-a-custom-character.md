@@ -13,7 +13,7 @@ Character models must be exported in the FBX file format.
 
 ## Importing your character
 
-> **Note**: For a full video walk through, visit [Bring Your Own Character into Flipside Studio](https://youtu.be/LwEqmwfnu9U).
+> **Note**: For a full video walk through, visit [Bring Your Own Characters into Flipside Studio](https://youtu.be/LwEqmwfnu9U).
 
 1\. Import your character's 3D model by dragging the FBX file into your Unity project's **Project** pane.
 
