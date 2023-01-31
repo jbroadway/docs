@@ -12,9 +12,9 @@ Rigging is a deep topic in 3D modelling. [Click here to learn more about rigging
 
 ## Animating faces
 
-Flipside Creator Tools supports several methods of animating faces. In Flipside Studio, these are animated automatically as you talk by analyzing your voice's audio. 
+Flipside Creator Tools supports several methods of animating faces. In Flipside Studio, these are animated automatically as you talk by analyzing your voice's audio.
 
-(https://www.flipsidexr.com/files/docs/2023.1/CT_expression-types.png) 
+![Flipside Creator Tools - Expression types](https://www.flipsidexr.com/files/docs/2023.1/CT_expression-types.png) 
 
 Methods of setting up a face to be animated include:
 
