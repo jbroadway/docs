@@ -2,19 +2,19 @@
 
 The following tutorials guide you through using the [Flipside Creator Tools](/docs/2021.1/creator-tools) to import your own sets into Flipside.
 
-- [Importing custom sets into Flipside](#importing-custom-sets-into-flipside)
+- [Bring your own sets into Flipside Studio](#bring-your-own-sets-into-flipside-studio)
 - [Set optimization - baked lighting](#set-optimization-baked-lighting)
 
-## Importing custom sets into Flipside
+## Bring your own sets into Flipside
 
-<div class="video-wrapper"><iframe width="100%" height="100%" src="https://www.youtube.com/embed/a-ViEHehso8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
+<div class="video-wrapper"><iframe width="100%" height="100%" src="https://www.youtube.com/embed/NRZVqk6wswc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
 
 :nbsp
 ## Set optimization - baked lighting
 
 <div class="video-wrapper"><iframe width="100%" height="100%" src="https://www.youtube.com/embed/4dRl6D8WBpU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
 
-:nbsp
+<!-- :nbsp
 
 <div class="video-wrapper"><iframe width="100%" height="100%" src="https://www.youtube.com/embed/d848f4kijoM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
 
@@ -26,7 +26,7 @@ The following tutorials guide you through using the [Flipside Creator Tools](/do
 
 <div class="video-wrapper"><iframe width="100%" height="100%" src="https://www.youtube.com/embed/UjcEawCV60Y" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
 
-:nbsp
+:nbsp -->
 
 ---
 
