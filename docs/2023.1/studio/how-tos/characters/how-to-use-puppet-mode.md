@@ -14,6 +14,8 @@ Puppet mode is a feature that lets you control a character's body with your hand
 
 **Step 4.** Let go of the virtual puppet to exit puppet mode.
 
+:gif https://www.flipsidexr.com/files/docs/2023.1/help_10-4_3.mp4
+
 While puppeting, your hand controls the body of your character but your mouth and joystick continue to animate the character's face. The hand that isn't controlling the body controls the movements of both of the character's hands at the same time while active.
 
 ---
