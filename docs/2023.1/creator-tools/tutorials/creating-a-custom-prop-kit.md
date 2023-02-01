@@ -48,7 +48,7 @@ When you're ready to build your prop kit and test it out in Flipside Studio, ope
 
 Click the **Build & Publish Prop Kit** button on the Creator Tools wizard. Unity will begin the asset bundle build process, which can takes some time to complete, and may take longer the first time. When the build process has completed,  you'll see a progress bar appear under the **Build & Publish Prop Kit** button showing how far along you are in uploading and publishing your prop kit.
 
-![Flipside Creator Tools - Build & Publish Prop Kit](https://www.flipsidexr.com/files/docs/screenshots/build-and-publish-prop-kit.png)
+![Flipside Creator Tools - Build & Publish Prop Kit](https://www.flipsidexr.com/files/docs/2023.1/CT_prop-kit-window.png)
 
 When that's finished, you can find your cube prop in Flipside Studio under the **Imported** category of the **Props** menu.
 
