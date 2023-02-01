@@ -10,7 +10,11 @@ Once you've created a saved setup (see: [[: how to save multiple setups of a set
 
 **Step 4.** Click on the **Rename** icon next to the setup you'd like to rename.
 
+:gif https://www.flipsidexr.com/files/docs/2023.1/help_3-6_1.mp4
+
 **Step 5.** Edit the name using the keyboard that pops up, then click **Confirm** when you're done entering the new name.
+
+:gif https://www.flipsidexr.com/files/docs/2023.1/help_3-6_2.mp4
 
 Your setup will be renamed moving forward.
 
