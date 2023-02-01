@@ -6,6 +6,8 @@ For actors while in character, the ways to move around are either to walk around
 
 **Step 1.** Make sure you're invisible by pressing the menu button on either controller and making sure the **Visibility** button is highlighted green. Click the button to toggle it if it's not highlighted green.
 
+:gif https://www.flipsidexr.com/files/docs/2023.1/help_1-2_12.mp4
+
 **Step 2.** To change the scale of the set, press and hold the grab button on both controllers then move your hands closer together. This is how you can shrink or expand the set down around you.
 
 > **Tip**: You can get back to 1:1 scale at any time by teleporting anywhere on the set.
