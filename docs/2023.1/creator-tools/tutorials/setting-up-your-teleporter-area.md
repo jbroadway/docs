@@ -18,7 +18,7 @@ When you mark an object as an interactive prop by adding the **PropElement** com
 
 To ignore other objects that are not interactive, add the **Nav Mesh Modifier** component and check the **Ignore From Build** checkbox. Note that this means you will be able to teleport over these objects as if they're not there, potentially causing your characters to appear inside of these objects.
 
-![NavMesh Modifier](https://www.flipsidexr.com/files/docs/screenshots/nav-mesh-modifier.png)
+![NavMesh modifier](https://www.flipsidexr.com/files/docs/2023.1/CT_nav-mesh-modifier.png)
 
 ### Excluding objects from the teleport area
 
@@ -26,7 +26,7 @@ Unity's NavMesh system will by default assume that you wish to be able to telepo
 
 To exclude an object from the teleporter area, add the **Nav Mesh Obstacle** component and check the **Carve** checkbox. This will carve out the area of that object from the teleporter so you can't teleport into or onto it.
 
-![NavMesh Obstacle](https://www.flipsidexr.com/files/docs/screenshots/nav-mesh-obstacle.png)
+![NavMesh Obstacle](https://www.flipsidexr.com/files/docs/2023.1/CT_nav-mesh-obstacle.png)
 
 ---
 
