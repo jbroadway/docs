@@ -6,11 +6,9 @@ For actors while in character, the ways to move around are either to walk around
 
 **Step 1.** Make sure you're invisible by pressing the menu button on either controller and making sure the **Visibility** button is highlighted green. Click the button to toggle it if it's not highlighted green.
 
-> Tip: When the Props menu is open, you'll automatically become invisible since this puts the set into a "build mode" for manipulating props.
-
 **Step 2.** To change the scale of the set, press and hold the grab button on both controllers then move your hands closer together. This is how you can shrink or expand the set down around you.
 
-> Tip: You can get back to 1:1 scale at any time by teleporting anywhere on the set.
+> **Tip**: You can get back to 1:1 scale at any time by teleporting anywhere on the set.
 
 **Step 3.** Continuing to grab the set, rotate your hands around each other in a circular motion parallel to the floor. This is how you can rotate the set.
 
