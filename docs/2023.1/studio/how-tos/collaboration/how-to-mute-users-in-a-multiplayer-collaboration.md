@@ -8,6 +8,8 @@ There are times in a collaboration where you might not want everyone's voice to 
 
 **Step 3.** Choose **Mute** from the dropdown options.
 
+:gif https://www.flipsidexr.com/files/docs/2023.1/help_5-7_1.mp4
+
 **Step 4.** Choose **Unmute** from the dropdown options to unmute the user.
 
 > Note: If you mute yourself, it will mute you to everyone else in the multiplayer session. If you mute someone else, it will only mute them for you but not for everyone else.
