@@ -12,6 +12,8 @@ There are two ways of interacting with a prop:
 
 **Step 4.** Press and hold your grab button to grab the prop and move it around with your hand.
 
+:gif https://www.flipsidexr.com/files/docs/2023.1/help_7-14_1.mp4
+
 ## 2. Triggering prop effects
 
 Some props have special effects that happen when you press your index finger trigger while holding them.
@@ -23,6 +25,8 @@ Some props have special effects that happen when you press your index finger tri
 **Step 3.** Close the Props menu.
 
 **Step 4.** Grab the Magic Pencil prop then, while holding it, press your index finger trigger to begin drawing.
+
+:gif https://www.flipsidexr.com/files/docs/2023.1/help_7-15_2.mp4
 
 Learn more about [[: how to draw your own props with the Magic Pencil]] or keep going with [[: how to resize props]].
 
