@@ -62,7 +62,7 @@ To exclude an object from the teleport area, add a **Nav Mesh Modifier** compone
 in the **Inspector** window and make sure the **Ignore From Build** checkbox is checked. Make sure
 to re-bake the NavMesh changes in order to see the change applied.
 
-![NavMesh modifier](https://www.flipsidexr.com/files/docs/screenshots/navmesh-modifier.png)
+![NavMesh modifier](https://www.flipsidexr.com/files/docs/2023.1/CT_nav-mesh-modifier.png)
 
 You can read all about Unity's [NavMesh feature here](https://docs.unity3d.com/Manual/NavMesh-BuildingComponents.html).
 
@@ -95,7 +95,7 @@ your sets look to a great degree, but not every lighting setting will import int
 Here are the lighting settings, found on the **Set Info** component on the root set object in your
 scene hierarchy:
 
-![SetInfo component](https://www.flipsidexr.com/files/docs/screenshots/setinfo-component.png)
+![SetInfo component](https://www.flipsidexr.com/files/docs/2023.1/CT_set-info.png)
 
 #### Sky ID
 
