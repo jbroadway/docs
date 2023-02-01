@@ -10,10 +10,6 @@ Flipside Studio includes dozens of built-in props for getting started quickly. Y
 
 The first category of props are called **Show Tools**, which are aimed at helping directors and actors produce the show. These include things like the teleprompter, camera switcher, camera, light, preview monitor, slideshow, and actor mark.
 
-### Skies
-
-The **Skies** category is another special category, which contains a list of available skies. Outdoor sets can go from day to night just by changing the sky.
-
 ### Imported props
 
 Imported props are also found under the **Props** menu, under the **Imported** category.
