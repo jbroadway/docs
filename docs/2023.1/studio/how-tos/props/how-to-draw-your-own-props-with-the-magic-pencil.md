@@ -8,13 +8,13 @@ The Magic Pencil is a special prop in Flipside Studio that lets you draw in 3D. 
 
 **Step 3.** Close the Props menu.
 
-**Step 4.** Grab the Magic Pencil prop then, while holding it, press your index finger trigger to begin drawing.
+**Step 4.** Grab the Magic Pencil prop then, while holding it, use your joystick to change the colour that you're drawing with.
 
-**Step 5.** Use your joystick while holding the Magic Pencil to change the colour that you're drawing with.
+**Step 5.** Press your index finger trigger to begin drawing.
 
 **Step 6.** Grab your drawing and see that you can move it around. You've now made your own simple prop using the Magic Pencil.
 
-> Tip: If you grab a drawing or share the Magic Pencil with another user, the next time anyone draws with the Magic Pencil will start a new drawing.
+> **Tip**: If you grab a drawing or share the Magic Pencil with another user, the next time anyone draws with the Magic Pencil will start a new drawing.
 
 ---
 
