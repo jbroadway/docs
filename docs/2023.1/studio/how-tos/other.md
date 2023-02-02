@@ -10,11 +10,11 @@
 
 [[> How to connect an external microphone]]
 
-[[> How to export video and depth maps]]
+<!-- [[> How to export video and depth maps]]
 
 [[> How to export motion capture data]]
 
-[[> How to export audio data]]
+[[> How to export audio data]] -->
 
 <!-- [[> How to use Mixed Reality mode]] -->
 
