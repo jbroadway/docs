@@ -3,7 +3,6 @@
 ## 3D Art Communities
 
 * [Flipside Discord Server](https://discord.com/invite/S2TX7HR)
-* [Flipside Community Shared Assets](https://www.flipsidecommunity.com/)
 * [The VG Resource](https://www.vg-resource.com/)
 * [Real-Time VFX](https://realtimevfx.com/)
 
@@ -46,7 +45,6 @@
 ## Unity Plugins, Assets, and Packages
 
 * [Magica Cloth](https://assetstore.unity.com/packages/tools/physics/magica-cloth-160144)
-* [Dynamic Bone](https://assetstore.unity.com/packages/tools/animation/dynamic-bone-16743)
 * [Instant Mesh](https://github.com/wjakob/instant-meshes)
 * [Simple LOD](https://assetstore.unity.com/packages/tools/modeling/simple-lod-25366)
 
