@@ -8,7 +8,9 @@ Here is a quick overview of how to integrate Magica Cloth into your custom Flips
 
 **Step 1.** First, download your own copy of [Magica Cloth](https://assetstore.unity.com/packages/tools/physics/magica-cloth-160144) to use this integration from the Unity Asset Store.
 
-**Step 2.** Set your project's **Scripting Backend** to **IL2CPP**.
+**Step 2.** Configure your Project settings.
+
+Set the **Scripting Backend** to **IL2CPP**.
 
 ```
 Edit > Project Settings > Player > Other Settings > Scripting Backend
