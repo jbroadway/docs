@@ -2,6 +2,6 @@
 
 Flipside Studio supports the following settings areas:
 
-* [[> General settings]]
+* [[Settings / General settings]]
 * [[> Microphone settings]]
 * [[> Output settings]]
