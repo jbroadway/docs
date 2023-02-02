@@ -10,13 +10,13 @@ Here's how to use hand tracking in Flipside Studio:
 
 **Step 3.** Launch Flipside Studio with your controllers put away. Your hands will be tracked automatically.
 
-**Step 4.** To open or close the main menu with hand tracking enabled, pinch and hold your index finger and thumb together for 2 seconds.
+**Step 4.** To open the main menu, look a the palm of your left hand. You'll see the main menu icon appear. Pinch your index finger and thumb together to open it.  
 
-**Step 5.** To click an option in the menus, make a short pinch with your index finger and thumb.
+**Step 5.** To click an option in the menus, hover over the button your want to press and make a short pinch with your index finger and thumb to select it.
 
-**Step 6.** To open the Quest menu, turn your right hand so it's facing palm up then pinch and hold your index finger and thumb together.
+**Step 6.** To open the Quest menu, look a the palm of your right hand. You'll see the Quest menu icon appear. Pinch your index finger and thumb together to open it.  
 
-> Tip: Some features such as teleporting aren't supported through hand tracking, but you can switch between using hand tracking and using controllers by picking up your controllers and putting them down again.
+> **Tip**: Some features such as teleporting aren't supported through hand tracking, but you can switch between using hand tracking and using controllers by picking up your controllers and putting them down again.
 
 ---
 
