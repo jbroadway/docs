@@ -42,7 +42,7 @@ Repeat Step 6 for each bone chain for a particular group.  In this case, all of 
 
 Bone colliders are similar to physics colliders; they inform the simulating Magica Bones about areas the hair/tail/clothing shouldn’t clip through when animating. When a simulating magica bone collides with a flagged collider; it’ll insteads simulate around the colliders shape instead of clipping through the surface.
 
-**MagicaCapsuleCollider** and **MagicaSphereCollider** both work well. Once they’re added to the character, scroll down to the **Collider List** on the object you created in **Step 4** and add the appropriate colliders to the list.  Alternatively, click **All Select** to add every collider in your scene.
+**MagicaCapsuleCollider** and **MagicaSphereCollider** both work well. Once they’re added to the character, scroll down to the **Collider List** on the object you created in Step 4 and add the appropriate colliders to the list.  Alternatively, click **All Select** to add every collider in your scene.
 
 **Step 8.** Disable culling.
 
