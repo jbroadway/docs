@@ -8,6 +8,8 @@
 
 **Step 3.** Click on the **Microphone** tab.
 
+![Flipside Studio - Desktop interface micropphone settings](https://www.flipsidexr.com/files/docs/2023.1/FS_desktop-interface_mic-settings.png)
+
 **Step 4.** Click on the **Microphone Input Device** dropdown and choose your external microphone from the list. Talk through your microphone and watch the volume meter on your desktop to verify that you've chosen the right input device.
 
 ---
