@@ -6,7 +6,7 @@ Flipside Studio is built around the concept of recording and playback of a numbe
 
 Recording in Flipside Studio can refer to either motion capture or video.
 
-For video capture, Flipside Studio integrates with several third party tools including [OBS](https://obsproject.com), [NDI](https://ndi.tv/), and [DirectShow](https://docs.microsoft.com/en-us/windows/win32/directshow/introduction-to-directshow).
+For video capture, Flipside Studio integrates with several third party tools including [OBS](https://obsproject.com)<!--, [NDI](https://ndi.tv/),--> and [DirectShow](https://docs.microsoft.com/en-us/windows/win32/directshow/introduction-to-directshow).
 
 For motion capture, Flipside Studio combines motion capture data with several other elements into its own custom file format. The data recorded in a Flipside Studio recording includes:
 
@@ -17,7 +17,7 @@ For motion capture, Flipside Studio combines motion capture data with several ot
 * Playback of interactive set elements, such as slideshows, drawings, guns firing, and other effects
 * Unity audio, animations, and timelines built into the set
 
-## Upscaling motion capture data
+<!-- ## Upscaling motion capture data
 
 Flipside Studio will record motion capture data for the points that it has available, and will animate the missing data points for a character using real-time inverse kinematics.
 
@@ -29,7 +29,7 @@ The configuration options include:
 * Headset plus controllers plus 1 Vive Tracker controls the head, hands, and waist
 * Headset plus controllers plus 2 Vive Tracker controls the head, hands, and feet
 * Headset plus controllers plus 3 Vive Tracker controls the head, hands, waist, and feet
-
+-->
 Additionally, Flipside Studio records lip sync data that it derives from analyzing the microphone input for each actor, as well as basic facial expressions. This adds a new level of detail on top of what is traditionally recorded in a motion capture session.
 
 ## Recording multiple users
@@ -48,14 +48,14 @@ Flipside Studio does all of this and more for you automatically.
 
 Flipside Studio sends periodic ping messages between users in a multiplayer session, which enables it to keep track of the average network latency between them. It then uses that information to keep recorded parts in sync and to minimize the perceived latency between them.
 
-### Data exports
+<!-- ### Data exports
 
 Flipside Studio offers several data export options, including:
 
 * [[Studio / References / Desktop interface / Exports / Motion capture]]
 * [[Studio / References / Desktop interface / Exports / Video renderer]]
 * [[Studio / References / Desktop interface / Exports / Audio data]]
-
+-->
 ---
 
 Next: [[: Cameras]]
