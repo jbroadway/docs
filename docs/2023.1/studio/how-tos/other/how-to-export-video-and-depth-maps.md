@@ -18,9 +18,9 @@ Here's how to export video and depth maps from Flipside Studio:
 
 **Step 7.** Under **Render Settings**, choose the cameras that you want to render, along with any other options you wish to customize. For a complete overview of the render options, see [[studio / references / exports / video exports]].
 
-**Step 8.** - Click **Add to Queue** to add your selection to the render queue.
+**Step 8.** Click **Add to Queue** to add your selection to the render queue.
 
-**Step 9.** - When your renders are complete, click **Open Render Folder** to be taken to your rendered videos.
+**Step 9.** When your renders are complete, click **Open Render Folder** to be taken to your rendered videos.
 
 > Tip: If you have additional renders of the selected recording to do, you can adjust the settings and add additional renders to the queue while the other renders are in progress.
 
