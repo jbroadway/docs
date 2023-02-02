@@ -13,6 +13,7 @@ Here is a quick overview of how to integrate Magica Cloth into your custom Flips
 ```
 Edit > Project Settings > Player > Other Settings > Scripting Backend
 ```
+
 Then, set your **Api Compatibility Level** to **.Net 4.x**. Do this for both your Standalone and Android settings using the tabs at the top of your Player menu.
 
 ![Flipside Creator Tools - Player settings](https://www.flipsidexr.com/files/docs/2023.1/CT_MB_player-settings.png)
@@ -61,11 +62,11 @@ Set Culling > Culling Mode to ‘Off’
 
 **Step 11.** Press **Play** and watch your character's hair move in the scene. If you see unexpected movement, you can add a **Magica Physics Manager** component to your scene to improve the evaluation.   
 
-> **Importaant:** If you add a **Magica Physics Manager** component, **you must delete it** before importing your character into Flipside Studio. If it is not deleted, your character will not load.
+> **Important:** If you add a **Magica Physics Manager** component, **you must delete it** before importing your character into Flipside Studio. If it is not deleted, your character will not load.
 
 **Step 12.** Adjust your settings.
 
-You can tweak settings after simulating to change how the cloth component behaves in your scene (**Radius**, **Gravity** and **Penetratio**n are common areas to pay attention to). You changes will only be applied once you press **Create** after changing your settings.
+You can tweak settings after simulating to change how the cloth component behaves in your scene. You changes will only be applied once you press **Create** after changing your settings.
 
 **Step 13**. When you're done, save your scene and build your character.
 
