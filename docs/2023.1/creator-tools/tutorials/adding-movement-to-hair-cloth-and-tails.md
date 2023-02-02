@@ -46,11 +46,7 @@ Bone colliders are similar to physics colliders; they inform the simulating Magi
 
 **Step 8.** Disable culling.
 
-If the Culling Mode isn’t disabled, it can cause unexpected simulation problems with Flipside Studio’s multi-camera system. 
-
-```
-Set Culling > Culling Mode to ‘Off’
-```
+If the Culling Mode isn’t disabled, it can cause unexpected simulation problems with Flipside Studio’s multi-camera system. To do this, set the **Culling Mode** to **Off**.
 
 ![Flipside Creator Tools - Culling mode](https://www.flipsidexr.com/files/docs/2023.1/CT_MB_collider-list.png)
 
@@ -68,7 +64,7 @@ Set Culling > Culling Mode to ‘Off’
 
 **Step 12.** Adjust your settings.
 
-You can tweak settings after simulating to change how the cloth component behaves in your scene. You changes will only be applied once you press **Create** after changing your settings.
+You can tweak settings after simulating to change how the cloth component behaves in your scene. To apply your changes, press **Create**. 
 
 **Step 13**. When you're done, save your scene and build your character.
 
