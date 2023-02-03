@@ -22,4 +22,4 @@
 
 ---
 
-Next: [[: Resources]]
+**Next:** [[: Resources]]
