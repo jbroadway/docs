@@ -28,4 +28,4 @@ You'll see the new recording take a few seconds to save, which also backs it up 
 
 ---
 
-Back: [[Studio / How tos]]
+**Next:** [[:How to manage your motion capture recordings]]
