@@ -48,4 +48,4 @@ To go invisible, open the main menu and choose **Visibility** while in character
 
 ---
 
-Next: [[Studio / References]]
+**Back:** [[Studio / References]]
