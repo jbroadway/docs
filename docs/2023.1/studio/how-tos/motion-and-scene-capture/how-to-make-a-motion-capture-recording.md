@@ -20,10 +20,10 @@ The **Recordings** menu will appear, asking you whether you want to keep or disc
 
 :gif https://www.flipsidexr.com/files/docs/2023.1/help_4-2_3.mp4
 
-You'll see the recording take a few seconds to save, which also backs it up to the cloud. Next up, learn [[:how to watch a motion capture recording]].
+You'll see the recording take a few seconds to save, which also backs it up to the cloud.
 
 You can also find this information in Flipside Studio's in-app **Help** menu.
 
 ---
 
-Back: [[Studio / How tos]]
+**Next:** [[:how to watch a motion capture recording]].
