@@ -7,4 +7,4 @@ ButtonElement turns an object into a pressable button in Flipside Studio. You ca
 
 ---
 
-**Next:** [[:ButtonElement]
+**Next:** [[:CameraElement]
