@@ -6,4 +6,4 @@ Teleportation is triggered via the **Teleport()** method, which can be triggered
 
 ---
 
-Next: [[Creator Tools / References / Custom components]]
+**Next:** [[Creator Tools / References / Custom components]]
