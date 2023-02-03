@@ -8,4 +8,4 @@ Additional methods **SetTargetCount(count)** and **ResetCounter()** enable the c
 
 ---
 
-**Next:** [[Creator Tools / References / Custom components]]
+**Next:** [[:TriggerEvery]]
