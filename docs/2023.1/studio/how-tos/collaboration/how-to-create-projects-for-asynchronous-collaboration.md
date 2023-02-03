@@ -14,8 +14,6 @@ Projects in Flipside Studio are a way of sharing assets including recordings, ch
 
 :gif https://www.flipsidexr.com/files/docs/2023.1/help_8-2_3.mp4
 
-Next, let's see [[: how to add users to your project team]].
-
 ---
 
-Back: [[Studio / How tos]]
+**Next:** [[:How to add users to your project team]]
