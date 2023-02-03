@@ -37,4 +37,4 @@ Setups can be updated or removed, and when a recording is loaded, loading a save
 
 ---
 
-Next: [[: Recording]]
+**Next:** [[: Recording]]
