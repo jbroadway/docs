@@ -24,4 +24,4 @@ To jump into position on set, point your teleporter at a stand-in and press the 
 
 ---
 
-Next: [[Studio / References / Creator profile ]]
+**Next:** [[Studio / References / Creator profile ]]
