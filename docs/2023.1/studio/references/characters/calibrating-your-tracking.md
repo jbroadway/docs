@@ -18,4 +18,4 @@ only need to calibrate once.
 
 ---
 
-Next: [[: Full-body tracking ]]
+**Next:** [[: Puppeteering]]
