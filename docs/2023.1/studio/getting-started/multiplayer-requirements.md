@@ -24,4 +24,4 @@ Reflexive connectivity settings are a frequent source of connectivity issues, in
 
 ---
 
-Next: [[ What's new ]]
+**Back:** [[:Studio / Getting started]]
