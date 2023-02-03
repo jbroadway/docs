@@ -136,4 +136,4 @@ Note that if you show the Flipside UI in your camera output, your invisible obje
 
 ---
 
-Next: [[:Setting up your teleporter area]]
+**Next:** [[:Setting up your teleporter area]]
