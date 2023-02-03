@@ -57,4 +57,4 @@ After completing the one-time steps above, here are the steps you can use to rec
 
 ---
 
-Back: [[Studio / How tos]]
+**Next:** [[:How to live stream from Flipside Studio]]
