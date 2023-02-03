@@ -50,4 +50,4 @@ Visit [www.vive.com/us/enterprise](https://www.vive.com/us/enterprise/) for more
 
 ---
 
-Next: [[: Multiplayer requirements ]]
+**Next:** [[: Multiplayer requirements ]]
