@@ -21,4 +21,4 @@ You'll also see a **Resource Usage** section at the bottom of the **AvatarModelR
 
 ---
 
-**Next:** [[Creator Tools / References / Custom components]]
+**Next:** [[:bulletelement]]
