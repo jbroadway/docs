@@ -57,4 +57,4 @@ After completing the one-time steps above, here are the steps you can use to sta
 
 ---
 
-Back: [[Studio / How tos]]
+**Next:** [[:How to control OBS from Flipside Studio]]
