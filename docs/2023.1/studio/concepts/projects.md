@@ -2,7 +2,7 @@
 
 Sharing resources and working collaboratively in Flipside Studio is done through the use of shared projects. Everything you record in Flipside Studio is added to the currently-opened project, which you can use to organize your solo creations or share with others by adding them as project team members.
 
-> Note: For users coming from an older version of Flipside Studio that didn't have projects, all of your existing recordings will automatically be moved into a default project for you.
+> **Note:** For users coming from an older version of Flipside Studio that didn't have projects, all of your existing recordings will automatically be moved into a default project for you.
 
 ## Project team
 
@@ -42,4 +42,4 @@ Slideshow slide links are also shared in a project so that one team member can e
 
 ---
 
-Back: [[ Studio / Concepts]]
+**Back:** [[ Studio / Concepts]]
