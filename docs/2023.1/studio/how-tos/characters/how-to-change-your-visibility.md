@@ -14,4 +14,4 @@ Flipside Studio lets you change your visibility so you can switch between acting
 
 ---
 
-Back: [[Studio / How tos]]
+**Next:** [[:How to use Ready Player Me avatars in Flipside Studio]]
