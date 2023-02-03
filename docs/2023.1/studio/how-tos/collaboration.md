@@ -20,4 +20,4 @@
 
 ---
 
-Next: [[: Other]]
+**Next:** [[: Other]]
