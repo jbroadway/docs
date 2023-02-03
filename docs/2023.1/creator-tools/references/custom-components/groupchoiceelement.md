@@ -8,4 +8,4 @@ The example scene `FlipsideCreatorTools/Examples/Example-GroupChoice` shows how 
 
 ---
 
-**Next:** [[Creator Tools / References / Custom components]]
+**Next:** [[:GunElement]]
