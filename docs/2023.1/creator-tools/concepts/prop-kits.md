@@ -10,4 +10,4 @@ When a kit is published, you won't see the kit itself in Flipside Studio, but ra
 
 ---
 
-Next: [[: Interactivity]]
+**Next:** [[: Interactivity]]
