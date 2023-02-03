@@ -16,4 +16,4 @@ The dashboard appears in front of you each time Flipside Studio loads, providing
 
 ---
 
-Back: [[Studio / How tos]]
+**Next:** [[:How to use hand tracking]]
