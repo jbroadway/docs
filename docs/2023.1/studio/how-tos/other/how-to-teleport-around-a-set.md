@@ -14,9 +14,9 @@ Here's how to teleport around your sets in Flipside Studio.
 
 :gif https://www.flipsidexr.com/files/docs/2023.1/help_1-3_2.mp4
 
-**Step 5.** Aim the teleporter at any seat, actor mark, or stand-in until it snaps to that position then teleport to jump directly to that spot.
-
 > **Tip:** You can let go of the joystick without pressing the index finger trigger to close the teleporter and cancel a teleport. This is different from many other VR apps, and gives you more control over where you'll end up.
+> 
+**Step 5.** If there is a seat, actor mark, or stand-in in your set, aim the teleporter at it until it snaps to that position then teleport to jump directly to that spot.
 
 ---
 
