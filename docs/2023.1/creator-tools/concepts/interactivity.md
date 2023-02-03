@@ -16,4 +16,4 @@ We also include the ability to interact with some of the internal Flipside Studi
 
 ---
 
-Next: [[: Asset bundles]]
+**Next:** [[: Asset bundles]]
