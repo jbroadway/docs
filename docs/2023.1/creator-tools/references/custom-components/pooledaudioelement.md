@@ -40,4 +40,4 @@ Available methods:
 
 ---
 
-Next: [[Creator Tools / References / Custom components]]
+**Next:** [[Creator Tools / References / Custom components]]
