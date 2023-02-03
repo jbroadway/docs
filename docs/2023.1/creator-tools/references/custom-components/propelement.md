@@ -27,4 +27,4 @@ don't cause issues with your teleport area.
 
 ---
 
-Next: [[Creator Tools / References / Custom components]]
+**Next:** [[Creator Tools / References / Custom components]]
