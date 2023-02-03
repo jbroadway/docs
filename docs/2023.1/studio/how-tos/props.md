@@ -18,4 +18,4 @@
 
 ---
 
-Next: [[: Collaboration]]
+**Next:** [[: Collaboration]]
