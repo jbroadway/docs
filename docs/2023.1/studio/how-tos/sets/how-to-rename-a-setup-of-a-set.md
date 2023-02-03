@@ -20,4 +20,4 @@ Your setup will be renamed moving forward.
 
 ---
 
-**Next:** [[:How to create and import your own sets]
+**Next:** [[:How to create and import your own sets]]
