@@ -1,4 +1,4 @@
-# How to teleport around a scene
+# How to teleport around a set
 
 Here's how to teleport around your sets in Flipside Studio.
 
