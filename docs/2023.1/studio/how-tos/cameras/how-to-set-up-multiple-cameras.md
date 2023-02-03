@@ -14,8 +14,6 @@ Setting up multiple cameras in Flipside Studio is as easy as adding one camera, 
 
 **Step 5.** Continue to add cameras using the steps above until you have all of them placed where you want them.
 
-You're now ready to learn [[:how to use the camera switcher]].
-
 ---
 
-Back: [[Studio / How tos]]
+**Back:** [[:How to use the camera switcher]]
