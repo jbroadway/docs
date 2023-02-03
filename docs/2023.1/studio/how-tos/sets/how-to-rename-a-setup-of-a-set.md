@@ -20,4 +20,4 @@ Your setup will be renamed moving forward.
 
 ---
 
-Back: [[Studio / How tos]]
+**Next:** [[:How to create and import your own sets]
