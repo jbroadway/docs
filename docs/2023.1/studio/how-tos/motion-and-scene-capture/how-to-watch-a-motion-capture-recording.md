@@ -28,5 +28,5 @@ You can also find this information in Flipside Studio's in-app **Help** menu.
 
 ---
 
-Back: [[Studio / How tos]]
+**Next:** [[:How to record multiple parts at the same time]]
  
