@@ -12,4 +12,4 @@ To start or stop the execution, simply enable or disable the component. To liste
 
 ---
 
-Next: [[Creator Tools / References / Custom components]]
+**Next:** [[Creator Tools / References / Custom components]]
