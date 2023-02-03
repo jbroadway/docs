@@ -98,6 +98,8 @@ Each panel is broken down into the following sections, from top to bottom:
 
 The main panel categories such as characters and sets can only be opened one at a time in order to reduce clutter. Other menus such as help and show tools like the teleprompter controller can stay open alongside each other. -->
 
+--- /Platform ---
+
 ---
 
 Next: [[: Cameras ]]
