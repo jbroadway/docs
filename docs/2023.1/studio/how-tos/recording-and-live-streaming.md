@@ -12,4 +12,4 @@
 
 ---
 
-Next: [[: Cameras]]
+**Next:** [[: Cameras]]
