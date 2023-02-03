@@ -16,4 +16,4 @@ The time will be visible only to actors but not visible to cameras unless you en
 
 ---
 
-Back: [[Studio / How tos]]
+**Next:** [[:How to use the spotlight]]
