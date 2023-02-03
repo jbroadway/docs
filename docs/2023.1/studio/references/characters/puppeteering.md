@@ -24,4 +24,4 @@ You can also pick up and use props while puppeteering, and any props held in you
 
 ---
 
-Next: [[Studio / References / Characters / Stand-ins ]]
+**Next:** [[Studio / References / Characters / Stand-ins ]]
