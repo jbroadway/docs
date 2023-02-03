@@ -16,4 +16,4 @@ The eye target will be visible only to actors but not visible to cameras.
 
 ---
 
-Back: [[Studio / How tos]]
+**Back:** [[Studio / How tos]]
