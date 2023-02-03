@@ -20,4 +20,4 @@ The following settings can be accessed via the **Settings** tab of the Flipside 
 
 ---
 
-Next: [[: General settings]]
+**Next:** [[: General settings]]
