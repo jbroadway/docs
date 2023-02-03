@@ -4,7 +4,7 @@
 
 [[> How to use facial expressions]]
 
-[[> How to use puppet mode]]
+[[> How to use the puppet]]
 
 <!-- [[> How to use your Meta Avatar in Flipside Studio]] -->
 
