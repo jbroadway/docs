@@ -14,4 +14,4 @@ Actor marks in Flipside Studio simulate marks on a stage, which are denoted as a
 
 ---
 
-Back: [[Studio / How tos]]
+**Next:** [[:How to use the eye target prop]]
