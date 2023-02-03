@@ -8,8 +8,8 @@ Under the [Model tab](https://docs.unity3d.com/Manual/FBXImporter-Model.html), f
 
 When you have the scale you want for your character, click **Apply** to apply the scale. Your character should now be the correct scale when you set it up for importing into Flipside Studio.
 
-> Note: Don't change the scale of a character in the **Hierarchy** window. Instead, follow the steps above to set its scale. Otherwise, this will cause problems with some features in Flipside Studio.
+> **Note:** Don't change the scale of a character in the **Hierarchy** window. Instead, follow the steps above to set its scale. Otherwise, this will cause problems with some features in Flipside Studio.
 
 ---
 
-Next: [[:Generating colliders on characters]]
+**Next:** [[:Generating colliders on characters]]
