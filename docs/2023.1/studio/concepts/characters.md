@@ -41,4 +41,4 @@ Flipside Studio's power comes from importing your own custom artwork (characters
 
 ---
 
-Next: [[: Props and sets]]
+**Next:** [[: Props and sets]]
