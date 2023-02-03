@@ -48,4 +48,4 @@ This PC > Videos > Captures
 
 ---
 
-Back: [[Studio / How tos]]
+**Back:** [[Studio / How tos]]
