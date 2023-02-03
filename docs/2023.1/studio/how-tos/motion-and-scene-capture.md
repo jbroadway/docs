@@ -12,4 +12,4 @@
 
 ---
 
-Next: [[: Recording and live streaming]]
+**Next:** [[: Recording and live streaming]]
