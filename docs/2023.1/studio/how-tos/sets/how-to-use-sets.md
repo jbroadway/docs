@@ -10,8 +10,6 @@ Flipside Studio lets you load virtual sets to make shows on, including letting y
 
 :gif https://www.flipsidexr.com/files/docs/2023.1/help_3-2_2.mp4
 
-You're now ready to learn [[:how to move and scale a set]].
-
 ---
 
-Back: [[Studio / How tos]]
+**Next:** [[:How to move and scale a set]]
