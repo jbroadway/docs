@@ -8,4 +8,4 @@ To use it, add the ObjectPoolElement to a game object in your hierarchy, assign 
 
 ---
 
-Next: [[Creator Tools / References / Custom components]]
+**Next:** [[Creator Tools / References / Custom components]]
