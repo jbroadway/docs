@@ -7,6 +7,3 @@ The following tutorials guide you through using the [Flipside Creator Tools](/do
 <!-- * [[> Importing motion capture data into Unity]]
 * [[> Flipside plugin for Blender]] -->
 
----
-
-Back: [[Creator Tools / Tutorials]]
