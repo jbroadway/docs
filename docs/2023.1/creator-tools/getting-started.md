@@ -64,4 +64,4 @@ To upgrade to a new version of the Flipside Creator Tools, download the latest v
 
 ---
 
-Next: [[: Concepts]]
+**Next:** [[: Tutorials]]
