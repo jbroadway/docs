@@ -28,4 +28,4 @@ Release events trigger an **OnEndInteraction** event that you can use to attach 
 
 ---
 
-Next: [[: Prop kits]]
+**Next:** [[: Prop kits]]
