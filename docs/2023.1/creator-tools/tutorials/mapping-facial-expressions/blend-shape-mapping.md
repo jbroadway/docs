@@ -33,4 +33,4 @@ Repeat step 5 for each expression to complete your face mapping.
 
 ---
 
-Next: [[:Simplified blend shape mapping]]
+**Next:** [[:Simplified blend shape mapping]]
