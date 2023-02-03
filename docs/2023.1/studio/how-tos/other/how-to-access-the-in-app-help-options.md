@@ -16,8 +16,6 @@ Lastly, Flipside Studio features a series of tutorials accessible via the main m
 
 **Step 3.** Click the **Next** or **Previous** arrows to follow along as you go through each tutorial.
 
-Next, let's learn [[: how to access the dashboard]].
-
 ---
 
-Back: [[Studio / How tos]]
+**Next:** [[:How to access the dashboard]]
