@@ -38,4 +38,4 @@ The Creator Tools will calculate a crossfade value based on the position of the 
 
 ---
 
-Next: [[:Creating a custom set]]
+**Next:** [[:Creating a custom set]]
