@@ -10,8 +10,6 @@ Once you've added a few props to your set, here's how to select if it's affected
 
 :gif https://www.flipsidexr.com/files/docs/2023.1/help_7-17_2.mp4
 
-Next, let's learn [[: how to delete a prop]].
-
 ---
 
-Back: [[Studio / How tos]]
+**Next:** [[:How to delete a prop]]
