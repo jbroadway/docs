@@ -30,8 +30,6 @@ For actors while in character, the ways to move around are either to walk around
 
 > Tip: To quickly travel larger distances on a set, teleporting is often the quickest way, but next to that is shrinking the set way down then pulling the part of the set you're trying to get to towards you.
 
-Next, let's learn [[: how to save multiple setups of a set]].
-
 ---
 
-Back: [[Studio / How tos]]
+**Next:** [[:How to save multiple setups of a set]]
