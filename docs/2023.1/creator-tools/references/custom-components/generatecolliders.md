@@ -14,4 +14,4 @@ Click **Generate Colliders & Import** when you're ready. Note that you can alway
 
 ---
 
-Next: [[Creator Tools / References / Custom components]]
+**Next:** [[Creator Tools / References / Custom components]]
