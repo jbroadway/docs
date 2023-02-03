@@ -32,8 +32,6 @@ Here's how to make friends in Flipside Studio.
 
 :gif https://www.flipsidexr.com/files/docs/2023.1/help_5-3_2.mp4
 
-Next, let's see [[: how to invite friends to collaborate over multiplayer]].
-
 ---
 
-Back: [[Studio / How tos]]
+**Next:** [[:How to invite friends to collaborate over multiplayer]]
