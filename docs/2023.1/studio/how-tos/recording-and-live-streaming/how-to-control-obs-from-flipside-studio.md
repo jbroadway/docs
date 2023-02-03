@@ -52,4 +52,4 @@ Here's how to control OBS from in VR using Flipside Studio.
 
 ---
 
-Back: [[Studio / How tos]]
+**Next:** [[:How to find your photos and videos]]
