@@ -20,4 +20,4 @@ You'll see the following camera settings in the **Cameras** section of the setti
 
 ---
 
-Back: [[Studio / How tos]]
+**Next:** [[:How to add post-processing effects]]
