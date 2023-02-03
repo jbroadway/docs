@@ -265,7 +265,7 @@ To control the facial expressions of your character, use the **left hand thumbpa
 * **Left** means **Surprised** `:O`
 * **Right** means **Angry** `>:(`
 
-:endtable -->
+:endtable-->
 
 --- /Platform ---
 
