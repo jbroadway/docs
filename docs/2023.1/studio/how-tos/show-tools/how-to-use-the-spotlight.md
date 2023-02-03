@@ -18,4 +18,4 @@ Note that there are limits to how many real-time lights can affect surfaces in V
 
 ---
 
-Back: [[Studio / How tos]]
+**Back:** [[Studio / How tos]]
