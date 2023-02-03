@@ -31,4 +31,4 @@ Adjust the position of each of these three components to adjust where the charac
 
 ---
 
-Next: [[:Creating eye targets]]
+**Next:** [[:Creating eye targets]]
