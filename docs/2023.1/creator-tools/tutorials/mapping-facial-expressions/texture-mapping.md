@@ -33,4 +33,4 @@ Note that you can also power eye blinking and facial expressions (happy, sad, et
 
 ---
 
-Next: [[:Combo-texture mapping]]
+**Next:** [[:Combo-texture mapping]]
