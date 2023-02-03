@@ -24,4 +24,4 @@
 
 ---
 
-Back: [[Studio / How tos]]
+**Back:** [[Studio / How tos]]
