@@ -12,8 +12,6 @@ In case users exhibit unwanted behaviour, here's how you can block them in Flips
 
 ![Flipside Studio - Block user](https://www.flipsidexr.com/files/docs/2023.1/5-6_block.png)
 
-Next, let's explore [[: how to mute users in a multiplayer collaboration]].
-
 ---
 
-Back: [[Studio / How tos]]
+**Next:** [[:How to mute users in a multiplayer collaboration]]
