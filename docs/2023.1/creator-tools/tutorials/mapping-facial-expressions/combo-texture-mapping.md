@@ -41,4 +41,4 @@ You'll see a list of available texture options on the **Facial Expression Refere
 
 ---
 
-Next: [[:Animation mapping]]
+**Next:** [[:Animation mapping]]
