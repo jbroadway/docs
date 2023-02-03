@@ -57,4 +57,4 @@ The following tutorials guide you through using the [Flipside Creator Tools](/do
 
 ---
 
-Back: [[Creator Tools / Tutorials / Video tutorials]]
+**Next:** [[:Sets]]
