@@ -36,4 +36,4 @@ If you only have one talking animation, add it as the animation for each viseme 
 
 ---
 
-Next: [[:Animation parameters mapping]]
+**Next:** [[:Animation parameters mapping]]
