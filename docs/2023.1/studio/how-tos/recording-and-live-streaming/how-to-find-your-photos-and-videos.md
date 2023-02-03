@@ -30,8 +30,6 @@ Since Flipside Studio uses on OBS for video recording, your videos will appear b
 This PC > Videos > Captures
 ```
 
--- /Platform ---
-
 <!-- --- Platform: SteamVR ---
 
 Photos taken in Flipside Studio will appear in the following folder:
@@ -45,6 +43,8 @@ Since Flipside Studio uses on OBS for video recording, your videos will appear b
 ```
 This PC > Videos > Captures
 ``` -->
+
+--- /Platform ---
 
 ---
 
