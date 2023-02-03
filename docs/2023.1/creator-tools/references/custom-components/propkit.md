@@ -12,4 +12,4 @@ Props in kits can be fully interactive and can have effects attached to them as 
 
 ---
 
-Next: [[Creator Tools / References / Custom components]]
+**Next:** [[Creator Tools / References / Custom components]]
