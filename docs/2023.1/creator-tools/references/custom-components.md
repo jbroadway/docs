@@ -48,4 +48,4 @@ The following is a list of custom components available in the Flipside Creator T
 
 ---
 
-Next: [[: Whitelist of allowed components ]]
+**Next:** [[: Whitelist of allowed components ]]
