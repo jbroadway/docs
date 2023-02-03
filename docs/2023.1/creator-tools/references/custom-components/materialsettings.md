@@ -10,4 +10,4 @@ This component only has one property, the material index, in case your object ha
 
 ---
 
-Next: [[Creator Tools / References / Custom components]]
+**Next**: [[Creator Tools / References / Custom components]]
