@@ -26,4 +26,4 @@ When your friend pops into your session, follow the steps on [[:how to make a mo
 
 ---
 
-Back: [[Studio / How tos]]
+**Next:** [[:How to add parts to an existing motion capture recording]]
