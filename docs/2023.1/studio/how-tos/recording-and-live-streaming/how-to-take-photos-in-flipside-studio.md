@@ -19,5 +19,4 @@ To take a timed photo, click on the **Timed Photo** icon and wait for the countd
 Take a look at [[:how to find your photos and videos]] so you can share them with your friends!
 
 ---
-
-Back: [[Studio / How tos]]
+**Next:** [[:How to record video in Flipside Studio]]
