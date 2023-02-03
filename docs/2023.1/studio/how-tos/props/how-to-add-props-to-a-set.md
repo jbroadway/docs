@@ -10,8 +10,6 @@ Flipside Studio lets you customize your sets by adding your own props. Here's ho
 
 **Step 3.** Choose any prop in the list and click on it to add it to your set. It should pop up in front of you once it finishes loading.
 
-Next, let's learn [[: how to grab and interact with props]].
-
 ---
 
-Back: [[Studio / How tos]]
+**Next:** [[:How to grab and interact with props]]
