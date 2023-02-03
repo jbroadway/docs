@@ -4,8 +4,8 @@ The following tutorials guide you through using the [Flipside Creator Tools](/do
 
 * [[> Characters]]
 * [[> Sets]]
-* [[> Importing motion capture data into Unity]]
-* [[> Flipside plugin for Blender]]
+<!-- * [[> Importing motion capture data into Unity]]
+* [[> Flipside plugin for Blender]] -->
 
 ---
 
