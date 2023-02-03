@@ -18,8 +18,5 @@ Repeat steps 4-6 to add additional scripts to your project.
 
 When you reload Flipside Studio, your newly-added scripts will appear in the teleprompter list when you have the same project open in-app. For more info, see [[studio / how tos / show tools / how to use the teleprompter]].
 
-Next, let's apply a similar process in [[: how to add slideshow links to your project]].
-
 ---
-
-Back: [[Studio / How tos]]
+**Next:** [[:How to add slideshow links to your project]]
