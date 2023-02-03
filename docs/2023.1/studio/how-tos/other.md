@@ -6,7 +6,7 @@
 
 [[> How to use hand tracking]]
 
-[[> How to teleport around a scene]]
+[[> How to teleport around a set]]
 
 [[> How to connect an external microphone]]
 
