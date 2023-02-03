@@ -22,4 +22,4 @@ Custom methods to connect to Unity events include:
 
 ---
 
-**Next:** [[Creator Tools / References / Custom components]]
+**Next:** [[:TriggerCounter]]
