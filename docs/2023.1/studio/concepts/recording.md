@@ -58,4 +58,4 @@ Flipside Studio offers several data export options, including:
 -->
 ---
 
-Next: [[: Cameras]]
+**Next:** [[: Cameras]]
