@@ -44,4 +44,4 @@ As VR headsets evolve to include face tracking, we will expand on the expressive
 
 ---
 
-Next: [[: Sets]]
+**Next:** [[: Sets]]
