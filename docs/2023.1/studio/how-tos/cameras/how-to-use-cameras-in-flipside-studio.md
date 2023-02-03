@@ -34,8 +34,6 @@ This will add a new camera to your scene. You can add as many cameras as you nee
 
 Take some time to move the camera around and get a feel for how it moves. Try it with and without the horizontal lock enabled. You'll notice camera movements are smoothed so that the jitter from your hand is not reflected in the shot.
 
-You're now ready to learn [[:how to set up multiple cameras]].
-
 ---
 
-Back: [[Studio / How tos]]
+**Back:** [[:How to set up multiple cameras]]
