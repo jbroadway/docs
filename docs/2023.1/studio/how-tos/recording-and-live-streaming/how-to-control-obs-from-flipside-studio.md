@@ -34,7 +34,7 @@ Here's how to control OBS from in VR using Flipside Studio.
 
 **Step 5.** Once connected, click **Record** or **Stream** on the camera switcher to start recording or live streaming in OBS.
 
---- /Platform ---
+-- /Platform ---
 
 ---
 
