@@ -27,4 +27,4 @@ For example, you can combine animations with texture-swapping, or even use both 
 
 ---
 
-Next: [[:Changing the scale of a character]]
+**Next:** [[:Blend shape mapping]]
