@@ -22,6 +22,9 @@ For more information, see [[studio / tutorials / recording / editing your show /
 
 Some versions of Windows don't include all of the necessary video codecs. If you have trouble seeing video playback in the slideshow or tutorial, you may need to install the [Windows Media Feature Pack](https://www.microsoft.com/en-us/software-download/mediafeaturepack).
 
----
 
 Next: [[:Hardware Setup]]
+
+---
+
+Back: [[:Studio / Getting started]]
