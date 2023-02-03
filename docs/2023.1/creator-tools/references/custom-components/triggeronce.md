@@ -8,4 +8,4 @@ To re-enable the trigger, attach the **EnableTrigger()** method to any event in 
 
 ---
 
-Next: [[Creator Tools / References / Custom components]]
+**Next:** [[Creator Tools / References / Custom components]]
