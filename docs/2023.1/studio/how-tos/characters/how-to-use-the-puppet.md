@@ -20,4 +20,4 @@ While puppeting, your hand controls the body of your character but your mouth an
 
 ---
 
-Back: [[Studio / How tos]]
+**Next:** [[:how to change your visibility]]
