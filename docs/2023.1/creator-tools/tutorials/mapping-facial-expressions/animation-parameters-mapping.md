@@ -34,4 +34,4 @@ From here, you can start setting up [blend trees](https://docs.unity3d.com/Manua
 
 ---
 
-Next: [[Creator Tools / Tutorials / Changing the scale of a character]]
+**Next:** [[Creator Tools / Tutorials / Changing the scale of a character]]
