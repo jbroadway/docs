@@ -27,4 +27,4 @@ For example, you can combine animations with texture-swapping, or even use both 
 
 ---
 
-**Next:** [[:Blend shape mapping]]
+**Next:** [[Creator Tools / Tutorials / Mapping facial expressions/Blend shape mapping]]
