@@ -198,4 +198,4 @@ with other layers.
 
 ---
 
-Next: [[:Adding movement to hair, cloth, and tails]]
+**Next:** [[:Adding movement to hair, cloth, and tails]]
