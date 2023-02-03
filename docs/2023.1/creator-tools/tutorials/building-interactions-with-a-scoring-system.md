@@ -129,4 +129,4 @@ These are just a few suggestions, but we hope that gives you a better understand
 
 ---
 
-Next: [[:Triggering Flipside actions]]
+**Next:** [[:Triggering Flipside actions]]
