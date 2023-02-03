@@ -2,7 +2,7 @@
 
 Flipside Studio features a teleprompter for actors to be able to refer to scripts during production.
 
-> Note: To customize your scripts, [log into your creator account on flipsidexr.com](flipsidexr.com/user) then go to **Projects** and click on the **Scripts** link for the project you wish to add them to. Scripts belong to a project so they can be shared with the whole project team.
+> **Note:** To customize your scripts, [log into your creator account on flipsidexr.com](flipsidexr.com/user) then go to **Projects** and click on the **Scripts** link for the project you wish to add them to. Scripts belong to a project so they can be shared with the whole project team.
 
 **Step 1.** Press the menu button on either controller and choose **Teleprompter** from the main menu.
 
@@ -30,4 +30,4 @@ Each actor gets their own teleprompter controller and the teleprompters are sync
 
 ---
 
-Back: [[Studio / How tos]]
+**Next:** [[:How to use the slideshow]]
