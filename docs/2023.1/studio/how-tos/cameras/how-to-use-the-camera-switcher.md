@@ -28,8 +28,6 @@ The **Cut** and **Move** buttons toggle between cutting cameras and moving betwe
 
 Notice how the camera output now shows user interface elements. You can use this to capture the Flipside Studio user interface, for example to do walkthrough videos.
 
-You've now used all the major features of the camera switcher. Let's look at [[:how to adjust your camera settings]] next.
-
 ---
 
-Back: [[Studio / How tos]]
+**Next:** [[:How to adjust your camera settings]]
