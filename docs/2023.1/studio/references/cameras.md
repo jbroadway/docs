@@ -84,4 +84,4 @@ Features:
 
 ---
 
-Next: [[: Characters ]]
+**Next:** [[: Characters ]]
