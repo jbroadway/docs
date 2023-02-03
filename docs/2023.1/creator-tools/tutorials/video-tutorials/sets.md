@@ -30,4 +30,4 @@ The following tutorials guide you through using the [Flipside Creator Tools](/do
 
 ---
 
-Back: [[Creator Tools / Tutorials / Video tutorials]]
+**Next:** [[Creator Tools / Tutorials / Creating a custom character]]
