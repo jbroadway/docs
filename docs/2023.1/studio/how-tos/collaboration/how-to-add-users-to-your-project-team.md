@@ -14,8 +14,6 @@ Projects are better when you add members to the team so you can collaborate toge
 
 :gif https://www.flipsidexr.com/files/docs/2023.1/help_8-5_2.mp4
 
-Next, let's learn [[: how to add characters, sets, and props to your project]].
-
 ---
 
-Back: [[Studio / How tos]]
+**Next:** [[:How to add characters, sets, and props to your project]]
