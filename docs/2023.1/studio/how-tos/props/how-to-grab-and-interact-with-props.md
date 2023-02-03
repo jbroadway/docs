@@ -28,8 +28,8 @@ Some props have special effects that happen when you press your index finger tri
 
 :gif https://www.flipsidexr.com/files/docs/2023.1/help_7-15_2.mp4
 
-Learn more about [[: how to draw your own props with the Magic Pencil]] or keep going with [[: how to resize props]].
+Learn more about [[: how to draw your own props with the Magic Pencil]].
 
 ---
 
-Back: [[Studio / How tos]]
+**Next:** [[:How to resize props]]
