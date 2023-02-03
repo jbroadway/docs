@@ -13,4 +13,4 @@ You can tie event handlers to the following list of events:
 
 ---
 
-Next: [[Creator Tools / References / Custom components]]
+**Next:** [[Creator Tools / References / Custom components]]
