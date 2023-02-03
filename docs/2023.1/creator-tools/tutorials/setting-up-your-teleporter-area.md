@@ -30,4 +30,4 @@ To exclude an object from the teleporter area, add the **Nav Mesh Obstacle** com
 
 ---
 
-Next: [[: Creating interactions with props and event triggers ]]
+**Next:** [[: Creating interactions with props and event triggers ]]
