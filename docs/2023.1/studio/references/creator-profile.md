@@ -35,4 +35,4 @@ Upload custom skies as 360 panoramic photos and videos.
 
 ---
 
-Next: [[: Desktop interface ]]
+**Next:** [[: Desktop interface ]]
