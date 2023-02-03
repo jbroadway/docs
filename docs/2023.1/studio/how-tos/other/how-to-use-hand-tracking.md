@@ -24,4 +24,4 @@ Here's how to use hand tracking in Flipside Studio:
 
 ---
 
-Back: [[Studio / How tos]]
+**Next:** [[:How to teleport around a set]]
