@@ -28,4 +28,4 @@ Some versions of Windows don't include all of the necessary video codecs. If you
 
 ---
 
-**Back:** [[:Studio / Getting started]]
+**Back:** [[:Getting started]]
