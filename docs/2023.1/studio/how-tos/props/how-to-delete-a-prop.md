@@ -8,8 +8,6 @@ Here's how to remove a prop from your set:
 
 :gif https://www.flipsidexr.com/files/docs/2023.1/help_7-18_1.mp4
 
-Next, lets learn [[: how to draw your own props with the magic pencil]].
-
 ---
 
-Back: [[Studio / How tos]]
+**Next:** [[:How to draw your own props with the Magic Pencil]]
