@@ -37,4 +37,4 @@ Repeat step 5 for each expression to complete your face mapping.
 
 ---
 
-Next: [[:Texture mapping]]
+**Next:** [[:Texture mapping]]
