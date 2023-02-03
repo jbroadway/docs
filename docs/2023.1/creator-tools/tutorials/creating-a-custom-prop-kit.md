@@ -54,4 +54,4 @@ When that's finished, you can find your cube prop in Flipside Studio under the *
 
 ---
 
-Back: [[Creator Tools / Tutorials]]
+**Back:** [[Creator Tools / Tutorials]]
