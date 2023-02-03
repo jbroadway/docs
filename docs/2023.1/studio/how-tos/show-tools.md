@@ -20,4 +20,4 @@
 
 ---
 
-Next: [[: Characters]]
+**Next:** [[: Characters]]
