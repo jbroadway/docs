@@ -10,4 +10,4 @@ Attaching a ScreenElement to any object will cause Flipside to replace that obje
 
 ---
 
-**Next:** [[Creator Tools / References / Custom components]]
+**Next:** [[:SetInfo]]
