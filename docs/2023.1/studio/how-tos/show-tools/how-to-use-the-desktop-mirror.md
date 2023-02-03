@@ -1,6 +1,6 @@
 # How to use the desktop mirror
 
-> Note: The desktop mirror is a desktop-only feature and is not supported on the Quest.
+> **Note:** The desktop mirror is a desktop-only feature and is not supported on the Quest.
 
 The desktop mirror is a feature that mirrors what's shown on your desktop monitor on a panel in VR so you can see your Windows desktop.
 
@@ -36,4 +36,4 @@ Also note that the desktop mirror will not appear the same over multiplayer. Eac
 
 ---
 
-Back: [[Studio / How tos]]
+**Next:** [[:How to see the current time]]
