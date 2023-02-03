@@ -1,6 +1,6 @@
 # Menu overview
 
-## Main menu TEST
+## Main menu
 
 --- Platform: Quest ---
 
@@ -54,13 +54,15 @@ The main menu appears in front of your hand but is not attached to it so it does
 - Camera switcher
 - Teleprompter
 
-:endtable
+:endtable-->
+
+--- /Platform ---
 
 ## Dashboard
 
 You're presented with the dashboard each time you launch Flipside Studio, and you can recall it at any time from the main menu.
 
-**----- INSERT GRAPHIC OF DASHBOARD -----**
+:gif https://www.flipsidexr.com/files/docs/2023.1/help_1-2_10.mp4
 
 The dashboard provides quick access to the assets you used the last time you were in Flipside Studio, as well as notifications such as multiplayer invites, and a list of your friends who are also online.
 
@@ -79,9 +81,7 @@ The dashboard includes the following sections:
 
 ## Panels
 
-Each submenu in Flipside Studio is implemented as a floating panel, as shown below.
-
-**----- INSERT GRAPHIC OF ANY PANEL MENU -----**
+Each submenu in Flipside Studio is implemented as a floating panel.
 
 These panels give you access to all aspects of Flipside Studio, such as accessing your motion capture recordings, projects, characters, and more.
 
@@ -94,9 +94,7 @@ Each panel is broken down into the following sections, from top to bottom:
 - Sorting and categories
 - Additional options
 
-The main panel categories such as characters and sets can only be opened one at a time in order to reduce clutter. Other menus such as help and show tools like the teleprompter controller can stay open alongside each other. -->
-
---- /Platform ---
+The main panel categories such as characters and sets can only be opened one at a time in order to reduce clutter. Other menus such as help and show tools like the teleprompter controller can stay open alongside each other.
 
 ---
 
