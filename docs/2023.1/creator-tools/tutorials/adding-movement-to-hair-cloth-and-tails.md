@@ -70,4 +70,4 @@ You can tweak settings after simulating to change how the cloth component behave
 
 ---
 
-Next: [[: Fixing forearm twisting ]]
+**Next:** [[: Fixing forearm twisting ]]
