@@ -16,4 +16,4 @@ Now when you switch cameras on the camera switcher, you'll see a preview of the 
 
 ---
 
-Back: [[Studio / How tos]]
+**Next:** [[:How to use the teleprompter]]
