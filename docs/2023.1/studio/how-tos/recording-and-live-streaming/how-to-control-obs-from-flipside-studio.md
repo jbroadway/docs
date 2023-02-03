@@ -1,6 +1,6 @@
 # How to control OBS from Flipside Studio
 
-TEST - Here's how to control OBS from in VR using Flipside Studio.
+Here's how to control OBS from in VR using Flipside Studio.
 
 --- Platform: Quest ---
 
