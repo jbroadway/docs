@@ -150,4 +150,4 @@ If you have a component you think we should include in our whitelist, let us kno
 
 ---
 
-Next: [[: Best practices]]
+**Next:** [[: Best practices]]
