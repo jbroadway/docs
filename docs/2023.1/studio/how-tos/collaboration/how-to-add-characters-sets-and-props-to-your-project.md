@@ -2,7 +2,7 @@
 
 Projects are a great way to share assets between a group of collaborators. Here's how to add shared assets to your projects.
 
-> Note: We'll use characters below but the process is the same for props and sets other than step 5 (choosing a role).
+> **Note:** We'll use characters below but the process is the same for props and sets other than step 5 (choosing a role).
 
 **Step 1.** Press the menu button on either controller and choose **Characters** from the main menu.
 
@@ -27,8 +27,6 @@ Projects are a great way to share assets between a group of collaborators. Here'
 
 You'll now be able to find your character under the **Project Characters** tab.
 
-Now let's see [[: how to share scripts with your project team]].
-
 ---
 
-Back: [[Studio / How tos]]
+**Next:** [[:How to share scripts with your project team]]
