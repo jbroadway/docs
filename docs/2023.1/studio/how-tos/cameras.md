@@ -12,4 +12,4 @@
 
 ---
 
-Next: [[: Show tools]]
+**Next:** [[: Show tools]]
