@@ -20,4 +20,4 @@ Each message will then trigger an associated event on the OscElement component b
 
 ---
 
-Next: [[Creator Tools / References / Custom components]]
+**Next:** [[Creator Tools / References / Custom components]]
