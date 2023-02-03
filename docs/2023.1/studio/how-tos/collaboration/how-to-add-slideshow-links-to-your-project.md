@@ -14,4 +14,4 @@ When you reload Flipside Studio, your newly-added slides will be loaded into the
 
 ---
 
-Back: [[Studio / How tos]]
+**Back:** [[Studio / How tos]]
