@@ -26,4 +26,4 @@ When the Props menu is open, you'll be able to grab your stand-ins to move adjus
 
 ---
 
-Back: [[Studio / How tos]]
+**Next:** [[:How to use the desktop mirror]]
