@@ -22,4 +22,4 @@ You can use these expressions as you talk to add visible emotions to your charac
 
 ---
 
-Back: [[Studio / How tos]]
+**Next:** [[:How to use the puppet]]
