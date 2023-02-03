@@ -22,4 +22,4 @@ Microphone settings include:
 
 ---
 
-Next: [[: Output settings]]
+**Next:** [[: Output settings]]
