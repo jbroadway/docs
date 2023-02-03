@@ -14,4 +14,4 @@ Users can switch between these modes at any time, including during recordings. -
 
 ---
 
-Next: [[: Projects]]
+**Next:** [[: Projects]]
