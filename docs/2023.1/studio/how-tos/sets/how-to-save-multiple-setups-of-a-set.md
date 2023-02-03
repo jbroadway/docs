@@ -18,8 +18,6 @@ Flipside Studio lets you save and come back to different configurations of any g
 
 If you want to update an existing setup, select that setup, make your changes, then click on **Update Setup**.
 
-Next, let's learn [[: how to load different setups of a set]].
-
 ---
 
-Back: [[Studio / How tos]]
+**Next:** [[:How to load different setups of a set]]
