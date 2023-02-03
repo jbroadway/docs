@@ -16,4 +16,4 @@
 
 ---
 
-Next: [[: Sets]]
+**Next:** [[: Sets]]
