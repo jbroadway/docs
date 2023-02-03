@@ -30,8 +30,6 @@ Here's how to invite friends to join you in a multiplayer collaboration in Flips
 
 :gif https://www.flipsidexr.com/files/docs/2023.1/help_5-5_2.mp4
 
-Next, let's see [[: how to block someone]] if they're exhibiting unwanted behaviour.
-
 ---
 
-Back: [[Studio / How tos]]
+**Next:** [[:How to block someone]]
