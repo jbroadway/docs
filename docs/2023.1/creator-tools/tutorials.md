@@ -19,7 +19,7 @@ The following pages are meant to help guide you through implementing specific as
   * [[> Generating colliders on characters ]]
   * [[> Adding movement to hair, cloth, and tails ]]
   * [[> Fixing forearm twisting ]]
-  * [Using Adobe Mixamo to rig a character](https://www.flipsidexr.com/blog/post/30/using-adobe-mixamo-rig-custom-character-flipside)
+<!--  * [Using Adobe Mixamo to rig a character](https://www.flipsidexr.com/blog/post/30/using-adobe-mixamo-rig-custom-character-flipside) -->
 * [[> Creating a custom set ]]
   * [[> Setting up your teleporter area ]]
   * [[> Creating interactions with props and event triggers]]
