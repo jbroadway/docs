@@ -26,4 +26,4 @@ You can also find this information in Flipside Studio's in-app **Help** menu.
 
 ---
 
-**Next:** [[:how to watch a motion capture recording]].
+**Next:** [[:How to watch a motion capture recording]].
