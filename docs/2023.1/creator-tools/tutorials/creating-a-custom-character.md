@@ -76,4 +76,4 @@ Use the right hand joystick or thumbpad to aim then press the index finger trigg
 
 ---
 
-Next: [[:Mapping facial expressions]]
+**Next:** [[:Mapping facial expressions]]
