@@ -8,4 +8,4 @@ There is one method that can be called from any Unity event:
 
 ---
 
-Next: [[Creator Tools / References / Custom components]]
+**Next:** [[Creator Tools / References / Custom components]]
