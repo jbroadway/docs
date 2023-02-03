@@ -2,7 +2,7 @@
 
 Slideshows provide a way to bring a sequence of photos and videos into Flipside Studio that can be displayed anywhere in a set.
 
-> Note: To customize your list of slides, [log into your creator account on flipsidexr.com](flipsidexr.com/user) then go to **Projects** and click on the **Slides** link for the project you wish to add them to. Slides belong to a project so they can be shared with the whole project team.
+> **Note:** To customize your list of slides, [log into your creator account on flipsidexr.com](flipsidexr.com/user) then go to **Projects** and click on the **Slides** link for the project you wish to add them to. Slides belong to a project so they can be shared with the whole project team.
 
 **Step 1.** Press the menu button on either controller and choose **Props** from the main menu.
 
@@ -26,4 +26,4 @@ The slideshow controller lets you control the slideshow, while the regular slide
 
 ---
 
-Back: [[Studio / How tos]]
+**Next:** [[:How to make and use stand-ins]]
