@@ -38,4 +38,4 @@ Unity cameras and Cinemachine virtual cameras appear alongside built-in cameras 
 
 ---
 
-Next: [[: Multiplayer]]
+**Next:** [[: Multiplayer]]
