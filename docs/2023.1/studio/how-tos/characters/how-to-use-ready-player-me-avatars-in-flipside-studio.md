@@ -44,4 +44,4 @@ Your avatar will begin the import process, which can take 10-20 seconds to compl
 
 ---
 
-Back: [[Studio / How tos]]
+**Next:** [[:How to create and import your own characters]]
