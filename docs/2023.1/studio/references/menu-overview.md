@@ -20,8 +20,6 @@ Flipside Studio's main entry point into its menus is through the main menu, whic
 
 :gif https://www.flipsidexr.com/files/docs/2023.1/help_1-2_1.mp4
 
---- /Platform ---
-
 **----- INSERT GRAPHIC OF MAIN MENU -----**
 
 The main menu appears in front of your hand but is not attached to it so it doesn't cause strain from prolonged use. It is broken up into three sections:
