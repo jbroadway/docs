@@ -20,4 +20,4 @@ Note that there can be only one ScoreboardElement in a set, but it can be reused
 
 ---
 
-**Next:** [[Creator Tools / References / Custom components]]
+**Next:** [[:ScreenElement]]
