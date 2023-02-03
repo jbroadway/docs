@@ -10,4 +10,4 @@ Combine this with buttons connected to a [[:FlipsideActions]] component and you 
 
 ---
 
-**Next:** [[Creator Tools / References / Custom components]]
+**Next:** [[:ThrowableElement]]
