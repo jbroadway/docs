@@ -6,4 +6,4 @@ Note: If the object's movement is controlled by an animation, disable the animat
 
 ---
 
-Next: [[Creator Tools / References / Custom components]]
+**Next:** [[Creator Tools / References / Custom components]]
