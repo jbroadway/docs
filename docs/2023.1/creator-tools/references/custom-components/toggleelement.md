@@ -21,4 +21,4 @@ All other options are identical to [[:ColliderElement]].
 
 ---
 
-Next: [[Creator Tools / References / Custom components]]
+**Next:** [[Creator Tools / References / Custom components]]
