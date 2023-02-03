@@ -28,4 +28,4 @@ Output settings include:
 
 ---
 
-Next: [[: OBS settings]]
+**Next:** [[: OBS settings]]
