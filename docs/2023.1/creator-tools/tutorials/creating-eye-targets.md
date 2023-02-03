@@ -32,4 +32,4 @@ See the [[Creator Tools / References / Custom Components / EyeTarget]] reference
 
 ---
 
-Next: [[Creator Tools / Tutorials]]
+**Next:** [[:Creating a custom prop kit]]
