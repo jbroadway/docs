@@ -1,6 +1,6 @@
 # How to connect an external microphone
 
-> Note: Due to limitations of the Quest, external microphones are only supported on the desktop version of Flipside Studio.
+> **Note:** Due to limitations of the Quest, external microphones are only supported on the desktop version of Flipside Studio.
 
 **Step 1.** Take your headset off and look at Flipside Studio's user switcher interface on your desktop.
 
@@ -14,4 +14,4 @@
 
 ---
 
-Back: [[Studio / How tos]]
+**Back:** [[Studio / How tos]]
