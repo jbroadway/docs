@@ -4,4 +4,4 @@ Calls **Teleport()** on any TeleportObjectTo object that comes into contact with
 
 ---
 
-Next: [[Creator Tools / References / Custom components]]
+Next: [[TeleportTarget]]
