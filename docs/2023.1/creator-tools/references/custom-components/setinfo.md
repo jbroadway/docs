@@ -18,4 +18,4 @@ You'll also see a **Resource Usage** section at the bottom of the **SetInfo** co
 
 ---
 
-**Next:** [[Creator Tools / References / Custom components]]
+**Next:** [[:TargetElement]]
