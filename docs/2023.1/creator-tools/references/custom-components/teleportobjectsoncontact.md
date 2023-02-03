@@ -4,4 +4,4 @@ Calls **Teleport()** on any TeleportObjectTo object that comes into contact with
 
 ---
 
-Next: [[TeleportTarget]]
+Next: [[:TeleportTarget]]
