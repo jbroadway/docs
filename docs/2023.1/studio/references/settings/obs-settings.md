@@ -11,4 +11,4 @@ Here are the settings you'll want to use in OBS Studio to get the best results w
 
 ---
 
-Next: [[Studio / References / Slideshow formats]]
+**Next:** [[Studio / References / Slideshow formats]]
