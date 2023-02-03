@@ -16,8 +16,6 @@ Once your character has loaded, you should see a ghostly outline of your charact
 
 **Step 4.** Choose another character from the menu and see how they feel.
 
-You're now ready to learn [[:how to use facial expressions]].
-
 ---
 
-Back: [[Studio / How tos]]
+**Next:** [[:How to use facial expressions]]
