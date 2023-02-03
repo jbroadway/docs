@@ -17,4 +17,4 @@ Once you've added a FaceMirror component, to set up the face mapping, add one or
 
 ---
 
-Next: [[Creator Tools / References / Custom components]]
+**Next:** [[Creator Tools / References / Custom components]]
