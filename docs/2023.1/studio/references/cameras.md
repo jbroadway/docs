@@ -79,7 +79,7 @@ Features:
 - **Resync** - Quick option to clear everyone's buffers in case multiplayer lag has built up.
 - **Cut** - When enabled, selecting cameras will cut instantly to them.
 - **Move** - When enabled, selecting cameras will move smoothly from the old position to the new one.
-- 
+
 --- /Platform ---
 
 ---
