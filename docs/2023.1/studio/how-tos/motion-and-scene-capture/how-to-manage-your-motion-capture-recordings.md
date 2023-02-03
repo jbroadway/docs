@@ -30,4 +30,4 @@ To change projects, go to **All Projects** in the main menu and choose a differe
 
 ---
 
-Back [[Studio / How tos]]
+**Back:** [[Studio / How tos]]
