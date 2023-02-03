@@ -76,4 +76,4 @@ To build your set for use in Flipside Studio, go to **Flipside Creator Tools > O
 
 ---
 
-Next: [[:Building interactions with a scoring system]]
+**Next:** [[:Building interactions with a scoring system]]
