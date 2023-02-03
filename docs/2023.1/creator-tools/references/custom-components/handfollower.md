@@ -10,4 +10,4 @@ You can also adjust the smoothing value to decide whether the object should foll
 
 ---
 
-Next: [[Creator Tools / References / Custom components]]
+Next: [[:MaterialSettings]]
