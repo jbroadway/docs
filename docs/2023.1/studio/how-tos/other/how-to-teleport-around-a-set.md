@@ -6,7 +6,7 @@ Here's how to teleport around your sets in Flipside Studio.
 
 **Step 2.** Aim the teleporter indicator where you'd like to end up.
 
-
+:gif https://www.flipsidexr.com/files/docs/2023.1/help_1-3_1.mp4
 
 **Step 3.** Choose which direction you'd like to be facing by rotating the joystick until the arrow points where you'd like.
 
