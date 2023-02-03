@@ -4,4 +4,4 @@ To create and import your own characters into Flipside Studio, take a look at [[
 
 ---
 
-Back: [[Studio / How tos]]
+**Back:** [[Studio / How tos]]
