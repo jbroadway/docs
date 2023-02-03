@@ -18,4 +18,4 @@ You can also link EyeTarget behaviour to Unity events using the following method
 
 ---
 
-Next: [[Creator Tools / References / Custom components]]
+**Next:** [[Creator Tools / References / Custom components]]
