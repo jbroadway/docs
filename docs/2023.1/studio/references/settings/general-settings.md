@@ -17,4 +17,4 @@ General settings include:
 
 ---
 
-Next: [[: Microphone settings]]
+**Next:** [[: Microphone settings]]
