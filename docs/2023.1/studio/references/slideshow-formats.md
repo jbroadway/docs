@@ -24,4 +24,4 @@ Audio codecs:
 
 ---
 
-Next: [[:Tips and tricks]]
+**Next:** [[:Tips and tricks]]
