@@ -4,7 +4,7 @@ You can find the general settings by clicking on the gear icon on the [[studio /
 
 This is what the general settings looks like:
 
-![General settings window](https://www.flipsidexr.com/files/docs/screenshots/general-settings.jpg)
+![General settings window](https://www.flipsidexr.com/files/docs/2023.1/desktop-interface_general-settings.png)
 
 General settings include:
 
