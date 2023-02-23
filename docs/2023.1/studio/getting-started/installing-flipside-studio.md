@@ -16,7 +16,7 @@ The Flipside Broadcaster is a free companion app that lets you cast your show to
 
 To use the Flipside Broadcaster, you'll need a laptop or desktop Windows PC with the following minimum specs:
 
-- Intel 7th Gen CPU (Intel Core i7-7820HK @ 2.90GHz or better) OR  AMD Ryzen 7 3700U or Better
+- Intel 7th Gen CPU (Intel Core i7-7820HK @ 2.90GHz or better) OR  AMD Ryzen 7 3700U or better
 - Nvidia 1050 Mobile GPU or better OR AMD Radeon RX 570 or better
 - 8GB RAM
 
