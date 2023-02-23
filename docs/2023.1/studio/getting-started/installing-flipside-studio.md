@@ -8,7 +8,12 @@ Flipside Studio can be installed through the [Meta Quest store](https://ocul.us/
 
 Once you launch Flipside Studio, you'll be prompted to enter your email. This will create an account for you on the [Flipside website](https://www.flipsidexr.com/) and send you a verification email.
 
-Your Flipside account lets you upload custom characters, sets and other functionality.
+Your Flipside account lets you upload custom characters, sets and teleprompter scripts and more.  It also give you access to download the Flipside Creator Tools to integrate your own charaters, sets and props and the Flipside Broadcaster which allows you to cast their content to a PC.
+
+## Flipside Broadcaster
+
+The Flipside Broadcaster is a free companion app that lets you cast your show to a PC.  If you're on Quest, this is how you get your camera output to a PC so you can screencapture or livestream your content.  If you're on Rift, you can cast your show to your PC with the Flipside Broadcaster and/or use Flipside Studio's Desktop Interface for additional functionality.
+
 
 ## Third party tools
 
