@@ -12,8 +12,12 @@ Your Flipside account lets you upload custom characters, sets, teleprompter scri
 
 ## Flipside Broadcaster
 
-The Flipside Broadcaster is a free companion app that lets you cast your show to a PC.  If you're using Meta Quest, this is how you get your camera output to a PC so you can screencapture or livestream your content. If you're using Meta Rift, you can also use Flipside Studio's Desktop Interface for additional functionality
+The Flipside Broadcaster is a free companion app that lets you cast your show to a PC.  If you're using Meta Quest, this is how you get your camera output to a PC so you can screencapture or livestream your content. If you're using Meta Rift, you can also use Flipside Studio's Desktop Interface for additional functionality.
 
+To use the Flipside Broadcaster, you'll need a laptop or desktop Windows PC with the following min specs:
+- Intel 7th Gen CPU (Intel Core i7-7820HK @ 2.90GHz or better) OR  AMD Ryzen 7 3700U or Better
+- Nvidia 1050 Mobile GPU or better OR AMD Radeon RX 570 or better
+- 8GB RAM
 
 ## Third party tools
 
