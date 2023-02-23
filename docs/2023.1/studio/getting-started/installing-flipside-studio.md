@@ -8,7 +8,7 @@ Flipside Studio can be installed through the [Meta Quest store](https://ocul.us/
 
 Once you launch Flipside Studio, you'll be prompted to enter your email. This will create an account for you on the [Flipside XR website](https://www.flipsidexr.com/) and send you a verification email.
 
-Your Flipside account lets you upload custom characters, sets and teleprompter scripts and more.  It also give you access to download the Flipside Creator Tools to integrate your own charaters, sets and props and the Flipside Broadcaster which allows you to cast their content to a PC.
+Your Flipside account lets you upload custom characters, sets, teleprompter scripts and more.  It also lets you download the Flipside Creator Tools to integrate your own charaters, sets and props and the Flipside Broadcaster which allows you to cast your content to a PC.
 
 ## Flipside Broadcaster
 
