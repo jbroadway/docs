@@ -8,3 +8,4 @@ Flipside Studio is a real-time virtual TV studio that uses virtual reality hardw
   * [ Computer ](/docs/2023.1/studio/getting-started/hardware-setup#computer)
   * [ Business users ](/docs/2023.1/studio/getting-started/hardware-setup#business-users) -->
 * [[> Multiplayer requirements]]
+* [[> Installing Flipside Broadcaster]]
