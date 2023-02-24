@@ -24,4 +24,4 @@ Reflexive connectivity settings are a frequent source of connectivity issues, in
 
 ---
 
-**Next:** [[:Installing Flipside Broadcaster]
+**Next:** [[:Installing Flipside Broadcaster]]
