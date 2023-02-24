@@ -4,7 +4,7 @@ Flipside Broadcaster is a companion app for Flipside Studio that displays your c
 
 This page covers how to install Flipside Broadcaster on your PC.
 
-**[Download Flipside Broadcaster 2023.1.0-stable](https://flipside.nyc3.cdn.digitaloceanspaces.com/releases/broadcaster/Flipside%20Broadcaster%202023.1.0-stable.zip)**
+To download Flipside Broadcaster, log into the [Creator Portal](https://www.flipsidexr.com/user) on the Flipside XR website and go to the **Downloads** tab.
 
 ## Requirements
 
@@ -25,7 +25,7 @@ A gaming laptop or PC with the following minimum specs:
 
 When the installation is complete, Flipside Broadcaster will be available through the Windows start menu.
 
-## Next steps
+## Useful links
 
 - [[Studio / How tos / Recording and live streaming / How to record video in Flipside Studio]]
 - [[Studio / How tos / Recording and live streaming / How to live stream from Flipside Studio]]
