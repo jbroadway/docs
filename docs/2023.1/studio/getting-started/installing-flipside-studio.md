@@ -14,7 +14,7 @@ Your Flipside account lets you upload custom characters, sets, teleprompter scri
 
 The Flipside Broadcaster is a free companion app that lets you cast your show to a PC.  If you're using Meta Quest, this is how you get your camera output to a PC so you can screencapture or livestream your content. If you're using Meta Rift, you can also use Flipside Studio's Desktop Interface for additional functionality.
 
-For more info and installation instructions, go to [[Flipside Broadcaster]]
+For more info and installation instructions, go to [[:Installing Flipside Broadcaster]]
 
 ## Third party tools
 
