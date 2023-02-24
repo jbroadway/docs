@@ -24,4 +24,4 @@ Reflexive connectivity settings are a frequent source of connectivity issues, in
 
 ---
 
-**Back:** [[studio / Getting started]]
+**Next:** [[Flipside Broadcaster]]
