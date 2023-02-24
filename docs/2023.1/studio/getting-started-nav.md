@@ -2,7 +2,7 @@
 
 * [[Studio / Getting started]]
   * [[Studio / Getting started / Installing Flipside Studio]]
-  * [[Flipside-Broadcaster]]
+  * [[Flipside Broadcaster]]
   * [[Studio / Getting started / Hardware setup]]
   * [[Studio / Getting started / Multiplayer requirements]]
 * [[Studio / How tos]]
