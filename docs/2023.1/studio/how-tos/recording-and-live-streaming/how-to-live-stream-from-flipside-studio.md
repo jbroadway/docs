@@ -23,6 +23,8 @@ Live streaming requires a PC with the following software installed and configure
 
 **Step 4.** Once the install process has finished, click **Start** to start the virtual camera.
 
+>**Note:** As an alternative, instead of installing Flispide Broadcaster virual camera, you can add Flipside Broadcaster as a capture window in OBS using Game Capture or Window Capture as the source.
+
 ### OBS Studio setup
 
 **Step 1.** Install OBS Studio on your PC.
