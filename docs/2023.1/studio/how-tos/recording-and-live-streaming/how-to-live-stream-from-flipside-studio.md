@@ -19,7 +19,11 @@ Live streaming requires a PC with the following software installed and configure
 
 **Step 2.** Launch Flipside Broadcaster and click on the **Settings** icon in the top right of the room code window.
 
+:gif https://www.flipsidexr.com/files/docs/2023.1/help_Flipside-Broadcaster_installing-virtual-camera.mp4
+
 **Step 3.** Click **Install** to install the Flipside Broadcaster virtual camera. Click **OK** when prompted by the installer.
+
+:gif https://www.flipsidexr.com/files/docs/2023.1/help_Flipside-Broadcaster_starting-virtual-camera.mp4
 
 **Step 4.** Once the install process has finished, click **Start** to start the virtual camera.
 
