@@ -57,6 +57,10 @@ After completing the one-time steps above, here are the steps you can use to sta
 
 :gif https://www.flipsidexr.com/files/docs/2023.1/help_10-3_7.mp4
 
+Then, click the settings icon and start the Virtual Camera if it's not already connected.
+
+:gif https://www.flipsidexr.com/files/docs/2023.1/help_Flipside-Broadcaster_starting-virtual-camera.mp4
+
 **Step 4.** Launch OBS Studio on your PC and click **Start Streaming** to begin streaming your Flipside Broadcaster output to the world.
 
 **Step 5.** When you're done live streaming, click **Stop Cast** on the camera switcher in Flipside Studio to stop broadcasting to Flipside Broadcaster and click **Stop Streaming** in OBS to stop streaming to the world.
