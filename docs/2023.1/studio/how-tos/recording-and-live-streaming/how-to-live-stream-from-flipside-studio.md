@@ -53,13 +53,15 @@ After completing the one-time steps above, here are the steps you can use to sta
 
 :gif https://www.flipsidexr.com/files/docs/2023.1/help_10-3_6.mp4
 
-**Step 3.** Launch Flipside Broadcaster on your PC and enter the room code you were given in step 2 and click **Connect**.
+**Step 3.** Launch Flipside Broadcaster on your PC and click the settings icon to start the Virtual Camera if it's not already connected.
+
+:gif https://www.flipsidexr.com/files/docs/2023.1/help_Flipside-Broadcaster_starting-virtual-camera.mp4
+
+Close the settings window then enter the room code you were given in step 2 and click **Connect**.
 
 :gif https://www.flipsidexr.com/files/docs/2023.1/help_10-3_7.mp4
 
-Then, click the settings icon and start the Virtual Camera if it's not already connected.
 
-:gif https://www.flipsidexr.com/files/docs/2023.1/help_Flipside-Broadcaster_starting-virtual-camera.mp4
 
 **Step 4.** Launch OBS Studio on your PC and click **Start Streaming** to begin streaming your Flipside Broadcaster output to the world.
 
