@@ -2,8 +2,6 @@
 
 This page covers how to install, setup, and upgrade the Flipside Creator Tools in order to import your own characters and sets into Flipside Studio.
 
-**[Download Unity 2020.3.36](https://unity3d.com/unity/whats-new/2020.3.36)**
-
 ## Downloading and Installing Unity 3D
 
 **Step 1.** Download Unity Hub and register for a Unity 3D account. Personal licences are free.
