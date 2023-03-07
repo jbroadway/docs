@@ -27,7 +27,7 @@ To download Flipside Creator Tools, log into the [Creator Portal](https://www.fl
 
 **Step 2.** Open Unity and create a new 3D project. The same project can be used to create multiple characters and sets or you can split them up into multiple projects which makes building and publishing individual character and set changes a little faster.
 
-**Step 3.**  Import the Flipside Creator Tools package from step 2 by choosing **Assets > Import Package > Custom Package** in the Unity application menu.
+**Step 3.**  Import the Flipside Creator Tools package from **Step 2** by choosing **Assets > Import Package > Custom Package** in the Unity application menu.
 
 > **Note:** If you're upgrading an existing Flipside Creator Tools project from an older version of Unity, always be sure to **back up your project before upgrading**.
 
