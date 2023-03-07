@@ -9,7 +9,7 @@ This page covers how to install, setup, and upgrade the Flipside Creator Tools i
 - [Unity Hub for Mac](https://public-cdn.cloud.unity3d.com/hub/prod/UnityHubSetup.dmg?_ga=2.166748798.1307484007.1678024982-1364010468.1666787266&_gac=1.183541588.1677269485.Cj0KCQiA3eGfBhCeARIsACpJNU_JVAEqrpS1TNp1HuWngfehHZw-2hbj07A-_xUg7q5EyLUOD6QvjoMaAvxxEALw_wcB)
 
 **Step 2.** Download Unity via Unity Hub
-[Download Unity 2020.3.36](unityhub://2020.3.36f1/71f96b79b9f0). This requires Unity Hub, so make sure you've completed the previous step.
+- [Download Unity 2020.3.36](unityhub://2020.3.36f1/71f96b79b9f0). This requires Unity Hub, so make sure you've completed the previous step.
 
 > **Important**: Flipside Creator Tools require a specific version of Unity in order to work properly in Flipside Studio.
 
@@ -23,11 +23,11 @@ When asked if you want the install to occur in Unity Hub, answer **Yes**.
 
 To download Flipside Creator Tools, log into the [Creator Portal](https://www.flipsidexr.com/user) on the Flipside XR website and go to the **Downloads** tab.
 
-> **Note:** If you're upgrading an existing Flipside Creator Tools project from an older version of Unity, always be sure to **back up your project before upgrading**.
-
 **Step 2.** Open Unity and create a new 3D project. The same project can be used to create multiple characters and sets or you can split them up into multiple projects which makes building and publishing individual character and set changes a little faster.
 
 **Step 3.**  Import the Flipside Creator Tools package from step 2 by choosing **Assets > Import Package > Custom Package** in the Unity application menu.
+
+> **Note:** If you're upgrading an existing Flipside Creator Tools project from an older version of Unity, always be sure to **back up your project before upgrading**.
 
 **Step 4.**  Navigate to **Window > Package Manager** in Unity and install either the **Oculus Desktop** or **OpenVR (Desktop)** package, depending on your VR headset. This will let you press Play and preview/test your characters and sets in VR.
 
