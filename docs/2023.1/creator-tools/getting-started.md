@@ -2,7 +2,7 @@
 
 This page covers how to install, setup, and upgrade the Flipside Creator Tools in order to import your own characters and sets into Flipside Studio.
 
-## Downloading and Installing Unity 3D
+## Download and Install Unity 3D
 
 **Step 1.** Download Unity Hub and register for a Unity 3D account. Personal licences are free.
 - [Unity Hub for Windows](https://public-cdn.cloud.unity3d.com/hub/prod/UnityHubSetup.exe?_ga=2.166748798.1307484007.1678024982-1364010468.1666787266&_gac=1.183541588.1677269485.Cj0KCQiA3eGfBhCeARIsACpJNU_JVAEqrpS1TNp1HuWngfehHZw-2hbj07A-_xUg7q5EyLUOD6QvjoMaAvxxEALw_wcB)
@@ -17,7 +17,7 @@ When asked if you want the install to occur in Unity Hub, answer **Yes**.
 
 > **Note:** At the Choose Components selection of the installation, make sure you choose Android Build Support and Windows Build Support in order to build assets for both Quest and PCVR.
 
-## Importing Flipside Creator Tools into Unity
+## Download and Import Flipside Creator Tools into your Unity Project
 
 **Step 1.** Download the latest version of the Flipside Creator Tools.
 
@@ -34,7 +34,7 @@ To download Flipside Creator Tools, log into the [Creator Portal](https://www.fl
 **Step 5.**  After installing the Unity package, navigate to **Flipside Creator Tools > Open Flipside Creator Tools** to open the Creator Tools wizard. You can dock this window anywhere you like in the editor.
 
 
-## Signing into your Flipside account
+## Sign into your Flipside account
 
 **Step 1**. Click the **Sign Into Flipside Account** button in the Creator Tools wizard, or navigate to **Flipside Creator Tools > Sign Into Flipside Account** in the top-level menu.
 
@@ -42,7 +42,7 @@ To download Flipside Creator Tools, log into the [Creator Portal](https://www.fl
 
 You should now be ready to begin using the Flipside Creator Tools to publish custom characters and sets into your Flipside account.
 
-## User interface
+## Flipside Creator Tools User interface
 
 The Flipside Creator Tools user interface is primarily made up of 3 elements:
 
@@ -62,7 +62,7 @@ Flipside Creator Tools includes dozens of custom components that can be used to 
 
 These include components like [AvatarModelReferences](/docs/2021.1/creator-tools/references/custom-components/avatarmodelreferences) for configuring custom characters, [SetInfo](/docs/2021.1/creator-tools/references/custom-components/setinfo) for configuring custom sets, and [many more](/docs/2021.1/creator-tools/references/custom-components).
 
-## Examples
+## Flipside Creator Tools Examples
 
 You can find example scenes and documentation to help you get started under the **Assets/FlipsideCreatorTools/Examples** and **Assets/FlipsideCreatorTools/Documentation** folders in Unity once you've imported the package. Double click the example scenes to open them and see how things are set up.
 
