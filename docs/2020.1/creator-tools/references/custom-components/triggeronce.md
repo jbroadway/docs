@@ -1,3 +1,5 @@
+:omit-from-search
+
 # TriggerOnce
 
 Triggers an event only when the **Trigger Enabled** property is set to true. To listen for events, attach handlers to the **OnTriggered** event.

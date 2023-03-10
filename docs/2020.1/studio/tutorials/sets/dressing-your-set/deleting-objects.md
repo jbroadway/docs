@@ -1,3 +1,5 @@
+:omit-from-search
+
 # Deleting objects
 
 :gif https://www.flipsidexr.com/files/docs/gifs/prop-delete.mp4

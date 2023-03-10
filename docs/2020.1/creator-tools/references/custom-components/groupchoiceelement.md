@@ -1,3 +1,5 @@
+:omit-from-search
+
 # GroupChoiceElement
 
 Group choices let you put something to a vote amongst the users present in the scene. This enables a choose-your-own-adventure style interaction where the group decides what happens next based on a predetermined set of choices.

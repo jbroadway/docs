@@ -1,3 +1,5 @@
+:omit-from-search
+
 # Importing Daz 3D characters into Flipside
 
 Here are some tutorials that will guide you through the correct export settings to use in Daz 3D,

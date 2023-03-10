@@ -1,3 +1,5 @@
+:omit-from-search
+
 # EyeTarget
 
 Eye targets define points of interest in the scene that a character's eyes should lock onto when within view.

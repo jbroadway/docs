@@ -1,3 +1,5 @@
+:omit-from-search
+
 # ScoreboardElement
 
 The ScoreboardElement keeps score for each user, or for cooperative play where the scores are combined to win or lose together. Optionally, it can also display scores on a TextMeshPro component.

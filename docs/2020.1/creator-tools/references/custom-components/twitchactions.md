@@ -1,3 +1,5 @@
+:omit-from-search
+
 # TwitchActions
 
 TwitchActions is a component that lets you define custom commands that your viewers can type into the Twitch chat which are connected to events in your custom sets or on your custom characters (e.g., triggering a particle burst or sound effect). Commands always begin with an exclamation mark (e.g., `!command`).

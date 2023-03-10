@@ -1,3 +1,5 @@
+:omit-from-search
+
 # Mapping facial expressions
 
 Flipside's facial expression engine can animate your characters' faces in a variety of ways, including eyes (movement and blinking), facial expressions (happy, sad, surprised, angry), and lip syncing as you speak.

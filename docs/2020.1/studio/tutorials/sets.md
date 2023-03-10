@@ -1,3 +1,5 @@
+:omit-from-search
+
 # Sets
 
 * [[> Dressing your set]]

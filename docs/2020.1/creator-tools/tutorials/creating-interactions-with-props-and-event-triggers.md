@@ -1,3 +1,5 @@
+:omit-from-search
+
 # Creating interactions with props and event triggers
 
 This tutorial is going to walk through setting up a flashlight prop that turns on/off when you grab it and press the trigger.

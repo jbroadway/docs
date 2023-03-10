@@ -1,3 +1,5 @@
+:omit-from-search
+
 # Cutting cameras
 
 In both the camera sitcher on your computer screen and in VR, all of your camera views will appear on the right side of the interface.

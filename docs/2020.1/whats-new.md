@@ -1,3 +1,5 @@
+:omit-from-search
+
 # What's new
 
 :div class="whats-new"

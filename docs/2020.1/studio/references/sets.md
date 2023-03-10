@@ -1,3 +1,5 @@
+:omit-from-search
+
 # Sets
 
 :table style="width: 15%"

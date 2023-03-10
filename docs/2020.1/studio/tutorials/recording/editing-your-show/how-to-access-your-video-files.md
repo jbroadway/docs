@@ -1,3 +1,5 @@
+:omit-from-search
+
 # How to access your video files
 
 In your OBS Studio **Output** settings, you select where your recording is saved to.

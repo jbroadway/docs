@@ -1,3 +1,5 @@
+:omit-from-search
+
 # How to import props
 
 **To access your own props in Flipside, follow these steps:**

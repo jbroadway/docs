@@ -1,3 +1,5 @@
+:omit-from-search
+
 # Adding movement to hair, cloth, and tails
 
 Flipside supports the ability to add natural physical movement to hair, cloth, and extra limbs such as tails on characters using a 3rd party plugin called [Dynamic Bone](https://assetstore.unity.com/packages/tools/animation/dynamic-bone-16743).

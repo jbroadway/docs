@@ -1,3 +1,5 @@
+:omit-from-search
+
 # Puppeteering
 
 :gif https://www.flipsidexr.com/files/docs/gifs/puppeteering.mp4

@@ -1,3 +1,5 @@
+:omit-from-search
+
 # RecordInitialPosition
 
 The RecordInitialPosition component tells Flipside Studio to record the initial position of any object it's placed on, and then reset that position on playback.

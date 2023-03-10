@@ -1,3 +1,5 @@
+:omit-from-search
+
 # Magic pencil
 
 The magic pencil lets you draw things that can become props you can use during your recording.

@@ -1,3 +1,5 @@
+:omit-from-search
+
 # Version Numbering
 
 Beginning with the [first Flipside Studio release candidate in 2020](https://www.flipsidexr.com/blog/post/80/update-38-flipside-studio-release-candidate-1), we are moving to a [Calendar Versioning](https://calver.org/), or CalVer, numbering system and keeping versions in sync across our suite of products.

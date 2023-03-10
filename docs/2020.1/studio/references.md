@@ -1,3 +1,5 @@
+:omit-from-search
+
 # References
 
 The following pages include input controls, menu options, supported file formats, and other resources to help you get the most out of Flipside Studio.

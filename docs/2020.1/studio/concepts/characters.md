@@ -1,3 +1,5 @@
+:omit-from-search
+
 # Characters
 
 Characters in Flipside Studio are animated via a combination of motion capture, automatic lip sync detection, and puppeteering. By rendering characters in real-time directly in the virtual set (coupled with our camera controls), Flipside Studio makes it possible not just to record, but to live stream complete animated shows. This means that, for the first time, animated characters can engage with their audiences.

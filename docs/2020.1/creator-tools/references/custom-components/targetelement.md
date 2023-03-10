@@ -1,3 +1,5 @@
+:omit-from-search
+
 # TargetElement
 
 The TargetElement component assigns points when a BulletElement or ThrowableElement hits it. Targets can override the point value of the bullet or throwable with its own value if the **Override Points On Hit** property is checked and the **Add Points On Hit** property is set to the specified points to award the shooter or thrower.

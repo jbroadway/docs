@@ -1,3 +1,5 @@
+:omit-from-search
+
 # Calibrating your tracking
 
 To ensure you get the best motion capture data in Flipside, it's best to calibrate

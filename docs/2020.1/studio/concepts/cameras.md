@@ -1,3 +1,5 @@
+:omit-from-search
+
 # Cameras
 
 Flipside Studio features a sophisticated camera system that can be used to achieve just about any shot you might need.

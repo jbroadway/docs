@@ -1,3 +1,5 @@
+:omit-from-search
+
 # Recording
 
 Flipside Studio is built around the concept of recording and playback of a number of elements simultaneously. Together, these can be used to tell stories, craft shows, and capture content.

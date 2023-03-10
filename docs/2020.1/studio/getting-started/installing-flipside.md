@@ -1,3 +1,5 @@
+:omit-from-search
+
 # Installing Flipside Studio
 
 ## Download

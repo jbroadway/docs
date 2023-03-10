@@ -1,3 +1,5 @@
+:omit-from-search
+
 # Editing your show
 
 * [[> Setting up OBS Studio ]]

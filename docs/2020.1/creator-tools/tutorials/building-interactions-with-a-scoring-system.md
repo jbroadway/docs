@@ -1,3 +1,5 @@
+:omit-from-search
+
 # Building interactions with a scoring system
 
 This tutorial is going to walk though building a very simple "mini game" with a simple scoring system. The game will involve throwing balls at a target for points.

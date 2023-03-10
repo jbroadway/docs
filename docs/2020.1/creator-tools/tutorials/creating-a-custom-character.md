@@ -1,3 +1,5 @@
+:omit-from-search
+
 # Creating a custom character
 
 Once you have the [Flipside Creator Tools](/docs/2020.1/creator-tools) installed and set up,

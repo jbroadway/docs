@@ -1,3 +1,5 @@
+:omit-from-search
+
 # ThrowableElement
 
 The ThrowableElement component keeps track of who was holding the object for the purposes of keeping score when the element hits a target or another player. A throwable has a **Destroy On Contact** property, as well as points to add when it hits a target or another player.

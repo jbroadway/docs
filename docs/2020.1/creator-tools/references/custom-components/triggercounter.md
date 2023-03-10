@@ -1,3 +1,5 @@
+:omit-from-search
+
 # TriggerCounter
 
 Triggers an event after the **Count** counter value reaches its specified **Target Count** value. The counter is incremented whenever one of the **Increment()** or **Increment(by)** methods are called, which can be triggered by any event in the scene.

@@ -1,3 +1,5 @@
+:omit-from-search
+
 # Props
 
 Flipside Creator Tools can turn just about any object on a virtual set into a custom prop that you can use in your shows. Props help bring a set to life by making it so characters can interact with the set.

@@ -1,3 +1,5 @@
+:omit-from-search
+
 # Upgrading your characters and sets to Unity 2019
 
 With Flipside Studio making the jump to Unity 2019, that has an impact on a lot of characters and sets that our users have made. The good news is that most characters and sets will still work without updating, but there are a few areas where things can go wrong.

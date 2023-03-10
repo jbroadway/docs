@@ -1,3 +1,5 @@
+:omit-from-search
+
 # ScreenElement
 
 Attaching a ScreenElement to any object will cause Flipside to replace that object's material with the material you select from the list. Available options include:

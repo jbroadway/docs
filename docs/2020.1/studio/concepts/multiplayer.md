@@ -1,3 +1,5 @@
+:omit-from-search
+
 # Multiplayer
 
 Flipside Studio supports recording up to 5 actors at a time over distances large or small. Flipside Studio offers two modes of connecting over multiplayer (peer-to-peer and server-based), so you can choose the mode that's best for your type of production.

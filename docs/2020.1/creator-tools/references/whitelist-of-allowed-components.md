@@ -1,3 +1,5 @@
+:omit-from-search
+
 # Whitelist of allowed components
 
 Flipside Studio uses a whitelist to verify the scripts that can be attached to your characters and sets.

@@ -1,3 +1,5 @@
+:omit-from-search
+
 # Triggering Flipside actions
 
 The [[Creator Tools / References / Custom components / FlipsideActions]] component can be used to trigger a number of Flipside Studio's internal actions via Unity events. It can also be used to listen for internal Flipside Studio events and trigger actions in your set when they occur.

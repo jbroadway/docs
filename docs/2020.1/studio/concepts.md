@@ -1,3 +1,5 @@
+:omit-from-search
+
 # Concepts
 
 Flipside Studio is animation software that acts as a virtual TV/film studio where users can produce live or recorded animated shows together.

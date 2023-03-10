@@ -1,3 +1,5 @@
+:omit-from-search
+
 # Placing objects
 
 :gif https://www.flipsidexr.com/files/docs/gifs/placing-objects.mp4

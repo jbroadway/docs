@@ -1,3 +1,5 @@
+:omit-from-search
+
 # Interactivity
 
 Interactivity in Flipside Creator Tools can take many forms. Some components introduce different interaction types, such as **PropElement** making an object grabbable, or **GunElement** making a prop able to shoot things. Others let you combine components and events to build up more complex interactivity yourself without writing custom code.

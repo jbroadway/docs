@@ -1,3 +1,5 @@
+:omit-from-search
+
 # Full-body tracking
 
 --- Platform: Oculus ---

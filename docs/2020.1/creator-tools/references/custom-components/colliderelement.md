@@ -1,3 +1,5 @@
+:omit-from-search
+
 # ColliderElement
 
 Attaching a ColliderElement to any Collider (Box Collider, Sphere Collider, etc.) in your scene lets you trigger Unity events

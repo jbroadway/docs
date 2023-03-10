@@ -1,3 +1,5 @@
+:omit-from-search
+
 # Generating colliders on characters
 
 > **Note:** This feature is currently in beta. [Learn more about our beta program here](https://www.flipsidexr.com/beta-signup).

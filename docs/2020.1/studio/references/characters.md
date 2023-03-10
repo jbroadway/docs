@@ -1,3 +1,5 @@
+:omit-from-search
+
 # Characters
 
 :table style="width: 15%"

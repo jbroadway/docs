@@ -1,3 +1,5 @@
+:omit-from-search
+
 # Monitoring with external headphones
 
 If you have a second person who will be live editing your recording, the audio output can be monitored. 

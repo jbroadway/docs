@@ -1,3 +1,5 @@
+:omit-from-search
+
 # Mixed Reality mode
 
 --- Platform: Oculus ---

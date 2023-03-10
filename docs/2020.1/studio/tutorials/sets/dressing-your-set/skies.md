@@ -1,3 +1,5 @@
+:omit-from-search
+
 # Skies
 
 When dressing your set, you might need to set up a sky in case you are outside or there are any windows where you can see the outside world.

@@ -1,3 +1,5 @@
+:omit-from-search
+
 # CameraElement
 
 Unity cameras and Cinemachine virtual cameras will automatically be converted to camera positions in the

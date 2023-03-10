@@ -1,3 +1,5 @@
+:omit-from-search
+
 # Sets
 
 Flipside Creator Tools can be used to import complete Unity scenes for use as virtual sets in Flipside Studio. Scenes can include any kind of 3D model, as well as dozens of verified components that can add functionality to or change the look and feel of your sets.

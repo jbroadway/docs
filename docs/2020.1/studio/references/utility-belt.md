@@ -1,3 +1,5 @@
+:omit-from-search
+
 # Utility belt
 
 If you look down at your waist in Flipside, you'll see a utility belt with commonly used tools.

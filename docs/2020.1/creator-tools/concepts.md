@@ -1,3 +1,5 @@
+:omit-from-search
+
 # Concepts
 
 Flipside Creator Tools is a plugin for the Unity game engine that enables creators to create custom characters and sets for their shows in Flipside Studio.

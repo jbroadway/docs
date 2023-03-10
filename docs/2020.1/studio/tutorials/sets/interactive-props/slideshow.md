@@ -1,3 +1,5 @@
+:omit-from-search
+
 # Slideshow
 
 The slideshow props let you add and control a slideshow on your set.  You can set which images or videos are shown on the slideshow by pasting a list of image and video links in your [Flipside creator dashboard](/user), or under the Settings button in the [desktop camera switcher](https://www.flipsidexr.com/docs/2020.1/recording-a-show/editing-your-show/cutting-cameras).

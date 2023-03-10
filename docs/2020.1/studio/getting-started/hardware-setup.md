@@ -1,3 +1,5 @@
+:omit-from-search
+
 # Hardware setup
 
 --- Platform: Oculus ---

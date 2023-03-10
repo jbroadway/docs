@@ -1,3 +1,5 @@
+:omit-from-search
+
 # Moving your set
 
 :gif https://www.flipsidexr.com/files/docs/gifs/moving-set.mp4

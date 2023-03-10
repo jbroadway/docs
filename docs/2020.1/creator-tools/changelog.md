@@ -1,3 +1,5 @@
+:omit-from-search
+
 # Flipside Creator Tools Changelog
 
 ## 2020.1.4-stable
