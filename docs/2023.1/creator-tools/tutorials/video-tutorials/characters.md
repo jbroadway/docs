@@ -6,8 +6,8 @@ The following tutorials guide you through using the [Flipside Creator Tools](/do
 - [Importing characters from Ready Player Me](#importing-characters-from-ready-player-me)
 - [Importing characters from VRoid Studio](#importing-characters-from-vroid-studio)
 - [Importing characters from Daz](#importing-characters-from-daz)
-<!-- - [Importing characters from CC3](#importing-characters-from-cc3) -->
-- [Importing characters from Adobe Mixamo and Fuse](#importing-characters-from-adobe-mixamo-and-fuse)
+<!-- - [Importing characters from CC3](#importing-characters-from-cc3) 
+- [Importing characters from Adobe Mixamo and Fuse](#importing-characters-from-adobe-mixamo-and-fuse) -->
 
 ## Bring your own characters into Flipside Studio
 
@@ -39,7 +39,7 @@ The following tutorials guide you through using the [Flipside Creator Tools](/do
 <div class="video-wrapper"><iframe width="100%" height="100%" src="https://www.youtube.com/embed/T4IBTyHRYig" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
 
 :nbsp
--->
+
 
 ## Importing characters from Adobe Mixamo and Fuse
 
@@ -51,7 +51,7 @@ The following tutorials guide you through using the [Flipside Creator Tools](/do
 
 :nbsp
 
-<div class="video-wrapper"><iframe width="100%" height="100%" src="https://www.youtube.com/embed/DAC3bVOC4iw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
+<div class="video-wrapper"><iframe width="100%" height="100%" src="https://www.youtube.com/embed/DAC3bVOC4iw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div> -->
 
 :nbsp
 
