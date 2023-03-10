@@ -1,3 +1,5 @@
+:omit-from-search
+
 # Twitch Chat
 
 The Twitch Chat prop lets you view and display your Twitch channel's chat inside your Flipside shows.

@@ -1,3 +1,5 @@
+:omit-from-search
+
 # Getting help
 
 If you run into an issue with Flipside, there are a couple ways you can get help:

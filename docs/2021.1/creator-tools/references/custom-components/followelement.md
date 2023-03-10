@@ -1,3 +1,5 @@
+:omit-from-search
+
 # FollowElement
 
 Causes an object to follow the movement of another object, such as the user's hands. Can follow the following types of objects:

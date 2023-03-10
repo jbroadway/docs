@@ -1,3 +1,5 @@
+:omit-from-search
+
 # Animation Mapping
 
 Animation mapping maps lip syncing to layers in a Unity animation controller. This allows you to animate any [serializable fields](https://docs.unity3d.com/Manual/script-Serialization.html) in your character. This allows much more complex animation systems such as face bones, enabled/disabled objects, and particle systems.

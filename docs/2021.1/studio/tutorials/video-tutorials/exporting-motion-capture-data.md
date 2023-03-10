@@ -1,3 +1,5 @@
+:omit-from-search
+
 # Exporting motion capture data
 
 The following tutorial teaches you how to export motion capture data out of Flipside Studio.

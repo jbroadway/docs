@@ -1,3 +1,5 @@
+:omit-from-search
+
 # Handheld camera
 
 :table style="width: 15%"

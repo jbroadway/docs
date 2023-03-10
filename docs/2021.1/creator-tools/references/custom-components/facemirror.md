@@ -1,3 +1,5 @@
+:omit-from-search
+
 # FaceMirror
 
 FaceMirror lets you animate faces on non-character elements in a set, such as props or even inanimate objects.

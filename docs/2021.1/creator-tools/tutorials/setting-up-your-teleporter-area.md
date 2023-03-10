@@ -1,3 +1,5 @@
+:omit-from-search
+
 # Setting up your teleporter area
 
 Flipside uses Unity's [NavMesh](https://docs.unity3d.com/Manual/nav-BuildingNavMesh.html) system to define the areas you can teleport within on Flipside sets.

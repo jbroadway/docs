@@ -1,3 +1,5 @@
+:omit-from-search
+
 # PooledAudioElement
 
 Positions an audio playback location on set that, when triggered, uses Flipside's AudioSource pool so you can use a larger number of audio sources without hitting Unity's limits.

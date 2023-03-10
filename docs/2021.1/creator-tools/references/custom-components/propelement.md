@@ -1,3 +1,5 @@
+:omit-from-search
+
 # PropElement
 
 Attach a PropElement component to any object to make it act like a prop that you can pick up.

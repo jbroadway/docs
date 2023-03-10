@@ -1,3 +1,5 @@
+:omit-from-search
+
 # Menu overview
 
 ## Floating palette menu

@@ -1,3 +1,5 @@
+:omit-from-search
+
 # SetInfo
 
 **SetInfo** is the component that is used to define custom sets. It is the only required component on a set, and should be placed on the root object in the set's scene. It is usually added automatically for you when you choose **Flipside Creator Tools / Create Set** or **Flipside Creator Tools / Create Set From Current Scene**.

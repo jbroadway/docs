@@ -1,3 +1,5 @@
+:omit-from-search
+
 # Flipside Studio
 
 :embed flipside/docs/hide-breadcrumb

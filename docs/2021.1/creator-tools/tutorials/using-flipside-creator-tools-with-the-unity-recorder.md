@@ -1,3 +1,5 @@
+:omit-from-search
+
 # Using Flipside Creator Tools with the Unity Recorder
 
 The Flipside Creator Tools can be combined with the [Unity Recorder](https://docs.unity3d.com/Packages/com.unity.recorder@2.2/manual/index.html)

@@ -1,3 +1,5 @@
+:omit-from-search
+
 # Combo-texture mapping
 
 This method is similar to the [[:texture mapping]], except it supports a different set of texture options. Where [[:texture mapping]] supports each viseme shape being applied to the mouth of the character, combo-textures support the following options:

@@ -1,3 +1,5 @@
+:omit-from-search
+
 # Interactive props
 
 * [[> Slideshow]]

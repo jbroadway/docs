@@ -1,3 +1,5 @@
+:omit-from-search
+
 # Dressing your set
 
 :table style="width: 15%"

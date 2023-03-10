@@ -1,3 +1,5 @@
+:omit-from-search
+
 # Microphone settings
 
 You can find the microphone settings by clicking on the gear icon on the [[studio / references / desktop interface]] and clicking on the **Microphone** tab.

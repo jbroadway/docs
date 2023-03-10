@@ -1,3 +1,5 @@
+:omit-from-search
+
 # BulletElement
 
 The BulletElement component keeps track of who was holding the gun that fired it for the purposes of keeping score when the element hits a target or another player. A bullet has a **Destroy On Contact** property, as well as points to add when it hits a target or another player.

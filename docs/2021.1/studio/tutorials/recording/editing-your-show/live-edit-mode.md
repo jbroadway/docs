@@ -1,3 +1,5 @@
+:omit-from-search
+
 # Live Edit mode
 
 > **Important note:** Before you can use the Live Edit mode, make sure that OBS Studio is set up. See [[:Setting up OBS Studio]].

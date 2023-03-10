@@ -1,3 +1,5 @@
+:omit-from-search
+
 # Settings
 
 Flipside Studio supports the following settings areas:

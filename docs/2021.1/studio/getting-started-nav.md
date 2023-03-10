@@ -1,3 +1,5 @@
+:omit-from-search
+
 # Flipside Studio
 
 * [[Studio / Getting started]]

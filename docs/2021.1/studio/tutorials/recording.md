@@ -1,3 +1,5 @@
+:omit-from-search
+
 # Recording
 
 * [[>  How to record a show ]]

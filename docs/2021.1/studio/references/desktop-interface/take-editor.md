@@ -1,3 +1,5 @@
+:omit-from-search
+
 # Take editor
 
 The take editor lets you see the recorded parts for a take and export data. The take editor will gain more editing capabilities in future releases.

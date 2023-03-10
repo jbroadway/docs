@@ -1,3 +1,5 @@
+:omit-from-search
+
 # Other settings
 
 The settings window in Flipside Studio has a few other useful features, including:

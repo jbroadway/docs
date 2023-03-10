@@ -1,3 +1,5 @@
+:omit-from-search
+
 # Show tools
 
 The Show tools category contains all the videography gear and interactive props you might need to record your show.

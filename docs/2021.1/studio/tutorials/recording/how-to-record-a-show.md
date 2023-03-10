@@ -1,3 +1,5 @@
+:omit-from-search
+
 # How to record a show
 
 Once you have set up OBS, dressed your set, set up your cameras and monitors, and

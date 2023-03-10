@@ -1,3 +1,5 @@
+:omit-from-search
+
 # Creator profile
 
 The Flipside website provides a number of features that allow you to further

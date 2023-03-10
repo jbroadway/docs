@@ -1,3 +1,5 @@
+:omit-from-search
+
 # Characters
 
 The following tutorial shows you how to get the most out of your characters in Flipside, including height calibration, using HTC Vive Trackers, and more.

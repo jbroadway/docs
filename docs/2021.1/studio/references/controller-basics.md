@@ -1,3 +1,5 @@
+:omit-from-search
+
 # Controller basics
 
 --- Platform: Oculus ---

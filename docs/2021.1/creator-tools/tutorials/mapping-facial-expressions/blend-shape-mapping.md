@@ -1,3 +1,5 @@
+:omit-from-search
+
 # Blend shape mapping
 
 Blend shape mapping maps facial expressions to various preset shapes on your character model's face that represent each facial expression, eye blink state, and lip sync [viseme](https://en.wikipedia.org/wiki/Viseme).

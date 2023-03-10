@@ -1,3 +1,5 @@
+:omit-from-search
+
 # General settings
 
 You can find the general settings by clicking on the gear icon on the [[studio / references / desktop interface]] and clicking on the **General** tab.

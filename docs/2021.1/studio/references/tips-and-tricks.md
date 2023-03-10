@@ -1,3 +1,5 @@
+:omit-from-search
+
 # Tips and tricks
 
 ## Recording the Flipside user interface

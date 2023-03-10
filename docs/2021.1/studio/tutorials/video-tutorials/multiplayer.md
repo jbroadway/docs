@@ -1,3 +1,5 @@
+:omit-from-search
+
 # Multiplayer
 
 The following tutorial teaches you how to connect with others over multiplayer to do virtual productions over distance.

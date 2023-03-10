@@ -1,3 +1,5 @@
+:omit-from-search
+
 # Simplified blend shape mapping
 
 This method is almost the same as standard [[:blend shape mapping]], except it only uses one shape for lip syncing which represents the "open mouth" state.

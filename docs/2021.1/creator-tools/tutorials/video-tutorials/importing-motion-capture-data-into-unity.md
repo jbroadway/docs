@@ -1,3 +1,5 @@
+:omit-from-search
+
 # Importing motion capture data into Unity
 
 The following tutorial will guide you through using the Flipside Creator Tools to import your motion capture recordings as Unity animations.

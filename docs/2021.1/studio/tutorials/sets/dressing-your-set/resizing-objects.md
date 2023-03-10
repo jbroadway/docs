@@ -1,3 +1,5 @@
+:omit-from-search
+
 # Resizing objects
 
 :gif https://www.flipsidexr.com/files/docs/gifs/resizing-objects.mp4

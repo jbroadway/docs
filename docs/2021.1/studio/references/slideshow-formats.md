@@ -1,3 +1,5 @@
+:omit-from-search
+
 # Slideshow formats
 
 The [slideshow prop](/docs/2021.1/studio/tutorials/interactive-props/slideshow) supports the following formats:

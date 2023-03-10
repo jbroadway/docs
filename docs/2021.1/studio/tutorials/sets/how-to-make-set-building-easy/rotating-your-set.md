@@ -1,3 +1,5 @@
+:omit-from-search
+
 # Rotating your set
 
 --- Platform: Oculus ---

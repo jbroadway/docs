@@ -1,3 +1,5 @@
+:omit-from-search
+
 # Tutorials
 
 The following pages are meant to help guide you through implementing specific aspects of custom character and set creation using the Flipside Creator Tools plugin for Unity.

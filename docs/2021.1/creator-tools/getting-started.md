@@ -1,3 +1,5 @@
+:omit-from-search
+
 # Getting started
 
 This page covers how to install, setup, and upgrade the Flipside Creator Tools in order to import your own characters and sets into Flipside Studio.

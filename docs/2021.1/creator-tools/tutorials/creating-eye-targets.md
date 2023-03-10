@@ -1,3 +1,5 @@
+:omit-from-search
+
 # Creating eye targets
 
 Eye targets are points of interest that characters would naturally focus on when interacting with them on a set.

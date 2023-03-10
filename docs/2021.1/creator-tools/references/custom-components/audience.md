@@ -1,3 +1,5 @@
+:omit-from-search
+
 # Audience
 
 Audience is a component that controls how an immersive audience should experience a Flipside show in VR. This is a hint at things to come in a future update of the Flipside suite of products. The concept is that the audience moves together as a group through the experience, enabling immersive experiences to be more like an amusement park ride than a static couch for you and your friends.

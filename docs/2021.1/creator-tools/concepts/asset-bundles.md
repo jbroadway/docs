@@ -1,3 +1,5 @@
+:omit-from-search
+
 # Asset bundles
 
 [Asset bundles](https://docs.unity3d.com/Manual/AssetBundlesIntro.html) are Unity's proprietary file format for bundling, sharing, and importing content into Unity-based apps and games.

@@ -1,3 +1,5 @@
+:omit-from-search
+
 # ToggleElement
 
 Attaching a ToggleElement instead of a [[:ColliderElement]] works the same way but keeps track of its on/off state so you can do things like turn a light on/off with repeated button presses.

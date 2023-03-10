@@ -1,3 +1,5 @@
+:omit-from-search
+
 # Resources
 
 ## 3D Art Communities

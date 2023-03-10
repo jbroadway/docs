@@ -1,3 +1,5 @@
+:omit-from-search
+
 # TriggerEvery
 
 Triggers an event at the specified interval as long as the component is enabled. The interval, set via the **Trigger On** property, can be one of:

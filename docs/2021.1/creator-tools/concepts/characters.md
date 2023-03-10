@@ -1,3 +1,5 @@
+:omit-from-search
+
 # Characters
 
 Flipside Creator Tools can be used to import custom characters into Flipside Studio. These are most often imported into Unity as [FBX files](https://www.autodesk.com/products/fbx/overview) from other 3D software such as [Blender](https://www.blender.org), [Maya](https://www.autodesk.ca/en/products/maya/overview), [Daz3D](https://www.daz3d.com), and others.

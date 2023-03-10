@@ -1,3 +1,5 @@
+:omit-from-search
+
 # Desktop mirror
 
 The desktop mirror let you see your Windows desktop in Flipside Studio. You can use this to stream your live gameplay in Flipside, or to show the output of any app running on your desktop.

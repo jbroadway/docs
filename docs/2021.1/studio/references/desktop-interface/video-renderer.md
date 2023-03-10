@@ -1,3 +1,5 @@
+:omit-from-search
+
 # Video renderer
 
 > Note: The video renderer is a paid feature. For more information, visit our [pricing page](/pricing).

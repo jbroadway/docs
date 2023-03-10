@@ -1,3 +1,5 @@
+:omit-from-search
+
 # How to make set building easy
 
 * [[> Moving your set ]]

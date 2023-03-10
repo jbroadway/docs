@@ -1,3 +1,5 @@
+:omit-from-search
+
 # ObjectPoolElement
 
 Provides an object pool you can use to improve performance when needing to instantiate many of the same object, such as a particle effect you reuse throughout a set.

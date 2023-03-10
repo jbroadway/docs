@@ -1,3 +1,5 @@
+:omit-from-search
+
 # Video camera
 
 :table style="width: 15%"

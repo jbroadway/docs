@@ -1,3 +1,5 @@
+:omit-from-search
+
 # Setting up OBS Studio
 
 Flipside uses OBS Studio to record the non-VR version of your show.  

@@ -1,3 +1,5 @@
+:omit-from-search
+
 # Stand-ins
 
 Stand-ins let you freeze characters in their current pose. Stand-ins can help with several aspects of a production workflow, including:

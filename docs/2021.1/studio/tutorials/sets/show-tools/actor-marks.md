@@ -1,3 +1,5 @@
+:omit-from-search
+
 # Actor marks
 
 Flipside Studio supports both standing and sitting actor marks that you can drag and drop from the Show Tools menu anywhere you want on your sets.

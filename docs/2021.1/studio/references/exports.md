@@ -1,3 +1,5 @@
+:omit-from-search
+
 # Exports
 
 Flipside Studio supports the following types of data exports:

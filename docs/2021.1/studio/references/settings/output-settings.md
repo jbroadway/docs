@@ -1,3 +1,5 @@
+:omit-from-search
+
 # Output settings
 
 You can find the output settings by clicking on the gear icon on the [[studio / references / desktop interface]] and clicking on the **Output** tab.

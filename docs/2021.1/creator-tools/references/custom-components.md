@@ -1,3 +1,5 @@
+:omit-from-search
+
 # Custom components
 
 The following is a list of custom components available in the Flipside Creator Tools package.

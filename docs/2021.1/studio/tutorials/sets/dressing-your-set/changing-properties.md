@@ -1,3 +1,5 @@
+:omit-from-search
+
 # Changing properties
 
 :gif https://www.flipsidexr.com/files/docs/gifs/properties-panel.mp4

@@ -1,3 +1,5 @@
+:omit-from-search
+
 ## Flipside Creator Tools
 
 * [[Creator Tools / Getting started]]

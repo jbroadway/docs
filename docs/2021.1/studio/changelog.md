@@ -1,3 +1,5 @@
+:omit-from-search
+
 # Flipside Studio Changelog
 
 ## 2021.1.8-stable

@@ -1,3 +1,5 @@
+:omit-from-search
+
 # How to remove an imported prop
 
 **To remove a prop that has been imported into Flipside, follow these steps:**

@@ -1,3 +1,5 @@
+:omit-from-search
+
 # Video tutorials
 
 * [[> User interface]]

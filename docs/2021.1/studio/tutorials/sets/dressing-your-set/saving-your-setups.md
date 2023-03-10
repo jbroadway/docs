@@ -1,3 +1,5 @@
+:omit-from-search
+
 # Saving your setups
 
 Once you've finished dressing your set and setting up your cameras, you can save a snapshot of your setup

@@ -1,3 +1,5 @@
+:omit-from-search
+
 # Teleprompter
 
 The teleprompter lets you see your script or other important information during the recording of your show.  

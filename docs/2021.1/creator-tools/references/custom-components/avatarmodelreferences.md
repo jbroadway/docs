@@ -1,3 +1,5 @@
+:omit-from-search
+
 # AvatarModelReferences
 
 **AvatarModelReferences** is the component that is used to define custom characters. It is the only required component on a character, and should be placed on the root object in the character's scene. It is usually added automatically for you when you choose **Flipside Creator Tools / Create Character From Selected Model**.

@@ -1,3 +1,5 @@
+:omit-from-search
+
 # Props and sets
 
 Flipside Studio is built around the idea that virtual productions happen on virtual sets. It's like being live on a TV/film set, but inside your animated show. To learn about importing custom characters, check out the [Flipside Creator Tools](/docs/2021.1/creator-tools).

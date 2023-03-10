@@ -1,3 +1,5 @@
+:omit-from-search
+
 # Scaling your set
 
 You can increase and decrease the size of your set while in the Set Builder.

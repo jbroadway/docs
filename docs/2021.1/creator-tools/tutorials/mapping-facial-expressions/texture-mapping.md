@@ -1,3 +1,5 @@
+:omit-from-search
+
 # Texture mapping
 
 Texture mapping maps lip syncing to a series of textures that represent your character's visemes. Great for that classic cartoon feel!

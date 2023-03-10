@@ -1,3 +1,5 @@
+:omit-from-search
+
 # Desktop interface
 
 The desktop interface gives a director the ability to controlling cameras from outside of VR, as well as access Flipside Studio's settings and export features.

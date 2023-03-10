@@ -1,3 +1,5 @@
+:omit-from-search
+
 # GunElement
 
 The GunElement component enables an object to be fired. GunElement's can fire any object with a BulletElement component attached, which would typically be a prefab. The bullet is fired from the specified **Fire From** transform position along its forward direction with the specified **Velocity** value. Guns can have a bullet limit, can be reloaded by triggering the **Reload()** method from any event.

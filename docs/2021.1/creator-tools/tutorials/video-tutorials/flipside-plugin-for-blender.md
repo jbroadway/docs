@@ -1,3 +1,5 @@
+:omit-from-search
+
 # Flipside plugin for Blender
 
 The following tutorials guide you through using the Flipside plugin for Blender to import your motion capture recordings as Blender animations.

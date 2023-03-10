@@ -1,3 +1,5 @@
+:omit-from-search
+
 # Changing the scale of a character
 
 To change the scale of a character, select the 3D model in the **Project** window in Unity so you can see its import settings in the **Inspector** window.

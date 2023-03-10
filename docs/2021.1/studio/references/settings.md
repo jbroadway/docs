@@ -1,3 +1,5 @@
+:omit-from-search
+
 # Settings
 
 Flipside Studio has several screens:

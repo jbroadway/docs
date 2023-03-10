@@ -1,3 +1,5 @@
+:omit-from-search
+
 # Recording a show
 
 The following tutorials will guide you through the process of recording a show in Flipside.

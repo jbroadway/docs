@@ -1,3 +1,5 @@
+:omit-from-search
+
 # Preview monitors
 
 Preview monitors let you know what the active camera is seeing while you’re recording your show.

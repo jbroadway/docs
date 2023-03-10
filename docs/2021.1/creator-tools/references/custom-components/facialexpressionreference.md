@@ -1,3 +1,5 @@
+:omit-from-search
+
 # FacialExpressionReference
 
 One or more **FacialExpressionReference** components can be added alongside **AvatarModelReferences** to combine multiple face animation modes together on a single character.

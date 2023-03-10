@@ -1,3 +1,5 @@
+:omit-from-search
+
 # Viewing your takes
 
 At any point after you record one part, you can view your take in VR.

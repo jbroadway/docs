@@ -1,3 +1,5 @@
+:omit-from-search
+
 # TeleprompterElement
 
 Attaching a TeleprompterElement alongside a TextMeshPro text object can turn that text element into a teleprompter in Flipside Studio.

@@ -1,3 +1,5 @@
+:omit-from-search
+
 # User interface tutorials
 
 The following tutorials will show you how to find your way around Flipside's user interface, including how to use Flipside's [Set Builder](/docs/2021.1/building-your-set) to customize the prop and camera placements on your sets.

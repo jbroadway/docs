@@ -1,9 +1,12 @@
+:omit-from-search
+
 # Sets
 
 The following tutorials guide you through using the [Flipside Creator Tools](/docs/2021.1/creator-tools) to import your own sets into Flipside.
 
-- [Importing custom sets into Flipside](#importing-custom-sets-into-flipside)
-- [Set optimization - baked lighting](#set-optimization-baked-lighting)
+- [Sets](#sets)
+	- [Importing custom sets into Flipside](#importing-custom-sets-into-flipside)
+	- [Set optimization - baked lighting](#set-optimization---baked-lighting)
 
 ## Importing custom sets into Flipside
 

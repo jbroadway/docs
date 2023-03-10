@@ -1,3 +1,5 @@
+:omit-from-search
+
 # Workflows
 
 ...

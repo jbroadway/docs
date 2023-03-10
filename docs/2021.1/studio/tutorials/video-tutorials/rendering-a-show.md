@@ -1,3 +1,5 @@
+:omit-from-search
+
 # Rendering a show
 
 The following tutorial teaches you how to use the Flipside Studio video renderer.

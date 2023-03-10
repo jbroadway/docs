@@ -1,3 +1,5 @@
+:omit-from-search
+
 # Tutorials
 
 The following pages are meant to help guide you through various aspects of the Flipside Studio software, including making video and motion capture recordings, dressing your virtual sets, and more.

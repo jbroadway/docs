@@ -1,3 +1,5 @@
+:omit-from-search
+
 # How to record more than one part
 
 Once you’ve completed a recording, you can change into another character, teleport to

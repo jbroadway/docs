@@ -1,10 +1,14 @@
+:omit-from-search
+
 # Characters
 
 The following tutorials guide you through using the [Flipside Creator Tools](/docs/2021.1/creator-tools) to import your own characters into Flipside.
 
-- [Importing characters from Ready Player Me](#importing-characters-from-ready-player-me)
-- [Importing characters from VRoid Studio](#importing-characters-from-vroid-studio)
-- [Importing characters from Daz](#importing-characters-from-daz)
+- [Characters](#characters)
+	- [Importing characters from Ready Player Me](#importing-characters-from-ready-player-me)
+	- [Importing characters from VRoid Studio](#importing-characters-from-vroid-studio)
+	- [Importing characters from Daz](#importing-characters-from-daz)
+	- [Importing characters from Adobe Mixamo and Fuse](#importing-characters-from-adobe-mixamo-and-fuse)
 <!-- - [Importing characters from CC3](#importing-characters-from-cc3) -->
 - [Importing characters from Adobe Mixamo and Fuse](#importing-characters-from-adobe-mixamo-and-fuse)
 
