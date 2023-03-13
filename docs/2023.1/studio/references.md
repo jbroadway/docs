@@ -20,7 +20,6 @@ The following pages include input controls, menu options, supported file formats
   * [[> Exports / Audio exports]] -->
 * [[> Settings]]
   * [[> Settings / Dashboard settings]]
-  * [[> Settings / General settings]]
   * [[> Settings / Microphone settings]]
   * [[> Settings / Output settings]]
   * [[> Settings / OBS settings]]
