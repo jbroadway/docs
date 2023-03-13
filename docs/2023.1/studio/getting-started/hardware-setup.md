@@ -8,7 +8,16 @@ All you need to use Flipside Studio on the Meta Quest is the Quest hardware itse
 
 ## Computer
 
-If you want to capture your Flipside Studio output for live streaming to Twitch, YouTube and other live streaming services, you'll need a PC capable of running [OBS Studio](https://obsproject.com/download).
+To livestream or capture video of your Flipside Studio content, you'll need a gaming laptop or PC with the following minimum specs:
+
+- **OS:** Windows 10 or higher
+- **CPU:** Intel Core i7-7820HK 2.90GHz / AMD Ryzen 7 3700U or better
+- **GPU:** Nvidia 1050 / AMD Radeon RX 570 or better
+- **RAM:** 8 GB+
+- **Storage:** 2 GB+ (more recommended, esp. for saving videos)
+
+Here's an overview of how to get your content out of Flipside Studio
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xzrLEksgeqc" title="How to get your content out of Flipside Studio" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Business users
 
@@ -22,9 +31,12 @@ Flipside Studio supports the Rift or Rift S with Touch Controllers, or the Meta 
 
 ## Computer
 
-For specs on a VR compatible computer, see Oculus Ready PCs.
+To livestream or capture video of your Flipside Studio content, you'll need a VR-compatible laptop or PC.
 
 > **Important note:** Flipside Studio has only been tested using Windows 10. If you are on a different version of Windows and encounter issues, please [provide feedback here](https://www.flipsidexr.com/community).
+
+Here's an overview of how to get your content out of Flipside Studio
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xzrLEksgeqc" title="How to get your content out of Flipside Studio" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Business users
 
