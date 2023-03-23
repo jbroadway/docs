@@ -3,7 +3,7 @@
 ## 2023.1.2-stable
 
 ### Improvements
-- Implemented a new feature that allows users to delete RPM (Ready Player Me) characters from their Flipside Studio account.
+- Implemented a new feature that allows users to delete Ready Player Me avatars from their Flipside Studio account.
 - Made minor UI/UX enhancements to improve overall user experience.
 
 ### Bug Fixes
