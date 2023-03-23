@@ -1,5 +1,19 @@
 # Flipside Studio Changelog
 
+## 2023.1.2-stable
+
+###Improvements
+- Implemented a new feature that allows users to delete RPM (Ready Player Me) characters from their Flipside Studio account.
+- Made minor UI/UX enhancements to improve overall user experience.
+
+###Bug Fixes
+- Resolved audio looping issues when spatial audio is enabled.
+- Audio looping no longer happens when a headset wakes up from sleep mode.
+- Stand-ins now consistently display the correct pose.
+- Removed unnecessary button on the sets menu.
+- Resolved the date and time issue affecting international users.
+
+
 ## 2023.1.0-stable
 
 ### Improvements
