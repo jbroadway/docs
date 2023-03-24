@@ -2,7 +2,7 @@
 
 >**Note**: The desktop interface is only available on the desktop version of Flipside Studio.
 
-The desktop interface gives a director the ability to controlling cameras from outside of VR, as well as access Flipside Studio's settings and export features.
+The desktop interface gives a director the ability to controlling cameras from outside of VR, as well as access Flipside Studio's settings.
 
 ![Desktop camera switcher](https://www.flipsidexr.com/files/docs/screenshots/desktop-switcher.jpg)
 
