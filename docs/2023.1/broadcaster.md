@@ -4,9 +4,7 @@ Flipside Broadcaster is a companion app for Flipside Studio that displays your c
 
 This page covers how to install Flipside Broadcaster on your PC.
 
-**To download Flipside Broadcaster, go to the [Downloads](/downloads) tab of the [Creator Portal](https://www.flipsidexr.com/user) on the Flipside XR website.**
-
-> **Note**: To access the [Creator Portal](https://www.flipsidexr.com/user) to download Flipside Broadcaster, Flipside Creator Tools and to upload your own assets to use in Flipside Studio, you must have your Flipside account set up. To do this, launch Flipside Studio and enter your email address when prompted.  
+**[Download Flipside Broadcaster](https://www.flipsidexr.com/download/broadcaster/latest)**
 
 ## Requirements
 
