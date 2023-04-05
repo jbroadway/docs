@@ -17,7 +17,7 @@ This page covers how to install, setup, and upgrade the Flipside Creator Tools i
 
 When asked if you want the install to occur in Unity Hub, answer **Yes**. 
 
-> **Note:** At the Choose Components selection of the installation, make sure you choose Android Build Support and Windows Build Support in order to build assets for both Quest and PCVR.
+> **Note:** At the Choose Components selection of the installation, make sure you choose **Android Build Support** and **Windows Build Support** in order to build assets for both Quest and PCVR.
 
 ## Download and Import Flipside Creator Tools into your Unity Project
 
