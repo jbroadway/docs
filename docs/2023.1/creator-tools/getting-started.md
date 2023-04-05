@@ -23,8 +23,6 @@ When asked if you want the install to occur in Unity Hub, answer **Yes**.
 
 **Step 1.** Download the latest version of the Flipside Creator Tools.
 
-To download Flipside Creator Tools, log into the [Creator Portal](https://www.flipsidexr.com/user) on the Flipside XR website and go to the **Downloads** tab.
-
 - [Download Flipside Creator Tools](https://www.flipsidexr.com/download/creator-tools/latest)
 
 **Step 2.** Open Unity and create a new 3D project. The same project can be used to create multiple characters and sets or you can split them up into multiple projects which makes building and publishing individual character and set changes a little faster.
