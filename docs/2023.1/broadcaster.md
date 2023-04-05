@@ -4,7 +4,7 @@ Flipside Broadcaster is a companion app for Flipside Studio that displays your c
 
 This page covers how to install Flipside Broadcaster on your PC.
 
-**[Download Flipside Broadcaster](https://www.flipsidexr.com/download/broadcaster/latest)**
+> [Download Flipside Broadcaster](https://www.flipsidexr.com/download/broadcaster/latest)
 
 ## Requirements
 
