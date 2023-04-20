@@ -1,5 +1,19 @@
 # Flipside Creator Tools Changelog
 
+## 2023.1.3-stable
+
+## Bug fixes
+
+- Made prop list non-reorderable in prop kits to fix Unity rendering glitch
+
+## 2023.1.2-stable
+
+No changes. Version bump to maintain parity across apps.
+
+## 2023.1.1-stable
+
+No changes. Version bump to maintain parity across apps.
+
 ## 2023.1.0-stable
 
 ### Improvements

@@ -4,9 +4,24 @@
 
 Check back here to learn about all the latest changes to Flipside.
 
+**2023.1.3-stable**<br>
+<span>[Studio Changelog](/docs/2023.1/studio/changelog#202213-stable) &middot; [Creator Tools Changelog](/docs/2023.1/creator-tools/changelog#202213-stable)</span><br>
+<small>April 20, 2023</small><br>
+Prop locking returns, OBS compatibility fix, puppet mode fixes, camera shake and movement fixes over multiplayer, and various other bug fixes.
+
+**2023.1.2-stable**<br>
+<span>[Studio Changelog](/docs/2023.1/studio/changelog#202212-stable) &middot; [Creator Tools Changelog](/docs/2023.1/creator-tools/changelog#202212-stable)</span><br>
+<small>March 14, 2023</small><br>
+Added the ability to delete Ready Player Me characters from your imported character list, improved Report a Problem menu, improved dashboard layout, and several bug fixes.
+
+**2023.1.1-stable**<br>
+<span>[Studio Changelog](/docs/2023.1/studio/changelog#202211-stable) &middot; [Creator Tools Changelog](/docs/2023.1/creator-tools/changelog#202211-stable)</span><br>
+<small>March 3, 2023</small><br>
+Release-day hotfix update.
+
 **2023.1.0-stable**<br>
 <span>[Studio Changelog](/docs/2023.1/studio/changelog#202210-stable) &middot; [Creator Tools Changelog](/docs/2023.1/creator-tools/changelog#202210-stable)</span><br>
-<small>July 28, 2022</small><br>
+<small>March 3, 2023</small><br>
 Flipside Studio is now available on the Meta Quest app store along with a completely redesigned UI, new onboarding tutorial, project-based sharing model for remote collaboration, prop kits with interactivity built in Unity, and much more.
 
 **2021.1.8-stable**<br>

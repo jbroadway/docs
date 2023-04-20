@@ -1,18 +1,42 @@
 # Flipside Studio Changelog
 
+## 2023.1.3-stable
+
+### Improvements
+
+- Added the ability to lock individual props so you can't accidentally grab them while performing (to unlock, hover over the prop and press the menu button to open its settings menu)
+- Added the ability to lock all props as a global setting so ghost mode users can't accidentally grab them while a performance is underway
+- Added a position number to the slideshow so you always know which slide you're on
+
+## Bug fixes
+
+- Fixed an issue with the video capture device plugin working with OBS (note: requires reinstalling the plugin through Flipside Broadcaster settings or Flipside Studio for Rift desktop settings menu)
+- Fixed a case where the record button wasn't disabled when playback was in progress
+- Fixed puppet mode from working correctly in playback
+- Fixed characters freezing in a T-pose if they were puppeteering while another user joins them in multiplayer
+- Fixed a leftover actor mark in the blank set after the onboarding tutorial is skipped
+- Disabled the ability to resize actor marks, poses and chairs
+- Fixed camera shake and movement speed settings being inconsistent over multiplayer and in Flipside Broadcaster
+- Fixed loading a take with characters sitting initially having them standing
+
 ## 2023.1.2-stable
 
 ### Improvements
+
 - Implemented a new feature that allows users to delete Ready Player Me avatars from their Flipside Studio account.
 - Made minor UI/UX enhancements to improve overall user experience.
 
 ### Bug Fixes
+
 - Resolved audio looping issues when spatial audio is enabled.
 - Audio looping no longer happens when a headset wakes up from sleep mode.
 - Stand-ins now consistently display the correct pose.
 - Removed unnecessary button on the sets menu.
 - Resolved the date and time issue affecting international users.
 
+**2023.1.1-stable**
+
+Release-day hotfix update.
 
 ## 2023.1.0-stable
 
