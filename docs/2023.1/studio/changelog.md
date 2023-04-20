@@ -7,6 +7,7 @@
 - Added the ability to lock individual props so you can't accidentally grab them while performing (to unlock, hover over the prop and press the menu button to open its settings menu)
 - Added the ability to lock all props as a global setting so ghost mode users can't accidentally grab them while a performance is underway
 - Added a position number to the slideshow so you always know which slide you're on
+- Added a new tutorial to the help menu about getting your content out of Flipside Studio
 
 ### Bug fixes
 
