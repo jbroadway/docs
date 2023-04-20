@@ -17,15 +17,13 @@ This page covers how to install, setup, and upgrade the Flipside Creator Tools i
 
 When asked if you want the install to occur in Unity Hub, answer **Yes**. 
 
-> **Note:** At the Choose Components selection of the installation, make sure you choose Android Build Support and Windows Build Support in order to build assets for both Quest and PCVR.
+> **Note:** At the Choose Components selection of the installation, make sure you choose **Android Build Support** and **Windows Build Support** in order to build assets for both Quest and PCVR.
 
 ## Download and Import Flipside Creator Tools into your Unity Project
 
 **Step 1.** Download the latest version of the Flipside Creator Tools.
 
-To download Flipside Creator Tools, log into the [Creator Portal](https://www.flipsidexr.com/user) on the Flipside XR website and go to the **Downloads** tab.
-
-**[Click here to download Flipside Creator Tools](https://www.flipsidexr.com/download/creator-tools/latest)**
+- [Download Flipside Creator Tools](https://www.flipsidexr.com/download/creator-tools/latest)
 
 **Step 2.** Open Unity and create a new 3D project. The same project can be used to create multiple characters and sets or you can split them up into multiple projects which makes building and publishing individual character and set changes a little faster.
 
