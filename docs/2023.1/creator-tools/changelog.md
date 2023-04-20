@@ -2,7 +2,7 @@
 
 ## 2023.1.3-stable
 
-## Bug fixes
+### Bug fixes
 
 - Made prop list non-reorderable in prop kits to fix Unity rendering glitch
 

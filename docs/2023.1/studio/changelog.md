@@ -8,7 +8,7 @@
 - Added the ability to lock all props as a global setting so ghost mode users can't accidentally grab them while a performance is underway
 - Added a position number to the slideshow so you always know which slide you're on
 
-## Bug fixes
+### Bug fixes
 
 - Fixed an issue with the video capture device plugin working with OBS (note: requires reinstalling the plugin through Flipside Broadcaster settings or Flipside Studio for Rift desktop settings menu)
 - Fixed a case where the record button wasn't disabled when playback was in progress
