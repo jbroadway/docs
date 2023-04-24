@@ -25,9 +25,11 @@ If you're experiencing an application crash, or an issue that's blocking you fro
 
 ![Windows Explorer show hidden items](https://www.flipsidexr.com/files/docs/screenshots/windows-explorer-show-hidden-files.png)
 
-2\. Now browse to `AppData/LocalLow/Flipside XR/Flipside Studio` under your home directory and you should see an `output_log.txt` file.
+2\. For Flipside Studio, browse to `AppData/LocalLow/Flipside XR/Flipside Studio` under your home directory. For Flipside Broadcaster, browse to `AppData/LocalLow/Flipside XR/Flipside Broadcaster` instead.
 
 ![Flipside output log file](https://www.flipsidexr.com/files/docs/screenshots/flipside-output-log-location.png)
+
+3\. The file `Player.log` in this folder is the output log from your last time using the app. Please include this file with your support request, along with your general system information (Windows version, CPU, GPU, RAM, remaining storage space).
 
 ### Flipside Creator Tools issues
 
