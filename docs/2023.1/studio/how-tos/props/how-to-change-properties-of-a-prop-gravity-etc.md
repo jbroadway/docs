@@ -2,7 +2,7 @@
 
 Turn gravity on or off, lock, clone or delete a prop through the Prop Properties menu. 
 
-**Step 1.** Place one of your controllers in the prop and press the menu button on that controller while holding it. When you're holding a prop, this button opens the prop properties menu instead of the main menu.
+**Step 1.** Place one of your controllers in the prop and press the menu button on that controller. This button will now open the prop properties menu instead of the main menu.
 
 :gif https://www.flipsidexr.com/files/docs/2023.1/help_7-8_1.mp4
 
