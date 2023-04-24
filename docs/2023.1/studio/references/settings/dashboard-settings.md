@@ -14,6 +14,8 @@ The following settings can be accessed via the **Settings** tab of the Flipside 
 
 * **Turn off user interface sounds** - Disable user interface sounds (note: they're already automatically off while recording).
 
+* **Spaitial audio** - If enabled, sounds will be heard from the direction and distance they came from. When disabeled all sounds are equal in volume.
+
 ## Cameras
 
 - **Lock cameras** - If enabled, it will prevent the local user from interacting with cameras on a set. Useful for actors when collaborating with a camera operator.
