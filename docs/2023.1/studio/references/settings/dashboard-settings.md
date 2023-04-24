@@ -6,6 +6,10 @@ The following settings can be accessed via the **Settings** tab of the Flipside 
 
 * **Hide name tags** - Hides name tags above characters over multiplayer.
 
+## Props
+
+* **Lock Props** - Locks all props so they can't be moved.  When enabled, this overrides individual prop settings.  When disabled, props fuction according to what is selected in the prop's property menu.
+
 ## Audio
 
 * **Turn off user interface sounds** - Disable user interface sounds (note: they're already automatically off while recording).
