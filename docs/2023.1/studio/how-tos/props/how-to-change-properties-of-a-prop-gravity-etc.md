@@ -14,11 +14,10 @@ Click on the checkbox next to **lock** to lock the prop so it can’t move.  Loc
 
 :gif https://www.flipsidexr.com/files/docs/2023.1/help_7-8_3.mp4
 
-Click Clone to duplicate the prop.
+Click **clone** to duplicate the prop or **delete** to remove a prop.
 
 :gif https://www.flipsidexr.com/files/docs/2023.1/help_7-8_4.mp4
 
-To delete a prop, click on **delete prop**.
 
 
 ---
