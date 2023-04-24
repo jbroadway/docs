@@ -2,7 +2,7 @@
 
 Here's how to remove a prop from your set:
 
-**Step 1.** Grab a prop and press the menu button on that controller while holding it. When you're holding a prop, this button opens the prop's Properties menu instead of the main menu.
+**Step 1.** Place one of your controllers in the prop and press the menu button on that controller. This button will now open the prop properties menu instead of the main menu.
 
 **Step 2.** Click on the **Delete Prop** button on the prop properties menu.
 
