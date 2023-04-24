@@ -1,14 +1,25 @@
 # How to change properties of a prop (gravity, etc)
 
-Once you've added a few props to your set, here's how to select if it's affected by gravity.
+Turn gravity on or off, lock, clone or delete a prop through the Prop Properties menu. 
 
 **Step 1.** Grab the prop with one of your controllers and press the menu button on that controller while holding it. When you're holding a prop, this button opens the prop properties menu instead of the main menu.
 
-:gif https://www.flipsidexr.com/files/docs/2023.1/help_7-17_1.mp4
+:gif https://www.flipsidexr.com/files/docs/2023.1/help_7-8_1.mp4
 
-**Step 2.** Click on the checkbox next to **Gravity**.  When checked, the prop will be affected by gravity. 
+Click on the checkbox next to **gravity** to set whether the prop should be affected by gravity or float in place. 
 
-:gif https://www.flipsidexr.com/files/docs/2023.1/help_7-17_2.mp4
+:gif https://www.flipsidexr.com/files/docs/2023.1/help_7-8_2.mp4
+
+Click on the checkbox next to **lock** to lock the prop so it can’t move.  Locked props will remain in place until unlocked. When locked, you won’t be able to grab the prop and it will not react to its gravity setting.
+
+:gif https://www.flipsidexr.com/files/docs/2023.1/help_7-8_3.mp4
+
+Click Clone to duplicate the prop.
+
+:gif https://www.flipsidexr.com/files/docs/2023.1/help_7-8_4.mp4
+
+To delete a prop, click on **delete prop**.
+
 
 ---
 
