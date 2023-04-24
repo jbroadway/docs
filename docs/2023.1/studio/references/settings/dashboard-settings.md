@@ -8,7 +8,7 @@ The following settings can be accessed via the **Settings** tab of the Flipside 
 
 ## Props
 
-* **Lock Props** - Locks all props so they can't be moved.  When enabled, this overrides individual prop settings.  When disabled, props fuction according to what is selected in the prop's property menu.
+* **Lock Props** - Locks all props so they can't be moved.  When enabled, this overrides individual prop settings.  When disabled, props fuction according to what is selected in the Prop Properties menu for that prop.
 
 ## Audio
 
