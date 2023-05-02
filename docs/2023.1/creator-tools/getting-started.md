@@ -31,7 +31,7 @@ When asked if you want the install to occur in Unity Hub, answer **Yes**.
 
 > **Note:** If you're upgrading an existing Flipside Creator Tools project from an older version of Unity, always be sure to **back up your project before upgrading**.
 
-**Step 4.**  Navigate to **Window > Package Manager** in Unity and install either the **Oculus Desktop** or **OpenVR (Desktop)** package, depending on your VR headset. This will let you press Play and preview/test your characters and sets in VR.
+**Step 4.**  Navigate to **Window > Package Manager** in Unity and choose **Packages: Unity Registry** from the top bar. Find and install either the **Oculus XR Plugin** or **OpenXR Plugin** package from the package list, depending on your VR headset. This will let you press Play and preview/test your characters and sets in VR.
 
 **Step 5.**  After installing the Unity package, navigate to **Flipside Creator Tools > Open Flipside Creator Tools** to open the Creator Tools wizard. You can dock this window anywhere you like in the editor.
 
