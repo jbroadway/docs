@@ -7,7 +7,7 @@ Check back here to learn about all the latest changes to Flipside.
 **2023.1.4-stable**<br>
 <span>[Studio Changelog](/docs/2023.1/studio/changelog#202214-stable) &middot; [Creator Tools Changelog](/docs/2023.1/creator-tools/changelog#202214-stable)</span><br>
 <small>May 25, 2023</small><br>
-Introducing a new AI set creator (beta), voice-to-text keyboard input, along with various other iprovements and bug fixes.
+Introducing a new AI set creator (beta), voice-to-text keyboard input, along with various other improvements and bug fixes.
 
 **2023.1.3-stable**<br>
 <span>[Studio Changelog](/docs/2023.1/studio/changelog#202213-stable) &middot; [Creator Tools Changelog](/docs/2023.1/creator-tools/changelog#202213-stable)</span><br>
