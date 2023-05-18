@@ -4,7 +4,7 @@
 
 ### Improvements
 
-- Added a beta version of an AI set generator you can find under Sets > All Sets > Imported where you can describe a set and watch it appear around you. AI-generated sets are 360 panoramic images and are saved to your imported sets so you can use them again and again
+- Added a beta version of an AI set generator you can find under **Sets > All Sets > Imported** where you can describe a set and watch it appear around you. AI-generated sets are 360 panoramic images and are saved to your imported sets so you can use them again and again
 - Added a voice input button to the left of the spacebar on our virtual keyboard so you can input data just by talking
 - Added an @ symbol button to the right of the spacebar on our virtual keyboard so it's easier to enter email addresses
 - Added the Flipside Broadcaster download link to the Flipside Studio popup when you click Start Casting
