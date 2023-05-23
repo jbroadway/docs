@@ -25,3 +25,6 @@ The following pages include input controls, menu options, supported file formats
   * [[> Settings / OBS settings]]
 * [[> Slideshow formats]]
 * [[> Tips and tricks]]
+  * [[> Recording the Flipside user interface]]
+  * [[> Going fullscreen]]
+  * [[> Visibility]]
