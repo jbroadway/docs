@@ -23,6 +23,7 @@
 - Fixed rotating your character being able to disconnect your position from your character
 - Fixed scrolling on the scripts menu so you can access more than 7 scripts again
 - Fixed button state inconsistencies on the "Start Cast" buttons
+- Fixed an issue with Ready Player Me deleting avatars that were still in use
 
 ## 2023.1.3-stable
 
