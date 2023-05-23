@@ -2,16 +2,16 @@
 
 --- Platform: Quest ---
 
-* [[> Recording the Flipside user interface]]
-* [[> Going fullscreen]]
-* [[> Visibility]]
+* [[> tips and tricks / Recording the Flipside user interface]]
+* [[> tips and tricks / Going fullscreen]]
+* [[> tips and tricks / Visibility]]
 
 
 --- Platform: Rift ---
 
-* [[> Recording the Flipside user interface]]
-* [[> Going fullscreen]]
-* [[> Visibility]]
+* [[> tips and tricks / Recording the Flipside user interface]]
+* [[> tips and tricks / Going fullscreen]]
+* [[> tips and tricks / Visibility]]
 
 
 
