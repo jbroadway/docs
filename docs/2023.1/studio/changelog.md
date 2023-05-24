@@ -13,7 +13,8 @@
 - Added red, yellow and blue tinted lights to the Show Tools category
 - Poses now show as your invisible outline until you teleport away so you get visual feedback of the pose being created
 - Added "Start Cast" button to the main menu
-- Slight improvements to lip syncing
+- Improved server capacity to handle sudden bursts of traffic from loading scenes with larger numbers of parts
+- Slight improvements to lip sync responsiveness
 
 ### Bug fixes
 
