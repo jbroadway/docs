@@ -15,6 +15,8 @@ Recording video requires a PC with the following software installed. Follow the 
 
 ### Flipside Broadcaster setup
 
+>**Note:** You only need to set up Flipside Broadcaster once.  If you've done it already, skip to the **Recording videos** section.
+
 **Step 1.** Install Flipside Broadcaster on your PC.
 
 **Step 2.** Launch Flipside Broadcaster and click on the **Settings** icon in the top right of the room code window.
@@ -31,6 +33,8 @@ Recording video requires a PC with the following software installed. Follow the 
 
 
 ### OBS Studio setup
+
+>**Note:** You only need to set up OBS Studio once.  If you've done it already, skip to the **Recording videos** section.
 
 **Step 1.** Install OBS Studio on your PC.
 
@@ -55,6 +59,8 @@ After completing the one-time steps above, here are the steps you can use to rec
 **Step 2.** Press the **Start Cast** button in the bottom left corner of the camera switcher. A popup window will appear with a room code to enter into Flipside Broadcaster to connect.
 
 :gif https://www.flipsidexr.com/files/docs/2023.1/help_10-3_6.mp4
+
+>**Note:** The **cast** button can also be found on the **main menu**.
 
 **Step 3.** Launch Flipside Broadcaster on your PC. Click the settings icon to start the Virtual Camera if it's not already connected. 
 
