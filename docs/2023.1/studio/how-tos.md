@@ -88,6 +88,8 @@ The following pages are meant to help guide you through various aspects of the F
 
 [[> Sets / How to create and import your own sets]]
 
+[[> Sets / AI Set Creator]]
+
 ## Props
 
 [[> Props / How to add props to a set]]
