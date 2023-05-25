@@ -30,15 +30,19 @@ While in fullscreen, you can press **Esc** to bring the desktop interface back i
 
 If you move your mouse over the window while in fullscreen, a notice will appear along the top that says _"Press Esc to exit fullscreen"_.
 
-To record video of your Flipside Studio content, use any screen capturing software like  [OBS Studio](https://obsproject.com/).
 
-**Step 2.:**  In OBS Studio, add a **Video Capture Device** as a source. Then, select **Flipside Studio** from the device dropdown.
+## Recording video of whata you see on the Desktop Interface
+
+To record video of your Flipside Studio content, use any screen capturing software like [OBS Studio](https://obsproject.com/).
+
+**Step 1.**  In OBS Studio, add a **Video Capture Device** as a source. Then, select **Flipside Studio** from the device dropdown.
 
 Alternatively, you can select any other input source that suits your needs like **Game Capture** or **Window Capture**.
 
 **Step 2.** Start recording or live streaming.
 
 **Step 3.** Once you’re done, your video will be saved to your computer according to the settings in the OBS Studio setting menu.
+
 ---
 
 **Next:** [[:Casting to a computer with Flipside Broadcaster]]
