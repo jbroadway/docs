@@ -26,6 +26,8 @@ The following pages are meant to help guide you through various aspects of the F
 
 [[> Recording and live streaming / How to find your photos and videos]]
 
+[[> Recording and live streaming / How to get content out of Flipside Studio]]
+
 ## Cameras
 
 [[> Cameras / How to use cameras in Flipside Studio]]
