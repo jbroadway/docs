@@ -1,5 +1,31 @@
 # Flipside Studio Changelog
 
+## 2023.1.4-stable
+
+### Improvements
+
+- Added a beta version of an AI set generator you can find under **Sets > All Sets > Imported** where you can describe a set and watch it appear around you. AI-generated sets are 360 panoramic images and are saved to your imported sets so you can use them again and again
+- Added a voice input button to the left of the spacebar on our virtual keyboard so you can input data just by talking
+- Added an @ symbol button to the right of the spacebar on our virtual keyboard so it's easier to enter email addresses
+- Added the Flipside Broadcaster download link to the Flipside Studio popup when you click Start Casting
+- Added a confirmation step to the email entry so users have a chance to verify what they entered before submitting
+- Added beta support for Japanese characters (Hiragana, Katakana and Joyo Kanji) in the teleprompter
+- Added red, yellow and blue tinted lights to the Show Tools category
+- Poses now show as your invisible outline until you teleport away so you get visual feedback of the pose being created
+- Added "Start Cast" button to the main menu
+- Improved server capacity to handle sudden bursts of traffic from loading scenes with larger numbers of parts
+- Slight improvements to lip sync responsiveness
+
+### Bug fixes
+
+- Fixed a crashing issue in Flipside Broadcaster that was affecting some users (if anyone still has crashes, please [let us know!](https://www.flipsidexr.com/docs/2023.1/getting-help))
+- Fixed not being able to rotate while sitting
+- Fixed characters appearing discoloured when you stop puppeteering
+- Fixed rotating your character being able to disconnect your position from your character
+- Fixed scrolling on the scripts menu so you can access more than 7 scripts again
+- Fixed button state inconsistencies on the "Start Cast" buttons
+- Fixed an issue with Ready Player Me deleting avatars that were still in use
+
 ## 2023.1.3-stable
 
 ### Improvements
