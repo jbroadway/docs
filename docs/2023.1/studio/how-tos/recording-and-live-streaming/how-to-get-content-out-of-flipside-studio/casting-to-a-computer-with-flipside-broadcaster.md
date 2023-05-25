@@ -34,8 +34,16 @@ Alternatively, you can select any other input source that suits your needs like 
 
 **Step 3.** Once you’re done, your video will be saved to your computer according to the settings in the OBS Studio setting menu.
 
+___
 
----
+--- Platform: Quest ---
 
 **Next:** [[:Recording your POV with Meta Quest's recording feature]]
+
+
+--- Platform: Rift ---
+
+**Back:** [[Studio / How tos / Recording and live streaming]]
+
+--- /Platform ---
 
