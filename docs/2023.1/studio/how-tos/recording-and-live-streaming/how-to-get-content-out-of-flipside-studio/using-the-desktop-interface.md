@@ -31,7 +31,7 @@ While in fullscreen, you can press **Esc** to bring the desktop interface back i
 If you move your mouse over the window while in fullscreen, a notice will appear along the top that says _"Press Esc to exit fullscreen"_.
 
 
-## Recording video of whata you see on the Desktop Interface
+## Recording video of the Desktop Interface
 
 To record video of your Flipside Studio content, use any screen capturing software like [OBS Studio](https://obsproject.com/).
 
