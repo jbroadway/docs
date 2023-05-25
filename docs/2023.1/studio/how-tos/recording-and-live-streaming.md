@@ -10,6 +10,8 @@
 
 [[> How to find your photos and videos]]
 
+[[> How to get content out of Flipside Studio]]
+
 ---
 
 **Next:** [[: Cameras]]
