@@ -12,6 +12,9 @@
 
 [[> How to create and import your own sets]]
 
+[[> AI Set Creator]]
+
 ---
 
 **Next:** [[: Props]]
+
