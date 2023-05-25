@@ -38,7 +38,7 @@ ___
 
 --- Platform: Quest ---
 
-**Next:** [[:Recording your POV with Meta Quest's recording feature]]
+**Next:** [[:Recording your POV with the Meta Quest recording feature]]
 
 
 --- Platform: Rift ---
