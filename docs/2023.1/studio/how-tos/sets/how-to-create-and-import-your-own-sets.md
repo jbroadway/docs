@@ -4,4 +4,4 @@ To create and import your own sets into Flipside Studio, take a look at [[creato
 
 ---
 
-**Back:** [[Studio / How tos]]
+**Next:** [[:AI Set Creator]]
