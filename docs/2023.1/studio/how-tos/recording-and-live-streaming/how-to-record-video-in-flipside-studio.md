@@ -50,7 +50,7 @@ Recording video requires a PC with the following software installed. Follow the 
 
 After completing the one-time steps above, here are the steps you can use to record video from Flipside Studio.
 
-> **Note:** If you're using the desktop version of Flipside Studio, you can skip to **Step 4.** and capture Flipside Studio directly in OBS, unless you want to capture on a separate machine than the one you're using for VR.
+> **Note:** If you're using the desktop version of Flipside Studio, you can skip to **Step 4** and capture Flipside Studio directly in OBS, unless you want to capture on a separate machine than the one you're using for VR.
 
 **Step 1.** Press the menu button on either controller and choose **Camera Switcher** from the main menu.
 
