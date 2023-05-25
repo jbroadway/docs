@@ -28,3 +28,4 @@ The following pages include input controls, menu options, supported file formats
   * [[> Tips and tricks / Recording the Flipside user interface]]
   * [[> Tips and tricks / Going fullscreen]]
   * [[> Tips and tricks / Visibility]]
+  * [[> Tips and tricks / Speech-to-text]]
