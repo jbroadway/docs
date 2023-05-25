@@ -45,4 +45,13 @@ Alternatively, you can select any other input source that suits your needs like 
 
 ---
 
+--- Platform: Quest ---
+
 **Next:** [[:Casting to a computer with Flipside Broadcaster]]
+
+
+--- Platform: Rift ---
+
+**Back:** [[Studio / How tos / Recording and live streaming]]
+
+--- /Platform ---
