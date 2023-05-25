@@ -14,9 +14,9 @@ To include audio, select the toggle next to **Include Mic Audio**.
 
 **Step 3.** When you’re ready to record, select **Start Recording**.
 
-:gif https://www.flipsidexr.com/files/docs/2023.1/help_meta-quest-recording_1.mp4
-
 >**Note:** A red dot will appear in VR to indicate that recording has started. 
+
+:gif https://www.flipsidexr.com/files/docs/2023.1/help_meta-quest-recording_1.mp4
 
 If you’re capturing the playback of a recording made in Flipside Studio, load the recording, position yourself to capture the desired framing, then press **play**.
 
