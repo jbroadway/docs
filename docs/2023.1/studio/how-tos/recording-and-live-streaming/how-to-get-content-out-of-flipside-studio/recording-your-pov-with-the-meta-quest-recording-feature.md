@@ -1,5 +1,3 @@
---- Platform: Quest ---
-
 # Recording your POV with the Meta Quest recording feature
 
 You can capture video of what you see in Flipside Studio using Meta Quest’s recording feature. Although this method is limited to your point of view, it’s a great option if you want to record video of your content directly onto your device.
@@ -29,8 +27,6 @@ Then, click on the **stop** button to stop recording.
 Open your **Apps Library** and select **Files** then click on the **menu beside your recording** and click **Share**.
 
 Select how you want to share the recording. You can share to Facebook or sync to the Meta Quest mobile app to download to your device.
-
---- /Platform ---
 
 ---
 
