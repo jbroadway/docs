@@ -10,7 +10,7 @@ To stream or record video of your Flipside Studio content, you need to get your 
 
 Head over to [flipsidexr.com](www.flipsidexr.com) and log into the **Creator Portal**. From there, click on the **Downloads** tab and download then install **Flipside Broadcaster**.  
 
-For a detailed overview of how to install Flipside Broadcaster including hardware requirements, visit [Installing Flipside Broadcasater](https://www.flipsidexr.com/docs/2023.1/studio/getting-started/installing-flipside-broadcaster)
+For a detailed overview of how to install Flipside Broadcaster including hardware requirements, visit [Installing Flipside Broadcaster](https://www.flipsidexr.com/docs/2023.1/studio/getting-started/installing-flipside-broadcaster)
 
 **Step 2.** Once the installation process is complete, launch **Flipside Broadcaster** on your computer and click on the **settings** icon.  Install the **Virtual Camera** to make Flipside Broadcaster a video source in apps like OBS Studio and Zoom. Then, click **start** to connect it.
 
