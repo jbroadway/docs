@@ -37,7 +37,7 @@ To record video of your Flipside Studio content, use any screen capturing softwa
 
 **Step 1.**  In OBS Studio, add a **Video Capture Device** as a source. Then, select **Flipside Studio** from the device dropdown.
 
-:gif https://www.flipsidexr.com/files/docs/2023.1/help_get-content-out-flipside-broadcaster_4.mp4
+:gif https://www.flipsidexr.com/files/docs/2023.1/help_get-content-out-flipside-broadcaster_5.mp4
 
 Alternatively, you can select any other input source that suits your needs like **Game Capture** or **Window Capture**.
 
