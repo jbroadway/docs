@@ -4,6 +4,11 @@
 
 Check back here to learn about all the latest changes to Flipside.
 
+**2023.1.5-stable**<br>
+<span>[Studio Changelog](/docs/2023.1/studio/changelog#202215-stable) &middot; [Creator Tools Changelog](/docs/2023.1/creator-tools/changelog#202215-stable)</span><br>
+<small>June 13, 2023</small><br>
+Fixed keyboard appearing over the user registration form, a rotation issue in playback, and cameras being added in playback.
+
 **2023.1.4-stable**<br>
 <span>[Studio Changelog](/docs/2023.1/studio/changelog#202214-stable) &middot; [Creator Tools Changelog](/docs/2023.1/creator-tools/changelog#202214-stable)</span><br>
 <small>May 25, 2023</small><br>

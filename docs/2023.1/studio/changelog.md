@@ -1,5 +1,13 @@
 # Flipside Studio Changelog
 
+## 2023.1.5-stable
+
+### Bug fixes
+
+- Fixed the keyboard appearing over the user registration form, making it difficult to complete the registration process
+- Fixed rotating in place affecting your subsequent orientation in the scene and in playback
+- Fixed a bug where cameras added while recording would get re-added in playback
+
 ## 2023.1.4-stable
 
 ### Improvements
