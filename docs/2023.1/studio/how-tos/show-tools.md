@@ -18,6 +18,8 @@
 
 [[> How to use the eye target prop]]
 
+[[> AI Script Creator]]
+
 ---
 
 **Next:** [[: Characters]]
