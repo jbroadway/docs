@@ -4,6 +4,11 @@
 
 Check back here to learn about all the latest changes to Flipside.
 
+**2023.1.6-stable**<br>
+<span>[Studio Changelog](/docs/2023.1/studio/changelog#202216-stable) &middot; [Creator Tools Changelog](/docs/2023.1/creator-tools/changelog#202216-stable)</span><br>
+<small>June 22, 2023</small><br>
+Introducing a new AI script generator (beta), and bug fixes.
+
 **2023.1.5-stable**<br>
 <span>[Studio Changelog](/docs/2023.1/studio/changelog#202215-stable) &middot; [Creator Tools Changelog](/docs/2023.1/creator-tools/changelog#202215-stable)</span><br>
 <small>June 13, 2023</small><br>

@@ -1,5 +1,16 @@
 # Flipside Studio Changelog
 
+## 2023.1.6-stable
+
+### Improvements
+
+- Added a new AI script generator to the Scripts menu that you can use to generate dialogue and monologue ideas
+
+### Bug fixes
+
+- Fixed a regression that caused overdubbed parts to be recorded incorrectly
+- Fixed not broadcasting script changes to others over multiplayer
+
 ## 2023.1.5-stable
 
 ### Bug fixes
