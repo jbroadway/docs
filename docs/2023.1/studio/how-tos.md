@@ -60,6 +60,8 @@ The following pages are meant to help guide you through various aspects of the F
 
 [[> Show tools / How to use the eye target prop]]
 
+[[> Show tools / AI Script Creator]]
+
 ## Characters
 
 [[> Characters / How to embody characters]]
