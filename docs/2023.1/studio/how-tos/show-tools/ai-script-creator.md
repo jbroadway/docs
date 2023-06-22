@@ -6,7 +6,7 @@ Generate scripts using AI.
 
 **Step 1.** Press the menu button on either controller and choose **Teleprompter** from the main menu.
 
-:gif https://www.flipsidexr.com/files/docs/2023.1/help_AI-script-creator_1.mp4
+:gif https://www.flipsidexr.com/files/docs/2023.1/help_1-2_16.mp4
 
 **Step 2.** Click on the **Scripts** button on the Teleprompter.
 
