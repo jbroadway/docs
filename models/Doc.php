@@ -82,6 +82,7 @@ class Doc {
 		while (! empty ($link) && $link != $vlink) {
 			$id = preg_replace ('/^' . preg_quote ($this->link_base, '/') . '\//', '', $link);
 			$doc = new Doc ($id);
+			$doc->strip_omit_from_search ();
 			$links[$link] = $doc->title ();
 
 			$link = preg_replace ('/\/[^\/]+$/', '', $link);
@@ -137,7 +138,7 @@ class Doc {
 
 		// parse macros
 		$out = preg_replace_callback (
-			'/^(<p>)?:(table|col|row|endtable|gif|embed|div|enddiv|\/table|\/div|omit-from-search) ?([^<]*)?(<\/p>)?/im',
+			'/^(<p>)?:(table|col|row|endtable|gif|embed|div|enddiv|\/table|\/div) ?([^<]*)?(<\/p>)?/im',
 			array ($this, 'render_macros'),
 			$out
 		);
@@ -251,8 +252,6 @@ class Doc {
 				}
 			case 'embed':
 				return $GLOBALS['controller']->run (trim ($regs[3]));
-			case 'omit-from-search':
-				return '';
 			default:
 				return '';
 		}
@@ -274,6 +273,15 @@ class Doc {
 			$parts[$k] = URLify::filter (trim ($p));
 		}
 		return join ('/', $parts);
+	}
+
+	/**
+	 * Strip the :omit-from-search macro.
+	 */
+	public function strip_omit_from_search () {
+		if (strpos ($this->doc, ':omit-from-search') === 0) {
+			$this->doc = trim (str_replace (':omit-from-search', '', $this->doc));
+		}
 	}
 	
 	/**
@@ -324,7 +332,11 @@ class Doc {
 		
 		while ($id != '') {
 			if (file_exists ($this->root . '/' . $id . '-nav.md')) {
-				return $this->render (file_get_contents ($this->root . '/' . $id . '-nav.md'), false);
+				$nav = file_get_contents ($this->root . '/' . $id . '-nav.md');
+				if (strpos ($nav, ':omit-from-search') === 0) {
+					$nav = trim (str_replace (':omit-from-search', '', $nav));
+				}
+				return $this->render ($nav, false);
 			}
 			
 			$id = substr ($id, 0, strrpos ($id, '/'));

@@ -19,6 +19,8 @@ if (preg_match ('|^/docs/([0-9]+\.[0-9]+)$|', $_SERVER['REQUEST_URI'], $regs)) {
 	}
 }
 
+$doc->strip_omit_from_search ();
+
 $page->id = 'docs';
 $page->title = $doc->title ();
 $page->layout = Appconf::docs ('Docs', 'layout');
@@ -34,7 +36,7 @@ echo $tpl->render ('docs/page', array (
 	'targets' => $doc->targets (),
 	'version' => $doc->version (),
 	'versions' => $doc->versions (),
-	'title' => $doc->title (),
+	'title' => $page->title,
 	'body' => $doc->render (),
 	'doc' => $doc,
 	'cookie_prefix' => Appconf::docs ('Docs', 'cookie_prefix')
