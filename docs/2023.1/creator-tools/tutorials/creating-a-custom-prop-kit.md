@@ -1,6 +1,6 @@
 # Creating a custom prop kit
 
-Once you have the [Flipside Creator Tools](/docs/2021.1/creator-tools) installed and set up, here are the steps to create a custom prop kit you can import into Flipside Studio.
+Once you have the [Flipside Creator Tools](/docs/2023.1/creator-tools) installed and set up, here are the steps to create a custom prop kit you can import into Flipside Studio.
 
 ## Overview
 

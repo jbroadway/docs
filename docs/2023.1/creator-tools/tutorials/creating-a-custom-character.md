@@ -1,6 +1,6 @@
 # Creating a custom character
 
-Once you have the [Flipside Creator Tools](/docs/2021.1/creator-tools) installed and set up,
+Once you have the [Flipside Creator Tools](/docs/2023.1/creator-tools) installed and set up,
 here are the steps to create a custom character for your Flipside shows.
 
 ## Creating your character model

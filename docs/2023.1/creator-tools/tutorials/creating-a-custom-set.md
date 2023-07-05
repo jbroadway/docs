@@ -1,6 +1,6 @@
 # Creating a custom set
 
-Once you have the [Flipside Creator Tools](/docs/2021.1/creator-tools) installed and set up, here are the steps to create a custom set for your Flipside shows.
+Once you have the [Flipside Creator Tools](/docs/2023.1/creator-tools) installed and set up, here are the steps to create a custom set for your Flipside shows.
 
 ## Overview
 
