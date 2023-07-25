@@ -1,5 +1,22 @@
 # Flipside Studio Changelog
 
+## 2023.1.7-stable
+
+### Improvements
+
+- Introducing first beta of Flipside Broadcaster for Android
+- Added ability to hide or mute individual parts in a recording
+- Added ability to remove individual parts from a recording
+- Upgraded Ready Player Me integration to version 2.0, which includes some performance improvements
+- Upgraded Android SDK version to 32
+
+### Bug fixes
+
+- Fixed case where motion capture of two characters could get merged into one glitchy take
+- Fixed audio not always playing back on more complex or longer recordings
+- Fixed cameras getting added in playback for remote users
+- Fixed a case where a user could get stuck in a chair and appear to be planking
+
 ## 2023.1.6-stable
 
 ### Improvements

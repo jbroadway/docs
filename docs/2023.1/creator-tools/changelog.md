@@ -1,5 +1,12 @@
 # Flipside Creator Tools Changelog
 
+## 2023.1.7-stable
+
+### Improvements
+
+- Added a warning if Windows or Android build targets are missing from their Unity installation
+- Added a sitting setting to audience seat positions
+
 ## 2023.1.6-stable
 
 No changes. Version bump to maintain parity across apps.
