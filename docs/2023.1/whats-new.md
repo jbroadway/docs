@@ -4,10 +4,10 @@
 
 Check back here to learn about all the latest changes to Flipside.
 
-**2023.1.6-stable**<br>
+**2023.1.7-stable**<br>
 <span>[Studio Changelog](/docs/2023.1/studio/changelog#202217-stable) &middot; [Creator Tools Changelog](/docs/2023.1/creator-tools/changelog#202217-stable)</span><br>
 <small>July 27, 2023</small><br>
-First beta of Flipside Broadcaster on Android, edit recordings by muting, hiding or deleting parts, and various bug fixes.
+Edit existing recordings by muting, hiding, deleting and redoing parts, along with various bug fixes and performance improvements.
 
 **2023.1.6-stable**<br>
 <span>[Studio Changelog](/docs/2023.1/studio/changelog#202216-stable) &middot; [Creator Tools Changelog](/docs/2023.1/creator-tools/changelog#202216-stable)</span><br>

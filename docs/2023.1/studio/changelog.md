@@ -4,7 +4,6 @@
 
 ### Improvements
 
-- Introducing first beta of Flipside Broadcaster for Android
 - Added ability to hide or mute individual parts in a recording
 - Added ability to remove individual parts from a recording
 - Upgraded Ready Player Me integration to version 2.0, which includes some performance improvements
