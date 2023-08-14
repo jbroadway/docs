@@ -4,6 +4,11 @@
 
 Check back here to learn about all the latest changes to Flipside.
 
+**2023.1.8-stable**<br>
+<span>[Studio Changelog](/docs/2023.1/studio/changelog#202218-stable) &middot; [Creator Tools Changelog](/docs/2023.1/creator-tools/changelog#202218-stable)</span><br>
+<small>August 8, 2023</small><br>
+Various bug fixes.
+
 **2023.1.7-stable**<br>
 <span>[Studio Changelog](/docs/2023.1/studio/changelog#202217-stable) &middot; [Creator Tools Changelog](/docs/2023.1/creator-tools/changelog#202217-stable)</span><br>
 <small>July 27, 2023</small><br>

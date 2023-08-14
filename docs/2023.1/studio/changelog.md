@@ -1,5 +1,20 @@
 # Flipside Studio Changelog
 
+## 2023.1.8-stable
+
+### Improvements
+
+- Broadcaster will now connect even if there's a version mismatch, but still alerts to upgrade on launch
+
+### Bug fixes
+
+- Fixed intermittent menu rendering issue when showing the keep recording confirmation
+- Fixed flash of Ready Player Me avatars on first load
+- Fixed keyboard position on Ready Player Me editor window
+- Fixed issue with finger movements in playback of hand tracking recordings
+- Fixed rewinding takes not rewinding puppeted characters properly
+- Fixed potential null reference errors on characters without two eyes
+
 ## 2023.1.7-stable
 
 ### Improvements
