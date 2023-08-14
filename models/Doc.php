@@ -318,6 +318,29 @@ class Doc {
 
 		return $out;
 	}
+
+	/**
+	 * Is the user browsing the most recent version of the docs?
+	 */
+	public static function is_most_recent_version ($version, $versions) {
+		$res = array_search ($version, $versions);
+		if ($res === 0) return true;
+		return false;
+	}
+
+	/**
+	 * Get the most recent version of the docs.
+	 */
+	public static function most_recent_version ($versions) {
+		return (count ($versions) > 0) ? $versions[0] : '';
+	}
+
+	/**
+	 * Convert a link to the most recent version of the docs.
+	 */
+	public static function most_recent_link ($link, $version) {
+		return preg_replace ('/^[^\/]+\//', $version . '/', $link);
+	}
 	
 	/**
 	 * Parse and return the sidebar navigation.

@@ -30,12 +30,21 @@ $page->add_script ('/apps/docs/js/targets.js');
 
 URLify::$remove_list = array ();
 
+$version = $doc->version ();
+$versions = $doc->versions ();
+$is_most_recent = docs\Doc::is_most_recent_version ($version, $versions);
+$most_recent_version = docs\Doc::most_recent_version ($versions);
+$most_recent_link = docs\Doc::most_recent_link ($doc->id, $most_recent_version);
+
 echo $tpl->render ('docs/page', array (
 	'link' => $doc->link (),
 	'parent_links' => $doc->parent_links (),
 	'targets' => $doc->targets (),
-	'version' => $doc->version (),
-	'versions' => $doc->versions (),
+	'version' => $version,
+	'versions' => $versions,
+	'is_most_recent' => $is_most_recent, 
+	'most_recent_version' => $most_recent_version,
+	'most_recent_link' => $most_recent_link,
 	'title' => $page->title,
 	'body' => $doc->render (),
 	'doc' => $doc,
