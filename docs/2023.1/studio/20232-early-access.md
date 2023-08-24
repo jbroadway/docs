@@ -1,6 +1,7 @@
 # 2023.2 Early Access
 
-Intro statement 
+Flipside Studio now gives users the ability to see and immersive posts from other users, all in VR. Early Access users will be able to make fun and exciting posts that are shared with the Flipside Studio community. Watch posts in immersive VR and remix posts by adding your own spin. We're excited to see what you create! 
+
 
 ## Getting Started
 Learn now to sign up to the 2023.2 Early Access program and launch this new version of Flipside Studio.
