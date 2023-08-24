@@ -14,5 +14,6 @@
   * [[Studio / References / Settings]]
   * [[Studio / References / Slideshow formats]]
   * [[Studio / References / Tips and tricks]]
+* [[Studio / 2023.2 Early Access]]
 * [[What's new]]
 * [[Getting help]]
