@@ -10,5 +10,6 @@
   * [[Studio / Concepts / Multiplayer]]
   * [[Studio / Concepts / Projects]]
 * [[Studio / References]]
+* [[Studio / 2023.2 Early Access]]
 * [[What's new]]
 * [[Getting help]]
