@@ -19,11 +19,12 @@ Everything you need to know about watching and sharing content created in Flipsi
 * [[> Editing post details]]
 
 ## Channels
-
+You can share posts to your public channel for others to watch.  Here are some resources related to channels.
 * [[> Setting up and editing your channel]]
 * [[> Subscribing to a channel]]
 
 ## Support
+Have questions, feature requests or looking to talk shop with the community?  Check out the links below.
 * [[> FAQs]]
 * [[> Discord community]]
 * [[> Feature requests and bug reports]]
