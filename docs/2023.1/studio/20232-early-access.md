@@ -10,13 +10,16 @@ Intro statement
 * [[> Changes to the menu]]
 
 ## Posts
-* [[> Changes to the menu]]
+* [[> Watching a post]]
+* [[> Remixing a post]]
+* [[> Publishing a post]]
+* [[> Editing post details]]
 
 ## Channels
-* [[> Changes to the menu]]
+* [[> Setting up and editing your channel]]
+* [[> Subscribing to a channel]]
 
 ## Support
-* [[> Changes to the menu]]
-
-## FAQs
-* [[> Changes to the menu]]
+* [[> FAQs]]
+* [[> Discord community]]
+* [[> Feature requests and bug reports]]
