@@ -2,7 +2,7 @@
 
 To get the early access version of Flipside Studio, there are a couple things you need to do.
 
-**Step 1.** Sign up [here](www.flipsidexr.com/get-early-access)
+**Step 1.** Sign up [here](www.flipsidexr.com/get-early-access).
 
 **Step 2.** Once we receive and process your sign up request, you’ll receive an email advising you that we’ve added you to this private beta. Click on the link in the email to accept.
 
