@@ -22,3 +22,6 @@ Alternatively,  if the take you want to post is loaded, you can click **Publish 
 
 [INSERT VISUAL]
 
+---
+
+**Next:** [[:Editing post details]]
