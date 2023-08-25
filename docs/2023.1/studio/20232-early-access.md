@@ -7,7 +7,7 @@ Flipside Studio now gives users the ability to see and immersive posts from othe
 Learn now to sign up to the 2023.2 Early Access program and launch this new version of Flipside Studio.
 
 * [[> Set Up]]
-* [[> Ho to get the early access version of Flipside Studio]]
+* [[> How to get the early access version of Flipside Studio]]
 
 ## Menu
 Some changes to note for exisiting Flipside Studio users.
