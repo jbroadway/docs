@@ -2,7 +2,7 @@
 
 If you’re already familiar with Flipside Studio, you’ll notice some changes to the main menu which is access by by pressing the menu button on either controller.
 
-You can show and hide menu items related to creating content by clicking on the show/hide button.
+You can show and hide menu items related to creating content by clicking on the **show/hide** button.
 
 [INSERT VISUAL]
 
