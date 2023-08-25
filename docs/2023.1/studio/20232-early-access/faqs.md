@@ -1,6 +1,6 @@
 # FAQs
 
-<details open>
+<details close>
   <summary>**What does early access mean?**</summary>
   [ENTER TEXT]
 </details>
