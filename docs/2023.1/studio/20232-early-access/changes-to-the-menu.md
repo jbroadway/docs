@@ -1,4 +1,4 @@
-#Changes to the menu
+# Changes to the menu
 
 If you’re already familiar with Flipside Studio, you’ll notice some changes to the main menu which is access by by pressing the menu button on either controller.
 
