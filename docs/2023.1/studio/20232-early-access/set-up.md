@@ -11,3 +11,7 @@ The email will be from Meta and the subject line will say something like “Rele
 [INSERT VISUAL]
 
 If you can’t find the email, please check your spam or promotion folders. If it’s not there, connect with support@flipsidexr.com. 
+
+---
+
+**Next:** [[:How to get the early access version of Fliside Studio]]
