@@ -15,3 +15,6 @@ Creators can allow viewers to remix their content to create something new.
 * Redo a character’s part 
 * Add a new part 
 
+---
+
+**Next:** [[:Publishing a post]]
