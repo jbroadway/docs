@@ -16,3 +16,6 @@
 
 [INSERT VISUAL]
 
+---
+
+**Next:** [[:Remixing a post]]
