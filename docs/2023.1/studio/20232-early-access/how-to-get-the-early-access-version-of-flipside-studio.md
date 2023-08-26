@@ -4,7 +4,7 @@
 
 **Step 2.** If not already, log into your Meta account. Scroll down to the version section of the page and select “[INSERT CURRENT VERSION #]” from the dropdown.
 
-[INSERT VISUAL]
+:gif https://www.flipsidexr.com/files/docs/2023.1/help_13-2_1.mp4
 
 **Step 3.** Go to Flipside Studio in your headset and install any updates if you're prompted to. You're ready to launch Flipside Studio to access all the new features!
 
