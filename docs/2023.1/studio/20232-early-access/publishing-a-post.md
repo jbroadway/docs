@@ -20,8 +20,6 @@ Alternatively,  if the take you want to post is loaded, you can click **Publish 
 
 > **Note:** You can also publish a post through the Creator Portal website.
 
-:gif https://www.flipsidexr.com/files/docs/2023.1/help_13-6_5.mp4
-
 ---
 
 **Next:** [[:Editing post details]]
