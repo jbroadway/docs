@@ -14,4 +14,4 @@ If you can’t find the email, please check your spam or promotion folders. If i
 
 ---
 
-**Next:** [[:How to get the early access version of Fliside Studio]]
+**Next:** [[:How to get the early access version of Flipside Studio]]
