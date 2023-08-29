@@ -9,3 +9,7 @@ You can show and hide menu items related to creating content by clicking on the 
 When you have one of your recordings loaded or if you’re watching someone else’s post, playback controls will appear.
 
 :gif https://www.flipsidexr.com/files/docs/2023.1/help_13-3_2.mp4
+
+---
+
+**Next:** [[:Watching a post]]
