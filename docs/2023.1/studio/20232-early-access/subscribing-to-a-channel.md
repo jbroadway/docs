@@ -12,3 +12,6 @@
 
 :gif https://www.flipsidexr.com/files/docs/2023.1/help_13-9_3.mp4
 
+---
+
+**Next:** [[:FAQs]]
