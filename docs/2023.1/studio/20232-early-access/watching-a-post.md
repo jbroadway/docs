@@ -1,6 +1,6 @@
 # Watching a post
 
-You can watch any post a Creator has shared immersively in VR. 
+You can watch any post a Creator has shared immersively in VR! 
 
 **Step 1.** Press the **menu** button on either controller to open the **main menu**. Then, click on the **Dashboard** button and navigate to the **Browse** tab to view shared posts.
 
