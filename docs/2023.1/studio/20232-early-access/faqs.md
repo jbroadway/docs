@@ -2,7 +2,7 @@
 
 <details close>
   <summary>**What does early access mean?**</summary>
-  [ENTER TEXT]
+  Early access means that you're previewing a version of Flipside Studio that isn't publicly released.  It's a sneak peek of what we're currently working on where you get to try out new features. We want to know what you think, how to make things better, or features you might really want. Your input will help shape the version that we'll be releasing publicly in the near future.
 </details>
 
 <details close>
@@ -17,7 +17,7 @@
 
 <details close>
   <summary>**Can people record video of my content?**</summary>
-  [ENTER TEXT]
+  Yes, anyone can record video of content posted to your channel.
 </details>
 
 <details close>
