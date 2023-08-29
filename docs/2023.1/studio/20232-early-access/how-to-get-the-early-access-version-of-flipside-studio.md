@@ -8,4 +8,8 @@
 
 **Step 3.** Go to Flipside Studio in your headset and install any updates if you're prompted to. You're ready to launch Flipside Studio to access all the new features!
 
+---
+
+**Next:** [[:Changes to the menu]]
+
 
