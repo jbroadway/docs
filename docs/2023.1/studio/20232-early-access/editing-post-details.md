@@ -2,7 +2,7 @@
 
 You can edit the details of a post at anytime.
 
-**Step 1.** Press the menu button on either controller then click on the **Dashboard** button to launch the Dashboard.
+**Step 1.** Press the menu button on either controller then click on the **Dashboard** button.
 
 :gif https://www.flipsidexr.com/files/docs/2023.1/help_13-7_1.mp4
 
