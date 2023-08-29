@@ -6,6 +6,11 @@
 </details>
 
 <details close>
+  <summary>**How do I give feedback?**</summary>
+  We're eager to hear your feedback, please make any feature requests or bug reports through our [Contact page](https://www.flipsidexr.com/contact).  If you want to chat with other early access users or connect with us, join our [Discord](http://bit.ly/3GB0Izx) and discuss on the #early-access channel.
+</details>
+
+<details close>
   <summary>**Can my channel be private?**</summary>
   Channels are public, but viewers can only access your channel through a shared post.  If you don’t publish a post, then your channel can only be viewed by you.
 </details>
