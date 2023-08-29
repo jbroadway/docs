@@ -2,7 +2,7 @@
 
 You can watch any post a Creator has shared immersively in VR! 
 
-**Step 1.** Press the **menu** button on either controller to open the **main menu**. Then, click on the **Dashboard** button and navigate to the **Browse** tab to view shared posts.
+**Step 1.** Press the **menu** button on either controller to open the **main menu**. Then, click on the **Dashboard** button.  A feed of posts is on the **Browse** tab.
 
 :gif https://www.flipsidexr.com/files/docs/2023.1/help_13-4_1.mp4
 
