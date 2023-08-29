@@ -29,3 +29,7 @@
   <summary>**Can I livestream to my channel?**</summary>
   At this time, you are limited to recorded posts. However, we are working on adding live streaming in a future update. 
 </details>
+
+---
+
+**Next:** [[:Discord community]]
