@@ -54,7 +54,11 @@ Technical requirements, input controls, supported formats.
 
 :/div
 
-:div class="e-col-25 text-center"
+:/div
+
+:div class="e-row-variable" style="background-color: #eee"
+
+:div class="e-col-100 text-center"
 
 :div class="button"
 
@@ -62,12 +66,12 @@ Technical requirements, input controls, supported formats.
 
 :/div
 
-Everything you need to know about early access to Flipside 2023.2.
+Everything you need to know<br />about early access to Flipside 2023.2.
 
 :/div
 
 :/div
 
----
+:nbsp
 
 :embed flipside/docs/faq
