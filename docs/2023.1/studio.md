@@ -56,11 +56,11 @@ Technical requirements, input controls, supported formats.
 
 :/div
 
-:div class="e-row-variable" style="background-color: #eee"
+:div class="e-row-variable"
 
 :div class="e-col-100 text-center"
 
-:div class="button"
+:div class="button button-blue"
 
 [[> 2023.2 Early Access]]
 
@@ -72,6 +72,6 @@ Everything you need to know<br />about early access to Flipside 2023.2.
 
 :/div
 
-:nbsp
+---
 
 :embed flipside/docs/faq
