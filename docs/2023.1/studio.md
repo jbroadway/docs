@@ -56,7 +56,7 @@ Technical requirements, input controls, supported formats.
 
 :/div
 
-:div class="e-row-variable"
+:div class="e-row-variable" style="background-color: var(--light-grey)"
 
 :div class="e-col-100 text-center"
 
