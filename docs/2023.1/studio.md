@@ -72,6 +72,4 @@ Everything you need to know<br />about early access to Flipside 2023.2.
 
 :/div
 
----
-
 :embed flipside/docs/faq
