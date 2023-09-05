@@ -28,6 +28,13 @@ You can share posts to your public channel for others to watch.  Here are some r
 * [[> Setting up and editing your channel]]
 * [[> Subscribing to a channel]]
 
+## Audio
+We've introduced a new audio library and audio controller, including the ability to upload your own audio files, play sound effects, background music, music loops, and even power your character's voice with pre-recorded voice recordings. Here are some resources related to audio.
+
+* [[> Using the audio browser]]
+* [[> Using the audio controller]]
+* [[> Uploading your own audio files]]
+
 ## Support
 Have questions, feature requests or looking to talk shop with the community?  Check out the links below.
 

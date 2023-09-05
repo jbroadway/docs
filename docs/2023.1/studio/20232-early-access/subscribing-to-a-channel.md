@@ -14,4 +14,4 @@
 
 ---
 
-**Next:** [[:FAQs]]
+**Next:** [[:Using the audio browser]]
