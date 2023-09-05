@@ -9,7 +9,7 @@ tab for the audio files you've added to your project, shared categories includin
 
 SCREENSHOT
 
-Press play to hear an audio file.
+Press **Play** to hear an audio file.
 
 Use the dropdown menu to add the audio to your project or to the audio controller.
 
