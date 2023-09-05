@@ -31,6 +31,7 @@ You can share posts to your public channel for others to watch.  Here are some r
 ## Support
 Have questions, feature requests or looking to talk shop with the community?  Check out the links below.
 
+* [[> Known issues]]
 * [[> FAQs]]
 * [[> Discord community]]
 * [[> Feature requests and bug reports]]
