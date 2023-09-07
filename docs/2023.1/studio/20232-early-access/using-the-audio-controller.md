@@ -8,7 +8,7 @@ You can find the audio controller at the bottom of the the **Audio menu**.
 
 :gif https://www.flipsidexr.com/files/docs/2023.1/help_14-2_1.mp4
 
->**Note:**  You can also find the audio controller under in the **Props** menu in the **Show Tools** category under the **All Props* tab. 
+>**Note:**  You can also find the audio controller under in the **Props** menu in the **Show Tools** category under the **All Props** tab. 
 
 Audio clips that are added to the audio controller have a number of options you can use:
 
