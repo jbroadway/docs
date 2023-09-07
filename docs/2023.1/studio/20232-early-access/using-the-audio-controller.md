@@ -19,13 +19,17 @@ Audio clips that are added to the audio controller have a number of options you 
 
 :gif https://www.flipsidexr.com/files/docs/2023.1/help_14-2_2.mp4
 
+The clips that you select can all be played together by clicking on the **Play selected** button.
+
+:gif https://www.flipsidexr.com/files/docs/2023.1/help_14-2_3.mp4
+
 There are also the following dropdown options for configuring how an audio clip should play:
 
 - **Track** - Play as a regular audio track, such as background music or sound effects.
 - **Voice** - Play the audio clip as your voice. This causes your character's mouth to move along with the recorded audio until the clip ends and control is returned to your microphone.
 - **Remove** - Removes the audio clip from the audio controller.
 
-:gif https://www.flipsidexr.com/files/docs/2023.1/help_14-2_3.mp4
+:gif https://www.flipsidexr.com/files/docs/2023.1/help_14-2_4.mp4
 
 Audio that is played through either the audio browser or audio controller while recording
 will automatically play back the same when you watch the recording.
