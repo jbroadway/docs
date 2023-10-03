@@ -1,5 +1,27 @@
 # Flipside Studio Changelog
 
+## 2023.2.0-beta3
+
+### New features
+
+- The dashboard now opens to a new **Browse** tab which shows the latest posts in Flipside. Posts are recordings or custom sets that have been shared by Flipside users.
+- **Create your own Flipside channel** and post your recordings to share. Post directly in-app or through the Creator Portal.
+- **Remixing!** Let others remix your posts and remix other people’s posts then share your remixes to your channel.
+- **Subscribe** to your favourite channels and **build a fanbase** of subscribers for your Flipside channel.
+- The main menu is now collapsible and includes playback controls when viewing a post or recording, including a **Remix!** button whenever a post is remixable.
+- **Web Browser**, found under **Props > All Props > Show Tools**.
+- **Audio Browser**, found in the expanded main menu icons.
+  - Includes a built-in library of music, voices, and sound effects.
+- **Audio Controller** to trigger music and sound effects in your recordings, found on the Audio Browser menu and under Props > All Props > Show Tools.
+  - Import your own audio files into Flipside (WAV, MP3) through the Creator Portal.
+  - Supports multi-track synchronized looping of imported audio files.
+  - Use audio files to power your character’s voice!
+
+### Known issues
+
+- Fast-forward and rewind are only partially implemented and buggy.
+- It is not yet possible to post a saved setup of an imported set, only the initial configuration of it.
+
 ## 2023.1.8-stable
 
 ### Improvements

@@ -1,5 +1,11 @@
 # Flipside Creator Tools Changelog
 
+## 2023.2.0-beta3
+
+### Improvements
+
+- Improved gizmos representing the audience component and audience member spawn positions
+
 ## 2023.1.8-stable
 
 No changes. Version bump to maintain parity across apps.

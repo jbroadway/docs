@@ -4,6 +4,11 @@
 
 Check back here to learn about all the latest changes to Flipside.
 
+**2023.2.0-beta3**<br>
+<span>[Studio Changelog](/docs/2023.1/studio/changelog#202320-beta3) &middot; [Creator Tools Changelog](/docs/2023.1/creator-tools/changelog#202320-beta3)</span><br>
+<small>October 4, 2023</small><br>
+Create your own Flipside channel and post your recordings to share, remix posts others have made, and subscribe to your favourite channels. New show tools: web browser and audio controller. Import your own audio to use as music or your character's voice.
+
 **2023.1.8-stable**<br>
 <span>[Studio Changelog](/docs/2023.1/studio/changelog#202218-stable) &middot; [Creator Tools Changelog](/docs/2023.1/creator-tools/changelog#202218-stable)</span><br>
 <small>August 8, 2023</small><br>
