@@ -9,7 +9,6 @@
 - **Remixing!** Let others remix your posts and remix other people’s posts then share your remixes to your channel.
 - **Subscribe** to your favourite channels and **build a fanbase** of subscribers for your Flipside channel.
 - The main menu is now collapsible and includes playback controls when viewing a post or recording, including a **Remix!** button whenever a post is remixable.
-- **Web Browser**, found under **Props > All Props > Show Tools**.
 - **Audio Browser**, found in the expanded main menu icons.
   - Includes a built-in library of music, voices, and sound effects.
 - **Audio Controller** to trigger music and sound effects in your recordings, found on the Audio Browser menu and under Props > All Props > Show Tools.
